@@ -1,6 +1,63 @@
 {
- "generated": "2026-07-06T20:48:28.064595+00:00",
+ "generated": "2026-07-06T20:58:07.168716+00:00",
  "stories": [
+  {
+   "id": "649de8bfe59f",
+   "headline": "World Cup Betting Pushes Prediction Market Volumes to All-Time Highs",
+   "lede": "The FIFA World Cup has triggered record-breaking trading volumes across major prediction market platforms, marking a new milestone for the industry.",
+   "body": [
+    "The World Cup has become a catalyst for unprecedented activity on prediction market platforms, with volumes surging to all-time highs according to both CNBC and Yahoo Finance. The tournament's global appeal has drawn a wave of new and returning traders placing event contracts on match outcomes, tournament winners, and related geopolitical and sports storylines.",
+    "While exact platform-by-platform figures were not available from the primary source material, CNBC and Yahoo Finance both characterized the volume increases as record-setting. The spike underscores how major international sporting events can function as on-ramps for mainstream users to engage with event-contract trading for the first time.",
+    "The surge mirrors patterns seen during previous high-profile events such as U.S. presidential elections, which similarly drove sharp volume increases on platforms like Polymarket and Kalshi. Industry observers note that sports-driven traffic often has a stickiness effect, with new users continuing to trade on political and economic contracts after their initial sports-focused entry point."
+   ],
+   "why": "Record volume events stress-test platform infrastructure and liquidity mechanisms, giving operators critical data on scaling limits. For regulators like the CFTC, a sports-driven volume spike on regulated venues such as Kalshi could accelerate scrutiny of event-contract scope. Traders should watch for widening spreads and potential liquidity gaps on smaller markets during peak tournament periods.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "FIFA World Cup"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ01NRTg4c09GQlNweFNHbWI2dWRHMEZKV0RSZ0k2X25MdkVLYlRxcWNtTnhScnFVZWxuNG1yTDNMc2MyTFNrVzNWd2RxSW1Md1psYWUxTFBkeUlpYUZXNE1zSi1hNUJfS3BKNTJWSXU2bnNvZGFDaGJwOHlHdjJRWXZDOVVrYXpxeWtRLWY4dGFpMW_SAZgBQVVfeXFMT3hPbzVLMm5GTnFsdEYwZTk3MjNfb00wNmRINjViS1Bwd1hZNDNwU0dSc3YzVEJOQUo3MUdKeWdkTmI1YktSV1ZFNUdBWjZVV25tS2l4US1tLXF4a2dCSkRZbmFsck9yTFFLMGctYndVZ3dpNldEaTR6em5qMWxJOTc0eGhINVJoUVA5eUwxWkMtSWtiSXFiam4?oc=5"
+   },
+   "source_title": "The World Cup sends prediction market volumes soaring to record highs",
+   "also": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWVwazdPeDVMZGlCRk1kX0xwSFF2V3FRMVhrN193VkNRVUxQMVRUV2V1cW9ENk9SVV9sRmJINVpsUEc0Ylkzem5fVWhreTFtWVpMZDdKeEZaWUZVd2l4RFJVT1lFaTU4cG1UdVBtWndWVW5peHZwRzRhZ0sxeVlmWnc0OTFYTUJQQWpldVpTY21zNWVmdVFYTW82Rl9zMEsw?oc=5"
+    }
+   ],
+   "published": "2026-07-04T12:54:04+00:00",
+   "first_seen": "2026-07-06T20:58:07.168716+00:00"
+  },
+  {
+   "id": "bc87fc572e10",
+   "headline": "Michigan's Legal Fight Against Kalshi Reaches New Turning Point",
+   "lede": "Michigan's ongoing regulatory dispute with prediction-market operator Kalshi has entered a new phase, continuing a clash over whether the platform's event contracts fall under state sports-betting law.",
+   "body": [
+    "According to WZZM13.com, Michigan's legal confrontation with Kalshi has taken another significant turn, extending a dispute that centers on the state's attempt to classify Kalshi's sports-related event contracts as regulated sports betting subject to state oversight.",
+    "Kalshi, which holds federal authorization from the CFTC to offer event contracts, has argued that federal jurisdiction preempts state-level regulation \u2014 a position it has successfully advanced in other venues. Michigan regulators, however, contend that contracts tied to sports outcomes fall squarely within the state's gaming authority.",
+    "The case is part of a broader national pattern in which state gaming regulators have moved to assert authority over CFTC-regulated prediction markets, even as platforms like Kalshi and Polymarket expand their sports-event contract offerings to retail users across the country."
+   ],
+   "why": "This case is a bellwether for how aggressively states will contest CFTC preemption arguments \u2014 a legal theory that underpins Kalshi's entire state-by-state expansion strategy. A ruling against Kalshi in Michigan could embolden other states to pursue similar actions, fragmenting the market. Conversely, a federal preemption win would clear a significant legal runway for event-contract platforms nationwide.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Michigan",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "WZZM13.com",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlhHMTF5MFN6YnY3OXdqUWdmWnRmSXM0RVpfRW83ajVfNnlFMmlTNUFza1hmYkZ6bUNsM3NCNlZpZWJHRDBGcldYam80cjlNTWV2bnhaNTREcmJaem11TFUycWJ3X181aWJhSlNjWUVId2RGWkpaUndjeklqOVpveDRKcTk2M2dUSDBpWUNNQWo0QVozOE5Ddk1UaUpKdG9VVnJsU1VJN0NVNWJOUGNVQWtJamFEbW9DNnFaVC1Pa1VlSkxRM3IyWmNPdzRObWV6TGt0S0ZkZDBKY0xMaEE3bFFMay11U2lZYm14Y0tDU2s?oc=5"
+   },
+   "source_title": "Michigan's legal battle with sports betting platform Kalshi takes another turn",
+   "also": [],
+   "published": "2026-07-03T23:10:00+00:00",
+   "first_seen": "2026-07-06T20:58:07.168716+00:00"
+  },
   {
    "id": "b7f72becd4ef",
    "headline": "Spotify Nukes 500K Streams Tied to Prediction Market Manipulation",
@@ -48,7 +105,12 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZUxqaDZhQ2dfY2pvTW1ONk9yMkVNckpXM3hOTU5RbkJIWnU4M2pRZXBNTjZHVGFFUEdpc3lYcVBpeGRzcFpLU2NDNGl6TEc0SXlFeXljNVlWNzZ4cWxrcU94d3pkWnJHbXVUZ3d2aFU?oc=5"
    },
    "source_title": "Does Someone on Polymarket Know That Putin Is Going Down?",
-   "also": [],
+   "also": [
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHU3cWV4Q0M2ejlxcjBlbmktcXZ4WWxYdk1zYW5PZVMzUFRNOWJGemZXX3pPYXR0dDRnd2lKTWxQZUZkZUJjU3NfWGRZd0pUZ3o0RGd1TnlZMzF6UldzWjBrLU0zckJWV0lkUTd5Wnk4Vm55WDNzUDU2YjFEbjUwVG15X05zbzYxeDJvNGZWVVdmbzk0Nm1yTnJn?oc=5"
+    }
+   ],
    "published": "2026-07-03T17:01:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
   },
@@ -220,6 +282,56 @@
    "also": [],
    "published": "2026-07-02T17:45:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "3ea2ecf0174f",
+   "headline": "New Jersey Takes Kalshi Sports Contract Fight to Supreme Court",
+   "lede": "New Jersey is preparing a Supreme Court petition challenging Kalshi's right to offer sports-event contracts, escalating a legal battle over federal versus state gambling authority.",
+   "body": [
+    "New Jersey is moving to bring its dispute with Kalshi before the U.S. Supreme Court, according to Casino.org. The state is contesting whether Kalshi's CFTC-regulated sports event contracts can legally operate without state gambling oversight, a question that has divided lower courts and regulators.",
+    "The core legal tension centers on whether federal commodities law preempts state gambling statutes when it comes to event contracts on sporting outcomes. Kalshi has argued its products are legitimate CFTC-regulated derivatives, not sports wagers subject to state jurisdiction. New Jersey, home to a robust licensed sports-betting industry, disagrees and sees the contracts as an unlicensed incursion into its regulated market.",
+    "The outcome could reshape the competitive landscape for prediction-market operators nationwide. A Supreme Court ruling favorable to Kalshi would likely open the door for federally regulated event contracts to expand into sports outcomes across all 50 states, bypassing state licensing frameworks that traditional sportsbooks must navigate."
+   ],
+   "why": "A Supreme Court ruling would set binding national precedent on whether CFTC-regulated event contracts can coexist with or supersede state gambling law \u2014 a decision that affects every prediction-market operator eyeing sports contracts. Traders on platforms like Polymarket should watch closely, as the ruling could either accelerate or permanently close U.S. sports event-contract markets. Regulators and legislators would face pressure to redraw the boundary between derivatives law and gambling law regardless of which side prevails.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "New Jersey",
+    "Casino.org"
+   ],
+   "primary_source": {
+    "name": "Casino.org",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjV4cVJqYV8xUURpRmNiRlF6WC11WW54TDRyaFVaY01MdjV0b3Yzc1FmdVFiRU5FNWpiX3U1YktTM1A4cDJnOXg1Vmp2QldYeGdzWEg0UEhIU2N2SjNpT3BmYU1uNVJUZHc1RjNzTGFseG1WRUZOVVlJdHl2RHZKem1PSGlwMWRBdm5ZVGhabkt3ekdPVXF5V2tlRzkyRDBN?oc=5"
+   },
+   "source_title": "New Jersey Preps Supreme Court Petition in Kalshi Sports Betting Fight",
+   "also": [],
+   "published": "2026-07-02T13:53:31+00:00",
+   "first_seen": "2026-07-06T20:58:07.168716+00:00"
+  },
+  {
+   "id": "f0c87b2b2a91",
+   "headline": "Polymarket Whale Drops $400K on Putin Losing Power by 2026",
+   "lede": "An anonymous Polymarket user has placed a $400,000 wager predicting Russian President Vladimir Putin will lose power before the end of 2026.",
+   "body": [
+    "A mystery bettor on Polymarket has staked $400,000 on a market asking whether Vladimir Putin will no longer hold power in Russia by the close of 2026, according to Forbes. The bet is one of the largest single political wagers seen on the decentralized prediction platform, drawing significant attention to the contract.",
+    "The identity of the trader remains unknown, consistent with Polymarket's pseudonymous, crypto-wallet-based structure. Forbes reported the bet pushes meaningful liquidity into what had been a lower-volume geopolitical market, potentially shifting the contract's implied probability and attracting counter-bettors who believe Putin's grip on power will hold through the deadline.",
+    "Large single-position wagers on geopolitical markets have become a recurring feature on Polymarket, following high-profile election bets during the 2024 U.S. presidential cycle. These outsized positions raise ongoing questions about informed trading, market manipulation, and whether concentrated liquidity accurately reflects crowd-sourced probability or individual conviction."
+   ],
+   "why": "A $400,000 position in a single geopolitical contract tests Polymarket's liquidity depth and price discovery integrity \u2014 traders on the other side must assess whether this whale has genuine intelligence or is simply making a speculative play. For regulators, outsized anonymous bets on foreign-leader removal markets invite scrutiny around market manipulation thresholds. Platform operators should watch whether the odds shift materially, signaling herd-following behavior that could distort the market's informational value.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Vladimir Putin"
+   ],
+   "primary_source": {
+    "name": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmt2VE8xQWllMGN5MkpnQk1FUi1SeHlMQThIRDRVRE5mdDlWc2tGWkU4YkRMNFQtZ3ZHd3diVnlDVDJBNWc0eU5Yb0swQ1hMb1RDOXJBdHNlTFRqQ1ZIMXpoczZOUlp1X1dCQzJ0akhoMG12VmNGSndtYVNoOEMxZU5ybmpxMFNoeTdXSzdpR0tTb21yTV9XaHdfbHJRWnJWSzRVRVJOVWs5ejVla1JNUXBzYTRVTGlYeXVVNXU4UmViaGNuRExIZHVoZlhGZXlMMnc?oc=5"
+   },
+   "source_title": "Mystery Polymarket User Bets $400,000 On Putin Losing Power Before End Of 2026",
+   "also": [],
+   "published": "2026-07-02T13:29:15+00:00",
+   "first_seen": "2026-07-06T20:58:07.168716+00:00"
   },
   {
    "id": "720752e851eb",
@@ -497,6 +609,10 @@
     {
      "name": "KWQC",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdYenVvLTByeDY2ZzJ2c3JQNTNPLU9GZzAxQWR5cDUtX0dLQlV0WWtQSk9aaHNzX1VaZlp5SUpZUG1EVHZOX2Y1T3ROR3hYaGxkSFl1bDJtRzctNGhpRE1SLWFvQ0ViMDdvT3lqZEVrYl9iVU1RWWRpYjV6LTNyMnFXUy1FVHBGRGh4Z3FBcndHQTNYLUpUTTVjV1VzS0FsdUg1UnpDOHNIZw?oc=5"
+    },
+    {
+     "name": "The Breeze Courier",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREctQXEyMVFpT2ozRHdJbHE5bkw1SF9RaHB2cW1WU19wX29jNnhUNHoxTWlncWxidVM0QjJBaEN6QWE3SGJOT05wbl8yeU43R3FReW56QUJRZVhhOWZFX2RrZ0xMRjQ2VDloOTgxUEpFWnhCOTVtV0lKa3RxRUt2bXhIbmdkeFkyY2RrMThUUWdmM2ZmQTBoa0x6N1FENVM4TllURjYyT21nR1g2QzhoaHRkc280dTM3a0JRcmpMVldqWWh5?oc=5"
     }
    ],
    "published": "2026-06-26T20:34:19+00:00",
