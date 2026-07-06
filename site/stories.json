@@ -1,6 +1,58 @@
 {
- "generated": "2026-07-06T21:36:25.744148+00:00",
+ "generated": "2026-07-06T22:22:47.953639+00:00",
  "stories": [
+  {
+   "id": "f34bdb2e8d22",
+   "headline": "State-by-State Legal Map: Where Sports Prediction Markets Stand",
+   "lede": "A new CBS Sports breakdown examines the patchwork of state-level legality governing sports prediction market platforms like Kalshi and Polymarket across all 50 U.S. states.",
+   "body": [
+    "According to CBS Sports, the legal status of sports prediction markets varies dramatically depending on where a user lives, with some states permitting access to federally regulated platforms like Kalshi while others have moved to restrict or scrutinize them. The analysis arrives as the sector faces growing public attention following Kalshi's court victory over the CFTC that opened the door to sports event contracts.",
+    "CBS Sports notes that Kalshi operates under CFTC oversight as a designated contract market, which provides a federal regulatory foundation \u2014 but that federal clearance does not automatically override state gambling or wagering statutes. Polymarket, which remains offshore and accessible to U.S. users only via workarounds, occupies a murkier position in the state-law analysis.",
+    "The report reflects a broader industry reality: prediction market operators are navigating a dual-layer regulatory environment where federal commodity law and state gaming codes can conflict. Several states with robust sports-betting frameworks have begun questioning whether event contracts constitute unlicensed gambling, setting up potential enforcement flashpoints."
+   ],
+   "why": "For traders, state residency is now a meaningful risk variable \u2014 platforms may geo-restrict users preemptively to avoid regulatory exposure, shrinking liquidity pools. For operators, the CBS Sports map signals mainstream scrutiny that could accelerate state-level legislative action. Regulation watchers should track whether any state attorney general moves against a CFTC-licensed platform, which would force a direct federal-versus-state legal confrontation.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "CBS Sports"
+   ],
+   "primary_source": {
+    "name": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yLUp4NkJfVE04WUoxdGxnejRNUG8yckl3R3duYmJzVzdsRkhCVUo0S2lfWklaVmZjUlU5YldrenpteEFOZTVaNlBkd0NuU0VIX25WSlQtTmd0NXdrX3ZUNjhYY3pHclkzTURaUGRLd1hoRHpaUXZ6NGxMQWd5QQ?oc=5"
+   },
+   "source_title": "Are sports prediction markets legal? Status of Kalshi and Polymarket in all 50 states",
+   "also": [],
+   "published": "2026-07-05T19:42:37+00:00",
+   "first_seen": "2026-07-06T22:22:47.953639+00:00"
+  },
+  {
+   "id": "e0f2b95c1ab4",
+   "headline": "Minnesota's Prediction Market Ban Takes Effect August 1",
+   "lede": "Minnesota becomes the first U.S. state to ban prediction markets when its new law takes effect August 1, setting a precedent that could ripple nationally.",
+   "body": [
+    "According to the Star Tribune, Minnesota's prohibition on prediction markets marks a historic first among U.S. states, with the law kicking in on August 1. The ban targets platforms that allow users to wager on the outcomes of real-world events, a category that has grown dramatically in recent years following federal regulatory shifts.",
+    "The Star Tribune framed the future of the industry as deeply uncertain, suggesting the state-level action could embolden other legislatures to follow suit. Prediction market operators like Kalshi and Polymarket have been expanding aggressively after the CFTC relaxed its posture toward event contracts, making Minnesota's move a notable counter-current to that federal permissiveness.",
+    "The tension between state and federal authority over prediction markets is now a live legal question. If federal regulators explicitly preempt state bans \u2014 or decline to \u2014 the outcome will define how broadly these platforms can operate across the country, potentially fragmenting the market into a patchwork of access rules."
+   ],
+   "why": "A state-level ban creates immediate compliance obligations for Kalshi, Polymarket, and similar platforms, forcing geofencing of Minnesota users and raising operational costs. If other states replicate the model, the prediction-market industry could face a balkanized regulatory landscape that undermines liquidity and national growth. Traders should watch whether federal preemption arguments are raised in court, as a ruling either way would be a major valuation signal for the sector.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Minnesota"
+   ],
+   "primary_source": {
+    "name": "Star Tribune",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFJyeEl0OEs4UlBRSC1LOUlPX1ljRjRpOG1fREJ1c0xPeWNhQ0NFR003YW4xejhtZngzT2lFaXo0TmpoUUNaLXdGdlFESmU4UDFZLWEtLWN4MzM3RjQ4NTN3MHd3djJmcFlpQV9sbEstanB2djNWMUZjNHEwX1lQUXgxSk1qM1NnMGRsMGJvVlJvQlI0cWxORWxMOEFjOW4tY2c?oc=5"
+   },
+   "source_title": "Future of prediction markets is anyone\u2019s bet as nation\u2019s first ban starts Aug. 1",
+   "also": [],
+   "published": "2026-07-05T11:00:00+00:00",
+   "first_seen": "2026-07-06T22:22:47.953639+00:00"
+  },
   {
    "id": "97f8d98cbb83",
    "headline": "Wildfire Prediction Markets Blur Line Between Hedging and Speculation",
@@ -53,6 +105,10 @@
     {
      "name": "PokerStrategy.com",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW1WSlhYUERWMVJLQnhjdnNmUE1IcHFOenNXMUZyb2doOS1QZTFuUWlHTmY4ck5CdFRnVkQ1MXBqUkpkVVhfUHg3ZnpqZE5fbmxhX3BSeS1DdUVHcGFkYlk0dEhBbzRPcXdCUkxFS2JiTTNtLW5nNndWSzNhSFA4djBfR0ZkOVlUY2U1ZWhzME90Vm9EX3MxSlhETUNxUzVXZGdIU3RnenE?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1haS1DZXFRWUdFZGRUSzluM3Z0bk9SWmpnOXIzM1lNd3FjckpJSnBFNXlBVDVfZjFMUDR5NkFVVUpfMWdCVjVfYWRtV2dPWmFlejFyTTZSalROa0pmSEF2MlZfWTlrTHRvTmEtblVNdVIxMkZMYlY3WHZmZw?oc=5"
     }
    ],
    "published": "2026-07-04T16:50:00+00:00",
@@ -140,6 +196,32 @@
    "also": [],
    "published": "2026-07-03T23:10:00+00:00",
    "first_seen": "2026-07-06T20:58:07.168716+00:00"
+  },
+  {
+   "id": "6311546cb256",
+   "headline": "Michigan Daily: Prediction Markets Deserve Recognition as Public Good",
+   "lede": "The Michigan Daily published an opinion piece arguing that prediction markets generate genuine social value beyond speculation.",
+   "body": [
+    "The Michigan Daily ran an opinion column making the case that prediction markets serve a broader societal function, positioning them not merely as gambling instruments but as tools for aggregating dispersed information into actionable forecasts. The piece comes amid a period of heightened mainstream attention to platforms like Kalshi and Polymarket.",
+    "According to The Michigan Daily, the information-discovery function of prediction markets can benefit policymakers, researchers, and the public by surfacing crowd wisdom on outcomes ranging from elections to economic indicators. The argument mirrors longstanding academic defenses of market-based forecasting that predate the current retail boom.",
+    "The opinion lands as the CFTC continues to weigh the regulatory boundaries of event contracts in the United States, and as platforms like Kalshi push for expanded contract offerings. Student and campus media engaging with the topic signals growing mainstream normalization of prediction markets as a legitimate financial and epistemic instrument."
+   ],
+   "why": "Campus opinion pieces rarely move markets, but this one reflects a broader normalization trend that matters for regulatory sentiment \u2014 regulators and legislators are sensitive to public perception of prediction markets as gambling versus public goods. A sustained positive framing in mainstream and academic media could ease political resistance to CFTC approval of new contract categories. Operators tracking legitimacy risk should note the shift in narrative outside financial media.",
+   "category": "Opinion",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "The Michigan Daily"
+   ],
+   "primary_source": {
+    "name": "The Michigan Daily",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUJmOWtlS3pDM0kwbzBVT0l2RGRGaDY0Y0VfbnR0MFkxQlpEYXVRTG94RWRUOHEwbDF1YlIwNzE2UDdGX2xiQ0NiandkLTR4Z2NLY3FPbVlNT3A2enE4MUJKVFgwZEVSUTNoaTM5OFpiSThxOGhEUmVNSmcwbEtIMmktMWdXRTg0?oc=5"
+   },
+   "source_title": "Prediction markets can be a force for good",
+   "also": [],
+   "published": "2026-07-03T20:54:19+00:00",
+   "first_seen": "2026-07-06T22:22:47.953639+00:00"
   },
   {
    "id": "b7f72becd4ef",
