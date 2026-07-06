@@ -1,6 +1,63 @@
 {
- "generated": "2026-07-06T20:58:07.168716+00:00",
+ "generated": "2026-07-06T21:36:25.744148+00:00",
  "stories": [
+  {
+   "id": "97f8d98cbb83",
+   "headline": "Wildfire Prediction Markets Blur Line Between Hedging and Speculation",
+   "lede": "Prediction markets are now offering contracts tied to wildfire outcomes, raising questions about whether disaster betting serves a legitimate hedging function or exploits crisis.",
+   "body": [
+    "According to WIRED, platforms hosting prediction markets have begun listing contracts that allow users to wager on whether specific wildfires will reach or destroy particular communities. The emergence of these markets comes as platforms like Kalshi and Polymarket expand their event-contract offerings well beyond politics and sports into real-world risk categories.",
+    "WIRED reports that proponents argue these contracts can function as informal insurance or hedging tools \u2014 a homeowner near a fire zone could theoretically offset potential losses by holding a contract that pays out if a fire spreads. Critics, however, contend that such markets create perverse incentives and may lack the regulatory structure required of legitimate insurance products.",
+    "The CFTC has been grappling with where to draw the line on event contracts it considers contrary to the public interest. Disaster-linked contracts sit in a gray zone: they resemble the kind of binary event contracts the agency has approved for political and economic outcomes, yet they carry moral and practical dimensions that distinguish them from, say, a contract on election results."
+   ],
+   "why": "For prediction-market operators, wildfire contracts represent both a growth frontier and a regulatory liability \u2014 a single high-profile payout scandal could prompt CFTC intervention that reshapes permissible contract categories broadly. Traders pricing these markets must also contend with severe information asymmetry, since professional fire-behavior modelers will consistently outperform retail participants. Regulators watching this space should expect pressure to extend 'contrary to public interest' designations to climate-disaster contracts, which could set precedent affecting all non-financial event markets.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "WIRED"
+   ],
+   "primary_source": {
+    "name": "WIRED",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sOW9yc3E4VGZkMWpEc3pncHVJMGV0WUVKWjFiTEFGNTBKQkc0c3RFWnVZbm5rNTlwbUhvT1hRLTJ1RTFJTlRQbU1kLUI0Tjl2cmF6NV8tVXZodzRCUkViNENEdW0xbUNQZ2lyNDZ0cEtMOHI3VUNB?oc=5"
+   },
+   "source_title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
+   "also": [],
+   "published": "2026-07-05T11:00:00+00:00",
+   "first_seen": "2026-07-06T21:36:25.744148+00:00"
+  },
+  {
+   "id": "9f2158e700d5",
+   "headline": "Kalshi June Volume Hits $9.4B Record as World Cup Drives Surge",
+   "lede": "Kalshi posted its highest-ever monthly trading volume in June at nearly $9.4 billion, with the expanded 48-team FIFA World Cup serving as the primary catalyst.",
+   "body": [
+    "According to Cointelegraph, citing DefiLlama data, Kalshi's June volume of roughly $9.4 billion represented a dramatic jump from approximately $5.3 billion in May. Polymarket International also gained ground, rising from around $3.5 billion in May to approximately $4.3 billion in June. CNBC reported the World Cup became the single biggest driver of prediction market trading activity during the month.",
+    "The 2026 FIFA World Cup, which began June 11, is the first edition to feature 48 national teams rather than 32, creating a larger slate of matchups for traders to wager on. Knockout-round contests have drawn the heaviest activity: Canada's Round of 16 clash with Morocco alone generated over $48 million on Kalshi and more than $26.8 million on Polymarket, per Cointelegraph. The US team's advancement market pulled in over $2.1 million on Kalshi.",
+    "The record volumes arrive amid mounting legal pressure, according to Cointelegraph, with nearly a dozen US states having moved against prediction market operators by March, some attempting to classify the platforms under existing gambling frameworks or state tax regimes. The regulatory tension underscores how rapidly the sector's commercial scale is outpacing its legal clarity."
+   ],
+   "why": "Record volumes strengthen Kalshi's and Polymarket's negotiating positions with regulators, making outright bans politically harder as user bases and tax-revenue arguments grow. Traders should watch whether knockout-round liquidity depth translates into tighter spreads on future sports contracts. State-level legal actions could fragment market access geographically, creating arbitrage opportunities or dead zones depending on jurisdiction.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "FIFA World Cup",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   "source_title": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets",
+   "also": [
+    {
+     "name": "PokerStrategy.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW1WSlhYUERWMVJLQnhjdnNmUE1IcHFOenNXMUZyb2doOS1QZTFuUWlHTmY4ck5CdFRnVkQ1MXBqUkpkVVhfUHg3ZnpqZE5fbmxhX3BSeS1DdUVHcGFkYlk0dEhBbzRPcXdCUkxFS2JiTTNtLW5nNndWSzNhSFA4djBfR0ZkOVlUY2U1ZWhzME90Vm9EX3MxSlhETUNxUzVXZGdIU3RnenE?oc=5"
+    }
+   ],
+   "published": "2026-07-04T16:50:00+00:00",
+   "first_seen": "2026-07-06T21:36:25.744148+00:00"
+  },
   {
    "id": "649de8bfe59f",
    "headline": "World Cup Betting Pushes Prediction Market Volumes to All-Time Highs",
@@ -31,6 +88,32 @@
    ],
    "published": "2026-07-04T12:54:04+00:00",
    "first_seen": "2026-07-06T20:58:07.168716+00:00"
+  },
+  {
+   "id": "54ed5d446ca6",
+   "headline": "Prediction Markets Boom Raises Questions About Regulatory Durability",
+   "lede": "A surge in prediction market activity has prompted fresh scrutiny over whether the industry's rapid growth can survive tightening regulatory pressure.",
+   "body": [
+    "According to The Times, prediction markets have experienced a dramatic expansion in volume and user participation, drawing mainstream attention to platforms that allow participants to bet on real-world outcomes ranging from elections to economic indicators. The growth has transformed what was once a niche financial curiosity into a significant and widely-discussed sector.",
+    "The Times highlights that the boom has not gone unnoticed by regulators and policymakers, who are weighing whether existing frameworks adequately govern these products. Platforms like Polymarket and Kalshi have already faced legal scrutiny from U.S. authorities, and the article suggests that increased visibility may accelerate further regulatory intervention rather than legitimize the space.",
+    "The piece frames the industry's current moment as precarious \u2014 strong user demand and forecasting utility on one side, and unresolved questions about consumer protection, market manipulation, and jurisdictional oversight on the other. How regulators, particularly the CFTC, respond in the near term could determine whether the current growth trajectory continues or stalls."
+   ],
+   "why": "For prediction-market traders and operators, regulatory risk is now the dominant variable \u2014 platforms riding high on volume could face sudden operational constraints if the CFTC moves to restrict event contracts. Operators should monitor CFTC rulemaking closely, as any new guidance could reshape product offerings overnight. Traders pricing political or macro events should also factor in the possibility that liquidity dries up if major platforms face enforcement actions.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "The Times"
+   ],
+   "primary_source": {
+    "name": "The Times",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzZXNURaaXN1WFVNbVlTRlVGM0dqcGRPbFMycDR1NDU4ckttR1YteGdtd1hQYXNhREZhdEFfU183VlRWNXBucS1UdkU4SDFkZjZkUHh0MWdMZF9IZmNNWHAzbjBoZ1RscG83bmthYmxKT2lEUDl6dGdDMjc5RkpMQ3gxVEpqc1ZYZWdDY01qTG5FNm9SR0dTb0lpZEs3b2NYLWlueW5qc3RpMFVK?oc=5"
+   },
+   "source_title": "Prediction markets are booming. But is the party about to stop?",
+   "also": [],
+   "published": "2026-07-04T11:00:00+00:00",
+   "first_seen": "2026-07-06T21:36:25.744148+00:00"
   },
   {
    "id": "bc87fc572e10",
@@ -113,6 +196,31 @@
    ],
    "published": "2026-07-03T17:01:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "6ca48fb3a497",
+   "headline": "Spotify Demands Kalshi and Polymarket Drop Music Betting Markets",
+   "lede": "Spotify has formally asked prediction market platforms Kalshi and Polymarket to remove its branding after manipulators gamed stream counts to influence music-related contract settlements.",
+   "body": [
+    "Spotify contacted both Kalshi and Polymarket requesting they strip the streaming giant's branding from markets tied to music performance metrics, according to Bloomberg via The Block. The move follows discoveries that bad actors artificially inflated stream counts on the platform specifically to influence how those event contracts settled.",
+    "The incident highlights a core vulnerability in prediction markets that rely on third-party data sources: any measurable metric that can be gamed becomes a potential attack vector once money is riding on its outcome. Music streaming numbers, unlike election results or asset prices, are relatively easy to manipulate through bot activity or coordinated listening campaigns.",
+    "Both Kalshi and Polymarket have expanded aggressively into entertainment and pop-culture markets over the past year, seeking to broaden audiences beyond politics and finance. This episode may force platforms to rethink how they source, verify, and weight data for non-traditional event contracts, or risk similar manipulation attempts across other easily gamed metrics."
+   ],
+   "why": "For prediction-market operators, this case sets a precedent that brand owners can push back against markets using their platforms as data oracles, creating legal and reputational exposure. Traders in entertainment markets should now price in elevated settlement risk whenever the underlying metric is a manipulable third-party figure. Regulators watching event-contract design will likely cite this as evidence that oracle integrity standards need formal codification.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "Spotify"
+   ],
+   "primary_source": {
+    "name": "The Block",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTlUYkdSOXhDT01RcEZwQjhaYXZRSXkyTU5PN1hzR1lxMlRtakVFT0h4MU1rZ3FjQzRYb3o3QkFSM3ZBbGlpNWw3QTd4NlNOaUZZNFg5d2syU1luSm85TkdMV2E3M25KN1NRbUtOejI0ZlJiSkppZnpfLUtmQ1FQd19JbE5obEFmRkxzWkgwX2I4cE9aM2pZVVEwcmxDVW9vdnJxTXhvMmVFcExBd3JNRGdNV1BEaE9EalB1SnllU0dYNGg0M0VEekFWOHBFRWxaMjh6alAtWTZzLXNtMEpvag?oc=5"
+   },
+   "source_title": "Spotify asks Kalshi, Polymarket to remove branding after manipulated streams used to settle music bets: Bloomberg",
+   "also": [],
+   "published": "2026-07-03T11:57:59+00:00",
+   "first_seen": "2026-07-06T21:36:25.744148+00:00"
   },
   {
    "id": "d48e1dd8737f",
@@ -548,6 +656,32 @@
    "also": [],
    "published": "2026-06-30T20:33:04+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "1431255785f2",
+   "headline": "Bernstein Flags Kalshi and Polymarket as Acquisition Targets",
+   "lede": "Bernstein analysts say the two leading prediction market platforms could attract takeover bids as the sector gains mainstream legitimacy.",
+   "body": [
+    "Wall Street research firm Bernstein has identified Kalshi and Polymarket as potential acquisition targets, according to Yahoo Finance. The note suggests that growing regulatory clarity and surging user interest in event contracts have made both platforms attractive to larger financial or media players looking to enter the space.",
+    "Kalshi, the only CFTC-regulated prediction market in the United States, and Polymarket, which operates via crypto rails and draws heavy international volume, have emerged as the two dominant players in the sector. Bernstein's coverage signals that institutional investors are beginning to view prediction markets as a credible asset class rather than a niche curiosity.",
+    "The analyst note arrives as prediction markets are experiencing unprecedented visibility following high-profile election market activity. Combined trading volumes across both platforms reached billions of dollars during the 2024 U.S. election cycle, demonstrating liquidity depth that could appeal to established exchanges, media companies, or financial data providers eyeing M&A."
+   ],
+   "why": "A takeover of either platform would reshape the competitive landscape overnight, potentially giving a deep-pocketed acquirer regulatory leverage or distribution advantages that smaller rivals cannot match. For traders, consolidation could mean tighter spreads and better liquidity but also risks of market concentration. Regulation watchers should note that any acquisition of CFTC-regulated Kalshi would require close scrutiny of the buyer's fitness under existing event-contract rules.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "Bernstein",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkMxekxxU2k4blVBVjhHaWllbFplcGFkTmc1YWJjbnFOTUNJYm1TOGszYVJ2N2Z0eXJXMnRBQ3VPUXV2NHpacG9zN002NjJqVkVjZHI4NVFETlZ2SHVLTWlIRFdhdjZyalUtWUxMWXQ5QktpRkJyRG05QU9rbUdzOV8xNW5fdzVOaF9LYXBLbWpfQW4yVmZJZEtMbmx2MGRIU1NzdUkwQQ?oc=5"
+   },
+   "source_title": "Kalshi And Polymarket Could Become Takeover Targets, Says Bernstein",
+   "also": [],
+   "published": "2026-06-29T17:53:00+00:00",
+   "first_seen": "2026-07-06T21:36:25.744148+00:00"
   },
   {
    "id": "58f03a9b1c39",
