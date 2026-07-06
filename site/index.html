@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SettleWire — Prediction Markets, Decoded</title>
+<meta name="description" content="The fastest read on prediction markets: regulation, volume, deals and data — clustered from 90+ sources, contextualized in one line.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#ffffff; --surface:#f4f6f8; --line:#e4e8ec;
+  --ink:#10151c; --muted:#5a6472; --faint:#8a93a0;
+  --brand:#5b3df5; --brand-dk:#4930c9; --brand-tint:#efecfe;
+  --yes:#0a9e6d; --yes-bg:#e7f7f1; --no:#e5484d; --no-bg:#fdeced;
+  --radius:12px;
+  --font-d:'Archivo',system-ui,sans-serif;
+  --font-m:'IBM Plex Mono',ui-monospace,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-d);color:var(--ink);background:var(--paper);line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+img{max-width:100%}
+:focus-visible{outline:3px solid var(--brand);outline-offset:2px;border-radius:4px}
+
+/* ---------- ticker ---------- */
+.ticker{background:var(--ink);color:#cdd5de;overflow:hidden;white-space:nowrap;font-family:var(--font-m);font-size:12.5px;border-bottom:1px solid #000}
+.ticker-track{display:inline-flex;gap:2.4rem;padding:.5rem 0;animation:tick 46s linear infinite;will-change:transform}
+.ticker:hover .ticker-track{animation-play-state:paused}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tk{display:inline-flex;align-items:center;gap:.45rem}
+.tk b{color:#fff;font-weight:500}
+.tk .up{color:#3ddc97}.tk .dn{color:#ff7b81}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none;padding-left:1rem}}
+
+/* ---------- header ---------- */
+header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.hwrap{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:1.4rem;padding:.7rem 1.2rem}
+.logo{display:flex;align-items:center;gap:.55rem;font-weight:900;font-size:1.22rem;letter-spacing:-.03em}
+.logo-mark{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--brand),#8f7bff);display:grid;place-items:center;color:#fff;font-family:var(--font-m);font-size:.85rem;font-weight:600}
+nav.main{display:flex;gap:.2rem;margin-left:auto}
+nav.main a{padding:.45rem .8rem;border-radius:8px;font-weight:600;font-size:.92rem;color:var(--muted)}
+nav.main a:hover{background:var(--surface);color:var(--ink)}
+.cta{background:var(--brand);color:#fff;border:none;padding:.55rem 1.1rem;border-radius:9px;font-weight:700;font-size:.92rem;transition:background .15s}
+.cta:hover{background:var(--brand-dk)}
+@media(max-width:760px){nav.main{display:none}}
+
+/* ---------- category rail ---------- */
+.cats{border-bottom:1px solid var(--line);background:var(--paper)}
+.cats-in{max-width:1180px;margin:0 auto;display:flex;gap:.45rem;padding:.6rem 1.2rem;overflow-x:auto;scrollbar-width:none}
+.cats-in::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--paper);padding:.35rem .85rem;border-radius:999px;font-size:.85rem;font-weight:600;color:var(--muted)}
+.chip.on,.chip:hover{border-color:var(--ink);color:var(--ink)}
+.chip.on{background:var(--ink);color:#fff}
+
+/* ---------- layout ---------- */
+.wrap{max-width:1180px;margin:0 auto;padding:1.6rem 1.2rem}
+.sec-h{display:flex;align-items:baseline;justify-content:space-between;margin:2.4rem 0 1rem}
+.sec-h h2{font-size:1.35rem;font-weight:800;letter-spacing:-.02em}
+.sec-h a{font-size:.85rem;font-weight:600;color:var(--brand)}
+
+/* ---------- odds pill ---------- */
+.odds{font-family:var(--font-m);font-size:.72rem;font-weight:600;padding:.14rem .5rem;border-radius:6px;display:inline-flex;align-items:center;gap:.3rem;white-space:nowrap}
+.odds.y{background:var(--yes-bg);color:var(--yes)}
+.odds.n{background:var(--no-bg);color:var(--no)}
+
+/* ---------- tag ---------- */
+.tag{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;padding:.18rem .5rem;border-radius:5px;background:var(--surface);color:var(--muted)}
+.tag.legal{background:#fdeced;color:#c22930}.tag.trading{background:var(--yes-bg);color:#067a53}
+.tag.deals{background:var(--brand-tint);color:var(--brand-dk)}.tag.tech{background:#e8f2fd;color:#1a6fc4}
+.tag.global{background:#fdf3e3;color:#a86a08}.tag.opinion{background:#f2eefb;color:#7345c9}
+.time{font-family:var(--font-m);font-size:.72rem;color:var(--faint)}
+.src{font-size:.76rem;color:var(--faint)}
+.src b{color:var(--muted);font-weight:600}
+
+/* ---------- hero ---------- */
+.hero{display:grid;grid-template-columns:1.6fr 1fr;gap:1.4rem;margin-top:.4rem}
+.lead{background:var(--ink);color:#fff;border-radius:var(--radius);padding:2rem;display:flex;flex-direction:column;gap:.9rem;position:relative;overflow:hidden}
+.lead::after{content:"";position:absolute;right:-90px;top:-90px;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(91,61,245,.45),transparent 70%)}
+.lead .tag{background:rgba(255,255,255,.14);color:#e6dcff}
+.lead h1{font-size:clamp(1.5rem,3.2vw,2.15rem);font-weight:800;line-height:1.16;letter-spacing:-.025em;position:relative;z-index:1}
+.lead p{color:#aeb7c2;font-size:.95rem;max-width:52ch;position:relative;z-index:1}
+.lead .meta{display:flex;align-items:center;gap:.8rem;margin-top:auto;position:relative;z-index:1}
+.lead .time{color:#7d8894}
+.side{display:flex;flex-direction:column;gap:.75rem}
+.mini{border:1px solid var(--line);border-radius:var(--radius);padding:.9rem 1rem;display:flex;flex-direction:column;gap:.4rem;transition:border-color .15s,transform .15s}
+.mini:hover{border-color:var(--ink);transform:translateY(-1px)}
+.mini h3{font-size:.94rem;font-weight:700;line-height:1.3;letter-spacing:-.01em}
+.mini .row{display:flex;align-items:center;gap:.55rem;flex-wrap:wrap}
+@media(max-width:880px){.hero{grid-template-columns:1fr}}
+
+/* ---------- story cards ---------- */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+@media(max-width:960px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:620px){.grid{grid-template-columns:1fr}}
+.card{border:1px solid var(--line);border-radius:var(--radius);padding:1.05rem 1.1rem;display:flex;flex-direction:column;gap:.55rem;background:var(--paper);transition:border-color .15s,box-shadow .15s}
+.card:hover{border-color:var(--ink);box-shadow:0 4px 18px rgba(16,21,28,.06)}
+.card .row{display:flex;align-items:center;gap:.55rem;flex-wrap:wrap}
+.card h3{font-size:1.02rem;font-weight:700;line-height:1.32;letter-spacing:-.015em}
+.why{font-size:.85rem;color:var(--muted);line-height:1.5;display:none}
+.card.open .why{display:block}
+.whybtn{align-self:flex-start;background:none;border:none;color:var(--brand);font-weight:700;font-size:.78rem;padding:0;display:inline-flex;align-items:center;gap:.25rem}
+.whybtn::after{content:"▾";transition:transform .15s;font-size:.7rem}
+.card.open .whybtn::after{transform:rotate(180deg)}
+.card .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:.4rem;border-top:1px dashed var(--line)}
+
+/* ---------- numbered latest ---------- */
+.latest{display:grid;grid-template-columns:1fr 1fr;gap:.2rem 2.4rem}
+@media(max-width:760px){.latest{grid-template-columns:1fr}}
+.lrow{display:flex;gap:.9rem;padding:.85rem .2rem;border-bottom:1px solid var(--line);align-items:flex-start}
+.lrow .num{font-family:var(--font-m);font-size:.8rem;color:var(--faint);padding-top:.15rem;min-width:1.6rem}
+.lrow h3{font-size:.96rem;font-weight:700;line-height:1.3}
+.lrow:hover h3{color:var(--brand)}
+.lrow .row{display:flex;gap:.55rem;align-items:center;margin-top:.3rem;flex-wrap:wrap}
+
+/* ---------- tabs ---------- */
+.tabs{display:inline-flex;background:var(--surface);border-radius:9px;padding:.22rem;gap:.15rem}
+.tabs button{border:none;background:none;padding:.32rem .9rem;border-radius:7px;font-weight:600;font-size:.83rem;color:var(--muted)}
+.tabs button.on{background:var(--paper);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.1)}
+
+/* ---------- newsletter ---------- */
+.nl{background:linear-gradient(120deg,var(--brand) 0%,#7a5cff 60%,#a18bff 100%);color:#fff;border-radius:16px;padding:2.2rem;display:grid;grid-template-columns:1.2fr 1fr;gap:1.6rem;align-items:center;margin:2.6rem 0}
+.nl h2{font-size:clamp(1.4rem,2.6vw,1.9rem);font-weight:800;letter-spacing:-.02em;line-height:1.15}
+.nl p{color:#e7e1ff;font-size:.93rem;margin-top:.5rem}
+.nl form{display:flex;gap:.55rem}
+.nl input{flex:1;border:none;border-radius:9px;padding:.75rem 1rem;font-size:.95rem;font-family:inherit;min-width:0}
+.nl .cta{background:var(--ink)}
+.nl .cta:hover{background:#000}
+.nl small{display:block;margin-top:.6rem;color:#d4c9ff;font-family:var(--font-m);font-size:.7rem}
+@media(max-width:760px){.nl{grid-template-columns:1fr;padding:1.6rem}}
+
+/* ---------- events ---------- */
+.events{display:grid;grid-template-columns:repeat(4,1fr);gap:.9rem}
+@media(max-width:960px){.events{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.events{grid-template-columns:1fr}}
+.ev{border:1px solid var(--line);border-radius:var(--radius);padding:1rem;display:flex;gap:.9rem}
+.ev:hover{border-color:var(--ink)}
+.ev .date{text-align:center;min-width:3rem}
+.ev .date .d{font-weight:800;font-size:1.3rem;letter-spacing:-.02em}
+.ev .date .m{font-family:var(--font-m);font-size:.68rem;color:var(--faint);text-transform:uppercase}
+.ev p{font-size:.83rem;color:var(--muted);line-height:1.45;margin-top:.25rem}
+.ev .kind{font-family:var(--font-m);font-size:.66rem;font-weight:600;color:var(--brand);text-transform:uppercase;letter-spacing:.08em}
+
+/* ---------- footer ---------- */
+footer{border-top:1px solid var(--line);margin-top:3rem;background:var(--surface)}
+.fwrap{max-width:1180px;margin:0 auto;padding:2.4rem 1.2rem;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:2rem}
+@media(max-width:760px){.fwrap{grid-template-columns:1fr 1fr}}
+footer h4{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin-bottom:.7rem}
+footer li{list-style:none;margin:.35rem 0}
+footer a{font-size:.88rem;color:var(--muted)}
+footer a:hover{color:var(--ink)}
+.fnote{font-size:.8rem;color:var(--faint);max-width:38ch;line-height:1.55;margin-top:.8rem}
+.fbase{border-top:1px solid var(--line);padding:1rem 1.2rem;text-align:center;font-family:var(--font-m);font-size:.7rem;color:var(--faint)}
+
+/* ---------- onboarding overlay ---------- */
+.ob{position:fixed;inset:0;z-index:100;background:rgba(16,21,28,.55);backdrop-filter:blur(4px);display:none;align-items:center;justify-content:center;padding:1rem}
+.ob.show{display:flex}
+.ob-card{background:var(--paper);border-radius:18px;max-width:480px;width:100%;padding:2rem;position:relative;animation:pop .28s cubic-bezier(.2,.9,.3,1.2)}
+@keyframes pop{from{transform:scale(.94);opacity:0}to{transform:scale(1);opacity:1}}
+@media(prefers-reduced-motion:reduce){.ob-card{animation:none}}
+.ob-card h2{font-size:1.35rem;font-weight:800;letter-spacing:-.02em;line-height:1.2}
+.ob-card p{color:var(--muted);font-size:.9rem;margin:.5rem 0 1.2rem}
+.ob-x{position:absolute;top:.9rem;right:.9rem;background:var(--surface);border:none;width:32px;height:32px;border-radius:8px;font-size:1rem;color:var(--muted)}
+.ob-topics{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.4rem}
+.ob-topics .chip{padding:.5rem 1rem;font-size:.88rem}
+.ob-steps{display:flex;gap:.35rem;margin-bottom:1.2rem}
+.ob-steps span{height:4px;flex:1;border-radius:99px;background:var(--line)}
+.ob-steps span.on{background:var(--brand)}
+.ob input[type=email]{width:100%;border:1.5px solid var(--line);border-radius:9px;padding:.72rem 1rem;font-size:.95rem;font-family:inherit;margin-bottom:.8rem}
+.ob input[type=email]:focus{border-color:var(--brand);outline:none}
+.ob .cta{width:100%;padding:.75rem}
+.ob .skip{width:100%;background:none;border:none;color:var(--faint);font-size:.82rem;font-weight:600;margin-top:.6rem}
+.ob-done{text-align:center}
+.ob-done .big{font-size:2.4rem}
+
+/* ---------- slide-in ---------- */
+.slidein{position:fixed;bottom:1rem;right:1rem;z-index:90;background:var(--ink);color:#fff;border-radius:14px;padding:1.1rem 1.2rem;max-width:330px;box-shadow:0 12px 40px rgba(0,0,0,.3);transform:translateY(140%);transition:transform .4s cubic-bezier(.2,.9,.3,1)}
+.slidein.show{transform:translateY(0)}
+.slidein h3{font-size:.98rem;font-weight:800;letter-spacing:-.01em}
+.slidein p{font-size:.8rem;color:#aeb7c2;margin:.3rem 0 .7rem}
+.slidein form{display:flex;gap:.4rem}
+.slidein input{flex:1;border:none;border-radius:7px;padding:.5rem .7rem;font-size:.85rem;min-width:0;font-family:inherit}
+.slidein .cta{padding:.5rem .8rem;font-size:.82rem}
+.slidein .ob-x{background:rgba(255,255,255,.12);color:#cdd5de}
+.toast{position:fixed;bottom:1.2rem;left:50%;transform:translate(-50%,200%);background:var(--yes);color:#fff;font-weight:700;font-size:.9rem;padding:.7rem 1.3rem;border-radius:99px;z-index:110;transition:transform .35s}
+.toast.show{transform:translate(-50%,0)}
+</style>
+</head>
+<body>
+
+<!-- LIVE ODDS TICKER · signature element -->
+<div class="ticker" aria-label="Live market odds ticker">
+  <div class="ticker-track" id="tickerTrack"></div>
+</div>
+
+<header>
+  <div class="hwrap">
+    <a class="logo" href="#"><span class="logo-mark">%</span>SettleWire</a>
+    <nav class="main" aria-label="Primary">
+      <a href="#latest">Latest</a><a href="#top">Top Stories</a><a href="#events">Events</a><a href="#newsletter">Newsletter</a>
+    </nav>
+    <button class="cta" onclick="openOb(1)">Get the Brief</button>
+  </div>
+</header>
+
+<div class="cats" aria-label="Categories">
+  <div class="cats-in" id="catRail"></div>
+</div>
+
+<main class="wrap">
+
+  <!-- HERO -->
+  <section class="hero">
+    <article class="lead">
+      <div class="row" style="display:flex;gap:.6rem;align-items:center;position:relative;z-index:1">
+        <span class="tag legal">Legal</span><span class="odds y">CFTC ACTION · 68%</span><span class="time" >2h ago</span>
+      </div>
+      <h1>Regulators widen probe into staged influencer bets as Congress piles on</h1>
+      <p>A five-month creator campaign built on simulated wagers has drawn a federal investigation and bipartisan Senate letters — the first real test of how far exchange marketing can go before it becomes market conduct.</p>
+      <div class="meta">
+        <span class="src" style="color:#7d8894">First reported by <b style="color:#cdd5de">TechTimes</b> · +2 outlets</span>
+      </div>
+    </article>
+    <div class="side">
+      <article class="mini">
+        <div class="row"><span class="tag trading">Trading</span><span class="odds y">VOL ▲ 75%</span></div>
+        <h3>World Cup pushes combined June exchange volume past $45B</h3>
+        <span class="src">First reported by <b>CryptoBriefing</b> · +34 outlets <span class="time">· 15h</span></span>
+      </article>
+      <article class="mini">
+        <div class="row"><span class="tag global">Global</span><span class="odds n">EU ACCESS · 22%</span></div>
+        <h3>EU watchdog says retail ban already reaches event contracts</h3>
+        <span class="src">First reported by <b>ESMA release</b> <span class="time">· 17h</span></span>
+      </article>
+      <article class="mini">
+        <div class="row"><span class="tag trading">Trading</span><span class="odds n">PUTIN OUT '26 · 17%</span></div>
+        <h3>Anonymous newcomer stakes $400K on a Kremlin exit by year-end</h3>
+        <span class="src">First reported by <b>NBC News</b> · +11 sources <span class="time">· 2d</span></span>
+      </article>
+      <article class="mini">
+        <div class="row"><span class="tag deals">Deals</span><span class="odds y">IPO BY '27 · 41%</span></div>
+        <h3>Exchange valuation talk doubles to $40B as IPO chatter builds</h3>
+        <span class="src">First reported by <b>The Information</b> · +8 outlets <span class="time">· 7d</span></span>
+      </article>
+    </div>
+  </section>
+
+  <!-- LATEST -->
+  <div class="sec-h" id="latest"><h2>Latest</h2><a href="#">See all →</a></div>
+  <div class="latest" id="latestList"></div>
+
+  <!-- NEWSLETTER BAND -->
+  <section class="nl" id="newsletter">
+    <div>
+      <h2>Markets, resolved by noon.</h2>
+      <p>One email. What moved overnight, why it matters, who's exposed. Written for operators, traders, and the lawyers chasing both.</p>
+      <small>MON–FRI · 12:00 ET · FREE · UNSUBSCRIBE ANYTIME</small>
+    </div>
+    <form onsubmit="subscribe(event,this)">
+      <input type="email" required placeholder="you@desk.com" aria-label="Email address">
+      <button class="cta" type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <!-- TOP STORIES -->
+  <div class="sec-h" id="top">
+    <h2>Top Stories</h2>
+    <div class="tabs" role="tablist">
+      <button class="on" role="tab" aria-selected="true" onclick="setTab(this,'day')">Day</button>
+      <button role="tab" aria-selected="false" onclick="setTab(this,'week')">Week</button>
+      <button role="tab" aria-selected="false" onclick="setTab(this,'month')">Month</button>
+    </div>
+  </div>
+  <div class="grid" id="topGrid"></div>
+
+  <!-- EVENTS -->
+  <div class="sec-h" id="events"><h2>Upcoming Events</h2><a href="#">Full calendar →</a></div>
+  <div class="events">
+    <div class="ev"><div class="date"><div class="d">07</div><div class="m">Jul</div></div><div><span class="kind">Court</span><p>Cert petition window closes on the Third Circuit ruling — potential first Supreme Court look at event-contract regulation.</p></div></div>
+    <div class="ev"><div class="date"><div class="d">15</div><div class="m">Jul</div></div><div><span class="kind">Court</span><p>Ninth Circuit ruling window opens in the Nevada platforms case. A loss creates a circuit split.</p></div></div>
+    <div class="ev"><div class="date"><div class="d">21</div><div class="m">Jul</div></div><div><span class="kind">Earnings</span><p>Interactive Brokers Q2 call — watch event-contract volume guidance and rulemaking commentary.</p></div></div>
+    <div class="ev"><div class="date"><div class="d">30</div><div class="m">Jul</div></div><div><span class="kind">Court</span><p>Fourth Circuit ruling window in the Maryland sports-contract appeal. Could deepen or resolve the split.</p></div></div>
+  </div>
+
+</main>
+
+<footer>
+  <div class="fwrap">
+    <div>
+      <a class="logo" href="#"><span class="logo-mark">%</span>SettleWire</a>
+      <p class="fnote">The intelligence layer for prediction markets. We cluster coverage from 90+ sources and add the context — we never republish source articles.</p>
+    </div>
+    <div><h4>Coverage</h4><ul><li><a href="#">Trading</a></li><li><a href="#">Legal</a></li><li><a href="#">Deals</a></li><li><a href="#">Data</a></li><li><a href="#">Tech</a></li></ul></div>
+    <div><h4>Products</h4><ul><li><a href="#">Daily Brief</a></li><li><a href="#">The Show</a></li><li><a href="#">API</a></li><li><a href="#">Advisory</a></li></ul></div>
+    <div><h4>Company</h4><ul><li><a href="#">About</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li><li><a href="#">Risk disclosure</a></li></ul></div>
+  </div>
+  <div class="fbase">© 2026 · EDITORIAL SITE — NOT A REGULATED TRADING PLATFORM · NOTHING HERE IS INVESTMENT ADVICE</div>
+</footer>
+
+<!-- ONBOARDING OVERLAY -->
+<div class="ob" id="ob" role="dialog" aria-modal="true" aria-labelledby="obTitle">
+  <div class="ob-card">
+    <button class="ob-x" aria-label="Close" onclick="closeOb()">✕</button>
+    <div class="ob-steps"><span id="s1" class="on"></span><span id="s2"></span></div>
+
+    <div id="obStep1">
+      <h2 id="obTitle">What do you trade on?</h2>
+      <p>Pick a few topics — your feed and daily brief lead with what you follow.</p>
+      <div class="ob-topics" id="obTopics"></div>
+      <button class="cta" onclick="obNext()">Continue</button>
+      <button class="skip" onclick="closeOb()">Skip for now</button>
+    </div>
+
+    <div id="obStep2" style="display:none">
+      <h2>Where should the brief land?</h2>
+      <p>Mon–Fri at noon ET. The five stories that matter, plus your topics up top.</p>
+      <input type="email" id="obEmail" placeholder="you@desk.com" aria-label="Email address">
+      <button class="cta" onclick="obFinish()">Start my brief</button>
+      <button class="skip" onclick="closeOb()">Maybe later</button>
+    </div>
+
+    <div id="obStep3" style="display:none" class="ob-done">
+      <div class="big">✅</div>
+      <h2>You're on the list.</h2>
+      <p>First brief hits your inbox on the next trading day. Your feed is now tuned to your topics.</p>
+      <button class="cta" onclick="closeOb()">Read the news</button>
+    </div>
+  </div>
+</div>
+
+<!-- SCROLL SLIDE-IN -->
+<div class="slidein" id="slidein">
+  <button class="ob-x" aria-label="Dismiss" onclick="dismissSlide()">✕</button>
+  <h3>Don't refresh 40 tabs.</h3>
+  <p>We read all 90+ sources so you read one email.</p>
+  <form onsubmit="subscribe(event,this)">
+    <input type="email" required placeholder="you@desk.com" aria-label="Email">
+    <button class="cta" type="submit">Join</button>
+  </form>
+</div>
+
+<div class="toast" id="toast">Subscribed — see you at noon ET.</div>
+
+<script>
+/* ========== DATA ========== */
+const TICKS=[
+ ["FED CUT SEPT","62%","up"],["BTC $70K JULY","20%","dn"],["FRANCE WC WIN","35%","up"],
+ ["KALSHI IPO '27","41%","up"],["PUTIN OUT '26","17%","dn"],["SPACEX $2T DEBUT","61%","up"],
+ ["EU RETAIL ACCESS","22%","dn"],["CFTC RULE FINAL Q3","54%","up"],["LEBRON → GSW","60%","up"]
+];
+const CATS=["All","Trading","Legal","Deals","Data","Tech","Global","Opinion","Stocks"];
+/* Fallback sample data — replaced by stories.json when the pipeline runs */
+const LATEST=[
+ ["Opinion","Monthly volume clears $50B as Washington weighs new rules","Editorial roundup","3h"],
+ ["Deals","World Cup brand campaign lands with a marquee producer attached","Trade press","5h"],
+ ["Legal","Streaming giant asks exchanges to pull logos from chart-rigging markets","Music press","5h"],
+ ["Trading","15-minute crypto contracts hit a major retail broker","Broker release","7h"],
+ ["Trading","Traders price 1-in-5 odds on a July bitcoin breakout","Exchange data","33h"],
+ ["Legal","State regulator quits national council over exchange partnership","Local press","40h"]
+];
+const TOP={
+ day:[
+  ["Legal","Creator campaign spent $1.9M staging bets on dummy sites","Three-front pressure — agency probe, Senate letters, consumer suits — puts the exchange designation itself in play.","WSJ investigation","+18 outlets","8h",["n","DESIGNATION SAFE · 44%"]],
+  ["Deals","World Cup branding deal sparks confusion over who signed it","A deleted post and corrected attribution show how thin the line is between co-branding and overstated claims.","Trade press","+6 outlets","13h",["y","DEAL HOLDS · 71%"]],
+  ["Trading","$400K political whale tests non-sports liquidity depth","If a concentrated geopolitical position clears without spreads widening, the liquidity story stops being seasonal.","NBC News","+11 sources","18h",["n","PUTIN OUT '26 · 17%"]],
+  ["Legal","State judge blocks sports contracts with $120K daily fine threat","A pre-merits injunction gives other attorneys general a faster playbook than waiting on federal appeals.","Court filing","+9 outlets","22h",["n","STAY GRANTED · 31%"]],
+  ["Trading","June volume hits $45B — an 87% month-over-month jump for the leader","A clean tournament settlement clears the path to NFL and Olympics verticals; one payout dispute arms every state AG.","CryptoBriefing","+34 outlets","14h",["y","VOL ▲ 75%"]],
+  ["Data","Half a million streams scrubbed after flagged chart bets","First time a platform has rewritten its own data to unwind a market outcome — every culture vertical now carries revision risk.","Music press","+7 outlets","36h",["n","MKT VOIDED · 88%"]]
+ ],
+ week:[
+  ["Deals","Valuation talk doubles to $40B as IPO discussions progress","A widening funding gap lets the leader outspend rivals on market-maker incentives.","The Information","+8 outlets","7d",["y","IPO BY '27 · 41%"]],
+  ["Legal","Incumbent exchange to sue regulator over perpetual futures approval","An adverse ruling forces a product restructure just as two-week volume tops $5.5B.","Exchange statement","+12 outlets","6d",["n","PERPS SURVIVE · 58%"]],
+  ["Deals","Social giant weighed a buyout before building its own play-money app","The suitor walked away with full knowledge of the target's product mechanics — then built the competitor.","NYT","+40 outlets","2d",["y","ARENA SHIPS '26 · 66%"]],
+  ["Deals","Analysts call an M&A wave as platforms buy their own plumbing","Operators renting clearing and custody will sell at a discount or watch liquidity migrate.","Bernstein note","+5 outlets","5d",["y","MAJOR M&A H2 · 49%"]],
+  ["Legal","Political family's $300K equity stake draws conflict scrutiny","Access rivals can't match — and optics that invite exactly the scrutiny the industry doesn't need.","Financial press","+15 outlets","4d",["n","HEARINGS '26 · 37%"]],
+  ["Trading","Institutional desks stand up dedicated prediction-market teams","Cross-venue market-making capacity is the strongest signal yet that the asset class is being taken seriously.","Trade reporting","+4 outlets","9h",["y","INST. FLOW ▲"]]
+ ],
+ month:[
+  ["Legal","First formal federal rules proposed: sports allowed, war markets banned","Every active contract now needs a classification audit before the 45-day comment window closes.","Agency release","+22 outlets","16d",["y","RULE FINAL Q3 · 54%"]],
+  ["Deals","Second-largest US options exchange launches index binaries","Existing exchange status means skipping the registration slog that slowed everyone else.","Exchange release","+10 outlets","10d",["y","CBOE TOP-3 '27 · 28%"]],
+  ["Legal","Regulator sues a state to block its prediction-market crackdown","Platforms are now defended and prosecuted by different governments at the same time.","Court filing","+13 outlets","4d",["n","STATE WINS · 35%"]],
+  ["Deals","39-million-account broker enters with index event contracts","The first rival with existing retail scale and brokerage trust rather than a startup CAC problem.","Joint release","+9 outlets","14d",["y","LIVE BY Q4 · 77%"]],
+  ["Legal","20% of dispute-oracle judges bet on cases they ruled on","Resolution finality is the product; any erosion of confidence threatens depth everywhere.","WSJ investigation","+11 outlets","27d",["n","ORACLE REFORM · 63%"]],
+  ["Trading","Pre-IPO market gives a rocket maker 61% odds of a $2T+ debut","If closing odds converge with the actual print, event contracts become benchmark inputs for illiquid equity.","Exchange data","+6 outlets","21d",["y","$2T+ DEBUT · 61%"]]
+ ]
+};
+const TOPICS=["Regulation & courts","Volume & whales","Deals & funding","Sports markets","Crypto perps","Politics & geopolitics","Platform tech","Data & oracles"];
+
+/* ========== STATE (in-memory; swap for localStorage/api in production) ========== */
+const state={subscribed:false,slideDismissed:false,topics:new Set(),obSeen:false};
+
+/* ========== TICKER ========== */
+const tt=document.getElementById('tickerTrack');
+const seq=TICKS.map(([n,p,d])=>`<span class="tk">${n} <b>${p}</b> <span class="${d}">${d==='up'?'▲':'▼'}</span></span>`).join('');
+tt.innerHTML=seq+seq; /* duplicated for seamless loop */
+
+/* ========== CATEGORY RAIL ========== */
+const rail=document.getElementById('catRail');
+rail.innerHTML=CATS.map((c,i)=>`<button class="chip${i===0?' on':''}" onclick="setCat(this)">${c}</button>`).join('');
+function setCat(el){rail.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));el.classList.add('on');}
+
+/* ========== LATEST ========== */
+function renderLatest(rows){
+ document.getElementById('latestList').innerHTML=rows.map((s,i)=>`
+ <a class="lrow" href="${s[4]||'#'}" ${s[4]?'target="_blank" rel="noopener"':''}>
+   <span class="num">${String(i+1).padStart(2,'0')}</span>
+   <div><h3>${s[1]}</h3>
+   <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span><span class="src">via <b>${s[2]}</b></span><span class="time">${s[3]}</span></div></div>
+ </a>`).join('');
+}
+renderLatest(LATEST.map(s=>[s[0],s[1],s[2],s[3]+' ago',null]));
+
+/* ========== TOP STORIES ========== */
+function renderTop(k){
+ document.getElementById('topGrid').innerHTML=TOP[k].map(s=>`
+  <article class="card">
+    <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span>${s[6]?`<span class="odds ${s[6][0]}">${s[6][1]}</span>`:''}</div>
+    <h3>${s[7]?`<a href="${s[7]}" target="_blank" rel="noopener">${s[1]}</a>`:s[1]}</h3>
+    <button class="whybtn" onclick="this.closest('.card').classList.toggle('open')">Why it matters</button>
+    <p class="why">${s[2]}</p>
+    <div class="foot"><span class="src">First reported by <b>${s[7]?`<a href="${s[7]}" target="_blank" rel="noopener">${s[3]}</a>`:s[3]}</b> · ${s[4]}</span><span class="time">${s[5]}</span></div>
+  </article>`).join('');
+}
+renderTop('day');
+function setTab(btn,k){
+ btn.parentElement.querySelectorAll('button').forEach(b=>{b.classList.remove('on');b.setAttribute('aria-selected','false')});
+ btn.classList.add('on');btn.setAttribute('aria-selected','true');renderTop(k);
+}
+
+/* ========== ONBOARDING ========== */
+const ob=document.getElementById('ob');
+document.getElementById('obTopics').innerHTML=TOPICS.map(t=>`<button class="chip" onclick="togTopic(this,'${t}')">${t}</button>`).join('');
+function togTopic(el,t){el.classList.toggle('on');state.topics.has(t)?state.topics.delete(t):state.topics.add(t);}
+function openOb(step){ob.classList.add('show');showStep(step||1);document.body.style.overflow='hidden';}
+function closeOb(){ob.classList.remove('show');document.body.style.overflow='';state.obSeen=true;}
+function showStep(n){
+ [1,2,3].forEach(i=>document.getElementById('obStep'+i).style.display=i===n?'block':'none');
+ document.getElementById('s1').classList.toggle('on',n>=1);
+ document.getElementById('s2').classList.toggle('on',n>=2);
+}
+function obNext(){showStep(2);}
+function obFinish(){
+ const em=document.getElementById('obEmail');
+ if(!em.value||!em.value.includes('@')){em.focus();em.style.borderColor='var(--no)';return;}
+ state.subscribed=true;showStep(3);toast();
+}
+/* auto-open once, 6s after load, unless already interacted */
+setTimeout(()=>{if(!state.obSeen&&!state.subscribed)openOb(1);},6000);
+ob.addEventListener('click',e=>{if(e.target===ob)closeOb();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ob.classList.contains('show'))closeOb();});
+
+/* ========== SLIDE-IN ========== */
+const slide=document.getElementById('slidein');
+let slideShown=false;
+window.addEventListener('scroll',()=>{
+ const pct=window.scrollY/(document.body.scrollHeight-innerHeight);
+ if(pct>0.55&&!slideShown&&!state.subscribed&&!state.slideDismissed&&!ob.classList.contains('show')){
+   slide.classList.add('show');slideShown=true;
+ }
+},{passive:true});
+function dismissSlide(){slide.classList.remove('show');state.slideDismissed=true;}
+
+/* ========== SUBSCRIBE / TOAST ========== */
+function subscribe(e,form){
+ e.preventDefault();state.subscribed=true;form.reset();slide.classList.remove('show');toast();
+}
+function toast(){
+ const t=document.getElementById('toast');t.classList.add('show');
+ setTimeout(()=>t.classList.remove('show'),2800);
+}
+
+/* ========== LIVE DATA LOADER ========== */
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function ago(iso){
+ const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));
+ if(m<60)return m+'m ago'; const h=Math.round(m/60);
+ if(h<24)return h+'h ago'; return Math.round(h/24)+'d ago';
+}
+fetch('stories.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(data=>{
+ const st=(data.stories||[]).map(s=>({...s,
+   headline:esc(s.headline),why:esc(s.why),category:esc(s.category),
+   srcName:esc(s.primary_source?.name||'source'),srcUrl:s.primary_source?.url||'#',
+   alsoN:(s.also||[]).length}));
+ if(!st.length)return;
+
+ /* Latest = 6 newest */
+ renderLatest(st.slice(0,6).map(s=>[s.category,s.headline,s.srcName,ago(s.published),s.srcUrl]));
+
+ /* Top tabs = windows by published time */
+ const H=3600e3, now=Date.now();
+ const win=ms=>st.filter(s=>now-new Date(s.published)<ms).slice(0,6);
+ const toRow=s=>[s.category,s.headline,s.why,s.srcName,
+   s.alsoN?`+${s.alsoN} outlet${s.alsoN>1?'s':''}`:'first on record',
+   ago(s.published),null,s.srcUrl];
+ const day=win(24*H), week=win(7*24*H), month=win(30*24*H);
+ if(day.length)TOP.day=day.map(toRow);
+ if(week.length)TOP.week=week.map(toRow);
+ if(month.length)TOP.month=month.map(toRow);
+ renderTop(document.querySelector('.tabs .on')?.textContent.toLowerCase()||'day');
+}).catch(()=>{/* no stories.json yet — fallback sample data stays */});
+</script>
+</body>
+</html>
