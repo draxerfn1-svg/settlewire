@@ -1,6 +1,226 @@
 {
- "generated": "2026-07-06T20:02:17.529920+00:00",
+ "generated": "2026-07-06T20:48:28.064595+00:00",
  "stories": [
+  {
+   "id": "b7f72becd4ef",
+   "headline": "Spotify Nukes 500K Streams Tied to Prediction Market Manipulation",
+   "lede": "Spotify removed roughly 500,000 streams from a popular track after suspecting users gamed the platform to influence Kalshi and Polymarket event contracts.",
+   "body": [
+    "According to Mashable, Spotify deleted approximately 500,000 streams from a well-known song after the company identified unusual streaming activity believed to be coordinated by prediction market participants. The suspected motive was to artificially move stream-count metrics that served as settlement data for event contracts on Kalshi and Polymarket.",
+    "The incident represents a novel form of market manipulation in which traders targeted a real-world data source \u2014 a music streaming platform \u2014 rather than the prediction market itself. By inflating or deflating stream counts, bad actors could potentially push a contract's outcome in their favor before the settlement deadline, according to Mashable's reporting.",
+    "Prediction markets that settle on measurable real-world figures, such as chart positions or streaming numbers, are increasingly attractive targets because the underlying data can sometimes be influenced more cheaply than the contract's total open interest. This episode highlights a structural vulnerability that operators have not yet fully addressed through contract design or surveillance."
+   ],
+   "why": "For traders, this signals that contracts tied to manipulable third-party data carry hidden counterparty-style risk \u2014 winning positions can be invalidated if the platform voids underlying data. Operators like Kalshi and Polymarket may face pressure to redesign settlement oracles or avoid data sources vulnerable to gaming. Regulators watching CFTC event-contract oversight will likely cite this as evidence that manipulation surveillance must extend beyond the markets themselves to the raw data pipelines they rely on.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "Spotify",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Mashable",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY01TeXVjakFTakNUdVpVbWZNV21yWU5GVTRkbWFPUmtfMXlINXhDck1ITDdHcGJjNUwtVWNPM0dxQU5pZXpHWTNTY29WOUo1Y01nOU00Qm02bXhmclRKeGFtUS1RMDgyZU9RQU9QeXUtbHBaOFRnSmplU3lFOVlBOUhBMng3MGJlVVJTeHVSYldQRzR3eFRBREdB?oc=5"
+   },
+   "source_title": "Spotify deletes 500K streams of popular song for suspected Kalshi, Polymarket user manipulation",
+   "also": [],
+   "published": "2026-07-03T19:10:12+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "512de087102b",
+   "headline": "Unusual Polymarket Bets Spark Speculation on Putin Political Future",
+   "lede": "Large, lopsided wagers on a Polymarket contract about Vladimir Putin's hold on power have raised eyebrows among traders and political observers alike.",
+   "body": [
+    "According to Futurism, a pattern of unusually timed or sized bets on Polymarket concerning Putin's political fate has prompted speculation that someone with insider knowledge may be trading on the outcome. The activity caught attention because the positions appeared to diverge sharply from the prevailing market consensus.",
+    "Prediction markets like Polymarket allow anyone globally to stake cryptocurrency on real-world outcomes, meaning trades are pseudonymous and difficult to trace. When large, directional bets move a contract's implied probability significantly, it naturally invites questions about whether the traders possess non-public information \u2014 a dynamic that has surfaced repeatedly on the platform around geopolitical events.",
+    "The episode echoes past controversies on Polymarket, including scrutiny over trading patterns ahead of U.S. election results. Because these platforms operate outside traditional securities frameworks, there is no formal insider-trading prohibition, but such incidents intensify regulatory debate about whether event contracts on political outcomes warrant stricter oversight."
+   ],
+   "why": "For active traders, anomalous positioning on geopolitical contracts can serve as a signal worth monitoring, though it also raises the risk of being on the wrong side of a manipulation attempt. For regulators and CFTC watchers, incidents like this add ammunition to arguments that political event contracts need transparency rules akin to financial markets. Platform operators face reputational pressure to address how pseudonymous large traders can distort price discovery.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Vladimir Putin",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Futurism",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZUxqaDZhQ2dfY2pvTW1ONk9yMkVNckpXM3hOTU5RbkJIWnU4M2pRZXBNTjZHVGFFUEdpc3lYcVBpeGRzcFpLU2NDNGl6TEc0SXlFeXljNVlWNzZ4cWxrcU94d3pkWnJHbXVUZ3d2aFU?oc=5"
+   },
+   "source_title": "Does Someone on Polymarket Know That Putin Is Going Down?",
+   "also": [],
+   "published": "2026-07-03T17:01:00+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "d48e1dd8737f",
+   "headline": "Prediction Market Daily Volume Jumps 80% in June, Sports Dominates",
+   "lede": "Prediction market daily trading volume surged 80% in June, with sports-related contracts driving nearly nine-tenths of all activity, according to a new Jefferies analysis.",
+   "body": [
+    "Jefferies research found that daily trading volume across prediction markets climbed 80% in June compared to prior periods, signaling a significant acceleration in retail and institutional engagement with event contracts. The investment bank's analysis, as reported by Casino.org, highlights how the sector is moving well beyond its political-betting roots.",
+    "Sports contracts accounted for 89% of total daily volume in June, according to Casino.org's coverage of the Jefferies report. That concentration underscores how sports-event contracts have become the dominant commercial engine for platforms competing in the regulated prediction-market space, outpacing political and macro-economic contract categories by a wide margin.",
+    "The findings arrive as platforms like Kalshi and Polymarket compete aggressively for sports-betting adjacent audiences, and as the CFTC continues to navigate its regulatory posture toward event contracts. Sustained volume growth strengthens the commercial case for federally regulated prediction markets and may intensify pressure on traditional sportsbooks operating under state licensing regimes."
+   ],
+   "why": "An 80% volume spike gives regulators concrete data on market scale, potentially accelerating CFTC rulemaking timelines for event contracts. For traders, sports-heavy volume means tighter spreads and deeper liquidity in those markets but thinner books elsewhere. Platform operators will likely respond by expanding sports contract offerings, further blurring the line between prediction markets and regulated sports wagering.",
+   "category": "Data",
+   "entities": [
+    "Jefferies",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Casino.org",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVhjSjdfdHVibW5Xa2FWaUx0OUoyYm5pcEE1ZkJ1UFY5UF9JbHpnV2RJc2hqMGFIWFhXMmFGbUtjMkpBaDFnZ2p0UDZnQjZpd3E1RHBVQjhUQTNrXzdSckRNNHhFVmJNRUJGTEhjLVRYT3JTNUhUUlRNVW9MajIwbGM4eDB2aEdHajZaX3JPMDFESXJJaS12ZHVNclZqX2t3bDNoclVMeS13d21PRWxZ?oc=5"
+   },
+   "source_title": "Jefferies: Prediction Market Daily Volume Surges 80% in June, Sports Accounts for 89%",
+   "also": [],
+   "published": "2026-07-03T10:03:50+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "427abe10fdcc",
+   "headline": "U.S. Users Moved $571M on Polymarket Despite American Ban",
+   "lede": "American traders collectively wagered $571 million on Polymarket's political event contracts even though the platform is prohibited from serving U.S. customers.",
+   "body": [
+    "According to CoinDesk, U.S.-based users managed to access and trade on Polymarket to the tune of $571 million in political prediction markets, circumventing the platform's formal ban on American participation. Polymarket has been officially off-limits to U.S. residents since the company settled with the CFTC in 2022, agreeing to block domestic users as part of that resolution.",
+    "The scale of the figure underscores how ineffective geographic restrictions can be when a platform operates on public blockchain infrastructure. Users relying on VPNs or other tools to mask their location can sidestep IP-based controls with relative ease, and on-chain activity remains visible and traceable regardless of those workarounds, per CoinDesk's reporting.",
+    "Polymarket saw explosive growth during the 2024 U.S. election cycle, becoming one of the most-watched forecasting venues globally. The revelation that a substantial share of that volume originated domestically raises pointed questions about the enforceability of existing CFTC consent orders and the regulatory framework governing prediction-market access more broadly."
+   ],
+   "why": "For prediction-market operators, this story signals that CFTC enforcement of user-ban provisions remains a live risk \u2014 a fresh complaint or contempt action against Polymarket could set precedents affecting Kalshi and ForecastEx's own compliance obligations. Regulators now have hard volume data that makes inaction harder to justify publicly. Traders who used VPNs to access Polymarket may also face personal legal exposure if authorities decide to pursue individual cases.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2MwRmtBdFRfSGtIUkFialI1LTVBb2QxclBCRC1ISlpqRkJLeWx3c01SN0Iwcl9EM2tsTGFWejFoM1N6N2JWcWpDcDhGOFEzdFJQcXdwcmFsZ1kwUUU2VWtwUkJxbHExWDJvaWl6S3lHOWNNdklpQTRlbXBGc213Mm9wOS1ZSi1EOXV0LWpTYlVkSVhqc2xKQzJsS2F0S0hHOUJmRjllY3Fqc24xNGM4SlE3Wl9TZw?oc=5"
+   },
+   "source_title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+   "also": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
+    }
+   ],
+   "published": "2026-07-03T07:00:00+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "aebd6dd117e7",
+   "headline": "Judge Weighs Minnesota's Bid to Ban Prediction Markets",
+   "lede": "A federal judge is considering whether Minnesota can enforce its ban on prediction markets after Kalshi and Polymarket filed suit to block the state law.",
+   "body": [
+    "A closely watched legal battle over state authority to regulate prediction markets landed before a federal judge, with Kalshi and Polymarket jointly challenging Minnesota's prohibition on event contracts, according to MPR News and Courthouse News. The platforms argue that federal oversight through the CFTC preempts any state-level ban on their products.",
+    "The case centers on whether Minnesota's gambling statutes can be applied to federally regulated event contracts. Kalshi, which won a landmark federal court ruling in 2024 affirming its right to offer political event contracts, and Polymarket are arguing that states cannot impose separate restrictions on markets already operating under federal jurisdiction, according to Courthouse News.",
+    "The outcome carries national implications: several other states have signaled interest in restricting prediction markets, meaning a ruling in Minnesota's favor could trigger a wave of state-level crackdowns, while a win for the platforms could effectively shield them from state interference across the country."
+   ],
+   "why": "A ruling for the platforms would establish a strong federal-preemption firewall, making it far harder for any state to block prediction-market activity and opening the door to broader retail participation. Conversely, a ruling upholding Minnesota's ban could fragment the U.S. market geographically, forcing platforms to implement state-by-state access controls and chilling liquidity. Traders and operators should watch this case as a leading indicator of the regulatory runway for U.S. event contracts.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Minnesota"
+   ],
+   "primary_source": {
+    "name": "MPR News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVi1GZ3NUc3R4SkMwSGNyOTVSdW1TbnV4TE84eEZtNlVfWTBfRXBzSUhLY0RCaUdNMkl1SmtFRHUwRjhiaEszaF9QcTB0RjFhT2RwMVhqZVpCV0lqNWVhcnNWUjR6NTQ1Qk12dzlLZEQyaDNTdkljWVRCTW1MdC0wYWtkb0otdTZuU0VKM19lb2sxd0pLSkpkVkx6WFpxYmZwdlJUeUNEcDA2elBVVDZqYUV4UHVNM1NwMUFyWHlJYXh0elVKeVI1cU9uRDI?oc=5"
+   },
+   "source_title": "Nationally watched lawsuit has judge weighing future of Minnesota ban on prediction markets",
+   "also": [
+    {
+     "name": "Courthouse News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajFOemlMc3pVbXFkSGRVWk1oSDUzLUg3VEYzYzBwV0ZIdmN2VEFpM3RsMHZnRzVTYUZQU1JKT2JBdXRwXzBIUjBGM3plWE1KOGlkZU0wRVZVZnNzd2Z6M0J0b0g3NHM5Q3pxZjk4d1BPN0JJemRoQUwzZElpcnZHVEdpaUpiZWtHTzkxTlNySUhyb01xZDV2eFNNbEtmQzVWSWc?oc=5"
+    }
+   ],
+   "published": "2026-07-02T19:51:00+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "50affdff8690",
+   "headline": "Kalshi Suspicious Bets Trigger Spotify Stream Audit on Hit Song",
+   "lede": "Spotify stripped millions of streams from a chart-topping track after unusual betting patterns on Kalshi's prediction markets raised red flags about possible manipulation.",
+   "body": [
+    "Spotify removed a significant volume of streams from a number-one song following suspicious wagering activity detected on Kalshi, the regulated prediction markets platform, according to CBS News. The unusual bets appeared to anticipate the song's chart performance in a way that suggested possible coordination between artificial streaming and market positions.",
+    "Music Business Worldwide reported that the incident highlights an emerging intersection between prediction markets and the music industry, where contracts tied to chart rankings or streaming milestones can create financial incentives to game underlying data. Kalshi hosts event contracts on a wide range of outcomes, including entertainment metrics, making it a potential target for this kind of scheme.",
+    "The episode marks what appears to be the first publicly documented case of a prediction market generating a real-world platform audit in a non-financial industry. Spotify has faced chronic struggles with stream-fraud, but the Kalshi angle introduces a new external signal \u2014 derivatives market anomalies \u2014 as a tool for detecting manipulation."
+   ],
+   "why": "This case establishes a novel precedent: prediction market order flow can now serve as an early-warning signal for fraud on third-party platforms, which could attract regulatory scrutiny toward Kalshi's surveillance and reporting obligations. For traders, it signals that event contracts tied to manipulable data metrics carry elevated invalidation and settlement risk. Operators will likely face pressure from the CFTC to demonstrate robust market-surveillance programs capable of flagging such coordinated schemes.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Spotify",
+    "CFTC",
+    "Music Business Worldwide"
+   ],
+   "primary_source": {
+    "name": "CBS News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU1nQm9mQ0o1ZFVhclBLXzVKS0FqSWtIbXZSNm9VSUstX1EtaXMycDEwN3ZnUlJoLW1GVzZjUHdrZzZJTWoyOUdfSWItMVF5UkxGOHpJQ1hFbmswWEZ4WEtqM2dhc2VDQWtZeEhUb1NIdUZ5bEdfLXpaRktwUEhJazZ4LWRtMDQ?oc=5"
+   },
+   "source_title": "Spotify removes streams of No. 1 song after suspicious Kalshi bets",
+   "also": [
+    {
+     "name": "Music Business Worldwide",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeW11cmFZNC1KdVl0RDhucmc1TXRyVmJQNjVsVTNJWlllZUJlWjVJM05tQVd5MkVicEhOSEs4NGdURXdTU2FrQ2c3dUc1MDhFekRSUTA1T292WjhUZFQ2T0lLbEZYbFNRdlhJOE43bjl0b29VR2JvWUowNW0tMEhISzctVzdMNXJreFRDVkxFRDh1Vm53eUJvczlyaTg4Q1BZNjNTYlNHU1ZCWjFSOVNhbVM0Y0hTVXZfd0IwWWt1aldVU2Zu?oc=5"
+    }
+   ],
+   "published": "2026-07-02T19:46:45+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "f7b4adf93262",
+   "headline": "Kalshi Trader's Fraud Tip Forces Spotify to Confirm Stream Manipulation",
+   "lede": "A Kalshi prediction-market participant flagged anomalous streaming data that prompted Spotify to publicly acknowledge a fraud scheme affecting its platform.",
+   "body": [
+    "A trader on Kalshi, the regulated U.S. event-contracts exchange, raised alarms about suspicious activity in streaming numbers that appeared to be influencing the outcome of a music-related prediction market. According to WIRED, Spotify subsequently confirmed that streaming fraud had indeed taken place, validating the trader's concern.",
+    "The episode highlights an unusual dynamic: prediction-market participants, motivated by financial stakes, can act as real-time fraud detectors. Because traders stand to gain or lose money based on accurate outcomes, they have strong incentives to scrutinize underlying data far more aggressively than ordinary consumers or even platform moderators might.",
+    "Kalshi has been expanding its market categories beyond politics and economics into entertainment and media metrics, where third-party data sources like streaming counts become settlement benchmarks. That expansion introduces new data-integrity risks, as fraudulent manipulation of those underlying figures can directly distort contract payouts."
+   ],
+   "why": "For prediction-market operators, this case underscores the urgent need for robust data-source vetting when settling contracts tied to third-party metrics like streaming counts. Traders should factor in manipulation risk when pricing entertainment markets, as settlement disputes could arise if fraud is discovered post-expiry. Regulators watching Kalshi's product expansion may also use this incident to press for clearer rules around data-source reliability in event contracts.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Spotify"
+   ],
+   "primary_source": {
+    "name": "WIRED",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU96emRxTVJKWFdHMDR6emw1WUw0RUp2WFZEQ2g2bl82UDBodXQzLW9fdGtjMXF6ODBwZzAtMFZDbWJobmdLalg2VXE2dFJvaEFMdVBSdF95NVJHMFRHU2ZpY2ZUeVYyQUN1bXJsUU1YZUpSbWxVdlBMWVNDM1ZFckU4QkU5dHlaTmNLSC1mV2kxMWJmZEhzREdmU2g?oc=5"
+   },
+   "source_title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+   "also": [],
+   "published": "2026-07-02T18:30:00+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "2afd359ef379",
+   "headline": "Supreme Court Gets First Filing in Sports Prediction Market Battle",
+   "lede": "A legal dispute over sports-event prediction markets has reached the U.S. Supreme Court, marking the first filing at that level in the fight over whether such contracts are legal.",
+   "body": [
+    "According to DeFi Rate, the case represents a landmark moment for the prediction market industry, as arguments over the legality of sports-event contracts have now escalated to the nation's highest court. The filing signals that lower-court rulings have failed to settle the underlying legal questions definitively.",
+    "The core dispute centers on whether sports prediction markets constitute illegal gambling or regulated financial instruments \u2014 a distinction with enormous consequences for platforms like Kalshi and Polymarket that offer or seek to offer event contracts tied to sports outcomes. The CFTC has previously weighed in on this boundary, but no Supreme Court precedent currently exists.",
+    "The industry has been in regulatory limbo for years, with exchanges lobbying the CFTC for approval to list sports contracts while opponents argue such products blur the line between derivatives markets and sportsbooks. A Supreme Court ruling, or even a decision to hear the case, could reshape the entire regulatory framework governing event contracts in the United States."
+   ],
+   "why": "A Supreme Court decision on sports prediction contracts would set binding precedent affecting every CFTC-regulated event contract platform, potentially opening or permanently closing the sports market vertical. Traders on platforms like Kalshi should watch closely, as legality rulings could freeze or expand available contract types overnight. Regulators and operators globally would also be forced to revisit compliance frameworks if the Court redraws the gambling-versus-derivatives boundary.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Supreme Court"
+   ],
+   "primary_source": {
+    "name": "DeFi Rate",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVhXS2FMQkpVRnAxcVZRdXlKTFAzZ25CTExGVDBHc1lpcWFONlRCejN3RGxLbnlmbGhVZ1NUZ1NRM2xWVmxkaEZHb1lMbnI1emp4Zm1qNlpXWS14Z0FXckJsWl83MTZtVXZtNXpqVnJfVTRWR2o5MWtEVkpYM19BT0p4d1ZFTWVjVXVUTQ?oc=5"
+   },
+   "source_title": "Sports Prediction Market Fight Gets First Supreme Court Filing",
+   "also": [],
+   "published": "2026-07-02T17:45:00+00:00",
+   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
   {
    "id": "720752e851eb",
    "headline": "Thin Markets and Bots Plague Most Prediction Contract Listings",
@@ -149,7 +369,20 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW52REJsU3UteUdOTzFMOFA2eGRST1FZVEdQa3pwbXFPSEpqa1hmM1ZSSUhxbURPOVBLQ1pLMjJ4NU9ZcE5ZZ0xWeWFWN0dFMFFScFBqLWJTWjhJWU1IYnRYazdvUWkwZnBzVXdYRnRPU1dQVE9JTXBjYUlHUU95QmRRZGtKaGNQMkVFUUhZaXNCQlE1ZWVKWWlsdzJqMHhVODVqbVpQNUtocThCbHdPWFotVmhWdw?oc=5"
    },
    "source_title": "Michigan Judge temporarily blocks Kalshi\u2019s sports-event contracts",
-   "also": [],
+   "also": [
+    {
+     "name": "Event Horizon | Dustin Gouker",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVg5aHZIY0VHQ1Q4a2FLUXdTWW84NkRBTDNpVUZKd2luZjlJN2praTdXbHJIQVNsdklLTkUtZ3VlYll2VHU2RlRrZkFjRXA5NF91VER3YzZaS2RXdnFfTVBrWno0Zl9tYmZ3ZjZ2NlJLcnF5dW1Lc0lVRmVtOE5hZ3U1TjRIMEJYSTBqemVuX3RLM1hCb0xHVnhHNA?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
+    }
+   ],
    "published": "2026-07-01T09:52:30+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   },
@@ -260,6 +493,10 @@
     {
      "name": "DeFi Rate",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk8xNEVBdEtZdG9MeXk0SmFEamI1T1FaR2RfTDZ0RjIxTWo5dk11azlENDZzR1B0RVBVSFdBb1RjNGZkWWtYa0pMMEItV3ZTczRlRk9TQlFnajJUNEtucThCRjdCTzFtRjQxVjhocFpOLUozYy1HM29TdnZDODNINkEyWndEM1FG?oc=5"
+    },
+    {
+     "name": "KWQC",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdYenVvLTByeDY2ZzJ2c3JQNTNPLU9GZzAxQWR5cDUtX0dLQlV0WWtQSk9aaHNzX1VaZlp5SUpZUG1EVHZOX2Y1T3ROR3hYaGxkSFl1bDJtRzctNGhpRE1SLWFvQ0ViMDdvT3lqZEVrYl9iVU1RWWRpYjV6LTNyMnFXUy1FVHBGRGh4Z3FBcndHQTNYLUpUTTVjV1VzS0FsdUg1UnpDOHNIZw?oc=5"
     }
    ],
    "published": "2026-06-26T20:34:19+00:00",
@@ -627,6 +864,10 @@
     {
      "name": "Casino.org",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
+    },
+    {
+     "name": "NEXT.io",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pSS1UV2JWRnJDakNXa0x4WUlldk92TjRWSVhKNHhhaFR1bHhzXzBRcVgwU0JWYkdTTC0tbUx5OEJZdkpTZ2RxVEFCME5PckhFeHJadFFHX0NxUExkOVhEYXFkUQ?oc=5"
     }
    ],
    "published": "2026-04-21T14:51:50+00:00",
