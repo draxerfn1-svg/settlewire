@@ -1,150 +1,269 @@
 {
- "generated": "2026-07-06T19:46:14.006003+00:00",
+ "generated": "2026-07-06T20:02:17.529920+00:00",
  "stories": [
   {
-   "id": "3ae25bbdb32c",
-   "headline": "CFTC Signals Major Regulatory Shift for Prediction Markets",
-   "lede": "The CFTC has announced significant policy developments affecting prediction markets and event-contract futures, according to a report from global law firm Dentons.",
+   "id": "720752e851eb",
+   "headline": "Thin Markets and Bots Plague Most Prediction Contract Listings",
+   "lede": "The vast majority of prediction market contracts trade at low volumes, exposing users to price manipulation, erratic swings, and automated trading exploitation, according to CNBC.",
    "body": [
-    "According to Dentons, the CFTC unveiled major developments targeting prediction markets and futures contracts, marking one of the more consequential regulatory moves the agency has made in this space in recent years. The announcements are expected to reshape how event-contract platforms operate under U.S. law.",
-    "The Dentons report highlights that these developments carry direct implications for exchanges offering event contracts \u2014 the core product of platforms like Kalshi and ForecastEx, which have spent years navigating CFTC oversight. The agency has historically been the primary federal gatekeeper determining which event contracts are permissible for trading.",
-    "This comes amid a broader period of evolution for U.S. prediction markets, which saw landmark legal victories and surging trading volumes following the 2024 election cycle. Regulatory clarity \u2014 or new constraints \u2014 from the CFTC can directly affect product offerings, market liquidity, and the competitive landscape for designated contract markets operating in this space."
+    "Most contracts listed on prediction market platforms see little to no meaningful trading activity, CNBC reports, creating a landscape where a handful of high-profile markets \u2014 presidential elections, major economic indicators \u2014 attract the bulk of liquidity while hundreds of others languish with minimal participation.",
+    "According to CNBC, the thin order books on low-volume contracts leave retail traders vulnerable to sharp price dislocations that may not reflect genuine probability shifts. Bots, which can place and cancel orders rapidly, are able to dominate these illiquid markets in ways that would be harder to sustain on deeper books, effectively setting artificial prices.",
+    "The issue is not unique to any single platform but reflects a structural challenge across the prediction market industry. Platforms like Polymarket and Kalshi have grown rapidly in public profile, yet that visibility has not translated into broad liquidity distribution across their full contract catalogs, leaving the majority of listed events thinly traded."
    ],
-   "why": "Traders on CFTC-regulated platforms like Kalshi should watch closely: any rule changes could alter which contracts are permitted, affecting open positions and available markets. For operators, new guidance may shift compliance costs or open doors for product expansion. Regulation watchers should note that CFTC posture toward prediction markets has become a bellwether for the sector's long-term legitimacy.",
-   "category": "Legal",
+   "why": "For traders, low-volume contracts carry hidden execution risk \u2014 the spread between bid and ask can dwarf any informational edge, and bot activity can front-run retail orders. For platform operators, the liquidity concentration problem undermines the core utility argument for prediction markets and may invite regulatory scrutiny over whether thinly traded contracts constitute fair markets. Regulators at the CFTC, already watchful over event contract design, could use evidence of bot dominance in illiquid markets to tighten listing standards.",
+   "category": "Trading",
    "entities": [
-    "CFTC",
-    "Kalshi",
-    "ForecastEx",
-    "Dentons"
-   ],
-   "primary_source": {
-    "name": "Dentons",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWV4TWRndktxUzRMbVRlcnc2dDNkVzJNU0hvTDFXZl9oZDBxanIxVXdOVTExY1BVNTh4OVhQVUpmMjFZYXZxZG1DVVVCOTFGUTNPWFBpSjZub2lTdl93REd4V1BaSWo2Nk9DZFZfVEdXdDJiYjB6RHRFdnY0LTByajM4ei1PTV8zMEJwTy1UUGFkTnJPRV9F?oc=5"
-   },
-   "source_title": "CFTC Announces Major Developments for Prediction Markets and Futures Contracts",
-   "also": [],
-   "published": "2026-01-30T08:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "0becb936ee36",
-   "headline": "CFTC Opens Public Comment Period on Prediction Markets Rules",
-   "lede": "The CFTC is soliciting public feedback on how to regulate prediction markets, signaling a formal regulatory review of the fast-growing sector.",
-   "body": [
-    "The Commodity Futures Trading Commission has launched a public input process focused specifically on prediction markets, according to WilmerHale's coverage of the development. The agency is seeking comments from industry participants, academics, and the general public on how event contracts and prediction markets should be governed under existing or new regulatory frameworks.",
-    "The move represents one of the most direct regulatory engagements the CFTC has undertaken with the prediction markets industry, which has expanded rapidly through platforms like Kalshi and Polymarket. Key questions likely under review include contract design standards, participant eligibility, and whether current designated contract market rules adequately address these novel instruments.",
-    "The public comment process is a standard but consequential step in U.S. rulemaking. Responses submitted during such periods can directly shape final rules, and major operators have a concrete opportunity to influence how the CFTC defines the boundaries of permissible event contracts \u2014 a question that has generated significant litigation and lobbying activity in recent years."
-   ],
-   "why": "A formal CFTC comment process is a high-stakes moment for prediction market operators: the resulting guidance or rulemaking could either legitimize current product offerings or impose new restrictions. Traders should watch for signals on contract-type eligibility, as unfavorable rules could delist popular markets. Operators and legal teams should prioritize submitting comments to shape outcomes directly.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
     "Polymarket",
-    "WilmerHale"
-   ],
-   "primary_source": {
-    "name": "WilmerHale",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEUtRnpLSUVjWURkTnRkSjNiSzhxOTFaLW1iVFV6amZiS2U0NWxSZ1hvbTBWZmN4LVN5eXBvSHN2WmhzVmFQSlRNTGpMaHB0amUyVVZQVzZTSFNTVTVPSDBtSFF5VVlfRm0wR3k0WWxWaDBOTXJnT3NuOUJEX2c0U3ZfY1FBS1VYWXFsU3R2MnFWblpNbENUQ0I2VTFMcDduX2tZbllTMTgycHBCV3RPNXpYQmtIck1MTUE?oc=5"
-   },
-   "source_title": "CFTC Seeks Public Input on Prediction Markets Regulation",
-   "also": [],
-   "published": "2026-03-17T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "bf90486db082",
-   "headline": "Sports Event Contracts Face Legal, Regulatory Pressure on Multiple Fronts",
-   "lede": "Sports event contracts offered by platforms like Robinhood and Plus500 are drawing simultaneous scrutiny from consumer lawsuits, state legislatures, industry opponents, and former federal regulators.",
-   "body": [
-    "A consumer lawsuit is now challenging Robinhood's sports event contracts, adding legal risk to a product category that has grown rapidly since the CFTC declined to block similar offerings from Kalshi. Meanwhile, Plus500 announced a U.S. sports event contract launch, signaling continued commercial appetite even as headwinds mount across regulatory and legal channels.",
-    "New Jersey legislators have introduced a bill that would require prediction market operators to obtain state licenses before offering sports event contracts to residents, according to Sports Betting Dime. Separately, major gambling industry associations have lobbied the Senate to take action against the contracts, framing them as unlicensed competition to regulated sportsbooks.",
-    "A former CFTC commissioner publicly questioned the 'economic purpose' of sports event contracts, per Yahoo Finance and CDC Gaming, arguing the products lack the hedging utility that traditionally justifies CFTC-regulated derivatives. KPMG has also weighed in with analysis on how these contracts should be taxed, reflecting growing mainstream attention to the asset class."
-   ],
-   "why": "The convergence of a consumer lawsuit, state licensing proposals, and a former regulator's legitimacy challenge creates compounding legal uncertainty that traders should price into any platform-specific positions. If New Jersey's licensing model is adopted by other states, operators face a patchwork compliance burden that could restrict liquidity or force product withdrawals. Prediction market operators expanding into sports contracts \u2014 including newer entrants like Plus500 \u2014 may face the steepest headwinds as regulatory arbitrage closes.",
-   "category": "Legal",
-   "entities": [
-    "Robinhood",
-    "Plus500",
-    "CFTC",
-    "Kalshi"
-   ],
-   "primary_source": {
-    "name": "KPMG",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wSXdkWXFlak5aeDk5QlNIcjRMcV9TcUpJYWVqM0NKSkFHZG1pTVp0UlVZT2hYeEM5eUthU0RXenhPN3dfdUowNk1qYTdPYVBmWHExNlRwWHlBcmZoeW5MYjFvdHFxbjhhUTNzSURXLXVla0pwbnlFdC11SlhDQQ?oc=5"
-   },
-   "source_title": "Taxation of Sports Event Contracts",
-   "also": [
-    {
-     "name": "Bloomberg Law News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3NwaHpUR1dEVlplSDlCXzRnb3lqYUFCcmhoai1aZXZkSHpCR2ZjVFIyTTFzMUU2cUhZY1BIdnNseERPWVlqOEZETFBKeUhQM01pQ3pRZjBrNlY1VnhhMDIxUjlOTFJCQVloX1k3TFpMc3oxQmxNSFlLSU42cjJWYVJrZnVOT29fOUtqUldOejZ4Yk1ZX05oeV9uNVcwY1ZzVkZEUUZaN1I3d081UjlubHlYMUdKZEVfeHNFdHEwMlM?oc=5"
-    },
-    {
-     "name": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjZ4S25abnJ2QkRZMmEwSXRnS00xODBDX1dvZXJQbWU4a1AtRUtJem5zQ1BjeldKbG1SbzZpMDJtbUFuR2t6OHVnYkVKYXZQT3RmTVIyRDVWMFdBOGhRaWJOV1hHOWU4bXdpMzJMeTZYV1IyVEx1OHNHR19wZWIyRkNmVWJHdW5NYlFybWxIMVJ5dlA5dUtMNkU2MXdUaG44OE1YSXExbVh2Y0kwZExxY3VoOEJ6cVAxNzhoeGp5dFNZNkxVNmkxT3ZKMnc3N25ZYjNEbTdtUHo?oc=5"
-    },
-    {
-     "name": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejdrc1dlRjdKSDhTMTdQUmtYd1FtcXhOZVNlLVBCN1A1NUNHWW5JTVJtYTZQM0o2eEhUWlJldnl1NzNoWmxsbkJpMzA1Y05tVDVFeDBQTUdnVDNMeHRhbkhiaFNIb1ROQ0lQOVlJX29TUDFPcGk1ZG10VU50SDA2QXc5QWJGaTJQanI2MXJ3Y0ZYYXVYQTFFRXlOcjVnNFdlNEJlbVlWTUtYdGdyak9nLV9NUzViNWYzYnFhMWZuR00zbDRRQWZ5TEtSdzBseTVXekh6cEwzaEhMWU1LV2c?oc=5"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzRRNmdrTDhJR2VNYWxPTE5wcThvZUxwQjlGZ1RWMWxBQkZNdmRtNmtBQkMybXBsUnVxZXhhWFhfc1Q0MTRmbk5MSWk5Q1pMZHFSRlliSHJNRmdkcU1JRHZzV21OZ0xyVGZoVWNFdGNYakdNQ2RKUnFONlcyNmFKbUZjWDRaSzltQjhOZ0dVUF9FeWIyeFJuVS1VbDBidkxlR1VFSjB3Zw?oc=5"
-    },
-    {
-     "name": "CDC Gaming",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2xkTkhGZmZ6MW1hemRvYWVwTF9QcG1xbnB0QlI3X1ZhZGQwMFZCdDNUT1VHUU84czQ3aU1TUFNyeXhkR1dLWlpoajFjT19iXy1GMC1pQ1Ztb2s5cTJFUzR3dmFnblc4TGY5QVhJSnB6Y2pURExjUUxhTGhrdzY1bE9yVkJhcUdLSWVUMmo2dTlMdjBoZXozOC10WUpkTUxodGYzdQ?oc=5"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM295aWV6aFVNaW05YTc5Q1NVd2NUWDJqOWZUc2pQMV9VODg1dVhqbDR1d0FQTDVCQXpHTVpjNXN6by05V2FvNTJkTWtPTjdGbjBra1BpODd2bXBxU1Yzc3dYckt6MzBTamFVeXYxTjRIZzFYT0VLMktHeXdfak04ZWtxY185aHM2?oc=5"
-    },
-    {
-     "name": "Event Horizon | Dustin Gouker",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
-    },
-    {
-     "name": "Crypto News",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGhBQ09pYnA4bjJTc3NNd2wxbkdjUzVsX3Nrb3VVNUtFQ1E4eS1PUFZXZ0JTN1ZERC1GeEVaTjBleFIwc3JvMEh5R2JBbklVR1I3N2oteXFRcEs1eE9PSmxmcjdQQWdlSzFuMHJOYWxBZmgxQWR2alM2ckU0LVlTcGNBVl9sVEU0RHRRYjZYSVc?oc=5"
-    },
-    {
-     "name": "Spectrum News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVg5aHZIY0VHQ1Q4a2FLUXdTWW84NkRBTDNpVUZKd2luZjlJN2praTdXbHJIQVNsdklLTkUtZ3VlYll2VHU2RlRrZkFjRXA5NF91VER3YzZaS2RXdnFfTVBrWno0Zl9tYmZ3ZjZ2NlJLcnF5dW1Lc0lVRmVtOE5hZ3U1TjRIMEJYSTBqemVuX3RLM1hCb0xHVnhHNA?oc=5"
-    },
-    {
-     "name": "Casino.org",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
-    }
-   ],
-   "published": "2026-04-21T14:51:50+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "0b664a27e250",
-   "headline": "Democrats Press CFTC to Crack Down on Prediction Market Sports Contracts",
-   "lede": "A group of Democratic lawmakers has called on the CFTC to tighten oversight of prediction markets, specifically targeting sports-event contracts and potential insider trading risks.",
-   "body": [
-    "Democratic members of Congress sent a formal letter to the Commodity Futures Trading Commission urging regulators to take a harder line on prediction markets that allow wagering on sporting event outcomes, according to CNBC. The lawmakers expressed concern that these products blur the line between regulated financial derivatives and unlicensed sports gambling.",
-    "The letter also flagged insider trading vulnerabilities unique to event contracts, where participants with privileged knowledge \u2014 such as team staff or athletes \u2014 could potentially profit from non-public information. According to CNBC, the Democrats argued the CFTC's current framework is ill-equipped to detect or deter that kind of activity in fast-moving event markets.",
-    "The intervention comes as platforms like Kalshi and Polymarket have rapidly expanded sports-related contract offerings following a string of legal and regulatory wins. The CFTC has been under mounting pressure from both industry players seeking clarity and critics who argue the agency has been too permissive in allowing products that resemble traditional sports betting."
-   ],
-   "why": "Congressional pressure on the CFTC could accelerate rulemaking or guidance that directly limits the scope of sports contracts on platforms like Kalshi, squeezing a fast-growing revenue vertical. Traders with open positions on sports event contracts should watch for any emergency CFTC action or new proposed rules that could affect contract availability. Longer term, a formal crackdown could also create a regulatory wedge between US-based platforms and offshore operators like Polymarket, reshaping competitive dynamics.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
     "Kalshi",
-    "Polymarket",
-    "U.S. Congress"
+    "CFTC"
    ],
    "primary_source": {
     "name": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFp3TTU0QUJqbHlTYnlDd0lJSi0yN3ZsX3ROWFBfb0JnYnRCMGRFM2lfUzJoMjVuTFVmNUFYZUk5VXllZlZmWDFzUzNjMU4zLTE3eWU1UVVKWjV2Zk5KTVN5QTlFT1JjN1EwSUdWS1pUQ0JWcUVoa2xFZW9xdW5YUHlNTVF1c2tEVXZoSkwyXzbSAZYBQVVfeXFMT1VXV2JhdlRiQTlHTmdGV3RJT1N2d1doai1qOG9vbkVSTkZMcE9PQjZyRWhfUldjSjhUUVpNU3JwM0lYWHVERXF2MU0zcUc1dm9ZMGVoeWRoZjR3WVdNemJUSDU4VGZNSlJCbHR1b3R2Q1BKQ0k1dVUtT2JKaDFSdUlPMElJeXFkb1ZURXYzS0RBZXBQWThB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXB4b0dTZFRxQnRtQ3czLVp3Z0R4bnBOLWdYd0J0Vm1IYjUyNXIwZW9aaG1hRHdoWjc1V0Nlc0hBZ3RkN29ON3JvSVR3ZUJrV29Tb2gzOEh5NnNWa0QwcWhUWVg4b0VSYy1CYmtxSTNtRHZjeWJzdzlWWHlpRVMzUEtuaUV1QkNzakl1Y3FTczRxRUZqZV9B0gGcAUFVX3lxTE1WeHR4N2ZHVzhJRFF1d25acHhINWNPc09zdW9kcTNvNXllUDlkV0MtdjJfMUMyTE9UZTB1dmFqal9oWjFjYXRXT2c1YzNxZF9Wa0pRN1o5Rm9HS00yTVJEMFFsODVOLTNmai1fSV9OWTZBdGk3VXktX3o1MGV1NWxiX2xUVUM2SndyUlRJOWtIeE12WlFaRlNSbTBPUg?oc=5"
    },
-   "source_title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
+   "source_title": "Most prediction market contracts have low volume, leaving users exposed to volatility and bots",
    "also": [],
-   "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
+   "published": "2026-07-02T12:47:08+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "328c030e8550",
+   "headline": "Cboe Seeks SEC Blessing for Earnings-Based Event Contracts",
+   "lede": "Cboe has formally asked the SEC to approve a new class of event contracts tied to corporate earnings outcomes, expanding the regulated event-contract landscape beyond the CFTC's domain.",
+   "body": [
+    "Cboe Global Markets has filed a request with the Securities and Exchange Commission seeking approval to offer event contracts based on corporate earnings results, according to Casino.org. The move would mark a significant expansion of exchange-traded event contracts into SEC-regulated territory, where earnings data is considered securities-adjacent information.",
+    "The application represents a direct challenge \u2014 or complement \u2014 to the CFTC-regulated event contract space currently dominated by platforms like Kalshi and ForecastEx. By routing earnings-based contracts through the SEC rather than the CFTC, Cboe appears to be carving out a separate regulatory pathway that could sidestep ongoing debates about what qualifies as a commodity-based event contract.",
+    "Earnings event contracts would allow traders to take positions on whether a company beats, meets, or misses analyst forecasts \u2014 essentially turning quarterly reporting season into a tradeable event market. The product would compete with existing prediction-market activity on platforms like Polymarket, where informal markets on corporate outcomes already attract significant volume."
+   ],
+   "why": "If the SEC approves Cboe's application, it would establish a second major regulatory framework for event contracts alongside the CFTC, complicating jurisdiction boundaries and potentially triggering turf disputes between the two agencies. Kalshi and ForecastEx would face a well-capitalized incumbent competitor with established institutional distribution. Traders should watch for whether SEC approval sets a precedent that accelerates or restricts event-contract product development across the industry.",
+   "category": "Legal",
+   "entities": [
+    "Cboe",
+    "SEC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Casino.org",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0t1dURXc0hjRV8xMEd3WDVpTVdVR2ZSLXVQV0xNUGE3TjJzSkEwLU5zRk1kaU9OSmFMVHlNdnBjLVZWRUVLcWI0VHB6eFo1eTF4d0FMeVM5clhLcV85cFpPbnN3SUwwdGNRM0ZYVUJGX3ZIVm1SQjh2Rk1TeVdwMC13TzdsSWZab3h2b2h1cw?oc=5"
+   },
+   "source_title": "Cboe Asking SEC to Approve Earnings-Based Event Contracts",
+   "also": [],
+   "published": "2026-07-02T12:03:36+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "fcb70cc32e93",
+   "headline": "Large Polymarket Wagers Placed on Putin Losing Power",
+   "lede": "Significant sums have been wagered on Polymarket contracts tied to Russian President Vladimir Putin's political fate, drawing widespread attention.",
+   "body": [
+    "According to NBC News, notable bets have surfaced on Polymarket \u2014 the crypto-based prediction market platform \u2014 centered on whether Vladimir Putin will remain in power or face some form of political downfall. The contracts have attracted attention both for their size and for the geopolitical signal they may carry.",
+    "Polymarket has increasingly become a venue for high-stakes political wagering beyond U.S. elections, with users placing large individual positions on foreign-leader outcomes. The Putin contracts reflect a broader trend of traders using the platform to speculate on low-probability but high-impact geopolitical events, where contract payouts can be substantial if rare scenarios materialize.",
+    "This follows Polymarket's surge in mainstream visibility after the 2024 U.S. presidential election cycle, during which the platform recorded hundreds of millions in trading volume. Political contracts involving foreign heads of state now represent a growing segment, raising questions about the platform's data value as a geopolitical forecasting tool."
+   ],
+   "why": "Large, visible bets on sovereign-leader contracts can move implied probabilities significantly, making these markets both a signal and a target for informed or well-capitalized traders. Regulators and competing platforms will watch whether such contracts attract scrutiny under event-contract rules. For operators, high-profile geopolitical markets drive user acquisition but also increase reputational and compliance risk.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Vladimir Putin",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1nNlR6V2F3eDFVeVZjVnFsYXBfdUIwZ0I5SFZpNjVmTWNTdllHUTgyVWZfUmllOFNOdTc0VUR0LVVsZ3F6NW9hRTR6MUYwTnJOUWVDY1RNaDFWb244V2c4aDhmcUdrR1NiLV85V0J4dHdXSmU3ZXdSY0c0dFpUMDRCQlc1SjJhLV9WOHM0ZlBZMm5waXVHS043T2pYYWM?oc=5"
+   },
+   "source_title": "Big Polymarket bets have been placed on Putin\u2019s downfall",
+   "also": [],
+   "published": "2026-07-02T00:40:00+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "bddc72fd0279",
+   "headline": "Kalshi Sues Illinois Over Sports Betting Tax on Prediction Markets",
+   "lede": "Kalshi is challenging Illinois's application of its sports betting tax to prediction market contracts, escalating a nationwide fight over how event contracts should be regulated.",
+   "body": [
+    "Kalshi has filed a legal challenge against Illinois over the state's attempt to apply its sports betting tax to the company's federally regulated prediction market contracts, according to PYMNTS.com. The dispute centers on whether Illinois has the authority to impose state gambling levies on a product that operates under federal CFTC oversight.",
+    "The case represents a direct collision between state gambling regulators and the federal framework that governs event contracts. Kalshi has consistently argued that its products are commodity contracts, not sports wagers, and therefore fall exclusively under federal jurisdiction \u2014 a position the company is now pressing through litigation in one of the country's largest sports-betting markets.",
+    "The Illinois confrontation is part of a broader pattern: as prediction markets expand into sports outcomes and elections, state gaming authorities have increasingly moved to assert jurisdiction. Similar jurisdictional questions have surfaced in other states, making this case a potential bellwether for whether federal preemption shields CFTC-regulated operators from state-level gambling taxes and licensing demands."
+   ],
+   "why": "A ruling favoring Kalshi would create a strong federal-preemption precedent, directly limiting states' ability to tax or restrict other prediction-market operators like ForecastEx. Conversely, an Illinois victory could force Kalshi and rivals to navigate a patchwork of state tax regimes, significantly raising compliance costs and dampening market liquidity. Traders and operators should watch this case as a leading indicator of whether the prediction-market model scales nationally.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Illinois Gaming Board"
+   ],
+   "primary_source": {
+    "name": "PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkxsMmF1anRjeGEzYXRaVlpjWWNVZDdrU19OQkxfMzhVWkxCTWZBYWE2Z2JucDJ3RkFwNGY3cFd4bWlNQnU4SVpCMDVCUTgza1dRYkZONFF1c1hxUzJSSGc5VmFaQnU1X3ZHSnVEbXMzQTZUYWI0MFRHamFfUUV6NmdXUEsyZ0lIU1Z5ZUliYVNyZER0R2pMcVJsbDhtelZGZGJGVl9JWDZIQXNNckpmNHYyZ3RKNGtqLXlyczI4cm9tRmllZWVTMQ?oc=5"
+   },
+   "source_title": "Kalshi Challenges Illinois Sports Betting Tax as Prediction Market Jurisdiction Fight Escalates",
+   "also": [],
+   "published": "2026-07-01T18:46:04+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "6e3d4f6a0a64",
+   "headline": "Prediction Markets Reach $24B Monthly Volume as States Push Back",
+   "lede": "Monthly trading volume on prediction markets has surged to $24 billion, triggering a wave of state-level regulatory resistance across the U.S.",
+   "body": [
+    "Prediction markets have exploded in scale, with monthly volume hitting $24 billion according to Forbes, a figure that reflects dramatic mainstream adoption following high-profile political event contracts during the 2024 election cycle. The growth has transformed platforms like Kalshi and Polymarket from niche curiosities into financial infrastructure drawing serious institutional and retail attention.",
+    "The rapid expansion has not gone unnoticed by state regulators. According to Forbes, multiple states are actively pushing back against the spread of these platforms, raising concerns that event contracts on elections, sports, and other outcomes may overlap with gambling laws that states \u2014 not federal agencies \u2014 have historically controlled.",
+    "The tension sits at the heart of a federalism dispute: the CFTC has signaled that federally designated contract markets like Kalshi operate under its jurisdiction, effectively pre-empting state gambling statutes. States disagree, and some are pursuing their own enforcement actions, setting up a legal conflict that could reshape how and where Americans access these markets."
+   ],
+   "why": "For prediction-market traders, state-level crackdowns could restrict access or force geo-blocking in key U.S. markets, fragmenting liquidity. Operators face compliance costs and legal uncertainty that may chill product expansion. Regulation watchers should monitor whether federal pre-emption arguments hold in court, since a ruling favoring states would fundamentally redraw the competitive landscape.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Forbes"
+   ],
+   "primary_source": {
+    "name": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTdvNkJTUVNIVlpwVTdab0tyOHNST3JpTlVnN2FZbENKaFFIZ3VPNkV2c21YTklrZFlLczhhYlViWXFEQ1M2SS1fQ0VjNXpYOXdWVnoyS3E2dHIwX0tqZ3pfQnZZOFZ5ZGxoMEFycEUteU80RC1TWnhtT0M4Tm0wNV9UNWhFU3ZUdGw1TzRqV3lNTlF6cmVuNjJKcHFqNXE3c3dPaDRfOGNFTmVxa0UxbG1yYlJXXzBjbXc?oc=5"
+   },
+   "source_title": "Prediction Markets Hit $24 Billion A Month. States Are Fighting Back",
+   "also": [],
+   "published": "2026-07-01T12:00:00+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "6a81819f81c9",
+   "headline": "Michigan Judge Halts Kalshi Sports Event Contracts",
+   "lede": "A Michigan federal judge has issued a temporary block on Kalshi's sports-event contracts, dealing a significant legal blow to the prediction market platform.",
+   "body": [
+    "A Michigan judge granted a temporary restraining order halting Kalshi from offering sports-event contracts in what amounts to a direct legal challenge to the platform's expanding sports markets, according to gamingintelligence.com. The ruling puts a pause on contracts tied to sporting outcomes that Kalshi had been operating under its CFTC-regulated framework.",
+    "Kalshi has argued that its event contracts are federally regulated derivatives, not sports wagers subject to state gambling laws \u2014 a legal theory that has been central to its growth strategy. The Michigan action suggests state authorities are willing to contest that argument in court, potentially setting a precedent for how other states treat federally sanctioned event contracts.",
+    "The case is part of a broader national tension between state gambling regulators and CFTC-regulated prediction markets. Several states have pushed back against Kalshi's sports contracts, viewing them as unlicensed sports betting operating under a regulatory loophole. The outcome of this Michigan proceeding could influence how aggressively other states pursue similar injunctions."
+   ],
+   "why": "This temporary block is a critical inflection point for prediction-market traders and operators: if Michigan's restraining order is upheld or expanded, it could fragment Kalshi's user base by geography and force the CFTC into a direct confrontation with state gaming regulators. Operators watching the space should monitor whether other states file copycat actions, which would materially raise compliance costs and restrict contract availability. Traders holding open sports-event positions on Kalshi face potential forced settlement or restricted access depending on how quickly the legal challenge escalates.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Michigan"
+   ],
+   "primary_source": {
+    "name": "gamingintelligence.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW52REJsU3UteUdOTzFMOFA2eGRST1FZVEdQa3pwbXFPSEpqa1hmM1ZSSUhxbURPOVBLQ1pLMjJ4NU9ZcE5ZZ0xWeWFWN0dFMFFScFBqLWJTWjhJWU1IYnRYazdvUWkwZnBzVXdYRnRPU1dQVE9JTXBjYUlHUU95QmRRZGtKaGNQMkVFUUhZaXNCQlE1ZWVKWWlsdzJqMHhVODVqbVpQNUtocThCbHdPWFotVmhWdw?oc=5"
+   },
+   "source_title": "Michigan Judge temporarily blocks Kalshi\u2019s sports-event contracts",
+   "also": [],
+   "published": "2026-07-01T09:52:30+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "92bbdf6a42f9",
+   "headline": "Michigan Orders Kalshi to Stop Taking Bets in State",
+   "lede": "Michigan regulators have directed prediction-market platform Kalshi to cease operations within the state, marking a fresh legal challenge for the CFTC-regulated exchange.",
+   "body": [
+    "According to WILX, Michigan authorities issued an order requiring Kalshi to halt its operations in the state. The move represents one of the most direct state-level confrontations with Kalshi since the platform secured federal regulatory approval to offer event contracts through the CFTC.",
+    "Kalshi has positioned itself as a federally licensed exchange, arguing that CFTC oversight preempts state gambling laws. Michigan's action suggests state regulators disagree, setting up a potential legal clash over whether federal authorization shields Kalshi from state-by-state enforcement actions.",
+    "The dispute echoes earlier battles Kalshi fought \u2014 and largely won \u2014 against the CFTC itself over election contracts. However, state preemption arguments are legally distinct and less settled terrain, meaning Michigan's order could open the door for other states to pursue similar crackdowns on event-contract platforms."
+   ],
+   "why": "A successful Michigan enforcement action could embolden other states to issue their own halt orders, fragmenting Kalshi's U.S. user base and raising compliance costs significantly. For prediction-market traders, this introduces platform-access risk; for operators, it signals that federal licensure alone may not provide the legal cover they assumed. Regulation watchers should monitor whether Kalshi seeks a federal injunction, which could produce precedent-setting rulings on CFTC preemption of state gambling law.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Michigan"
+   ],
+   "primary_source": {
+    "name": "WILX",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qRXBLY2JTOUo5anFFSFVVMVBvS0lETV80N1BLRTZtdEFsN0p1a1M2Y09GellVekNXNFFka1FDdHVPWnE0dVh1aUJvaDE5NlA4b3o2aGg2MkZMbi1Kc3QyUnVxcVUtS2tsN3Z6RlU0ZzI5eS1YUnNxVG5YQzTSAZABQVVfeXFMTWx0V2hBV1lIVUhrTHJuRlY4XzgxQWpHSV85NDFLNmVNWXZJdHhQWTNpdVVBN29yYm5kaU1pa09HNkhyX2o1cU1KdTNBR0Z6WDdoU1VjdmNIRkY4c3FTNWI4Z2l2c1V3U0hDMWF4Rm9fMWl3ZTZQaVc4Z3JPeE1FRTc4Vld4cjQybjYtbFRXZHBm?oc=5"
+   },
+   "source_title": "Kalshi ordered to halt operations in Michigan",
+   "also": [],
+   "published": "2026-07-01T01:55:00+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "f1689d4c2b1f",
+   "headline": "Meta Weighed Kalshi Acquisition Before Building Own Prediction App",
+   "lede": "Meta explored purchasing prediction market exchange Kalshi before ultimately deciding to develop its own in-house prediction markets application, according to NPR.",
+   "body": [
+    "Meta seriously considered acquiring Kalshi, the CFTC-regulated prediction market platform, before pivoting to build a proprietary forecasting product internally, according to NPR. The revelation sheds light on how seriously major tech platforms are evaluating the prediction market space as a viable consumer product category.",
+    "Kalshi, which secured a landmark legal victory allowing it to offer U.S. political event contracts, has become one of the most prominent regulated prediction market venues in the country. A Meta acquisition would have represented a dramatic consolidation, bringing a federally licensed exchange under the roof of one of the world's largest social media companies.",
+    "Meta's eventual decision to build its own app rather than acquire Kalshi suggests the company saw sufficient opportunity to compete from scratch, potentially leveraging its massive user base. The move also signals growing mainstream corporate interest in prediction markets as an engagement and information product beyond niche trading audiences."
+   ],
+   "why": "For prediction-market traders, Meta entering the space \u2014 whether via acquisition or organic build \u2014 could dramatically expand liquidity and user volume across the sector, lifting all boats or intensifying competition. Regulators at the CFTC will likely face new pressure to clarify rules around who can operate event-contract platforms, especially if a social media giant enters. Kalshi's valuation and strategic positioning may also shift as rivals now know it was deemed acquisition-worthy by Meta.",
+   "category": "Deals",
+   "entities": [
+    "Meta",
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "NPR",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnFrS2ZwbmY1Zm9CWlE4UU9Md2Vwc19fS1FnUzNQUDJGVkh5aXQ1WDdSVkFNeXVybnhKZFRWZ0R3VFczZFFxMVdnaEhSb2xRNDFRbzJuY1JnYnY1c1B5azdHWXJVMnUyY1FuTmF4dFhlV0VWcm1mUFVCVDZuRDdwR25aNUNlZHFyV1djdzJrTG5aM1ZiX0FB?oc=5"
+   },
+   "source_title": "Meta considered buying Kalshi before developing its own prediction market app",
+   "also": [],
+   "published": "2026-06-30T20:33:04+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "58f03a9b1c39",
+   "headline": "SEC and CFTC jointly seek public input on event contract regulation",
+   "lede": "The SEC and CFTC have issued a joint request for public comment aimed at clarifying the regulatory boundary between securities and event contracts.",
+   "body": [
+    "According to JD Supra, the SEC and CFTC are jointly soliciting input from market participants and the public to help draw clearer jurisdictional lines around event contracts and other novel derivatives products. The move signals that both agencies recognize the existing regulatory framework may be ill-suited to handle a new generation of financial instruments.",
+    "Event contracts \u2014 wagers on real-world outcomes traded on platforms like Kalshi and Polymarket \u2014 have long existed in a gray zone between commodity futures regulation under the CFTC and securities oversight by the SEC. The joint inquiry suggests regulators are finally willing to formalize which agency governs which product type, a question that has generated years of legal uncertainty.",
+    "The request for comment is a procedural step that typically precedes rulemaking or formal guidance. Industry participants, including prediction market operators and their legal counsel, will have an opportunity to shape the eventual framework, according to JD Supra, making this a rare opening for the sector to influence its own regulatory future."
+   ],
+   "why": "A clearer jurisdictional split between the SEC and CFTC would reduce compliance costs and litigation risk for prediction market operators, potentially accelerating product launches. Traders should watch for any signal that event contracts tied to securities-like outcomes \u2014 such as stock price events \u2014 could shift to SEC oversight, which carries stricter rules. The outcome of this process could also set precedent for how crypto-based prediction markets are classified.",
+   "category": "Legal",
+   "entities": [
+    "SEC",
+    "CFTC",
+    "Kalshi",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "JD Supra",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFd1VDJPUDdrSmdVZWtKZnU1bGxxV09zdmh6LV9MZWJObjZIajNMMUUtZmlPN0p2NnhQT0pjQTR5ZzRwQ3Y4TDIxLTBnWGFRWWRKYTNjaGRSeHRuY0V5cTB6alhOV08tYnNvSzRmMVBwVV9HVlI1Vi1VeTVLSzByZHp3?oc=5"
+   },
+   "source_title": "SEC, CFTC seek input on clarifying regulatory lines for event contracts and other innovative derivatives products",
+   "also": [],
+   "published": "2026-06-29T17:50:15+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "683fd6b49313",
+   "headline": "Kalshi sues Illinois and Ohio to block sports-market regulation",
+   "lede": "Kalshi has filed lawsuits against both Illinois and Ohio, challenging state attempts to regulate or penalize its sports-event prediction contracts.",
+   "body": [
+    "Kalshi is fighting on two state fronts simultaneously. According to Capitol News Illinois, the federally regulated prediction market has sued Illinois over the state's effort to classify its sports-event contracts as sports betting subject to state oversight. Kalshi argues its products are CFTC-regulated event contracts, not wagers under state gambling law.",
+    "On a separate front, DeFi Rate reports that Kalshi is also suing Ohio after the state levied a $5 million fine against the platform, again tied to its sports prediction market offerings. The Ohio action represents one of the largest state-level financial penalties yet directed at a federally licensed prediction market operator.",
+    "The dual lawsuits mark a significant escalation in the jurisdictional conflict between state gambling regulators and CFTC-authorized exchanges. Kalshi has consistently maintained that its federal designation preempts state gaming authority, a legal theory now being tested simultaneously in two separate court systems."
+   ],
+   "why": "These cases could set binding precedent on whether CFTC designation shields prediction markets from state gambling enforcement \u2014 a question every operator in the space is watching. A Kalshi victory would clear the path for nationwide sports contracts without state-by-state licensing; a loss could fragment the market and raise compliance costs dramatically. Traders pricing political or sports contracts on any platform should watch these rulings as a leading indicator of regulatory risk.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Illinois",
+    "Ohio"
+   ],
+   "primary_source": {
+    "name": "Capitol News Illinois",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUE93aGVGSm9aVE9BS1NMOHJiVVY2TVRwYUZ3Zmx0T0RSSXczVXZLX1NVUHNZUE5fSnZ0azY4bHhiWXdyNE5IdVNXOVF4MXVCazJWVG4tMnpYMHNGclUzWTJUYU0xSWRpeExnR3M4V25GdnBGSG9tNGNYN2drb0N3SUhZMnZLTFlFSXdGX1E2bWRHbDk5cE9IMXNUS1pLNl9TTjR2X3JwVGhaXzZaZ2pUUjExUFo?oc=5"
+   },
+   "source_title": "Prediction market Kalshi sues Illinois over its push to regulate sports bets",
+   "also": [
+    {
+     "name": "Capitol City Now",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dwVGNjVE94VHhfdENlVzN4WVRsZElDSHktRHJWaEoxeFoxY1llMHFhWFNrOTdfRG9nZ0p3a2drSk1vbU0yaVBmS1BSNEZwZTFUTnRubFQ3d05aT1lLTzViNTdrYnVEQWZ4MzN1ZHpuMzJlb1hXTG9haFJ3QXVnVFpjYTFVN3ZQYU9jbFVpRG9rX0NCSGNCYUdtRU9fNEtVQmoxQXZ0ZWtiZ3pDMFRHLXJHZWJ0QkU?oc=5"
+    },
+    {
+     "name": "DeFi Rate",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk8xNEVBdEtZdG9MeXk0SmFEamI1T1FaR2RfTDZ0RjIxTWo5dk11azlENDZzR1B0RVBVSFdBb1RjNGZkWWtYa0pMMEItV3ZTczRlRk9TQlFnajJUNEtucThCRjdCTzFtRjQxVjhocFpOLUozYy1HM29TdnZDODNINkEyWndEM1FG?oc=5"
+    }
+   ],
+   "published": "2026-06-26T20:34:19+00:00",
+   "first_seen": "2026-07-06T20:02:17.529920+00:00"
   },
   {
    "id": "19b28b95e01e",
@@ -282,36 +401,10 @@
    "first_seen": "2026-07-06T19:46:14.006003+00:00"
   },
   {
-   "id": "91b61dd634b0",
-   "headline": "CFTC and Federal Agencies Sharpen Focus on Prediction Markets",
-   "lede": "Federal regulators are intensifying scrutiny of prediction markets, with the CFTC and other agencies signaling a coordinated push toward clearer oversight frameworks.",
-   "why": "Traders should watch for potential new contract approval timelines and compliance costs that could reshape which platforms survive regulatory review. Operators face a critical window to engage rulemaking processes before stricter definitions of permissible event contracts get locked in.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "Office of Advocacy"
-   ],
-   "primary_source": {
-    "name": "Akin",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWVfT0dTRVJTeXJNSHlhYmxSWWJGQ0lfTE5mbV9hZmVhaXJCYTRFY09wdTlfdjB5akVwLU5meXVEcVlGSnlERWxzdElhdzR1RENpcUUwR25Ba0lnNUJKLUdrbElUTWRrS1hwaHlEV0lLZHA3QWhHQXFzaDdYZVVsYUVGWUlWRm5VLVMzUFQzQTFJQW9zREE5VF82RHlKZ2RCSUdBeU53?oc=5"
-   },
-   "source_title": "Federal Agencies Signal Renewed Focus on Prediction Markets",
-   "also": [
-    {
-     "name": "Office of Advocacy (.gov)",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMFRDVzZoUklRRTJTY1RhLUF5dEZjSlBqY2JfSmIxRjZzaFBkUHlLWDJ4XzB6cDJpUElLdERYZ0Zxc3c1MXZlbm12WTAzOURkQ2lIM04yek5QcU1UdHozU191VGw2U1N4YnlTNA?oc=5"
-    }
-   ],
-   "published": "2026-02-13T08:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "23513570fca1",
-   "headline": "CFTC launches first-ever formal rulemaking for prediction markets",
-   "lede": "The Commodity Futures Trading Commission has initiated a formal rulemaking process that would establish the first comprehensive federal regulatory framework specifically governing prediction markets.",
-   "why": "Codified rules could legitimize event contracts as an asset class, attracting institutional capital and broader operator entry \u2014 but compliance costs may consolidate the market around well-funded incumbents. Traders should watch whether final rules constrain contract types or position limits, as either could directly reprice liquidity on existing platforms.",
+   "id": "1841c7ee4a36",
+   "headline": "State vs. Federal Clash Escalates Over Prediction Market Jurisdiction",
+   "lede": "State and federal regulators are increasingly at odds over which authority governs prediction markets, creating legal uncertainty across the industry.",
+   "why": "Traders face platform-level risk if exchanges operating under CFTC approval suddenly encounter state-level enforcement actions that could freeze activity or force delisting of contracts. Operators and investors must now price in jurisdictional fragmentation, which could splinter liquidity and raise compliance costs significantly.",
    "category": "Legal",
    "entities": [
     "CFTC",
@@ -319,185 +412,44 @@
     "Polymarket"
    ],
    "primary_source": {
-    "name": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk1JRzNMX2pidjhHWlhrTDM5T0hMOHROV05ibEtPT1JlYWlYbWpuSFBoVFhqVk5uenFIWlJVcE15YVJzdWlPdEJwS19rYVlkLVd0Y2IyUFRkTnBmaE9YaXZmTGlxemp2YzA0blhDTGVsUHJ3Mzhfak1ydlN2M0FEWV8wWTREU1FDSWxTOUJINmRqOGVEUW54aElGdVVPeC03U0pRS2l0V3hmd18taFhCMzh3?oc=5"
+    "name": "Steptoe",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFJyNU1wYkNVOFFCbGJKNFJMeE9NLW5mYVhvMzRNcDFhZVNmRVhrYzZjOUxudXVVbmhGSnR0LVRyOW9lVnhoTS1aTzJ0Vld2SWc0ZmV3eDlEVE4wcWhRVUtXYlFlVWgxY1JvaXdNeU5tQVlfOTQybmtoR3pRcl8taVp5ZzdBa3VqYkxqZkJ3UmtUYVp0NUozN3VqTlpkeUJSV2ZVRkpybkhaZzVyd1VVQg?oc=5"
    },
-   "source_title": "CFTC Starts Historic Rulemaking Process For Prediction Markets",
+   "source_title": "State and Federal Regulators Face Off Over Prediction Markets",
    "also": [
     {
-     "name": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1JMdzVxSFhMRlRhNlczSDZWTGZlSUxXcHcyRWN2bGVKLUZTZnJSMjV2b3lhYktIYWhGNm8tM3ZMTnV3ZENkWGtyVjlSRkM5cnQ3T0t0R1pjN0Q5MzNvYkoya0xEWW5iTEQzMjJoVVVVeWJseWg3dURqemNMSXlFLQ?oc=5"
-    },
-    {
-     "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmt3ckItMXBfZ04wbUladjhlaHN3UnBQajR2NVBtcFAyYlFsZFNOOGxiMUhaR1kzd1pmRU5yQkowVE4xSGJJN0FVN1FuT2ZVbG1pYTE1N2hQaTl6a2tlYVVreUVXRTRZU0lUOTF5ZVlBeFl3NXhjTFZhWG1yX2t3UzVMNWw4RWN5WFdYblVQQkk3TFV0ZXdjVVktWQ?oc=5"
+     "name": "Klement on Investing",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaGVoM2dfM1NxVzdDd3RpdTNoSk1SeVd1QjRGcmNpSWZoanJ5bHJEQWtsOVZ6RGk1bDFNWGs5U1VBQ2R2MWZ5Y1RwZmtxOTlCeEo2S2Z1SUdYZXFKMFFMMUV0czhhZlk1MTZyOXdZYUJ1bXRGdFpCQWVUSXNlc3c?oc=5"
     }
    ],
-   "published": "2026-03-14T07:00:00+00:00",
+   "published": "2026-05-05T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
   },
   {
-   "id": "0b8bd70f3647",
-   "headline": "CFTC drafts first formal review framework for event contracts",
-   "lede": "The CFTC has proposed a structured regulatory framework governing how prediction market event contracts will be evaluated and approved going forward.",
-   "why": "A codified review process reduces uncertainty for exchanges like Kalshi and Polymarket seeking contract approvals, but could also create a clearer basis for rejections that slows product launches. Regulation watchers should track whether the framework narrows or expands the CFTC's discretion, as that will determine how aggressively new political and economic contracts can be listed.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Division of Market Oversight",
-    "Kalshi",
-    "Polymarket"
+   "id": "0b664a27e250",
+   "headline": "Democrats Press CFTC to Crack Down on Prediction Market Sports Contracts",
+   "lede": "A group of Democratic lawmakers has called on the CFTC to tighten oversight of prediction markets, specifically targeting sports-event contracts and potential insider trading risks.",
+   "body": [
+    "Democratic members of Congress sent a formal letter to the Commodity Futures Trading Commission urging regulators to take a harder line on prediction markets that allow wagering on sporting event outcomes, according to CNBC. The lawmakers expressed concern that these products blur the line between regulated financial derivatives and unlicensed sports gambling.",
+    "The letter also flagged insider trading vulnerabilities unique to event contracts, where participants with privileged knowledge \u2014 such as team staff or athletes \u2014 could potentially profit from non-public information. According to CNBC, the Democrats argued the CFTC's current framework is ill-equipped to detect or deter that kind of activity in fast-moving event markets.",
+    "The intervention comes as platforms like Kalshi and Polymarket have rapidly expanded sports-related contract offerings following a string of legal and regulatory wins. The CFTC has been under mounting pressure from both industry players seeking clarity and critics who argue the agency has been too permissive in allowing products that resemble traditional sports betting."
    ],
-   "primary_source": {
-    "name": "Morgan Lewis",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2tZUXY0eTQ4blFHa1A1RWFhbXpiQmFIczJaSWZ3V3FxZzlKNC04REtKR2NNTW0wT2poSDJlcjJyaUtTcUd3R0JoR0pHTHc0VjZXdURrTGxoUkowLUNFcXR6bVJIWkVoSWpQVEQ3a21CVnBycUtqekZwT0xnVkp1enlLME5VSDFkd2xlZFZQOEp2UWdHSXZLdWtmT0JmakpmVlNFYlJDVzVWY29XbE1pS1l6UjREY1N3eXRLVUFLNmw2ejhWYXhzaWlSNEdFakktbnNic1NB?oc=5"
-   },
-   "source_title": "CFTC and Division of Market Oversight Issue Two Releases on Prediction Markets and Event Contracts",
-   "also": [
-    {
-     "name": "Jones Day",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2pKaTlFMlA0WDR1U2haaFhHWG93X29wQVczRU9lb0ctLVBsWXZzZDJ0MThjMTYyWTRjcXFBTTZvaElqQU1oc2xFdlIwY1MxLTNJOWJ6U24wVGQteHh5cy1FSW15dEF4YVhpRU4yc2xSOVZpQWtxUzUwNG1UUU5GTE80Zk5MS0hLRXhpRDcyaVN5bXNEUnVWdWs3NU1aOS1XQlZPdFBpckZUcUNmM0pZRnZJbUVxWms?oc=5"
-    },
-    {
-     "name": "The National Law Review",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXRLYU9ISjZiWkVqUVl5TWVfYkRRX2ozb3pLdWVlbmlHWWRPamZoczh3VFIyc04xOTVVc0lfR0w0dlpoTVVFWjJFMTYweWs1R2NQNzJvSHJEbVRpbS0xbWI0Z3BqcHcwdXJvZmtVQlB3N3NxcDVKTFFZYXZVbUNndmlvTHBDMXpHX1RLSXJ3Wm9tOWdVQ2fSAZsBQVVfeXFMTkNWTmRMSkJLaExyQUIwOUxJVFIzcmdBcGRKYzdtLVFLeXg1SXNENkFIY19uYkFRQWMwTUlFdmlYQmpuT0ktdmdVOWMwcmszWlJvWnc1ME5ocjY4a2R1OHdFQllsbjNXelhiVlAtTFpYUm5pUng2bG92VG03clNjMWdlNUphOXdTU2FMblFhQnNVd1otN29QdGE1eTA?oc=5"
-    }
-   ],
-   "published": "2026-03-18T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "e3bbc6078628",
-   "headline": "CFTC moves forward with formal prediction market rules",
-   "lede": "The CFTC has taken concrete steps toward establishing a dedicated regulatory framework governing prediction market event contracts in the United States.",
-   "why": "A clearer ruleset could unlock institutional capital by reducing compliance uncertainty, directly boosting liquidity on platforms like Kalshi and Polymarket. Conversely, codified rules may impose operational costs or contract-approval burdens that disadvantage smaller or offshore operators.",
+   "why": "Congressional pressure on the CFTC could accelerate rulemaking or guidance that directly limits the scope of sports contracts on platforms like Kalshi, squeezing a fast-growing revenue vertical. Traders with open positions on sports event contracts should watch for any emergency CFTC action or new proposed rules that could affect contract availability. Longer term, a formal crackdown could also create a regulatory wedge between US-based platforms and offshore operators like Polymarket, reshaping competitive dynamics.",
    "category": "Legal",
    "entities": [
     "CFTC",
     "Kalshi",
     "Polymarket",
-    "Norton Rose Fulbright"
+    "U.S. Congress"
    ],
    "primary_source": {
-    "name": "Norton Rose Fulbright",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2kzRW5oQ1FTaHI2SWNIRzlockJMNG9BLTJTVk56SmY1RHVvc0g1Ql9qQWtvV1BjLURkbTBxbnU1YlVrUElseHVzaVVwYklVMDhydlI5dGszREV4NC1PbnBKWjlZVkJWdmIwYzR5b01kcWhHbjVFeEZXUnlaSkR2TkZiR21mMWJDNVBkd0hUR2M5dzVsaHlLdHlkZjZZemNKUm9VN2N6Q2d0bDVOSEpjc0stc2lQRUhCbmpzZTBPS0RPN2tHbnlEVVNtZw?oc=5"
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFp3TTU0QUJqbHlTYnlDd0lJSi0yN3ZsX3ROWFBfb0JnYnRCMGRFM2lfUzJoMjVuTFVmNUFYZUk5VXllZlZmWDFzUzNjMU4zLTE3eWU1UVVKWjV2Zk5KTVN5QTlFT1JjN1EwSUdWS1pUQ0JWcUVoa2xFZW9xdW5YUHlNTVF1c2tEVXZoSkwyXzbSAZYBQVVfeXFMT1VXV2JhdlRiQTlHTmdGV3RJT1N2d1doai1qOG9vbkVSTkZMcE9PQjZyRWhfUldjSjhUUVpNU3JwM0lYWHVERXF2MU0zcUc1dm9ZMGVoeWRoZjR3WVdNemJUSDU4VGZNSlJCbHR1b3R2Q1BKQ0k1dVUtT2JKaDFSdUlPMElJeXFkb1ZURXYzS0RBZXBQWThB?oc=5"
    },
-   "source_title": "CFTC advances regulatory framework for prediction markets | United States | Global law firm",
+   "source_title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
    "also": [],
-   "published": "2026-03-20T17:03:37+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "a9daf5c481bd",
-   "headline": "Third Circuit backs Kalshi, upholds block on congressional bet ban",
-   "lede": "A federal appeals court affirmed a preliminary injunction allowing Kalshi to continue offering contracts on congressional election outcomes while litigation proceeds.",
-   "why": "The ruling strengthens Kalshi's legal standing and signals that courts are skeptical of CFTC authority to categorically ban political event contracts, which could embolden other platforms to list similar products. Traders pricing regulatory risk on competing platforms should treat this as a meaningful reduction in the probability of a near-term federal crackdown on election markets.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Third Circuit",
-    "Skadden Arps"
-   ],
-   "primary_source": {
-    "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmd4a3V6WU5vcEZlaHo4RGJyazE4UTJtRkRoNFNLa0FoMTBUeHFoRDUzVnd5RmRWR0MxLTJKQms4eG9KZlY3M2tVVW5zRFpwVU9OOWYzY3dIYkk1a0E4blNzekIwV0RYclNpWmxmcVl3SFI4ZUpBa3Jnd216a0FlZkc2N2FyN0pXV0FvUWhJclZEc0xZSmV3c0wzMDRpQlZiOGZ5UzJNTjNaUQ?oc=5"
-   },
-   "source_title": "Third Circuit Affirms Kalshi\u2019s Preliminary Injunction",
-   "also": [],
-   "published": "2026-04-09T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "6f6cd2f67d1d",
-   "headline": "WilmerHale breaks down path to CFTC event contract compliance",
-   "lede": "Law firm WilmerHale published a practical guide explaining the regulatory steps required to enter CFTC-overseen prediction market trading.",
-   "why": "With event contract platforms scaling fast, compliance clarity from major legal counsel signals rising institutional appetite and could accelerate new entrants building regulated venues. Traders should watch for a wave of new designated contract markets that could fragment liquidity across competing platforms.",
-   "category": "Legal",
-   "entities": [
-    "WilmerHale",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "WilmerHale",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODdyN2pPelJhSFloNUpVeHpIbV9nNGJJdXhHWHBfZ3VmdjNIZHZnbWVmekJ3dURhRzhVYmtSN1VLRWw5QVg2c0swbkxaUG45Q3dqZzZFRVFPcWFTWFZScVdpbWNhaThfeC1pRjltNHZRVEE2ekZjc2lEb0xweDVjcXItTWtlWFVPQ2wtRUJUXzU3dmxjbkQyTUpndzRQTEFuMkdVX2kxVFIzdUQwRXo3RkI0dWZidlpmUkVMUVFSUVgtMXJzd3Jrc21JWV9jRnNT?oc=5"
-   },
-   "source_title": "Want To Get Into CFTC-Regulated Event Contract Markets? Here\u2019s How It Works",
-   "also": [],
-   "published": "2026-04-15T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "dd244895127c",
-   "headline": "CFTC and Kalshi move against bad actors in prediction markets",
-   "lede": "Federal regulators and exchange operator Kalshi jointly announced enforcement actions targeting misconduct within regulated prediction market platforms.",
-   "why": "Joint enforcement between a regulator and a licensed exchange signals a maturing compliance posture that could deter manipulation but also raises costs for smaller operators seeking similar licenses. Traders should watch for tighter position-limit rules or identity verification requirements emerging from these cases as second-order regulatory spillover.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Lowenstein Sandler LLP"
-   ],
-   "primary_source": {
-    "name": "Lowenstein Sandler LLP",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhoVE9Qb3o1dF85ZDd0N0taUDd3dVV2cFplU0pVYnFDVHhjMjNMMmZSczA4N1VVMDNPSTNKTFBUM1BNRzNoUDJSbUFnM1pub1F3VEc3ajJKUVFnSElBRk5ycy03UUhQNXQyV1hJdDNybElHdUZnc1VBNmNPblpZLVpjTGNKWWNabW9KZGctckEwR2d5OENrZThLdGZfc3VaeFBRRjRON1FPWENIY2d0R0ZkQThMaGY3LUphYlBqMkRwM0tEQzU3NVh2YVQzYkNhXzJXTk5LVnVyZklFbDhJ?oc=5"
-   },
-   "source_title": "CFTC and Kalshi Announce Enforcement Actions Targeting Prediction Markets (FCTM)",
-   "also": [],
-   "published": "2026-04-24T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "0f9a05dc63fd",
-   "headline": "CFTC sues New York, unveils framework to govern event contracts",
-   "lede": "The CFTC filed suit against New York state while simultaneously proposing a new regulatory structure for sports-related event contracts.",
-   "why": "A federal win against New York would remove a key legal barrier for licensed prediction market operators seeking to expand sports contracts into major U.S. markets. Traders should watch whether the proposed framework creates standardized contract rules that lower compliance costs or instead impose new restrictions that narrow tradeable event categories.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "New York"
-   ],
-   "primary_source": {
-    "name": "Law360",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVGak5ucFBZZkdhS2VFNzB5TzBfeDdJazVBM0tWM3Q3U1h1eEFTYmdMSHA5MnJPN3U3UXJyemQ1c3lLd21NbU5NcEE2WE81aGJYaUdoazVKaVpjZGs0WWtzZWxhdTRJa1R6eDFKSk5qTVB4bHh6RzNWQ1U3MV84NU9oMy0xcTRVZEhINlRReXNEdnYxUExZYXhnd9IBVkFVX3lxTE0wakgzaUE0ZTByeWpacVhuUHYwT1N6UU9HdEl6eVNoX3Fra2NpdmNQYWJ0My1TbTVzWkxSUDM2VEVmQ1JKYUxFeU03NkVhQmszWjhIUmtR?oc=5"
-   },
-   "source_title": "CFTC Sues New York Over Sports Event Contract Crackdown",
-   "also": [
-    {
-     "name": "The National Law Review",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGdaMFYzSmdGb0ZEa2pZX0xYRlZkbXBhU1RJUFR3UXd1UUZUWTF4Y1ZoTGlDLTRaczVVQXgyMXlINXZkV0tvZ3FfazlOU0FUYkZIZkxNRV9UTzBRRkRYX1NCX3dGTVduVUtYUVZ3STRLNFY5OTQxWkhUNE4yU2NBV1F30gGHAUFVX3lxTE5UUTRtQ2VzeGxMOG9GSy14Z1lKeXpVZmh5SmxVOHNQZDIyckZrcHZSdk5sc011bEtYRkR6TTBqU0NUZ1JyU1JOTG52OVBwQmpXLVk4NjAzMlJsaFRGU3ptdGJjZ2w2R2RpWDJJUS1za3J5RzBrS2M3UWxkYk1OMTVDZUZWTE93dw?oc=5"
-    }
-   ],
-   "published": "2026-04-25T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "28ede588f5b3",
-   "headline": "DOJ and CFTC file landmark insider trading charges tied to prediction markets",
-   "lede": "Federal prosecutors and the CFTC jointly brought the first criminal and civil insider trading case targeting manipulation of prediction market contracts.",
-   "why": "This unprecedented enforcement action signals that regulators now view prediction market contracts as genuine financial instruments subject to the same insider trading rules as securities, which could force platforms to build surveillance and compliance infrastructure similar to traditional exchanges. Operators and market makers should expect heightened scrutiny of information advantages, while the case may accelerate CFTC rulemaking that formally defines what constitutes material nonpublic information in event contract markets.",
-   "category": "Legal",
-   "entities": [
-    "DOJ",
-    "CFTC",
-    "Kalshi",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "Dentons",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUNCcS1iLUVtc1FpMnlzdDZ6UFRra0d0R0lVbWxkSUF5TmlyZUZabmhVZHNvWUp2S0hTNUNyMWctVDhUVFIyTkR4WGNSQXNIbUIwMmRpS3hvaHBpaVFRYkFuaU83OG5lT0E2RWt6WkFkdld1aTlic2Q1MXRIQ0VCdndFYXZQUXlfN28wSFFXaDVFZmFUbjkwa01BcmtNUmpaeVFCQ1I2MERNYmpjVk0yb2ozSm9PWmVnN0QxeGRtUmJLVV84ZnJDLUxYczM?oc=5"
-   },
-   "source_title": "DOJ and CFTC Bring First-of-Its-Kind Prediction Market \u201cInsider Trading\u201d Case",
-   "also": [
-    {
-     "name": "Davis Wright Tremaine",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dUZGxLd1R3QjRYUjdsWmtKNnIzRFJZeGpnVTVGWnRCd2JTUkE1Ym5nREFmWGVDWWllOHhvMlVjcVZzZHl1MzNVdi1JdUdFQkVtV2pqeWZ1eGxwNjhsdkkzNmFfbjNCWXphUWpFN3NvdUtLMTNpVzY3Q3loejBrMkd4ZDBJTjNhcmh2THFheWM0QjVIaGZTbFhiMjlwVUQxWWxITmttbWRQTWNmaVRPM01RSQ?oc=5"
-    }
-   ],
-   "published": "2026-04-27T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+   "published": "2026-04-30T07:00:00+00:00",
+   "first_seen": "2026-07-06T19:46:14.006003+00:00"
   },
   {
    "id": "9de0042f35b5",
@@ -542,10 +494,266 @@
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
   },
   {
-   "id": "1841c7ee4a36",
-   "headline": "State vs. Federal Clash Escalates Over Prediction Market Jurisdiction",
-   "lede": "State and federal regulators are increasingly at odds over which authority governs prediction markets, creating legal uncertainty across the industry.",
-   "why": "Traders face platform-level risk if exchanges operating under CFTC approval suddenly encounter state-level enforcement actions that could freeze activity or force delisting of contracts. Operators and investors must now price in jurisdictional fragmentation, which could splinter liquidity and raise compliance costs significantly.",
+   "id": "28ede588f5b3",
+   "headline": "DOJ and CFTC file landmark insider trading charges tied to prediction markets",
+   "lede": "Federal prosecutors and the CFTC jointly brought the first criminal and civil insider trading case targeting manipulation of prediction market contracts.",
+   "why": "This unprecedented enforcement action signals that regulators now view prediction market contracts as genuine financial instruments subject to the same insider trading rules as securities, which could force platforms to build surveillance and compliance infrastructure similar to traditional exchanges. Operators and market makers should expect heightened scrutiny of information advantages, while the case may accelerate CFTC rulemaking that formally defines what constitutes material nonpublic information in event contract markets.",
+   "category": "Legal",
+   "entities": [
+    "DOJ",
+    "CFTC",
+    "Kalshi",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Dentons",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUNCcS1iLUVtc1FpMnlzdDZ6UFRra0d0R0lVbWxkSUF5TmlyZUZabmhVZHNvWUp2S0hTNUNyMWctVDhUVFIyTkR4WGNSQXNIbUIwMmRpS3hvaHBpaVFRYkFuaU83OG5lT0E2RWt6WkFkdld1aTlic2Q1MXRIQ0VCdndFYXZQUXlfN28wSFFXaDVFZmFUbjkwa01BcmtNUmpaeVFCQ1I2MERNYmpjVk0yb2ozSm9PWmVnN0QxeGRtUmJLVV84ZnJDLUxYczM?oc=5"
+   },
+   "source_title": "DOJ and CFTC Bring First-of-Its-Kind Prediction Market \u201cInsider Trading\u201d Case",
+   "also": [
+    {
+     "name": "Davis Wright Tremaine",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dUZGxLd1R3QjRYUjdsWmtKNnIzRFJZeGpnVTVGWnRCd2JTUkE1Ym5nREFmWGVDWWllOHhvMlVjcVZzZHl1MzNVdi1JdUdFQkVtV2pqeWZ1eGxwNjhsdkkzNmFfbjNCWXphUWpFN3NvdUtLMTNpVzY3Q3loejBrMkd4ZDBJTjNhcmh2THFheWM0QjVIaGZTbFhiMjlwVUQxWWxITmttbWRQTWNmaVRPM01RSQ?oc=5"
+    }
+   ],
+   "published": "2026-04-27T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "0f9a05dc63fd",
+   "headline": "CFTC sues New York, unveils framework to govern event contracts",
+   "lede": "The CFTC filed suit against New York state while simultaneously proposing a new regulatory structure for sports-related event contracts.",
+   "why": "A federal win against New York would remove a key legal barrier for licensed prediction market operators seeking to expand sports contracts into major U.S. markets. Traders should watch whether the proposed framework creates standardized contract rules that lower compliance costs or instead impose new restrictions that narrow tradeable event categories.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Polymarket",
+    "New York"
+   ],
+   "primary_source": {
+    "name": "Law360",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVGak5ucFBZZkdhS2VFNzB5TzBfeDdJazVBM0tWM3Q3U1h1eEFTYmdMSHA5MnJPN3U3UXJyemQ1c3lLd21NbU5NcEE2WE81aGJYaUdoazVKaVpjZGs0WWtzZWxhdTRJa1R6eDFKSk5qTVB4bHh6RzNWQ1U3MV84NU9oMy0xcTRVZEhINlRReXNEdnYxUExZYXhnd9IBVkFVX3lxTE0wakgzaUE0ZTByeWpacVhuUHYwT1N6UU9HdEl6eVNoX3Fra2NpdmNQYWJ0My1TbTVzWkxSUDM2VEVmQ1JKYUxFeU03NkVhQmszWjhIUmtR?oc=5"
+   },
+   "source_title": "CFTC Sues New York Over Sports Event Contract Crackdown",
+   "also": [
+    {
+     "name": "The National Law Review",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGdaMFYzSmdGb0ZEa2pZX0xYRlZkbXBhU1RJUFR3UXd1UUZUWTF4Y1ZoTGlDLTRaczVVQXgyMXlINXZkV0tvZ3FfazlOU0FUYkZIZkxNRV9UTzBRRkRYX1NCX3dGTVduVUtYUVZ3STRLNFY5OTQxWkhUNE4yU2NBV1F30gGHAUFVX3lxTE5UUTRtQ2VzeGxMOG9GSy14Z1lKeXpVZmh5SmxVOHNQZDIyckZrcHZSdk5sc011bEtYRkR6TTBqU0NUZ1JyU1JOTG52OVBwQmpXLVk4NjAzMlJsaFRGU3ptdGJjZ2w2R2RpWDJJUS1za3J5RzBrS2M3UWxkYk1OMTVDZUZWTE93dw?oc=5"
+    }
+   ],
+   "published": "2026-04-25T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "dd244895127c",
+   "headline": "CFTC and Kalshi move against bad actors in prediction markets",
+   "lede": "Federal regulators and exchange operator Kalshi jointly announced enforcement actions targeting misconduct within regulated prediction market platforms.",
+   "why": "Joint enforcement between a regulator and a licensed exchange signals a maturing compliance posture that could deter manipulation but also raises costs for smaller operators seeking similar licenses. Traders should watch for tighter position-limit rules or identity verification requirements emerging from these cases as second-order regulatory spillover.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Lowenstein Sandler LLP"
+   ],
+   "primary_source": {
+    "name": "Lowenstein Sandler LLP",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhoVE9Qb3o1dF85ZDd0N0taUDd3dVV2cFplU0pVYnFDVHhjMjNMMmZSczA4N1VVMDNPSTNKTFBUM1BNRzNoUDJSbUFnM1pub1F3VEc3ajJKUVFnSElBRk5ycy03UUhQNXQyV1hJdDNybElHdUZnc1VBNmNPblpZLVpjTGNKWWNabW9KZGctckEwR2d5OENrZThLdGZfc3VaeFBRRjRON1FPWENIY2d0R0ZkQThMaGY3LUphYlBqMkRwM0tEQzU3NVh2YVQzYkNhXzJXTk5LVnVyZklFbDhJ?oc=5"
+   },
+   "source_title": "CFTC and Kalshi Announce Enforcement Actions Targeting Prediction Markets (FCTM)",
+   "also": [],
+   "published": "2026-04-24T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "bf90486db082",
+   "headline": "Sports Event Contracts Face Legal, Regulatory Pressure on Multiple Fronts",
+   "lede": "Sports event contracts offered by platforms like Robinhood and Plus500 are drawing simultaneous scrutiny from consumer lawsuits, state legislatures, industry opponents, and former federal regulators.",
+   "body": [
+    "A consumer lawsuit is now challenging Robinhood's sports event contracts, adding legal risk to a product category that has grown rapidly since the CFTC declined to block similar offerings from Kalshi. Meanwhile, Plus500 announced a U.S. sports event contract launch, signaling continued commercial appetite even as headwinds mount across regulatory and legal channels.",
+    "New Jersey legislators have introduced a bill that would require prediction market operators to obtain state licenses before offering sports event contracts to residents, according to Sports Betting Dime. Separately, major gambling industry associations have lobbied the Senate to take action against the contracts, framing them as unlicensed competition to regulated sportsbooks.",
+    "A former CFTC commissioner publicly questioned the 'economic purpose' of sports event contracts, per Yahoo Finance and CDC Gaming, arguing the products lack the hedging utility that traditionally justifies CFTC-regulated derivatives. KPMG has also weighed in with analysis on how these contracts should be taxed, reflecting growing mainstream attention to the asset class."
+   ],
+   "why": "The convergence of a consumer lawsuit, state licensing proposals, and a former regulator's legitimacy challenge creates compounding legal uncertainty that traders should price into any platform-specific positions. If New Jersey's licensing model is adopted by other states, operators face a patchwork compliance burden that could restrict liquidity or force product withdrawals. Prediction market operators expanding into sports contracts \u2014 including newer entrants like Plus500 \u2014 may face the steepest headwinds as regulatory arbitrage closes.",
+   "category": "Legal",
+   "entities": [
+    "Robinhood",
+    "Plus500",
+    "CFTC",
+    "Kalshi"
+   ],
+   "primary_source": {
+    "name": "KPMG",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wSXdkWXFlak5aeDk5QlNIcjRMcV9TcUpJYWVqM0NKSkFHZG1pTVp0UlVZT2hYeEM5eUthU0RXenhPN3dfdUowNk1qYTdPYVBmWHExNlRwWHlBcmZoeW5MYjFvdHFxbjhhUTNzSURXLXVla0pwbnlFdC11SlhDQQ?oc=5"
+   },
+   "source_title": "Taxation of Sports Event Contracts",
+   "also": [
+    {
+     "name": "Bloomberg Law News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3NwaHpUR1dEVlplSDlCXzRnb3lqYUFCcmhoai1aZXZkSHpCR2ZjVFIyTTFzMUU2cUhZY1BIdnNseERPWVlqOEZETFBKeUhQM01pQ3pRZjBrNlY1VnhhMDIxUjlOTFJCQVloX1k3TFpMc3oxQmxNSFlLSU42cjJWYVJrZnVOT29fOUtqUldOejZ4Yk1ZX05oeV9uNVcwY1ZzVkZEUUZaN1I3d081UjlubHlYMUdKZEVfeHNFdHEwMlM?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjZ4S25abnJ2QkRZMmEwSXRnS00xODBDX1dvZXJQbWU4a1AtRUtJem5zQ1BjeldKbG1SbzZpMDJtbUFuR2t6OHVnYkVKYXZQT3RmTVIyRDVWMFdBOGhRaWJOV1hHOWU4bXdpMzJMeTZYV1IyVEx1OHNHR19wZWIyRkNmVWJHdW5NYlFybWxIMVJ5dlA5dUtMNkU2MXdUaG44OE1YSXExbVh2Y0kwZExxY3VoOEJ6cVAxNzhoeGp5dFNZNkxVNmkxT3ZKMnc3N25ZYjNEbTdtUHo?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejdrc1dlRjdKSDhTMTdQUmtYd1FtcXhOZVNlLVBCN1A1NUNHWW5JTVJtYTZQM0o2eEhUWlJldnl1NzNoWmxsbkJpMzA1Y05tVDVFeDBQTUdnVDNMeHRhbkhiaFNIb1ROQ0lQOVlJX29TUDFPcGk1ZG10VU50SDA2QXc5QWJGaTJQanI2MXJ3Y0ZYYXVYQTFFRXlOcjVnNFdlNEJlbVlWTUtYdGdyak9nLV9NUzViNWYzYnFhMWZuR00zbDRRQWZ5TEtSdzBseTVXekh6cEwzaEhMWU1LV2c?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzRRNmdrTDhJR2VNYWxPTE5wcThvZUxwQjlGZ1RWMWxBQkZNdmRtNmtBQkMybXBsUnVxZXhhWFhfc1Q0MTRmbk5MSWk5Q1pMZHFSRlliSHJNRmdkcU1JRHZzV21OZ0xyVGZoVWNFdGNYakdNQ2RKUnFONlcyNmFKbUZjWDRaSzltQjhOZ0dVUF9FeWIyeFJuVS1VbDBidkxlR1VFSjB3Zw?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2xkTkhGZmZ6MW1hemRvYWVwTF9QcG1xbnB0QlI3X1ZhZGQwMFZCdDNUT1VHUU84czQ3aU1TUFNyeXhkR1dLWlpoajFjT19iXy1GMC1pQ1Ztb2s5cTJFUzR3dmFnblc4TGY5QVhJSnB6Y2pURExjUUxhTGhrdzY1bE9yVkJhcUdLSWVUMmo2dTlMdjBoZXozOC10WUpkTUxodGYzdQ?oc=5"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM295aWV6aFVNaW05YTc5Q1NVd2NUWDJqOWZUc2pQMV9VODg1dVhqbDR1d0FQTDVCQXpHTVpjNXN6by05V2FvNTJkTWtPTjdGbjBra1BpODd2bXBxU1Yzc3dYckt6MzBTamFVeXYxTjRIZzFYT0VLMktHeXdfak04ZWtxY185aHM2?oc=5"
+    },
+    {
+     "name": "Event Horizon | Dustin Gouker",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
+    },
+    {
+     "name": "Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGhBQ09pYnA4bjJTc3NNd2wxbkdjUzVsX3Nrb3VVNUtFQ1E4eS1PUFZXZ0JTN1ZERC1GeEVaTjBleFIwc3JvMEh5R2JBbklVR1I3N2oteXFRcEs1eE9PSmxmcjdQQWdlSzFuMHJOYWxBZmgxQWR2alM2ckU0LVlTcGNBVl9sVEU0RHRRYjZYSVc?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVg5aHZIY0VHQ1Q4a2FLUXdTWW84NkRBTDNpVUZKd2luZjlJN2praTdXbHJIQVNsdklLTkUtZ3VlYll2VHU2RlRrZkFjRXA5NF91VER3YzZaS2RXdnFfTVBrWno0Zl9tYmZ3ZjZ2NlJLcnF5dW1Lc0lVRmVtOE5hZ3U1TjRIMEJYSTBqemVuX3RLM1hCb0xHVnhHNA?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
+    }
+   ],
+   "published": "2026-04-21T14:51:50+00:00",
+   "first_seen": "2026-07-06T19:46:14.006003+00:00"
+  },
+  {
+   "id": "6f6cd2f67d1d",
+   "headline": "WilmerHale breaks down path to CFTC event contract compliance",
+   "lede": "Law firm WilmerHale published a practical guide explaining the regulatory steps required to enter CFTC-overseen prediction market trading.",
+   "why": "With event contract platforms scaling fast, compliance clarity from major legal counsel signals rising institutional appetite and could accelerate new entrants building regulated venues. Traders should watch for a wave of new designated contract markets that could fragment liquidity across competing platforms.",
+   "category": "Legal",
+   "entities": [
+    "WilmerHale",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "WilmerHale",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODdyN2pPelJhSFloNUpVeHpIbV9nNGJJdXhHWHBfZ3VmdjNIZHZnbWVmekJ3dURhRzhVYmtSN1VLRWw5QVg2c0swbkxaUG45Q3dqZzZFRVFPcWFTWFZScVdpbWNhaThfeC1pRjltNHZRVEE2ekZjc2lEb0xweDVjcXItTWtlWFVPQ2wtRUJUXzU3dmxjbkQyTUpndzRQTEFuMkdVX2kxVFIzdUQwRXo3RkI0dWZidlpmUkVMUVFSUVgtMXJzd3Jrc21JWV9jRnNT?oc=5"
+   },
+   "source_title": "Want To Get Into CFTC-Regulated Event Contract Markets? Here\u2019s How It Works",
+   "also": [],
+   "published": "2026-04-15T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "a9daf5c481bd",
+   "headline": "Third Circuit backs Kalshi, upholds block on congressional bet ban",
+   "lede": "A federal appeals court affirmed a preliminary injunction allowing Kalshi to continue offering contracts on congressional election outcomes while litigation proceeds.",
+   "why": "The ruling strengthens Kalshi's legal standing and signals that courts are skeptical of CFTC authority to categorically ban political event contracts, which could embolden other platforms to list similar products. Traders pricing regulatory risk on competing platforms should treat this as a meaningful reduction in the probability of a near-term federal crackdown on election markets.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Third Circuit",
+    "Skadden Arps"
+   ],
+   "primary_source": {
+    "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmd4a3V6WU5vcEZlaHo4RGJyazE4UTJtRkRoNFNLa0FoMTBUeHFoRDUzVnd5RmRWR0MxLTJKQms4eG9KZlY3M2tVVW5zRFpwVU9OOWYzY3dIYkk1a0E4blNzekIwV0RYclNpWmxmcVl3SFI4ZUpBa3Jnd216a0FlZkc2N2FyN0pXV0FvUWhJclZEc0xZSmV3c0wzMDRpQlZiOGZ5UzJNTjNaUQ?oc=5"
+   },
+   "source_title": "Third Circuit Affirms Kalshi\u2019s Preliminary Injunction",
+   "also": [],
+   "published": "2026-04-09T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "e3bbc6078628",
+   "headline": "CFTC moves forward with formal prediction market rules",
+   "lede": "The CFTC has taken concrete steps toward establishing a dedicated regulatory framework governing prediction market event contracts in the United States.",
+   "why": "A clearer ruleset could unlock institutional capital by reducing compliance uncertainty, directly boosting liquidity on platforms like Kalshi and Polymarket. Conversely, codified rules may impose operational costs or contract-approval burdens that disadvantage smaller or offshore operators.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Polymarket",
+    "Norton Rose Fulbright"
+   ],
+   "primary_source": {
+    "name": "Norton Rose Fulbright",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2kzRW5oQ1FTaHI2SWNIRzlockJMNG9BLTJTVk56SmY1RHVvc0g1Ql9qQWtvV1BjLURkbTBxbnU1YlVrUElseHVzaVVwYklVMDhydlI5dGszREV4NC1PbnBKWjlZVkJWdmIwYzR5b01kcWhHbjVFeEZXUnlaSkR2TkZiR21mMWJDNVBkd0hUR2M5dzVsaHlLdHlkZjZZemNKUm9VN2N6Q2d0bDVOSEpjc0stc2lQRUhCbmpzZTBPS0RPN2tHbnlEVVNtZw?oc=5"
+   },
+   "source_title": "CFTC advances regulatory framework for prediction markets | United States | Global law firm",
+   "also": [],
+   "published": "2026-03-20T17:03:37+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "0b8bd70f3647",
+   "headline": "CFTC drafts first formal review framework for event contracts",
+   "lede": "The CFTC has proposed a structured regulatory framework governing how prediction market event contracts will be evaluated and approved going forward.",
+   "why": "A codified review process reduces uncertainty for exchanges like Kalshi and Polymarket seeking contract approvals, but could also create a clearer basis for rejections that slows product launches. Regulation watchers should track whether the framework narrows or expands the CFTC's discretion, as that will determine how aggressively new political and economic contracts can be listed.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Division of Market Oversight",
+    "Kalshi",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Morgan Lewis",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2tZUXY0eTQ4blFHa1A1RWFhbXpiQmFIczJaSWZ3V3FxZzlKNC04REtKR2NNTW0wT2poSDJlcjJyaUtTcUd3R0JoR0pHTHc0VjZXdURrTGxoUkowLUNFcXR6bVJIWkVoSWpQVEQ3a21CVnBycUtqekZwT0xnVkp1enlLME5VSDFkd2xlZFZQOEp2UWdHSXZLdWtmT0JmakpmVlNFYlJDVzVWY29XbE1pS1l6UjREY1N3eXRLVUFLNmw2ejhWYXhzaWlSNEdFakktbnNic1NB?oc=5"
+   },
+   "source_title": "CFTC and Division of Market Oversight Issue Two Releases on Prediction Markets and Event Contracts",
+   "also": [
+    {
+     "name": "Jones Day",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2pKaTlFMlA0WDR1U2haaFhHWG93X29wQVczRU9lb0ctLVBsWXZzZDJ0MThjMTYyWTRjcXFBTTZvaElqQU1oc2xFdlIwY1MxLTNJOWJ6U24wVGQteHh5cy1FSW15dEF4YVhpRU4yc2xSOVZpQWtxUzUwNG1UUU5GTE80Zk5MS0hLRXhpRDcyaVN5bXNEUnVWdWs3NU1aOS1XQlZPdFBpckZUcUNmM0pZRnZJbUVxWms?oc=5"
+    },
+    {
+     "name": "The National Law Review",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXRLYU9ISjZiWkVqUVl5TWVfYkRRX2ozb3pLdWVlbmlHWWRPamZoczh3VFIyc04xOTVVc0lfR0w0dlpoTVVFWjJFMTYweWs1R2NQNzJvSHJEbVRpbS0xbWI0Z3BqcHcwdXJvZmtVQlB3N3NxcDVKTFFZYXZVbUNndmlvTHBDMXpHX1RLSXJ3Wm9tOWdVQ2fSAZsBQVVfeXFMTkNWTmRMSkJLaExyQUIwOUxJVFIzcmdBcGRKYzdtLVFLeXg1SXNENkFIY19uYkFRQWMwTUlFdmlYQmpuT0ktdmdVOWMwcmszWlJvWnc1ME5ocjY4a2R1OHdFQllsbjNXelhiVlAtTFpYUm5pUng2bG92VG03clNjMWdlNUphOXdTU2FMblFhQnNVd1otN29QdGE1eTA?oc=5"
+    }
+   ],
+   "published": "2026-03-18T07:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "0becb936ee36",
+   "headline": "CFTC Opens Public Comment Period on Prediction Markets Rules",
+   "lede": "The CFTC is soliciting public feedback on how to regulate prediction markets, signaling a formal regulatory review of the fast-growing sector.",
+   "body": [
+    "The Commodity Futures Trading Commission has launched a public input process focused specifically on prediction markets, according to WilmerHale's coverage of the development. The agency is seeking comments from industry participants, academics, and the general public on how event contracts and prediction markets should be governed under existing or new regulatory frameworks.",
+    "The move represents one of the most direct regulatory engagements the CFTC has undertaken with the prediction markets industry, which has expanded rapidly through platforms like Kalshi and Polymarket. Key questions likely under review include contract design standards, participant eligibility, and whether current designated contract market rules adequately address these novel instruments.",
+    "The public comment process is a standard but consequential step in U.S. rulemaking. Responses submitted during such periods can directly shape final rules, and major operators have a concrete opportunity to influence how the CFTC defines the boundaries of permissible event contracts \u2014 a question that has generated significant litigation and lobbying activity in recent years."
+   ],
+   "why": "A formal CFTC comment process is a high-stakes moment for prediction market operators: the resulting guidance or rulemaking could either legitimize current product offerings or impose new restrictions. Traders should watch for signals on contract-type eligibility, as unfavorable rules could delist popular markets. Operators and legal teams should prioritize submitting comments to shape outcomes directly.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Polymarket",
+    "WilmerHale"
+   ],
+   "primary_source": {
+    "name": "WilmerHale",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEUtRnpLSUVjWURkTnRkSjNiSzhxOTFaLW1iVFV6amZiS2U0NWxSZ1hvbTBWZmN4LVN5eXBvSHN2WmhzVmFQSlRNTGpMaHB0amUyVVZQVzZTSFNTVTVPSDBtSFF5VVlfRm0wR3k0WWxWaDBOTXJnT3NuOUJEX2c0U3ZfY1FBS1VYWXFsU3R2MnFWblpNbENUQ0I2VTFMcDduX2tZbllTMTgycHBCV3RPNXpYQmtIck1MTUE?oc=5"
+   },
+   "source_title": "CFTC Seeks Public Input on Prediction Markets Regulation",
+   "also": [],
+   "published": "2026-03-17T07:00:00+00:00",
+   "first_seen": "2026-07-06T19:46:14.006003+00:00"
+  },
+  {
+   "id": "23513570fca1",
+   "headline": "CFTC launches first-ever formal rulemaking for prediction markets",
+   "lede": "The Commodity Futures Trading Commission has initiated a formal rulemaking process that would establish the first comprehensive federal regulatory framework specifically governing prediction markets.",
+   "why": "Codified rules could legitimize event contracts as an asset class, attracting institutional capital and broader operator entry \u2014 but compliance costs may consolidate the market around well-funded incumbents. Traders should watch whether final rules constrain contract types or position limits, as either could directly reprice liquidity on existing platforms.",
    "category": "Legal",
    "entities": [
     "CFTC",
@@ -553,18 +761,74 @@
     "Polymarket"
    ],
    "primary_source": {
-    "name": "Steptoe",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFJyNU1wYkNVOFFCbGJKNFJMeE9NLW5mYVhvMzRNcDFhZVNmRVhrYzZjOUxudXVVbmhGSnR0LVRyOW9lVnhoTS1aTzJ0Vld2SWc0ZmV3eDlEVE4wcWhRVUtXYlFlVWgxY1JvaXdNeU5tQVlfOTQybmtoR3pRcl8taVp5ZzdBa3VqYkxqZkJ3UmtUYVp0NUozN3VqTlpkeUJSV2ZVRkpybkhaZzVyd1VVQg?oc=5"
+    "name": "Forbes",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk1JRzNMX2pidjhHWlhrTDM5T0hMOHROV05ibEtPT1JlYWlYbWpuSFBoVFhqVk5uenFIWlJVcE15YVJzdWlPdEJwS19rYVlkLVd0Y2IyUFRkTnBmaE9YaXZmTGlxemp2YzA0blhDTGVsUHJ3Mzhfak1ydlN2M0FEWV8wWTREU1FDSWxTOUJINmRqOGVEUW54aElGdVVPeC03U0pRS2l0V3hmd18taFhCMzh3?oc=5"
    },
-   "source_title": "State and Federal Regulators Face Off Over Prediction Markets",
+   "source_title": "CFTC Starts Historic Rulemaking Process For Prediction Markets",
    "also": [
     {
-     "name": "Klement on Investing",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaGVoM2dfM1NxVzdDd3RpdTNoSk1SeVd1QjRGcmNpSWZoanJ5bHJEQWtsOVZ6RGk1bDFNWGs5U1VBQ2R2MWZ5Y1RwZmtxOTlCeEo2S2Z1SUdYZXFKMFFMMUV0czhhZlk1MTZyOXdZYUJ1bXRGdFpCQWVUSXNlc3c?oc=5"
+     "name": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1JMdzVxSFhMRlRhNlczSDZWTGZlSUxXcHcyRWN2bGVKLUZTZnJSMjV2b3lhYktIYWhGNm8tM3ZMTnV3ZENkWGtyVjlSRkM5cnQ3T0t0R1pjN0Q5MzNvYkoya0xEWW5iTEQzMjJoVVVVeWJseWg3dURqemNMSXlFLQ?oc=5"
+    },
+    {
+     "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmt3ckItMXBfZ04wbUladjhlaHN3UnBQajR2NVBtcFAyYlFsZFNOOGxiMUhaR1kzd1pmRU5yQkowVE4xSGJJN0FVN1FuT2ZVbG1pYTE1N2hQaTl6a2tlYVVreUVXRTRZU0lUOTF5ZVlBeFl3NXhjTFZhWG1yX2t3UzVMNWw4RWN5WFdYblVQQkk3TFV0ZXdjVVktWQ?oc=5"
     }
    ],
-   "published": "2026-05-05T07:00:00+00:00",
+   "published": "2026-03-14T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "91b61dd634b0",
+   "headline": "CFTC and Federal Agencies Sharpen Focus on Prediction Markets",
+   "lede": "Federal regulators are intensifying scrutiny of prediction markets, with the CFTC and other agencies signaling a coordinated push toward clearer oversight frameworks.",
+   "why": "Traders should watch for potential new contract approval timelines and compliance costs that could reshape which platforms survive regulatory review. Operators face a critical window to engage rulemaking processes before stricter definitions of permissible event contracts get locked in.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Polymarket",
+    "Office of Advocacy"
+   ],
+   "primary_source": {
+    "name": "Akin",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWVfT0dTRVJTeXJNSHlhYmxSWWJGQ0lfTE5mbV9hZmVhaXJCYTRFY09wdTlfdjB5akVwLU5meXVEcVlGSnlERWxzdElhdzR1RENpcUUwR25Ba0lnNUJKLUdrbElUTWRrS1hwaHlEV0lLZHA3QWhHQXFzaDdYZVVsYUVGWUlWRm5VLVMzUFQzQTFJQW9zREE5VF82RHlKZ2RCSUdBeU53?oc=5"
+   },
+   "source_title": "Federal Agencies Signal Renewed Focus on Prediction Markets",
+   "also": [
+    {
+     "name": "Office of Advocacy (.gov)",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMFRDVzZoUklRRTJTY1RhLUF5dEZjSlBqY2JfSmIxRjZzaFBkUHlLWDJ4XzB6cDJpUElLdERYZ0Zxc3c1MXZlbm12WTAzOURkQ2lIM04yek5QcU1UdHozU191VGw2U1N4YnlTNA?oc=5"
+    }
+   ],
+   "published": "2026-02-13T08:00:00+00:00",
+   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+  },
+  {
+   "id": "3ae25bbdb32c",
+   "headline": "CFTC Signals Major Regulatory Shift for Prediction Markets",
+   "lede": "The CFTC has announced significant policy developments affecting prediction markets and event-contract futures, according to a report from global law firm Dentons.",
+   "body": [
+    "According to Dentons, the CFTC unveiled major developments targeting prediction markets and futures contracts, marking one of the more consequential regulatory moves the agency has made in this space in recent years. The announcements are expected to reshape how event-contract platforms operate under U.S. law.",
+    "The Dentons report highlights that these developments carry direct implications for exchanges offering event contracts \u2014 the core product of platforms like Kalshi and ForecastEx, which have spent years navigating CFTC oversight. The agency has historically been the primary federal gatekeeper determining which event contracts are permissible for trading.",
+    "This comes amid a broader period of evolution for U.S. prediction markets, which saw landmark legal victories and surging trading volumes following the 2024 election cycle. Regulatory clarity \u2014 or new constraints \u2014 from the CFTC can directly affect product offerings, market liquidity, and the competitive landscape for designated contract markets operating in this space."
+   ],
+   "why": "Traders on CFTC-regulated platforms like Kalshi should watch closely: any rule changes could alter which contracts are permitted, affecting open positions and available markets. For operators, new guidance may shift compliance costs or open doors for product expansion. Regulation watchers should note that CFTC posture toward prediction markets has become a bellwether for the sector's long-term legitimacy.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "ForecastEx",
+    "Dentons"
+   ],
+   "primary_source": {
+    "name": "Dentons",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWV4TWRndktxUzRMbVRlcnc2dDNkVzJNU0hvTDFXZl9oZDBxanIxVXdOVTExY1BVNTh4OVhQVUpmMjFZYXZxZG1DVVVCOTFGUTNPWFBpSjZub2lTdl93REd4V1BaSWo2Nk9DZFZfVEdXdDJiYjB6RHRFdnY0LTByajM4ei1PTV8zMEJwTy1UUGFkTnJPRV9F?oc=5"
+   },
+   "source_title": "CFTC Announces Major Developments for Prediction Markets and Futures Contracts",
+   "also": [],
+   "published": "2026-01-30T08:00:00+00:00",
+   "first_seen": "2026-07-06T19:46:14.006003+00:00"
   }
  ]
 }
