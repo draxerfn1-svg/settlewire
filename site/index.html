@@ -405,7 +405,7 @@ function setCat(el){rail.querySelectorAll('.chip').forEach(c=>c.classList.remove
 /* ========== LATEST ========== */
 function renderLatest(rows){
  document.getElementById('latestList').innerHTML=rows.map((s,i)=>`
- <a class="lrow" href="${s[4]||'#'}" ${s[4]?'target="_blank" rel="noopener"':''}>
+ <a class="lrow" href="${s[4]||'#'}" ${s[4]&&s[4].startsWith('http')?'target="_blank" rel="noopener"':''}>
    <span class="num">${String(i+1).padStart(2,'0')}</span>
    <div><h3>${s[1]}</h3>
    <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span><span class="src">via <b>${s[2]}</b></span><span class="time">${s[3]}</span></div></div>
@@ -418,10 +418,10 @@ function renderTop(k){
  document.getElementById('topGrid').innerHTML=TOP[k].map(s=>`
   <article class="card">
     <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span>${s[6]?`<span class="odds ${s[6][0]}">${s[6][1]}</span>`:''}</div>
-    <h3>${s[7]?`<a href="${s[7]}" target="_blank" rel="noopener">${s[1]}</a>`:s[1]}</h3>
+    <h3>${s[7]?`<a href="${s[7]}" ${s[7].startsWith('http')?'target="_blank" rel="noopener"':''}>${s[1]}</a>`:s[1]}</h3>
     <button class="whybtn" onclick="this.closest('.card').classList.toggle('open')">Why it matters</button>
     <p class="why">${s[2]}</p>
-    <div class="foot"><span class="src">First reported by <b>${s[7]?`<a href="${s[7]}" target="_blank" rel="noopener">${s[3]}</a>`:s[3]}</b> · ${s[4]}</span><span class="time">${s[5]}</span></div>
+    <div class="foot"><span class="src">First reported by <b>${s[8]?`<a href="${s[8]}" target="_blank" rel="noopener">${s[3]}</a>`:s[3]}</b> · ${s[4]}</span><span class="time">${s[5]}</span></div>
   </article>`).join('');
 }
 renderTop('day');
@@ -486,15 +486,15 @@ fetch('stories.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(data=>{
    alsoN:(s.also||[]).length}));
  if(!st.length)return;
 
- /* Latest = 6 newest */
- renderLatest(st.slice(0,6).map(s=>[s.category,s.headline,s.srcName,ago(s.published),s.srcUrl]));
+ /* Latest = 6 newest -> our own article pages */
+ renderLatest(st.slice(0,6).map(s=>[s.category,s.headline,s.srcName,ago(s.published),`story/${s.id}.html`]));
 
  /* Top tabs = windows by published time */
  const H=3600e3, now=Date.now();
  const win=ms=>st.filter(s=>now-new Date(s.published)<ms).slice(0,6);
  const toRow=s=>[s.category,s.headline,s.why,s.srcName,
    s.alsoN?`+${s.alsoN} outlet${s.alsoN>1?'s':''}`:'first on record',
-   ago(s.published),null,s.srcUrl];
+   ago(s.published),null,`story/${s.id}.html`,s.srcUrl];
  const day=win(24*H), week=win(7*24*H), month=win(30*24*H);
  if(day.length)TOP.day=day.map(toRow);
  if(week.length)TOP.week=week.map(toRow);

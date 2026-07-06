@@ -71,3 +71,5 @@ MAX_NEW_PER_RUN    = 12      # cap LLM calls per hourly run (cost control)
 SIMILARITY_CUTOFF  = 0.62    # title similarity above this = same story cluster
 MODEL              = "claude-sonnet-4-6"
 STORIES_PATH       = "site/stories.json"
+STORY_DIR          = "site/story"
+SITE_NAME          = "SettleWire"

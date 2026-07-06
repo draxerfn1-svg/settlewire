@@ -134,38 +134,63 @@ def cluster(items, existing):
 
 
 # ------------------------------------------------------- contextualization
-PROMPT = """You are the editor of a prediction-markets news aggregator. Coverage of one news event is listed below as headlines from various outlets (metadata only).
+def fetch_article_signal(url, limit=2500):
+    """Fetch the primary source page and return plain-text signal for the LLM.
+    Used ONLY as reading input for original writing — never stored or shown."""
+    try:
+        r = requests.get(url, headers=UA, timeout=20, allow_redirects=True)
+        text = re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ", r.text)
+        text = re.sub(r"<[^>]+>", " ", text)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text[:limit]
+    except Exception:
+        return ""
 
-Write an ORIGINAL story card in strict JSON (no markdown fences, no preamble):
+
+PROMPT = """You are the editor of a prediction-markets news site. Below is coverage of one news event: outlet headlines, and (if available) extracted text from the primary source page — that text is READING MATERIAL ONLY.
+
+Write an ORIGINAL story in strict JSON (no markdown fences, no preamble):
 {{
   "headline": "your own headline, max 12 words, punchy, no clickbait",
   "lede": "one original sentence stating what happened, max 30 words",
-  "why": "2 sentences of original analysis: why this matters for prediction-market traders, operators, or regulation watchers. Be concrete about second-order effects.",
+  "body": ["2-3 short paragraphs, ~60 words each: what happened, key details and numbers, and industry context. Attribute facts to the source by name, e.g. 'according to {primary}'."],
+  "why": "2-3 sentences of original analysis: why this matters for prediction-market traders, operators, or regulation watchers. Be concrete about second-order effects.",
   "category": "one of: {cats}",
   "entities": ["up to 4 relevant entities e.g. Kalshi, Polymarket, CFTC"]
 }}
 
-Rules: write everything in your own words — never copy source phrasing. If the event is not genuinely about prediction markets / event contracts, return exactly {{"skip": true}}.
+Hard rules:
+- Every sentence must be written in YOUR OWN words. Never copy or closely paraphrase sentences or phrasing from the source text — restate facts, in a different structure and voice.
+- STRICT RELEVANCE GATE: this site covers ONLY prediction markets and event contracts (Polymarket, Kalshi, ForecastEx, Crypto.com sports contracts, CFTC event-contract regulation, and direct competitors). If this story is not squarely about that world — e.g. general crypto, general sports betting, generic CFTC enforcement — return exactly {{"skip": true}}.
 
 Coverage:
-{coverage}"""
+{coverage}
+
+Primary source reading material (may be empty or contain page noise):
+{signal}"""
 
 
 def contextualize(cluster_items, api_key, dry_run=False):
     coverage = "\n".join(f"- [{i['source']}] {i['title']}" for i in cluster_items[:8])
+    primary = cluster_items[0]
     if dry_run:
         return {
-            "headline": cluster_items[0]["title"][:70],
+            "headline": primary["title"][:70],
             "lede": "Dry-run placeholder lede.",
+            "body": ["Dry-run placeholder paragraph one.", "Dry-run placeholder paragraph two."],
             "why": "Dry-run placeholder analysis.",
             "category": "Trading",
             "entities": [],
         }
+    signal = fetch_article_signal(primary["url"])
     body = {
         "model": config.MODEL,
-        "max_tokens": 500,
+        "max_tokens": 900,
         "messages": [{"role": "user", "content": PROMPT.format(
-            cats=", ".join(config.CATEGORIES), coverage=coverage)}],
+            cats=", ".join(config.CATEGORIES),
+            primary=primary["source"],
+            coverage=coverage,
+            signal=signal or "(unavailable — write from the headlines only)")}],
     }
     for attempt in range(3):
         try:
@@ -193,6 +218,85 @@ def contextualize(cluster_items, api_key, dry_run=False):
 # ----------------------------------------------------------------- publish
 def story_id(url):
     return hashlib.sha1(url.encode()).hexdigest()[:12]
+
+
+STORY_TEMPLATE = """<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{headline} — {site}</title>
+<meta name="description" content="{lede}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{{--paper:#fff;--surface:#f4f6f8;--line:#e4e8ec;--ink:#10151c;--muted:#5a6472;--faint:#8a93a0;--brand:#5b3df5;--brand-tint:#efecfe}}
+*{{margin:0;padding:0;box-sizing:border-box}}
+body{{font-family:'Archivo',system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.6;-webkit-font-smoothing:antialiased}}
+a{{color:inherit;text-decoration:none}}
+header{{position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);z-index:10}}
+.hwrap{{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:1rem;padding:.7rem 1.2rem}}
+.logo{{display:flex;align-items:center;gap:.55rem;font-weight:900;font-size:1.22rem;letter-spacing:-.03em}}
+.logo-mark{{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--brand),#8f7bff);display:grid;place-items:center;color:#fff;font-family:'IBM Plex Mono',monospace;font-size:.85rem}}
+.back{{margin-left:auto;font-weight:600;font-size:.9rem;color:var(--muted)}}
+.back:hover{{color:var(--ink)}}
+.wrap{{max-width:760px;margin:0 auto;padding:2.2rem 1.2rem;display:grid;gap:1.1rem}}
+.tag{{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;padding:.2rem .55rem;border-radius:5px;background:var(--brand-tint);color:var(--brand);justify-self:start}}
+h1{{font-size:clamp(1.6rem,4vw,2.3rem);font-weight:800;line-height:1.15;letter-spacing:-.025em}}
+.meta{{font-family:'IBM Plex Mono',monospace;font-size:.75rem;color:var(--faint)}}
+.lede{{font-size:1.14rem;font-weight:500;color:var(--muted);line-height:1.55}}
+.body p{{margin-bottom:1rem;font-size:1.02rem}}
+.why{{background:var(--surface);border-left:4px solid var(--brand);border-radius:0 12px 12px 0;padding:1.2rem 1.4rem}}
+.why h2{{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;color:var(--brand);margin-bottom:.5rem}}
+.srcbox{{border:1px solid var(--line);border-radius:12px;padding:1.2rem 1.4rem}}
+.srcbox h2{{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin-bottom:.6rem}}
+.srcbox a{{font-weight:700;color:var(--brand)}}
+.srcbox a:hover{{text-decoration:underline}}
+.also{{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.7rem}}
+.also a{{border:1px solid var(--line);border-radius:999px;padding:.3rem .8rem;font-size:.82rem;font-weight:600;color:var(--muted)}}
+.also a:hover{{border-color:var(--ink);color:var(--ink)}}
+.ents{{display:flex;gap:.45rem;flex-wrap:wrap}}
+.ents span{{background:var(--surface);border-radius:999px;padding:.28rem .8rem;font-size:.8rem;font-weight:600;color:var(--muted)}}
+.note{{font-size:.8rem;color:var(--faint)}}
+</style></head><body>
+<header><div class="hwrap"><a class="logo" href="../index.html"><span class="logo-mark">%</span>{site}</a><a class="back" href="../index.html">← All stories</a></div></header>
+<main class="wrap">
+<span class="tag">{category}</span>
+<h1>{headline}</h1>
+<div class="meta">PUBLISHED {published} · {site} NEWSROOM</div>
+<p class="lede">{lede}</p>
+<div class="body">{body_html}</div>
+<div class="why"><h2>Why this matters</h2><p>{why}</p></div>
+<div class="srcbox"><h2>First reported by</h2><a href="{src_url}" target="_blank" rel="noopener">{src_name} ↗</a>{also_html}
+<p class="note" style="margin-top:.8rem">{site} contextualizes coverage in its own words — we don't republish source articles.</p></div>
+{ents_html}
+</main></body></html>"""
+
+
+def render_story_page(s):
+    import html as H
+    e = lambda x: H.escape(str(x or ""))
+    body_paras = s.get("body") or [s.get("lede", "")]
+    body_html = "".join(f"<p>{e(p)}</p>" for p in body_paras)
+    also_html = ""
+    if s.get("also"):
+        links = "".join(
+            f'<a href="{e(a["url"])}" target="_blank" rel="noopener">{e(a["name"])}</a>'
+            for a in s["also"][:12])
+        also_html = f'<h2 style="margin-top:1rem">Also covered by</h2><div class="also">{links}</div>'
+    ents_html = ""
+    if s.get("entities"):
+        ents_html = '<div class="ents">' + "".join(
+            f"<span>{e(x)}</span>" for x in s["entities"][:6]) + "</div>"
+    try:
+        pub = datetime.fromisoformat(s["published"]).strftime("%b %d, %Y · %H:%M UTC").upper()
+    except Exception:
+        pub = e(s.get("published", ""))
+    page = STORY_TEMPLATE.format(
+        site=config.SITE_NAME, headline=e(s["headline"]), lede=e(s["lede"]),
+        category=e(s["category"]), published=pub, body_html=body_html,
+        why=e(s["why"]), src_name=e(s["primary_source"]["name"]),
+        src_url=e(s["primary_source"]["url"]), also_html=also_html, ents_html=ents_html)
+    os.makedirs(config.STORY_DIR, exist_ok=True)
+    with open(os.path.join(config.STORY_DIR, f"{s['id']}.html"), "w") as f:
+        f.write(page)
 
 
 def run(dry_run=False):
@@ -228,6 +332,7 @@ def run(dry_run=False):
             "id": story_id(primary["url"]),
             "headline": ctx["headline"],
             "lede": ctx["lede"],
+            "body": ctx.get("body", []),
             "why": ctx["why"],
             "category": ctx["category"],
             "entities": ctx.get("entities", []),
@@ -241,6 +346,11 @@ def run(dry_run=False):
 
     all_stories = new_stories + existing
     all_stories = all_stories[: config.MAX_STORIES_KEPT]
+
+    # regenerate every story page (picks up new "also covered by" outlets too)
+    for s in all_stories:
+        render_story_page(s)
+    print(f"[pages] {len(all_stories)} article pages in {config.STORY_DIR}/")
 
     os.makedirs(os.path.dirname(path), exist_ok=True)
     json.dump(
