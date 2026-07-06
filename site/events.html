@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Story Archive — SettleWire</title>
-<meta name="description" content="Every prediction-markets story on the tape — searchable and filterable.">
+<title>The Docket — SettleWire</title>
+<meta name="description" content="Court dates, earnings calls, and regulatory deadlines that will move prediction markets.">
 <meta name="theme-color" content="#0c2f26">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13.5' fill='%23ecc94b' stroke='%2312211c' stroke-width='2.5'/%3E%3Ctext x='16' y='21.5' font-family='monospace' font-size='15' font-weight='700' text-anchor='middle' fill='%2312211c' transform='rotate(-8 16 16)'%3E%25%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -45,20 +45,21 @@
 
 <div class="pagehead">
   <div class="pagehead-in">
-    <div class="eyebrow">Everything on record</div>
-    <h1>Story archive</h1>
-    <p>Every ticket we've printed, searchable. Filter by section or search headlines across the whole tape.</p>
-    <span class="mono" id="count">Loading…</span>
+    <div class="eyebrow">Forward calendar</div>
+    <h1>The Docket</h1>
+    <p>Court dates, earnings calls, and regulatory deadlines with prediction-market consequences — the dates the tape will react to before they happen.</p>
   </div>
 </div>
-<main class="wrap narrow">
-  <form class="rv" id="bigSearch" style="display:flex;gap:.6rem;margin:1.8rem 0 1.2rem">
-    <input type="search" id="q" placeholder="Search headlines…" aria-label="Search headlines"
-      style="flex:1;border:1.5px solid var(--text);background:var(--card);color:var(--ink);border-radius:10px;padding:.7rem 1rem;font-family:var(--font-m);font-size:.9rem">
-    <button class="cta" type="submit">Search</button>
-  </form>
-  <div class="rv" id="chips" style="display:flex;gap:.5rem;flex-wrap:wrap;margin-bottom:1.4rem"></div>
-  <div class="rv" id="list"></div>
+<main class="wrap">
+  <div class="sec-h rv"><h2>Upcoming</h2>
+    <div class="tabs" id="kindTabs" role="tablist">
+      <button class="on" onclick="setKind(this,'All')">All</button>
+      <button onclick="setKind(this,'Court')">Court</button>
+      <button onclick="setKind(this,'Earnings')">Earnings</button>
+      <button onclick="setKind(this,'Regulatory')">Regulatory</button>
+    </div>
+  </div>
+  <div class="events two rv" id="evList"></div>
 </main>
 
 <footer class="site">
@@ -86,26 +87,20 @@
 <script src="assets/site.js"></script>
 
 <script>
-let ALL=[],cat='All',query=(qs.get('q')||'').toLowerCase();
-document.getElementById('q').value=qs.get('q')||'';
-document.getElementById('chips').innerHTML=['All',...CATS].map((c,i)=>
- `<button class="chip${i===0?' on':''}" onclick="setC(this,'${c}')">${c}</button>`).join('');
-function setC(el,c){document.querySelectorAll('#chips .chip').forEach(x=>x.classList.remove('on'));el.classList.add('on');cat=c;render();}
-document.getElementById('bigSearch').addEventListener('submit',e=>{
- e.preventDefault();query=document.getElementById('q').value.trim().toLowerCase();render();
-});
-function render(){
- let f=cat==='All'?ALL:ALL.filter(s=>s.category===cat);
- if(query)f=f.filter(s=>s.headline.toLowerCase().includes(query)||s.why.toLowerCase().includes(query));
- document.getElementById('count').textContent=
-  `${f.length} stor${f.length===1?'y':'ies'}${cat!=='All'?' · '+cat:''}${query?` · "${query}"`:''}`;
- const el=document.getElementById('list');
- el.innerHTML=f.length?f.map(rowHTML).join(''):voidHTML(query?`"${query}"`:cat);
+let kind='All';
+function renderEv(){
+ const f=kind==='All'?EVENTS:EVENTS.filter(e=>e.kind===kind);
+ const el=document.getElementById('evList');
+ el.innerHTML=f.length?f.map(e=>`
+  <div class="ev"><div class="date"><div class="d">${e.d}</div><div class="m">${e.m}</div></div>
+  <div class="evb"><span class="kind">${e.kind}</span><p>${e.txt}</p></div></div>`).join(''):voidHTML(kind);
  swapIn(el);
 }
-document.getElementById('list').innerHTML=skelHTML(8,64);
-fetchStories().then(st=>{ALL=st;render();})
- .catch(()=>{document.getElementById('count').textContent='No stories published yet — the pipeline runs hourly.';document.getElementById('list').innerHTML='';});
+function setKind(btn,k){
+ btn.parentElement.querySelectorAll('button').forEach(b=>b.classList.remove('on'));
+ btn.classList.add('on');kind=k;renderEv();
+}
+renderEv();
 </script>
 </body>
 </html>

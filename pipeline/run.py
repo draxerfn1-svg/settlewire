@@ -224,50 +224,53 @@ STORY_TEMPLATE = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{headline} — {site}</title>
 <meta name="description" content="{lede}">
+<meta property="og:title" content="{headline}">
+<meta property="og:description" content="{lede}">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0c2f26">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13.5' fill='%23ecc94b' stroke='%2312211c' stroke-width='2.5'/%3E%3Ctext x='16' y='21.5' font-family='monospace' font-size='15' font-weight='700' text-anchor='middle' fill='%2312211c' transform='rotate(-8 16 16)'%3E%25%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-:root{{--paper:#fff;--surface:#f4f6f8;--line:#e4e8ec;--ink:#10151c;--muted:#5a6472;--faint:#8a93a0;--brand:#5b3df5;--brand-tint:#efecfe}}
-*{{margin:0;padding:0;box-sizing:border-box}}
-body{{font-family:'Archivo',system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.6;-webkit-font-smoothing:antialiased}}
-a{{color:inherit;text-decoration:none}}
-header{{position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);z-index:10}}
-.hwrap{{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:1rem;padding:.7rem 1.2rem}}
-.logo{{display:flex;align-items:center;gap:.55rem;font-weight:900;font-size:1.22rem;letter-spacing:-.03em}}
-.logo-mark{{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--brand),#8f7bff);display:grid;place-items:center;color:#fff;font-family:'IBM Plex Mono',monospace;font-size:.85rem}}
-.back{{margin-left:auto;font-weight:600;font-size:.9rem;color:var(--muted)}}
-.back:hover{{color:var(--ink)}}
-.wrap{{max-width:760px;margin:0 auto;padding:2.2rem 1.2rem;display:grid;gap:1.1rem}}
-.tag{{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;padding:.2rem .55rem;border-radius:5px;background:var(--brand-tint);color:var(--brand);justify-self:start}}
-h1{{font-size:clamp(1.6rem,4vw,2.3rem);font-weight:800;line-height:1.15;letter-spacing:-.025em}}
-.meta{{font-family:'IBM Plex Mono',monospace;font-size:.75rem;color:var(--faint)}}
-.lede{{font-size:1.14rem;font-weight:500;color:var(--muted);line-height:1.55}}
-.body p{{margin-bottom:1rem;font-size:1.02rem}}
-.why{{background:var(--surface);border-left:4px solid var(--brand);border-radius:0 12px 12px 0;padding:1.2rem 1.4rem}}
-.why h2{{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;color:var(--brand);margin-bottom:.5rem}}
-.srcbox{{border:1px solid var(--line);border-radius:12px;padding:1.2rem 1.4rem}}
-.srcbox h2{{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin-bottom:.6rem}}
-.srcbox a{{font-weight:700;color:var(--brand)}}
-.srcbox a:hover{{text-decoration:underline}}
-.also{{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.7rem}}
-.also a{{border:1px solid var(--line);border-radius:999px;padding:.3rem .8rem;font-size:.82rem;font-weight:600;color:var(--muted)}}
-.also a:hover{{border-color:var(--ink);color:var(--ink)}}
-.ents{{display:flex;gap:.45rem;flex-wrap:wrap}}
-.ents span{{background:var(--surface);border-radius:999px;padding:.28rem .8rem;font-size:.8rem;font-weight:600;color:var(--muted)}}
-.note{{font-size:.8rem;color:var(--faint)}}
-</style></head><body>
-<header><div class="hwrap"><a class="logo" href="../index.html"><span class="logo-mark">%</span>{site}</a><a class="back" href="../index.html">← All stories</a></div></header>
-<main class="wrap">
-<span class="tag">{category}</span>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Instrument+Sans:wght@400;500;600;700&family=Spline+Sans+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/site.css">
+</head><body>
+<div class="progress" id="prog"></div>
+<header class="site">
+  <div class="hwrap">
+    <a class="logo" href="../index.html"><span class="logo-mark">%</span>{site}</a>
+    <nav class="main" aria-label="Primary">
+      <a href="../index.html">Home</a><a href="../events.html">The Docket</a><a href="../all.html">Archive</a><a href="../newsletter.html">Newsletter</a>
+    </nav>
+    <a class="cta" href="../newsletter.html">Get the Brief</a>
+  </div>
+</header>
+<main class="wrap narrow" style="padding-top:2.2rem">
+<article class="ticket rv in">
+<div class="thead">
+<span class="stamp">{category}</span>
 <h1>{headline}</h1>
-<div class="meta">PUBLISHED {published} · {site} NEWSROOM</div>
+<div class="meta">Published {published} · {site} newsroom</div>
+</div>
+<div class="tbody">
 <p class="lede">{lede}</p>
-<div class="body">{body_html}</div>
-<div class="why"><h2>Why this matters</h2><p>{why}</p></div>
+<div class="abody">{body_html}</div>
+<div class="whybox"><h2>Why this matters</h2><p>{why}</p></div>
 <div class="srcbox"><h2>First reported by</h2><a href="{src_url}" target="_blank" rel="noopener">{src_name} ↗</a>{also_html}
-<p class="note" style="margin-top:.8rem">{site} contextualizes coverage in its own words — we don't republish source articles.</p></div>
+<p class="note" style="font-size:.8rem;color:var(--faint2);margin-top:.8rem">{site} contextualizes coverage in its own words — we don't republish source articles.</p></div>
 {ents_html}
-</main></body></html>"""
+</div>
+</article>
+</main>
+<footer class="site">
+  <div class="fbase">© 2026 {site} · EDITORIAL SITE — NOT A REGULATED TRADING PLATFORM · NOTHING HERE IS INVESTMENT ADVICE</div>
+</footer>
+<script>
+addEventListener('scroll',()=>{{
+ const h=document.documentElement;
+ document.getElementById('prog').style.width=(h.scrollTop/(h.scrollHeight-h.clientHeight)*100)+'%';
+}},{{passive:true}});
+</script>
+</body></html>"""
 
 
 def render_story_page(s):
@@ -280,7 +283,7 @@ def render_story_page(s):
         links = "".join(
             f'<a href="{e(a["url"])}" target="_blank" rel="noopener">{e(a["name"])}</a>'
             for a in s["also"][:12])
-        also_html = f'<h2 style="margin-top:1rem">Also covered by</h2><div class="also">{links}</div>'
+        also_html = f'<h2 style="margin-top:1.1rem">Also covered by</h2><div class="also">{links}</div>'
     ents_html = ""
     if s.get("entities"):
         ents_html = '<div class="ents">' + "".join(
