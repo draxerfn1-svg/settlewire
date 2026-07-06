@@ -310,7 +310,14 @@ def run(dry_run=False):
         existing = json.load(open(path)).get("stories", [])
 
     items = [i for i in ingest() if matches_keywords(i)]
-    print(f"[filter] {len(items)} match keywords")
+    cutoff = NOW.timestamp() - config.MAX_ITEM_AGE_DAYS * 86400
+    def fresh(i):
+        try:
+            return datetime.fromisoformat(i["published"]).timestamp() > cutoff
+        except Exception:
+            return True
+    items = [i for i in items if fresh(i)]
+    print(f"[filter] {len(items)} match keywords & freshness window")
 
     clusters = cluster(items, existing)
     clusters = clusters[: config.MAX_NEW_PER_RUN]
@@ -345,6 +352,7 @@ def run(dry_run=False):
         print(f"  + [{ctx['category']}] {ctx['headline']}")
 
     all_stories = new_stories + existing
+    all_stories.sort(key=lambda s: s.get("published", ""), reverse=True)
     all_stories = all_stories[: config.MAX_STORIES_KEPT]
 
     # regenerate every story page (picks up new "also covered by" outlets too)

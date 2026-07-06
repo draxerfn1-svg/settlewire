@@ -198,10 +198,9 @@ footer a:hover{color:var(--ink)}
 
 <header>
   <div class="hwrap">
-    <a class="logo" href="#"><span class="logo-mark">%</span>SettleWire</a>
+    <a class="logo" href="index.html"><span class="logo-mark">%</span>SettleWire</a>
     <nav class="main" aria-label="Primary">
-      <a href="#latest">Latest</a><a href="#top">Top Stories</a><a href="#events">Events</a><a href="#newsletter">Newsletter</a>
-    </nav>
+      <a href="#latest">Latest</a><a href="#top">Top Stories</a><a href="#events">Events</a><a href="all.html">Archive</a></nav>
     <button class="cta" onclick="openOb(1)">Get the Brief</button>
   </div>
 </header>
@@ -213,7 +212,7 @@ footer a:hover{color:var(--ink)}
 <main class="wrap">
 
   <!-- HERO -->
-  <section class="hero">
+  <section class="hero" id="hero">
     <article class="lead">
       <div class="row" style="display:flex;gap:.6rem;align-items:center;position:relative;z-index:1">
         <span class="tag legal">Legal</span><span class="odds y">CFTC ACTION · 68%</span><span class="time" >2h ago</span>
@@ -249,7 +248,7 @@ footer a:hover{color:var(--ink)}
   </section>
 
   <!-- LATEST -->
-  <div class="sec-h" id="latest"><h2>Latest</h2><a href="#">See all →</a></div>
+  <div class="sec-h" id="latest"><h2>Latest</h2><a href="all.html">See all →</a></div>
   <div class="latest" id="latestList"></div>
 
   <!-- NEWSLETTER BAND -->
@@ -277,7 +276,7 @@ footer a:hover{color:var(--ink)}
   <div class="grid" id="topGrid"></div>
 
   <!-- EVENTS -->
-  <div class="sec-h" id="events"><h2>Upcoming Events</h2><a href="#">Full calendar →</a></div>
+  <div class="sec-h" id="events"><h2>Upcoming Events</h2></div>
   <div class="events">
     <div class="ev"><div class="date"><div class="d">07</div><div class="m">Jul</div></div><div><span class="kind">Court</span><p>Cert petition window closes on the Third Circuit ruling — potential first Supreme Court look at event-contract regulation.</p></div></div>
     <div class="ev"><div class="date"><div class="d">15</div><div class="m">Jul</div></div><div><span class="kind">Court</span><p>Ninth Circuit ruling window opens in the Nevada platforms case. A loss creates a circuit split.</p></div></div>
@@ -290,12 +289,12 @@ footer a:hover{color:var(--ink)}
 <footer>
   <div class="fwrap">
     <div>
-      <a class="logo" href="#"><span class="logo-mark">%</span>SettleWire</a>
+      <a class="logo" href="index.html"><span class="logo-mark">%</span>SettleWire</a>
       <p class="fnote">The intelligence layer for prediction markets. We cluster coverage from 90+ sources and add the context — we never republish source articles.</p>
     </div>
-    <div><h4>Coverage</h4><ul><li><a href="#">Trading</a></li><li><a href="#">Legal</a></li><li><a href="#">Deals</a></li><li><a href="#">Data</a></li><li><a href="#">Tech</a></li></ul></div>
-    <div><h4>Products</h4><ul><li><a href="#">Daily Brief</a></li><li><a href="#">The Show</a></li><li><a href="#">API</a></li><li><a href="#">Advisory</a></li></ul></div>
-    <div><h4>Company</h4><ul><li><a href="#">About</a></li><li><a href="#">Contact</a></li><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li><li><a href="#">Risk disclosure</a></li></ul></div>
+    <div><h4>Coverage</h4><ul><li><a href="#latest" onclick="return footCat('Trading')">Trading</a></li><li><a href="#latest" onclick="return footCat('Legal')">Legal</a></li><li><a href="#latest" onclick="return footCat('Deals')">Deals</a></li><li><a href="#latest" onclick="return footCat('Data')">Data</a></li><li><a href="#latest" onclick="return footCat('Tech')">Tech</a></li></ul></div>
+    <div><h4>Products</h4><ul><li><a href="#newsletter">Daily Brief</a></li><li><a href="all.html">Story archive</a></li></ul></div>
+    <div><h4>Company</h4><ul><li><a href="about.html">About</a></li><li><a href="mailto:hello@yourdomain.com">Contact</a></li><li><a href="privacy.html">Privacy</a></li><li><a href="terms.html">Terms</a></li><li><a href="risk.html">Risk disclosure</a></li></ul></div>
   </div>
   <div class="fbase">© 2026 · EDITORIAL SITE — NOT A REGULATED TRADING PLATFORM · NOTHING HERE IS INVESTMENT ADVICE</div>
 </footer>
@@ -397,38 +396,85 @@ const tt=document.getElementById('tickerTrack');
 const seq=TICKS.map(([n,p,d])=>`<span class="tk">${n} <b>${p}</b> <span class="${d}">${d==='up'?'▲':'▼'}</span></span>`).join('');
 tt.innerHTML=seq+seq; /* duplicated for seamless loop */
 
+/* ========== VIEW STATE ========== */
+let LIVE=null, curCat='All', curTab='day';
+
 /* ========== CATEGORY RAIL ========== */
 const rail=document.getElementById('catRail');
 rail.innerHTML=CATS.map((c,i)=>`<button class="chip${i===0?' on':''}" onclick="setCat(this)">${c}</button>`).join('');
-function setCat(el){rail.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));el.classList.add('on');}
+function setCat(el){
+ rail.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));el.classList.add('on');
+ curCat=el.textContent;applyAll();
+}
+
+/* ========== HERO (rebuilt from live data when available) ========== */
+function renderHero(list){
+ if(!list.length)return;
+ const L=list[0], minis=list.slice(1,5);
+ document.getElementById('hero').innerHTML=`
+  <a class="lead" href="story/${L.id}.html">
+    <div style="display:flex;gap:.6rem;align-items:center;position:relative;z-index:1">
+      <span class="tag">${L.category}</span><span class="time" style="color:#7d8894">${ago(L.published)}</span>
+    </div>
+    <h1>${L.headline}</h1>
+    <p>${L.lede}</p>
+    <div class="meta"><span class="src" style="color:#7d8894">First reported by <b style="color:#cdd5de">${L.srcName}</b>${L.alsoN?` · +${L.alsoN} outlets`:''}</span></div>
+  </a>
+  <div class="side">${minis.map(s=>`
+    <a class="mini" href="story/${s.id}.html">
+      <div class="row"><span class="tag ${s.category.toLowerCase()}">${s.category}</span></div>
+      <h3>${s.headline}</h3>
+      <span class="src">First reported by <b>${s.srcName}</b>${s.alsoN?` · +${s.alsoN} outlets`:''} <span class="time">· ${ago(s.published)}</span></span>
+    </a>`).join('')}</div>`;
+}
 
 /* ========== LATEST ========== */
 function renderLatest(rows){
- document.getElementById('latestList').innerHTML=rows.map((s,i)=>`
+ document.getElementById('latestList').innerHTML=rows.length?rows.map((s,i)=>`
  <a class="lrow" href="${s[4]||'#'}" ${s[4]&&s[4].startsWith('http')?'target="_blank" rel="noopener"':''}>
    <span class="num">${String(i+1).padStart(2,'0')}</span>
    <div><h3>${s[1]}</h3>
    <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span><span class="src">via <b>${s[2]}</b></span><span class="time">${s[3]}</span></div></div>
- </a>`).join('');
+ </a>`).join(''):`<p class="src" style="padding:.9rem .2rem">No ${curCat} stories yet — check back within the hour.</p>`;
 }
-renderLatest(LATEST.map(s=>[s[0],s[1],s[2],s[3]+' ago',null]));
 
 /* ========== TOP STORIES ========== */
 function renderTop(k){
- document.getElementById('topGrid').innerHTML=TOP[k].map(s=>`
+ curTab=k;
+ const rows=TOP[k].filter(r=>curCat==='All'||r[0]===curCat);
+ document.getElementById('topGrid').innerHTML=rows.length?rows.map(s=>`
   <article class="card">
     <div class="row"><span class="tag ${s[0].toLowerCase()}">${s[0]}</span>${s[6]?`<span class="odds ${s[6][0]}">${s[6][1]}</span>`:''}</div>
     <h3>${s[7]?`<a href="${s[7]}" ${s[7].startsWith('http')?'target="_blank" rel="noopener"':''}>${s[1]}</a>`:s[1]}</h3>
     <button class="whybtn" onclick="this.closest('.card').classList.toggle('open')">Why it matters</button>
     <p class="why">${s[2]}</p>
     <div class="foot"><span class="src">First reported by <b>${s[8]?`<a href="${s[8]}" target="_blank" rel="noopener">${s[3]}</a>`:s[3]}</b> · ${s[4]}</span><span class="time">${s[5]}</span></div>
-  </article>`).join('');
+  </article>`).join(''):`<p class="src" style="grid-column:1/-1;padding:.5rem 0">No ${curCat} stories in this window yet.</p>`;
 }
-renderTop('day');
 function setTab(btn,k){
  btn.parentElement.querySelectorAll('button').forEach(b=>{b.classList.remove('on');b.setAttribute('aria-selected','false')});
  btn.classList.add('on');btn.setAttribute('aria-selected','true');renderTop(k);
 }
+
+/* ========== MASTER RENDER (applies current category filter) ========== */
+function applyAll(){
+ if(LIVE){
+   const f=curCat==='All'?LIVE:LIVE.filter(s=>s.category===curCat);
+   renderHero(f);
+   renderLatest(f.slice(0,6).map(s=>[s.category,s.headline,s.srcName,ago(s.published),`story/${s.id}.html`]));
+   const H=3600e3, now=Date.now();
+   const win=ms=>f.filter(s=>now-new Date(s.published)<ms).slice(0,6);
+   const toRow=s=>[s.category,s.headline,s.why,s.srcName,
+     s.alsoN?`+${s.alsoN} outlet${s.alsoN>1?'s':''}`:'first on record',
+     ago(s.published),null,`story/${s.id}.html`,s.srcUrl];
+   TOP.day=win(24*H).map(toRow);TOP.week=win(7*24*H).map(toRow);TOP.month=win(30*24*H).map(toRow);
+ } else {
+   const fl=curCat==='All'?LATEST:LATEST.filter(s=>s[0]===curCat);
+   renderLatest(fl.map(s=>[s[0],s[1],s[2],s[3]+' ago',null]));
+ }
+ renderTop(curTab);
+}
+applyAll();
 
 /* ========== ONBOARDING ========== */
 const ob=document.getElementById('ob');
@@ -442,10 +488,11 @@ function showStep(n){
  document.getElementById('s2').classList.toggle('on',n>=2);
 }
 function obNext(){showStep(2);}
-function obFinish(){
+async function obFinish(){
  const em=document.getElementById('obEmail');
  if(!em.value||!em.value.includes('@')){em.focus();em.style.borderColor='var(--no)';return;}
- state.subscribed=true;showStep(3);toast();
+ const ok=await handleSub(em.value,null);
+ if(ok)showStep(3);
 }
 /* auto-open once, 6s after load, unless already interacted */
 setTimeout(()=>{if(!state.obSeen&&!state.subscribed)openOb(1);},6000);
@@ -464,12 +511,51 @@ window.addEventListener('scroll',()=>{
 function dismissSlide(){slide.classList.remove('show');state.slideDismissed=true;}
 
 /* ========== SUBSCRIBE / TOAST ========== */
-function subscribe(e,form){
- e.preventDefault();state.subscribed=true;form.reset();slide.classList.remove('show');toast();
+/* Paste your form endpoint here to activate signups (2-min setup):
+   formspree.io -> new form -> copy the URL like https://formspree.io/f/abcd1234
+   Works with any endpoint accepting a JSON POST of {email}. */
+const NEWSLETTER_ENDPOINT='';
+
+async function pushEmail(email){
+ if(!NEWSLETTER_ENDPOINT)return{ok:false,unconfigured:true};
+ try{
+   const r=await fetch(NEWSLETTER_ENDPOINT,{method:'POST',
+     headers:{'Content-Type':'application/json','Accept':'application/json'},
+     body:JSON.stringify({email})});
+   return{ok:r.ok};
+ }catch{return{ok:false}}
 }
-function toast(){
- const t=document.getElementById('toast');t.classList.add('show');
+async function handleSub(email,form){
+ const res=await pushEmail(email);
+ if(res.ok){
+   state.subscribed=true;if(form)form.reset();
+   slide.classList.remove('show');
+   toastMsg('Subscribed — see you at noon ET.');
+ }else if(res.unconfigured){
+   toastMsg('Signups open soon.',true);
+ }else{
+   toastMsg("That didn't go through — try again.",true);
+ }
+ return res.ok;
+}
+function subscribe(e,form){
+ e.preventDefault();
+ handleSub(form.querySelector('input').value,form);
+}
+function toastMsg(msg,err){
+ const t=document.getElementById('toast');
+ t.textContent=msg;t.style.background=err?'var(--no)':'var(--yes)';
+ t.classList.add('show');
  setTimeout(()=>t.classList.remove('show'),2800);
+}
+function toast(){toastMsg('Subscribed — see you at noon ET.');}
+
+/* ========== FOOTER CATEGORY LINKS ========== */
+function footCat(c){
+ const chip=[...rail.children].find(b=>b.textContent===c);
+ if(chip)setCat(chip);
+ document.getElementById('latest').scrollIntoView({behavior:'smooth'});
+ return false;
 }
 
 /* ========== LIVE DATA LOADER ========== */
@@ -481,25 +567,12 @@ function ago(iso){
 }
 fetch('stories.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(data=>{
  const st=(data.stories||[]).map(s=>({...s,
-   headline:esc(s.headline),why:esc(s.why),category:esc(s.category),
+   headline:esc(s.headline),lede:esc(s.lede),why:esc(s.why),category:esc(s.category),
    srcName:esc(s.primary_source?.name||'source'),srcUrl:s.primary_source?.url||'#',
    alsoN:(s.also||[]).length}));
  if(!st.length)return;
-
- /* Latest = 6 newest -> our own article pages */
- renderLatest(st.slice(0,6).map(s=>[s.category,s.headline,s.srcName,ago(s.published),`story/${s.id}.html`]));
-
- /* Top tabs = windows by published time */
- const H=3600e3, now=Date.now();
- const win=ms=>st.filter(s=>now-new Date(s.published)<ms).slice(0,6);
- const toRow=s=>[s.category,s.headline,s.why,s.srcName,
-   s.alsoN?`+${s.alsoN} outlet${s.alsoN>1?'s':''}`:'first on record',
-   ago(s.published),null,`story/${s.id}.html`,s.srcUrl];
- const day=win(24*H), week=win(7*24*H), month=win(30*24*H);
- if(day.length)TOP.day=day.map(toRow);
- if(week.length)TOP.week=week.map(toRow);
- if(month.length)TOP.month=month.map(toRow);
- renderTop(document.querySelector('.tabs .on')?.textContent.toLowerCase()||'day');
+ LIVE=st;
+ applyAll();
 }).catch(()=>{/* no stories.json yet — fallback sample data stays */});
 </script>
 </body>

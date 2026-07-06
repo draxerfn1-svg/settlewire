@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Story Archive — SettleWire</title>
+<meta name="description" content="Every prediction-markets story we've covered, filterable by category.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#fff;--surface:#f4f6f8;--line:#e4e8ec;--ink:#10151c;--muted:#5a6472;--faint:#8a93a0;--brand:#5b3df5}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Archivo',system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.hwrap{max-width:900px;margin:0 auto;display:flex;align-items:center;gap:1rem;padding:.7rem 1.2rem}
+.logo{display:flex;align-items:center;gap:.55rem;font-weight:900;font-size:1.22rem;letter-spacing:-.03em}
+.logo-mark{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--brand),#8f7bff);display:grid;place-items:center;color:#fff;font-family:'IBM Plex Mono',monospace;font-size:.85rem}
+.back{margin-left:auto;font-weight:600;font-size:.9rem;color:var(--muted)}
+.back:hover{color:var(--ink)}
+.wrap{max-width:900px;margin:0 auto;padding:1.8rem 1.2rem}
+h1{font-size:1.7rem;font-weight:800;letter-spacing:-.02em;margin-bottom:.3rem}
+.sub{color:var(--muted);font-size:.92rem;margin-bottom:1.4rem}
+.chips{display:flex;gap:.45rem;flex-wrap:wrap;margin-bottom:1.4rem}
+.chip{border:1px solid var(--line);background:var(--paper);padding:.35rem .85rem;border-radius:999px;font-size:.85rem;font-weight:600;color:var(--muted)}
+.chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.lrow{display:flex;gap:.9rem;padding:.9rem .2rem;border-bottom:1px solid var(--line);align-items:flex-start}
+.lrow:hover h3{color:var(--brand)}
+.lrow h3{font-size:1rem;font-weight:700;line-height:1.3}
+.row{display:flex;gap:.55rem;align-items:center;margin-top:.3rem;flex-wrap:wrap}
+.tag{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;padding:.18rem .5rem;border-radius:5px;background:var(--surface);color:var(--muted)}
+.src{font-size:.76rem;color:var(--faint)}
+.src b{color:var(--muted);font-weight:600}
+.time{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--faint)}
+.empty{color:var(--faint);padding:2rem 0}
+</style>
+</head>
+<body>
+<header><div class="hwrap"><a class="logo" href="index.html"><span class="logo-mark">%</span>SettleWire</a><a class="back" href="index.html">← Home</a></div></header>
+<main class="wrap">
+<h1>Story archive</h1>
+<p class="sub" id="count">Loading…</p>
+<div class="chips" id="chips"></div>
+<div id="list"></div>
+</main>
+<script>
+const CATS=["All","Trading","Legal","Deals","Data","Tech","Global","Opinion","Stocks"];
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function ago(iso){const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));
+ if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
+let ALL=[],cat='All';
+document.getElementById('chips').innerHTML=CATS.map((c,i)=>`<button class="chip${i===0?' on':''}" onclick="setCat(this,'${c}')">${c}</button>`).join('');
+function setCat(el,c){document.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));el.classList.add('on');cat=c;render();}
+function render(){
+ const f=cat==='All'?ALL:ALL.filter(s=>s.category===cat);
+ document.getElementById('count').textContent=`${f.length} ${cat==='All'?'':cat+' '}stor${f.length===1?'y':'ies'}`;
+ document.getElementById('list').innerHTML=f.length?f.map(s=>`
+  <a class="lrow" href="story/${s.id}.html">
+    <div><h3>${esc(s.headline)}</h3>
+    <div class="row"><span class="tag">${esc(s.category)}</span><span class="src">First reported by <b>${esc(s.primary_source?.name||'')}</b>${(s.also||[]).length?` · +${s.also.length} outlets`:''}</span><span class="time">${ago(s.published)}</span></div></div>
+  </a>`).join(''):`<p class="empty">No ${cat} stories yet — the pipeline publishes hourly.</p>`;
+}
+fetch('stories.json').then(r=>r.json()).then(d=>{ALL=d.stories||[];render();})
+ .catch(()=>{document.getElementById('count').textContent='No stories published yet — check back within the hour.';});
+</script>
+</body>
+</html>

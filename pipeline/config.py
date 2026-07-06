@@ -68,6 +68,7 @@ CATEGORIES = ["Trading", "Legal", "Deals", "Data", "Tech", "Global", "Opinion", 
 # ------------------------------------------------------------------
 MAX_STORIES_KEPT   = 120     # stories.json rolling window
 MAX_NEW_PER_RUN    = 12      # cap LLM calls per hourly run (cost control)
+MAX_ITEM_AGE_DAYS  = 10      # ignore feed items older than this (Google News returns stale results)
 SIMILARITY_CUTOFF  = 0.62    # title similarity above this = same story cluster
 MODEL              = "claude-sonnet-4-6"
 STORIES_PATH       = "site/stories.json"
