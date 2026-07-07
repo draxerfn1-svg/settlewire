@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-07T03:09:05.940195+00:00",
+ "generated": "2026-07-07T05:02:49.174444+00:00",
  "stories": [
+  {
+   "id": "71ccb8c70c9a",
+   "slug": "south-korea-regulator-to-hear-polymarket-defense-before-gambling-ruling",
+   "headline": "South Korea regulator to hear Polymarket defense before gambling ruling",
+   "lede": "South Korea's Broadcasting, Media and Communications Review Committee announced on Monday, July 6, 2026, it would let Polymarket submit a formal defense before deciding whether to issue a corrective order over illegal gambling concerns.",
+   "body": [
+    "The committee stated it wants to 'thoroughly verify the legality of Polymarket and the way the service is operated' before acting, according to a machine-translated press release cited by Cointelegraph. The body has authority under South Korea's National Gambling Control Commission Act, which classifies online platforms enabling speculative gambling as illegal gaming businesses subject to regulatory intervention.",
+    "The regulatory focus has shifted from individual users to the platform itself, according to Cointelegraph. On June 5, the Gangwon Provincial Police \u2014 acting on a request from the National Police Agency \u2014 opened what was reportedly South Korea's first illegal-gambling probe targeting local Polymarket users, specifically those participating in election-related prediction markets.",
+    "Polymarket already faces access restrictions in 33 countries, including the US, UK, France, Germany, Brazil, Singapore, Japan, and Australia, according to the platform's own disclosures. A formal corrective request from South Korea's committee would add one of Asia's largest internet-connected economies to that list, narrowing the platform's global addressable market further."
+   ],
+   "why": "A corrective order from South Korea would set a precedent for regulators in other Asian jurisdictions \u2014 such as Taiwan or Thailand \u2014 that have not yet formally acted on prediction markets. Traders holding positions on Korean political or economic events should watch closely, as a block could drain liquidity from those markets overnight. For Polymarket competitors like Kalshi operating under US CFTC oversight, South Korea's legal framing of event contracts as 'speculative gambling' could also inform how foreign regulators approach US-licensed platforms seeking cross-border expansion.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "South Korea Broadcasting Media and Communications Review Committee",
+    "National Gambling Control Commission",
+    "Gangwon Provincial Police"
+   ],
+   "primary_source": {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   "source_title": "South Korea weighs action against Polymarket over gambling concerns",
+   "also": [],
+   "published": "2026-07-06T09:53:34+00:00",
+   "first_seen": "2026-07-07T05:02:49.174444+00:00"
+  },
   {
    "id": "31e6d2e673b5",
    "headline": "Polymarket Trader Bleeds $11M on World Cup 2026 Contracts",
