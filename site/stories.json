@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-07T00:17:12.199640+00:00",
+ "generated": "2026-07-07T03:09:05.940195+00:00",
  "stories": [
   {
    "id": "31e6d2e673b5",
@@ -76,6 +76,32 @@
    "also": [],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00"
+  },
+  {
+   "id": "78d60a3d2552",
+   "slug": "fifa-clears-balogun-for-belgium-polymarket-trading-surges",
+   "headline": "FIFA clears Balogun for Belgium, Polymarket trading surges",
+   "lede": "FIFA granted Folarin Balogun a rare Article 27 eligibility switch to represent Belgium, triggering a sharp spike in trading volume on Polymarket's nationality markets in early 2025.",
+   "body": [
+    "FIFA's Article 27 ruling approved Balogun's switch from the U.S. national team to Belgium, a decision described by Yahoo Sports as unusually rare under international soccer eligibility rules. The ruling resolved a prolonged eligibility dispute and immediately rendered active Polymarket event contracts on Balogun's international future either worthless or fully resolved, depending on traders' positions.",
+    "According to Yahoo Sports, the FIFA clearance sent Polymarket into overdrive, with traders rushing to settle or reposition on related markets. Prediction markets that had priced Balogun's Belgium debut as uncertain swung dramatically toward certainty following the official ruling, compressing spreads and accelerating contract resolution timelines.",
+    "Polymarket has increasingly become a venue for real-time sports eligibility and transfer markets, where regulatory or governing-body decisions \u2014 rather than on-field results \u2014 serve as the resolution trigger. FIFA rulings of this kind are infrequent, making markets around them both high-volatility and difficult to price, drawing outsized speculative interest from traders seeking edge on procedural outcomes."
+   ],
+   "why": "FIFA administrative decisions now function as direct market-resolution events on Polymarket, meaning traders must monitor governance timelines alongside on-pitch performance. The Balogun case illustrates how non-sporting bodies can move prediction-market prices faster than any game result. Operators offering similar eligibility contracts should build clear resolution criteria around official governing-body announcements to avoid disputes.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "FIFA",
+    "Folarin Balogun"
+   ],
+   "primary_source": {
+    "name": "Yahoo Sports",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1dlVkw5eExaNHNfbTRXWXhHcGpaTnZXNnNKR0ZTRXItZTNzMWNpc3QzUTlqTDhOOUtUNHlBTDBUVW5HOXctZkhGM2NtN19CT1FrSGxZV1NnZ0MzX2ZwVkVaZzZaZTZuV3FDbTQzTmpYRnBTQV9EcEpaYl9FbVNNekVjWjE?oc=5"
+   },
+   "source_title": "Rare FIFA Article 27 Decision Clears Balogun for Belgium, Sending Polymarket Into Overdrive",
+   "also": [],
+   "published": "2026-07-05T19:15:34+00:00",
+   "first_seen": "2026-07-07T03:09:05.940195+00:00"
   },
   {
    "id": "e0f2b95c1ab4",

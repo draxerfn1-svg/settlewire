@@ -1,0 +1,24 @@
+# SettleWire
+
+> Prediction markets news, contextualized. We cluster coverage of each event
+> from 90+ outlets, credit the first reporter, and add original analysis of
+> why it matters for traders, operators, and regulation watchers. All article
+> text is our own original writing; every story links to its primary source.
+
+## Sections
+- [Front page](https://YOUR_USERNAME.github.io/settlewire/index.html)
+- [Story archive](https://YOUR_USERNAME.github.io/settlewire/all.html): every story, searchable
+- [The Docket](https://YOUR_USERNAME.github.io/settlewire/events.html): upcoming court dates, earnings, deadlines
+- [RSS feed](https://YOUR_USERNAME.github.io/settlewire/rss.xml)
+
+## Latest stories
+- [Polymarket Trader Bleeds $11M on World Cup 2026 Contracts](https://YOUR_USERNAME.github.io/settlewire/story/31e6d2e673b5.html): A single Polymarket trader lost more than $11 million wagering on 2026 FIFA World Cup outcome markets over just ten days.
+- [Kalshi Hits $31B June Volume as World Cup Drives Record Trade](https://YOUR_USERNAME.github.io/settlewire/story/c885b090953d.html): Kalshi set a new monthly trading record of $31 billion in June, fueled by World Cup event contracts even as multiple U.S. states moved to criminalize its activity.
+- [State-by-State Legal Map: Where Sports Prediction Markets Stand](https://YOUR_USERNAME.github.io/settlewire/story/f34bdb2e8d22.html): A new CBS Sports breakdown examines the patchwork of state-level legality governing sports prediction market platforms like Kalshi and Polymarket across all 50 U.S. states.
+- [FIFA clears Balogun for Belgium, Polymarket trading surges](https://YOUR_USERNAME.github.io/settlewire/story/fifa-clears-balogun-for-belgium-polymarket-trading-surges.html): FIFA granted Folarin Balogun a rare Article 27 eligibility switch to represent Belgium, triggering a sharp spike in trading volume on Polymarket's nationality markets in early 2025.
+- [Minnesota's Prediction Market Ban Takes Effect August 1](https://YOUR_USERNAME.github.io/settlewire/story/e0f2b95c1ab4.html): Minnesota becomes the first U.S. state to ban prediction markets when its new law takes effect August 1, setting a precedent that could ripple nationally.
+- [Wildfire Prediction Markets Blur Line Between Hedging and Speculation](https://YOUR_USERNAME.github.io/settlewire/story/97f8d98cbb83.html): Prediction markets are now offering contracts tied to wildfire outcomes, raising questions about whether disaster betting serves a legitimate hedging function or exploits crisis.
+- [Kalshi June Volume Hits $9.4B Record as World Cup Drives Surge](https://YOUR_USERNAME.github.io/settlewire/story/9f2158e700d5.html): Kalshi posted its highest-ever monthly trading volume in June at nearly $9.4 billion, with the expanded 48-team FIFA World Cup serving as the primary catalyst.
+- [World Cup Betting Pushes Prediction Market Volumes to All-Time Highs](https://YOUR_USERNAME.github.io/settlewire/story/649de8bfe59f.html): The FIFA World Cup has triggered record-breaking trading volumes across major prediction market platforms, marking a new milestone for the industry.
+- [Prediction Markets Boom Raises Questions About Regulatory Durability](https://YOUR_USERNAME.github.io/settlewire/story/54ed5d446ca6.html): A surge in prediction market activity has prompted fresh scrutiny over whether the industry's rapid growth can survive tightening regulatory pressure.
+- [Michigan's Legal Fight Against Kalshi Reaches New Turning Point](https://YOUR_USERNAME.github.io/settlewire/story/bc87fc572e10.html): Michigan's ongoing regulatory dispute with prediction-market operator Kalshi has entered a new phase, continuing a clash over whether the platform's event contracts fall under state sports-betting law.
