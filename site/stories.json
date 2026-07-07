@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-07T15:48:56.059066+00:00",
+ "generated": "2026-07-07T18:12:12.966729+00:00",
  "stories": [
+  {
+   "id": "5146383bcd0a",
+   "slug": "north-carolina-budget-would-legalize-prediction-market-betting",
+   "headline": "North Carolina Budget Would Legalize Prediction Market Betting",
+   "lede": "North Carolina's newly proposed state budget includes language that would authorize prediction market betting within the state, marking a significant step toward regulated event-contract wagering at the state level.",
+   "body": [
+    "According to WRAL, North Carolina's latest budget proposal contains provisions that would explicitly permit prediction market betting, a category distinct from traditional sports wagering. The move signals that state legislators are actively distinguishing between event contracts and standard sports gambling frameworks, rather than treating both under the same regulatory umbrella.",
+    "The inclusion comes as platforms like Kalshi and Polymarket have been expanding their footprints across the U.S., with federal-level CFTC oversight already in place for designated contract markets. A state-level authorization in North Carolina would add a new layer of legitimacy, potentially encouraging other states to craft their own explicit prediction-market statutes rather than relying on gray-area interpretations.",
+    "WRAL notes the development raises questions about how prediction markets would interact with North Carolina's existing sports betting licensing structure, which went live in 2024. Regulators and operators will need to determine whether separate licensing, taxation, or consumer-protection rules apply specifically to event contracts versus traditional point-spread wagering."
+   ],
+   "why": "State-level legalization in North Carolina could accelerate a patchwork of state authorizations, complicating the existing federal CFTC framework and creating arbitrage opportunities for platforms already licensed at the federal level. Prediction-market traders should watch whether NC's budget language explicitly names CFTC-regulated contracts, which would affect which platforms can operate immediately. A successful North Carolina model could pressure other large-population states to follow, dramatically expanding the addressable user base for event-contract operators.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "North Carolina"
+   ],
+   "primary_source": {
+    "name": "WRAL",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1ZhRTF5amJBc2hGcGpRc3ZHV2M5UFg2a1BmWVJKOGwxNEtFSllnVFYwV3pTUFN4X3E1eUh5NmQwRXJmSnB5bzJ1NlJobnFTbE1uNURNNkRWbUN5WU1keHQ0QTcxRVNYb2xzcF9MX2prZHNCS2luYXZjWmk0OHlKYWE5RC1rV3FCVmhLRjliZHYxZ2xla1pkeEg1UFNDVWJrcUcxMm1jeXFVVkFHQWhhZU9yZWl3cFpVQTJxQUlB?oc=5"
+   },
+   "source_title": "Prediction market betting would be authorized in NC\u2019s new budget. What it means for sports betting",
+   "also": [],
+   "published": "2026-07-06T18:02:35+00:00",
+   "first_seen": "2026-07-07T18:12:12.966729+00:00"
+  },
   {
    "id": "f7866ace804d",
    "slug": "maryland-regulators-sent-casino-drafted-letter-attacking-prediction-markets-to-f",
@@ -83,6 +110,32 @@
    "first_seen": "2026-07-07T05:02:49.174444+00:00"
   },
   {
+   "id": "25d15d4e700c",
+   "slug": "polymarket-iran-deal-market-sparks-trader-revolt-over-resolution",
+   "headline": "Polymarket Iran Deal Market Sparks Trader Revolt Over Resolution",
+   "lede": "Polymarket traders are disputing the platform's resolution of a prediction market tied to an Iran nuclear deal, with participants arguing the outcome was called incorrectly and fighting to reverse the decision.",
+   "body": [
+    "According to CTech, a Polymarket event contract centered on whether an Iran nuclear deal would be reached became the flashpoint for a heated community dispute over how the market was ultimately resolved. Traders who held positions in the contract are challenging the legitimacy of the outcome, contending that the underlying conditions for resolution were not clearly met.",
+    "The controversy highlights a recurring structural tension in decentralized prediction markets: resolution criteria that appear unambiguous at contract creation can become deeply contested when real-world events unfold in ambiguous ways. Polymarket uses a combination of designated resolvers and UMA Protocol's optimistic oracle system, meaning disputed resolutions can be escalated and challenged through a formal dispute window.",
+    "The Iran market dispute is not the first time Polymarket has faced trader backlash over a contested call \u2014 similar fights have broken out over election and geopolitical contracts in the past. CTech's coverage suggests the scale of financial stakes involved has intensified the pushback, with affected traders organizing to coordinate their challenge through available dispute mechanisms."
+   ],
+   "why": "Resolution disputes are the single biggest reputational and liquidity risk for decentralized prediction-market platforms, and high-profile fights like this one can erode trader confidence precisely when volumes are growing. Regulators and competitors will watch how Polymarket's oracle-based governance handles the challenge \u2014 a messy outcome strengthens arguments for centralized oversight. For traders, this is a concrete reminder that resolution risk is a priced variable that should factor into any position on geopolitical contracts.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "UMA Protocol",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "CTech",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3LVJrUmVSY3pIemZrRDB4WXZ2Tmp0RmRFMHJMVExuaHdsTldkeElRcFZXVXdxWWwxbTZsS2NiZVJ0VmEteHI3X0xwanQyTGVhZEFXUGRzYmFneDRVQjJvVE5ndVJHdEU?oc=5"
+   },
+   "source_title": "Was the Iran deal real? Inside the Polymarket decision traders are fighting",
+   "also": [],
+   "published": "2026-07-06T09:16:00+00:00",
+   "first_seen": "2026-07-07T18:12:12.966729+00:00"
+  },
+  {
    "id": "31e6d2e673b5",
    "headline": "Polymarket Trader Bleeds $11M on World Cup 2026 Contracts",
    "lede": "A single Polymarket trader lost more than $11 million wagering on 2026 FIFA World Cup outcome markets over just ten days.",
@@ -154,9 +207,15 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yLUp4NkJfVE04WUoxdGxnejRNUG8yckl3R3duYmJzVzdsRkhCVUo0S2lfWklaVmZjUlU5YldrenpteEFOZTVaNlBkd0NuU0VIX25WSlQtTmd0NXdrX3ZUNjhYY3pHclkzTURaUGRLd1hoRHpaUXZ6NGxMQWd5QQ?oc=5"
    },
    "source_title": "Are sports prediction markets legal? Status of Kalshi and Polymarket in all 50 states",
-   "also": [],
+   "also": [
+    {
+     "name": "Sporting Goods Intelligence Europe",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk9MRGpRZVhoMHNaT2dHY2NmR3FJUkZTNjdTNFhVMXlrRmE2OGxqeDVQMVpGXzJ4QWxDT2xsSk82X2FFRGlhMmtOQS1uRGpENlJCd2RteTRvdzFSUnV2NFJoMjZ5aHJzcjV1Wm1FUGc0LURIOHVkYU5XXzBDekdBOUR5RThDNC1CbzZEWg?oc=5"
+    }
+   ],
    "published": "2026-07-05T19:42:37+00:00",
-   "first_seen": "2026-07-06T22:22:47.953639+00:00"
+   "first_seen": "2026-07-06T22:22:47.953639+00:00",
+   "updated": "2026-07-07T18:12:12.966729+00:00"
   },
   {
    "id": "78d60a3d2552",
@@ -1461,10 +1520,15 @@
     {
      "name": "NEXT.io",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pSS1UV2JWRnJDakNXa0x4WUlldk92TjRWSVhKNHhhaFR1bHhzXzBRcVgwU0JWYkdTTC0tbUx5OEJZdkpTZ2RxVEFCME5PckhFeHJadFFHX0NxUExkOVhEYXFkUQ?oc=5"
+    },
+    {
+     "name": "Good Money Guide",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2EtN0U2UHNhRVhWSFdwaTNWdzRNMF9oVEFiRklLQ0RtZFNSX3Z4TU13XzFabHA4OHFCaF8xYWM2Z1U5UjZSOUVOdklEMkRoTjhnUFNqaE8wbTYxUFpnLWdVdG04Y1B4ZEVqd0tuWTJlTDZ2cVBBb0JUWkx3aG90bVBTeXZ1Q2thQkh6amJQOXFjQ0p3akI2WTBXejBUdw?oc=5"
     }
    ],
    "published": "2026-04-21T14:51:50+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
+   "first_seen": "2026-07-06T19:46:14.006003+00:00",
+   "updated": "2026-07-07T18:12:12.966729+00:00"
   },
   {
    "id": "6f6cd2f67d1d",
@@ -1633,10 +1697,15 @@
     {
      "name": "Office of Advocacy (.gov)",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMFRDVzZoUklRRTJTY1RhLUF5dEZjSlBqY2JfSmIxRjZzaFBkUHlLWDJ4XzB6cDJpUElLdERYZ0Zxc3c1MXZlbm12WTAzOURkQ2lIM04yek5QcU1UdHozU191VGw2U1N4YnlTNA?oc=5"
+    },
+    {
+     "name": "LegalSportsReport",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGIzRTdZTF96ZnF3dzlhTXF2R1ZMR0huTW5ma0tpZzlpcjZjZWVaNkdHTTIyR3pMSHpraW8zdmZPTUxpY1V5MHJNbWJ5XzcxVVJhanhhOEVlXzlmbkVCWlhVUXVHUXMwWE1BUEo3aEMyY1dtcGpfVEJDYWdDNm1iSU9Yb19aUjFLQlRRdmFZOG1oQko5dHRYUFM0dF8?oc=5"
     }
    ],
    "published": "2026-02-13T08:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
+   "first_seen": "2026-07-06T18:43:51.439618+00:00",
+   "updated": "2026-07-07T18:12:12.966729+00:00"
   },
   {
    "id": "3ae25bbdb32c",
