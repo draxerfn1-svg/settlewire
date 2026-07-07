@@ -1,6 +1,42 @@
 {
- "generated": "2026-07-07T18:12:12.966729+00:00",
+ "generated": "2026-07-07T20:56:01.664846+00:00",
  "stories": [
+  {
+   "id": "be049ac6b07a",
+   "slug": "polymarket-50-sign-up-bonus-rolls-out-via-sports-media-referral-codes",
+   "headline": "Polymarket $50 Sign-Up Bonus Rolls Out via Sports Media Referral Codes",
+   "lede": "Polymarket is offering a $50 bonus to new users who deposit at least $20 in July 2026 through referral codes distributed by sports media partners including CBS Sports, Elite Sports NY, and RotoWire.",
+   "body": [
+    "Polymarket's July 2026 promotional campaign distributes referral codes \u2014 CBSSPORTS, ELITE, and ROTOWIRE \u2014 through three sports media outlets, each unlocking an identical $50 bonus on a minimum $20 deposit. The structure is a 2.5x match on the entry threshold, a relatively aggressive acquisition incentive compared to typical crypto-adjacent platforms.",
+    "The partnership with CBS Sports marks a notable mainstream media tie-in for the prediction market platform, which has historically leaned on crypto-native and political-news channels for user growth. RotoWire and Elite Sports NY signal Polymarket is also targeting fantasy-sports and sports-analytics audiences who are already comfortable with probabilistic thinking.",
+    "Referral-code campaigns of this scale suggest Polymarket is in an active user-acquisition phase heading into what is typically a busy second half for event contracts, with U.S. elections, sports championships, and macro economic events all generating market volume on the platform."
+   ],
+   "why": "Sports-media referral deals indicate Polymarket is deliberately broadening its user base beyond crypto-native traders, which could accelerate liquidity on non-crypto event contracts. For prediction-market operators and competitors like Kalshi, this kind of mainstream media distribution raises the competitive bar for user acquisition costs. Regulators watching the CFTC's evolving stance on event contracts will note that Polymarket is marketing aggressively to general sports audiences, a detail that may inform future jurisdiction or suitability discussions.",
+   "category": "Deals",
+   "entities": [
+    "Polymarket",
+    "CBS Sports",
+    "RotoWire",
+    "Elite Sports NY"
+   ],
+   "primary_source": {
+    "name": "CBS Sports",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoRFFUWElKT3VILXpBTHZKSnJ2VXFSazIxOHRheWNqdWhWQ0R0d29fQ1pFNXZjRDBSTWk0X3Y1VTA4RnFYM3ZtN3A3M25LQkdSdmlEbmhtbXNta0RhLWpGUnZzT3h0M2Z0Q0FIUmZtUlpQZw?oc=5"
+   },
+   "source_title": "Polymarket referral code CBSSPORTS: $50 sign-up bonus with $20 deposit (July 2026)",
+   "also": [
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mQkxpcmlSMDhMWTA4N1RueENGY29RRWtDckRLOGJ2OFAzMnpHaXpDYW0tbEZETl8zT0NYTW1JUlF3Y2tlaW9OVDl5TEJnSW1OWmVkMm9DM1Fib1ZOSHlIUGtDZDVWdG5YeDQ1Yw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFJtNnJVcnVSNnBTM3dsOXF0ZkFpN1ZCZjdMdENMZXFzenRIQWlWb2xTNV9EY1hqVXc1YkY1STBOZHhCV0EtSkZjQ0p0cUNMSWY4VW1SQkZZOUdLMXJPeXhkd0pFRi1Ed1ZWVnp5Y1pjSnA2bVgyLVF2NDJ2Y1dwSmxoWnhhcGxyLW9saUdwQ1Uzbms5eWtpOHJtYU1rZzQwcDc2LQ?oc=5"
+    }
+   ],
+   "published": "2026-07-06T19:52:33+00:00",
+   "first_seen": "2026-07-07T20:56:01.664846+00:00"
+  },
   {
    "id": "5146383bcd0a",
    "slug": "north-carolina-budget-would-legalize-prediction-market-betting",
@@ -643,11 +679,19 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFJubVp1QjFtUERSLWl5cXlxRWl2MXdmM0tGLVlDMXl0NElrcWdaVG1UMEtnckhXdkFfaG13aTNHVVBCbXptX0JHdmxsNV94SkFjdmlzZmNPNEIxN2h2c291TjBkd2pFMjIzT1Rwd2lJMUw1NDRnVDRKV1Nuak1DN0ZIZ2JqdkdueHF0TWcxbw?oc=5"
+    },
+    {
+     "name": "WV News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFNDOFJEWElpcmZQeXhkOThlUmxVLUN2d29UNE1XeVBob09jblVXRnRpMkdkR09BQ2xlQ24xUnFyVWUxdU1ZczhYRUJseXU3R1JzT1BkR3psbC1obUJQZmpkbVUyZzkyQmFSbW5ZTFFTS3lWNzlYUFYxaTU5OXpQVElhZmpHOEpvRGEzTGx3T2p2R0pNWko5Sm13ajZTbGd1Ykp6Z2Nn?oc=5"
+    },
+    {
+     "name": "Post Register",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQTFYLTdHWmVCYVVQVHRKbXZYSHV3cnRaa1MybnZ5OTdmY1NhV0xZbEV5ZHFnbWVpRDJJYjQ0VlI5eEJTX2xYMUFpRHYxMDQ1ek5BSFJ6WDFJN2hESzBpVHFLSjZ1ZGliM2xpNUlpd3hLbGMyNWFaWHlYeG9qcEhnUFROWklWNS11UHowNlB4YzZHM0VUeG51aGl5LXpYOXBUd2dQbEJmLUI5d2JnZURsQg?oc=5"
     }
    ],
    "published": "2026-07-03T07:00:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00",
-   "updated": "2026-07-07T12:07:28.126351+00:00"
+   "updated": "2026-07-07T20:56:01.664846+00:00"
   },
   {
    "id": "aebd6dd117e7",
