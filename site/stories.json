@@ -1,6 +1,56 @@
 {
- "generated": "2026-07-06T22:22:47.953639+00:00",
+ "generated": "2026-07-07T00:17:12.199640+00:00",
  "stories": [
+  {
+   "id": "31e6d2e673b5",
+   "headline": "Polymarket Trader Bleeds $11M on World Cup 2026 Contracts",
+   "lede": "A single Polymarket trader lost more than $11 million wagering on 2026 FIFA World Cup outcome markets over just ten days.",
+   "body": [
+    "According to Yahoo Finance, one trader on Polymarket suffered losses exceeding $11 million across a span of roughly ten days placing bets on 2026 FIFA World Cup event contracts. The scale of the loss stands out even on a platform known for hosting large-position traders, making it one of the most dramatic single-account drawdowns in the platform's public history.",
+    "Polymarket's on-chain structure means all positions and losses are publicly visible on the blockchain, allowing analysts to trace the full scope of the damage. The World Cup markets in question likely involved national team outright winner or advancement contracts, which carry significant volatility given the tournament's unpredictable group-stage dynamics and the event itself still being more than a year away.",
+    "The episode underscores how prediction markets on sports and tournament outcomes can attract extremely large speculative positions, particularly as Polymarket has grown into a platform capable of sustaining eight-figure liquidity. It also raises questions about market design, position limits, and whether outsized single-trader exposure distorts pricing signals for other participants."
+   ],
+   "why": "A loss of this magnitude on a single platform draws attention to Polymarket's risk management practices \u2014 or absence thereof \u2014 which regulators watching event-contract markets will note. For traders, it signals that World Cup markets may have been mispriced or illiquid enough to allow one actor to move odds significantly, creating potential arbitrage windows. Operators may face renewed pressure to implement exposure caps as the CFTC scrutinizes sports event contracts.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "FIFA World Cup"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOallVV1lmQWFtM0lrWlhTZzNtTi1vZFdhT2Ita0Q0dUFGSnJsWGVXa0syQ0RCdmhrclFzVW9zRXNHXzRMYkVQRHVZQkxkajRDMW5HdUlRMlZKSExxdXRYLXJ0YUF6TWZ5WGVhRG1qLVZhaU5XcktYbldPXzRpOVdONmZ0NWl4aWxEbjRVWklLQTN3Q3pfTHh6VFlhaHM?oc=5"
+   },
+   "source_title": "Polymarket Trader Loses Over $11 Million on 2026 World Cup Bets in 10 Days",
+   "also": [],
+   "published": "2026-07-06T05:35:00+00:00",
+   "first_seen": "2026-07-07T00:17:12.199640+00:00"
+  },
+  {
+   "id": "c885b090953d",
+   "headline": "Kalshi Hits $31B June Volume as World Cup Drives Record Trade",
+   "lede": "Kalshi set a new monthly trading record of $31 billion in June, fueled by World Cup event contracts even as multiple U.S. states moved to criminalize its activity.",
+   "body": [
+    "Kalshi recorded $31 billion in trading volume during June, marking the platform's highest monthly figure to date, according to Tech Times. The surge was largely attributed to heavy wagering on World Cup outcomes, demonstrating how major international sporting events can dramatically spike activity on regulated U.S. prediction markets.",
+    "The milestone arrives against a complicated legal backdrop. Tech Times reports that a growing number of U.S. states have introduced or enacted legislation classifying Kalshi-style event contracts as illegal gambling, with some statutes carrying felony-level penalties. The tension between federal CFTC authorization and state-level prohibition remains unresolved and is intensifying.",
+    "Kalshi holds federal approval from the CFTC to offer event contracts, giving it a legal foundation that competing offshore platforms like Polymarket lack in the U.S. market. However, the patchwork of state felony bans creates meaningful friction for user acquisition, platform expansion, and the broader legitimacy of the event-contract category."
+   ],
+   "why": "A $31B monthly volume print signals that prediction markets are reaching mainstream liquidity levels, which matters deeply for market makers and traders pricing thin-margin contracts. The simultaneous state felony-ban wave, however, creates a fragmentation risk that could suppress user growth and push traders toward unregulated offshore venues. Regulation watchers should monitor whether the CFTC or Congress moves to preempt state prohibitions, as that outcome would be a watershed for the entire sector.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaThzZkFFal9yUDJxVlJtMUFNWTNHamhGaFZMRGZKTVYxYm8yU1h2UVFiT2lodEN2VTJNOW5fWXBtYXhKZXRGNHdLcUM3M1FqR1g4dmUyMnI2SEF3WmNCRTVjSjUwS1R0eERvM002clZmU05oMDlOempQeXhxbmYzYnRQVnJJN1E0Y3YyVnNLbTkxa2dxNDROSVhWSURxY3FseUd4a2N2bWo0c1o3RWtTVEk2Zlc1Ri13YlFyN1hJRS1rSGhOOU5LUg?oc=5"
+   },
+   "source_title": "Kalshi Posts $31B June Record Amid World Cup Boom and Growing State Felony Bans",
+   "also": [],
+   "published": "2026-07-05T22:43:47+00:00",
+   "first_seen": "2026-07-07T00:17:12.199640+00:00"
+  },
   {
    "id": "f34bdb2e8d22",
    "headline": "State-by-State Legal Map: Where Sports Prediction Markets Stand",
@@ -278,6 +328,32 @@
    ],
    "published": "2026-07-03T17:01:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
+  },
+  {
+   "id": "48b7a807293e",
+   "headline": "ESMA: Most EU Prediction Market Event Contracts Already Banned for Retail",
+   "lede": "Europe's top securities regulator has warned that a large share of prediction market event contracts are already prohibited for retail investors under existing EU law.",
+   "body": [
+    "The European Securities and Markets Authority issued a warning clarifying that many event contracts traded on prediction market platforms likely fall under current EU financial regulations that restrict or outright ban their sale to retail customers, according to TradingView's coverage of the ESMA statement. The regulator did not announce new rules but stressed that existing frameworks already apply.",
+    "ESMA's position signals that platforms operating in Europe \u2014 or serving European retail users \u2014 may already be in violation of rules such as MiFID II or EMIR without awaiting any new legislation. The warning puts the compliance burden squarely on operators, who must assess whether their contracts qualify as financial instruments under EU definitions.",
+    "The development adds regulatory pressure to a sector that has been expanding rapidly. Platforms like Polymarket and Kalshi have attracted growing user bases globally, but Europe has long been a more legally fraught environment. ESMA's clarification suggests the window for operating in a gray zone may be closing faster than many operators anticipated."
+   ],
+   "why": "Traders routing volume through European accounts or VPNs face real counterparty and withdrawal risk if platforms are forced to restrict EU access. Operators must now conduct immediate legal audits or risk enforcement actions, which could fragment liquidity across global prediction markets. Regulation watchers should track whether ESMA follows this warning with formal guidance or referrals to national regulators.",
+   "category": "Legal",
+   "entities": [
+    "ESMA",
+    "Polymarket",
+    "Kalshi",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWQ0RzRDUV9pMm9YelNYay1rOXg3SjJLVjk2RG10SlFyRExDemxJTU90bU52Z3NvQTJ6NndOOVVSdl9yU0NUQW1SSlgzd284SGxBemlnalhRWGVQbXlyU3ZabXdHVFRhM1FXM1FReWlZSHoxcVkybnhlZ01oT3dnd2ZGQ0VWWTBndFdiY3ZNSC1tdXF6T0lyU1F3Z3Yxd2g5ZzJJQzRzVktaQ3lwRTZnNXlPWnNzSlFxNU5iOTYzSDg0dEQ5RzJKWXlkX2dLZXZjRmpJVk5zOA?oc=5"
+   },
+   "source_title": "ESMA warns many prediction market event contracts already face EU retail ban",
+   "also": [],
+   "published": "2026-07-03T16:54:20+00:00",
+   "first_seen": "2026-07-07T00:17:12.199640+00:00"
   },
   {
    "id": "6ca48fb3a497",
