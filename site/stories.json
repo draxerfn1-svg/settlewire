@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-07T08:34:52.642467+00:00",
+ "generated": "2026-07-07T12:07:28.126351+00:00",
  "stories": [
   {
    "id": "71ccb8c70c9a",
@@ -301,6 +301,38 @@
    "first_seen": "2026-07-06T20:58:07.168716+00:00"
   },
   {
+   "id": "485169454baa",
+   "slug": "eu-classifies-event-contracts-as-binary-options-triggering-strict-rules",
+   "headline": "EU Classifies Event Contracts as Binary Options, Triggering Strict Rules",
+   "lede": "European regulators have formally classified event contracts as binary options under EU law, subjecting prediction-market platforms to the bloc's strict binary-options regulatory framework.",
+   "body": [
+    "The European Union's classification of event contracts as binary options immediately brings platforms like Polymarket and Kalshi \u2014 should they operate in the EU \u2014 under MiFID II and ESMA's existing binary-options rules, which have effectively banned retail binary-options products in Europe since 2018. The designation was reported by TradingView in its weekly wrap coverage.",
+    "ESMA's 2018 binary-options retail ban was introduced after regulators identified widespread mis-selling and investor harm. By slotting event contracts into that same legal category, EU authorities are signaling that prediction-market products offering fixed yes/no payouts share enough structural similarity with traditional binary options to warrant identical oversight \u2014 a finding that could freeze expansion by US-based platforms into European markets.",
+    "The regulatory move arrives as Kalshi and Polymarket are both scaling aggressively following US legal wins. Any EU market-entry strategy must now account for either obtaining a full MiFID II license and navigating the retail ban, or restructuring contracts so they fall outside the binary-options definition \u2014 both costly paths."
+   ],
+   "why": "Prediction-market operators eyeing European expansion now face the same regulatory wall that killed retail binary-options brokers in the EU, making near-term EU launches by Kalshi or Polymarket far less likely. Traders should watch whether platforms attempt to reframe contract structures to avoid the binary-options label, as product design pivots could affect liquidity and payout mechanics. Regulation watchers should note this as a precedent that could influence how other jurisdictions \u2014 Canada, Australia, UK \u2014 choose to classify event contracts going forward.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "ESMA",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3poUERBT3hZemdOQ3laLVVDVWFpOTJ4d0pmNDZVN2ZoYlpqM3JFTkoxYmV0VGhGWWdWc0lnOS1GcXRVX1dhcDlTR092V1BSeUZrdDZNUHluTXdlZ3VDODJqV2RIc3R0Wm5sVmtZTTYtRjFOTE1RUlhNaGxqMERTUmVjNE1ldmctZGFnUWlwaUFpOUFmQzNJQWxBSDg2bWlYN0lhT1JjYVNNYjc0Rmh6SVhrRnRqSzA0cVZCcnd4VFJwdW1JSWdWUFk3TC12TG5fM2xQelF6XzF1QjgwdFE?oc=5"
+   },
+   "source_title": "Weekly Wrap: Event Contracts Are Binary Options in the EU; cTrader\u2019s US Prop Exit",
+   "also": [
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM2ZRLXpQejR6dHptRkNHbWllUVYwUFJjYkh3M0g0XzBFR3hmUTA4c0tXcTdMWV9VRndhYTBMeXN1RDBpbHNPU1BkTWg5ZnNkYkdWTy1aLTV5MVhpaFduc1pIMHp5UjhuVjFiT0QwMFhuRF9IeEx0N29ONkVzdGh4MmU0dW5OeWk3d2FuaUI1d1NlakJzSDZ4VUJfMURiaGlORDBIVGtFX2hiOTBuTVhBbTdaSVBhVkNqRDBFWXdBQ2x5MjIyQVd2QzNpcTVjakhUQTlXZTNPaDZTVDVV?oc=5"
+    }
+   ],
+   "published": "2026-07-03T22:25:27+00:00",
+   "first_seen": "2026-07-07T12:07:28.126351+00:00"
+  },
+  {
    "id": "6311546cb256",
    "headline": "Michigan Daily: Prediction Markets Deserve Recognition as Public Good",
    "lede": "The Michigan Daily published an opinion piece arguing that prediction markets generate genuine social value beyond speculation.",
@@ -485,10 +517,15 @@
     {
      "name": "CoinDesk",
      "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFJubVp1QjFtUERSLWl5cXlxRWl2MXdmM0tGLVlDMXl0NElrcWdaVG1UMEtnckhXdkFfaG13aTNHVVBCbXptX0JHdmxsNV94SkFjdmlzZmNPNEIxN2h2c291TjBkd2pFMjIzT1Rwd2lJMUw1NDRnVDRKV1Nuak1DN0ZIZ2JqdkdueHF0TWcxbw?oc=5"
     }
    ],
    "published": "2026-07-03T07:00:00+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+   "first_seen": "2026-07-06T20:48:28.064595+00:00",
+   "updated": "2026-07-07T12:07:28.126351+00:00"
   },
   {
    "id": "aebd6dd117e7",
