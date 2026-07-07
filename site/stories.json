@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-07T20:56:01.664846+00:00",
+ "generated": "2026-07-07T22:19:49.064489+00:00",
  "stories": [
   {
    "id": "be049ac6b07a",
@@ -687,11 +687,15 @@
     {
      "name": "Post Register",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQTFYLTdHWmVCYVVQVHRKbXZYSHV3cnRaa1MybnZ5OTdmY1NhV0xZbEV5ZHFnbWVpRDJJYjQ0VlI5eEJTX2xYMUFpRHYxMDQ1ek5BSFJ6WDFJN2hESzBpVHFLSjZ1ZGliM2xpNUlpd3hLbGMyNWFaWHlYeG9qcEhnUFROWklWNS11UHowNlB4YzZHM0VUeG51aGl5LXpYOXBUd2dQbEJmLUI5d2JnZURsQg?oc=5"
+    },
+    {
+     "name": "Times Argus",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzhZdXctT3c4bkVOTzlnSnRjeWlGdHBGa0o4NnBQMEhwUXlEODUySk5TRHE2OUt3OU9KbUFxcTVwREZqNEphZlJLM1RqTGtOQk9oN05nb0ZKT1l5SGFMOVJtWTJ3VVNzZ0pfRnFlZTlqVnFMbjdtNF8tY0prb2ZUYjNudVRGS2lnX3V6ZEtLb2R1cjcybmNGZUlhVTB5TDNPV3BfcVZHQ1JyUTBBVXc?oc=5"
     }
    ],
    "published": "2026-07-03T07:00:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00",
-   "updated": "2026-07-07T20:56:01.664846+00:00"
+   "updated": "2026-07-07T22:19:49.064489+00:00"
   },
   {
    "id": "aebd6dd117e7",
