@@ -1,6 +1,60 @@
 {
- "generated": "2026-07-07T12:07:28.126351+00:00",
+ "generated": "2026-07-07T15:48:56.059066+00:00",
  "stories": [
+  {
+   "id": "f7866ace804d",
+   "slug": "maryland-regulators-sent-casino-drafted-letter-attacking-prediction-markets-to-f",
+   "headline": "Maryland regulators sent casino-drafted letter attacking prediction markets to feds",
+   "lede": "Maryland officials submitted a letter to federal regulators opposing prediction markets that was written nearly verbatim by casino industry lobbyists, according to Reason Magazine.",
+   "body": [
+    "Reason Magazine reported that Maryland copied language crafted by casino lobbyists and forwarded it to federal regulators as the state's own official position against prediction markets. The coordination suggests the gambling industry is actively recruiting state governments to amplify its opposition before federal authorities, potentially the CFTC, which oversees event contracts offered by platforms like Kalshi and Polymarket.",
+    "The casino industry has a direct financial stake in blocking prediction markets from expanding into sports and political event contracts, areas where the two industries increasingly compete for the same customer dollars. By ghostwriting state-level regulatory comments, casino lobbies can generate what appears to be broad, independent opposition while masking the commercial motivation behind coordinated submissions.",
+    "Reason Magazine's investigation did not name a specific federal docket or deadline, but the pattern mirrors prior industry campaigns during CFTC comment periods on event contracts. Similar astroturfed opposition emerged during Kalshi's multi-year legal battle to offer congressional control markets, which it ultimately won in federal court in 2024."
+   ],
+   "why": "If casino-drafted language is being laundered through state agencies into federal regulatory records, prediction-market traders should expect a longer, more contentious rulemaking environment at the CFTC. Traders pricing regulatory approval odds on Kalshi or Polymarket should factor in that apparent grassroots opposition may be artificially inflated. Operators and regulation watchers should monitor whether other states submitted similarly drafted letters, which could signal a coordinated multi-state lobbying campaign.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Maryland"
+   ],
+   "primary_source": {
+    "name": "Reason Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY0FDSDJRa0FRNmxzbWpvc01uY0pOUFpTSU5Ta0xiVjNwdHRnWTJ6ZllPTDM4a28xUWV6OVc1Zmk3amdNM0NLWThJQXpCcVR0RjRyZzB6b005bFh1RTJoSGpsMXlsV0YxOVJFNkhzcFFmMl9wLXdwS055SXFuczFVemVQRFRmdG5YMEhDYmlXQUZwR0tILTl1NTYwZFpDOHZxTWVwWV9KVENqYjNqZTNjMGZfaE9jVU1PbTJuVWZHaG1BdjVPZDZlWXRNa3E1VFp6cG5MVllSSW1NdDZ5?oc=5"
+   },
+   "source_title": "Casino lobbyists wrote a letter attacking prediction markets. Maryland copied it and sent it to federal regulators.",
+   "also": [],
+   "published": "2026-07-06T16:40:11+00:00",
+   "first_seen": "2026-07-07T15:48:56.059066+00:00"
+  },
+  {
+   "id": "1d484074c246",
+   "slug": "kalshi-s-media-influence-scrutinized-in-popular-information-expos",
+   "headline": "Kalshi's media influence scrutinized in Popular Information expos\u00e9",
+   "lede": "Popular Information's Judd Legum published a critical investigation into how Kalshi, the CFTC-regulated prediction market, is shaping news coverage of its own contracts and broader political events.",
+   "body": [
+    "Judd Legum at Popular Information released an investigation examining how Kalshi's market odds are being absorbed into mainstream news reporting, effectively allowing the platform to set narratives around political and electoral outcomes. The piece argues that when journalists cite Kalshi contract prices as proxies for probability, the platform gains outsized editorial influence relative to its actual user base or liquidity depth.",
+    "The concern centers on a feedback loop: Kalshi prices get quoted in headlines, those headlines drive more attention and trading volume back to Kalshi, and the cycle amplifies the platform's perceived authority on real-world events. Legum's reporting suggests this dynamic is not accidental, pointing to Kalshi's active media strategy as a driver of the phenomenon.",
+    "The story arrives as Kalshi has been aggressively expanding its contract offerings following its 2023 legal victory over the CFTC, which cleared it to list political event contracts. That expansion has placed Kalshi odds in front of a much wider readership than traditional prediction-market audiences, raising fresh questions about how market-derived probabilities should be contextualized in journalism."
+   ],
+   "why": "Traders on competing platforms like Polymarket should watch whether this scrutiny dampens mainstream media's willingness to cite prediction-market odds, which would directly reduce organic user acquisition for the entire sector. Regulators at the CFTC could use media-manipulation framing as a fresh angle to revisit conditions on political event contracts. If Kalshi's brand takes reputational damage, market share and liquidity could shift to offshore or crypto-native venues, complicating the regulated-market case the industry has spent years building.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Popular Information",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Popular Information | Judd Legum",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVmlKYnVXTk9kSzYzcUVtRTUtVVh1QnNNVjhRcS1wT3JoTldvdThUVHNIb0RmMnQyTUU1UTViUE50bkYtZVNLTlU0SGNrOEM3c0FiamFnYXlFdWsxb2cw?oc=5"
+   },
+   "source_title": "How Kalshi infects the news",
+   "also": [],
+   "published": "2026-07-06T10:31:03+00:00",
+   "first_seen": "2026-07-07T15:48:56.059066+00:00"
+  },
   {
    "id": "71ccb8c70c9a",
    "slug": "south-korea-regulator-to-hear-polymarket-defense-before-gambling-ruling",
@@ -212,10 +266,19 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1haS1DZXFRWUdFZGRUSzluM3Z0bk9SWmpnOXIzM1lNd3FjckpJSnBFNXlBVDVfZjFMUDR5NkFVVUpfMWdCVjVfYWRtV2dPWmFlejFyTTZSalROa0pmSEF2MlZfWTlrTHRvTmEtblVNdVIxMkZMYlY3WHZmZw?oc=5"
+    },
+    {
+     "name": "Channel 3000",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGo5NU1sWDF5VTVNb2dXbkZFVHMwbkRIYTBBTjdnNjJqS1FDSE9kUUdmVngtS0NaV1lmdzhlTFFHX0dKVGF4dmlOcGRMb2VEZElvYTJjN3BmMVdOUnlFejNTYkV1YUpRNGZPcDBnYUpoTHRIN2NZWS1GeHZDakVUb0dtdVltSHFKV3hVbkpWSDNpY0JiQXlPN0ppZ3ZRdEhOeFp1VDRtVGdQZ1VCWVJ0V3U4UXQzcFBJRExJ?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LcDJLOHRicXJ3T0xJeGJLQ3VQQnpPdkFaYWFqWjdsNm1oOHpoUHFYdUJRcURvbjZyVWVhOEMtcUJ4dlNaNXZYemp6OU5uRXczYmhvWmdpWW9jX3M4bDh5Yjl2TWNKQVllZ1RYcjhNZ0VtazhTR3Uxa2wzWQ?oc=5"
     }
    ],
    "published": "2026-07-04T16:50:00+00:00",
-   "first_seen": "2026-07-06T21:36:25.744148+00:00"
+   "first_seen": "2026-07-06T21:36:25.744148+00:00",
+   "updated": "2026-07-07T15:48:56.059066+00:00"
   },
   {
    "id": "649de8bfe59f",
@@ -853,6 +916,38 @@
    ],
    "published": "2026-07-01T09:52:30+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "4a0a1b21afb8",
+   "slug": "polymarket-growth-investors-and-how-it-rewrites-prediction-markets",
+   "headline": "Polymarket Growth, Investors, and How It Rewrites Prediction Markets",
+   "lede": "Polymarket, the crypto-based prediction market platform founded in 2020, has expanded into one of the largest event-contract venues globally, attracting major investors and reshaping how users forecast real-world outcomes.",
+   "body": [
+    "According to Encyclopedia Britannica, Polymarket was founded in 2020 and quickly grew into a dominant force in prediction markets, allowing users to trade event contracts on outcomes ranging from elections to scientific discoveries. The platform operates on the Polygon blockchain, enabling low-fee transactions that made participation accessible to a broad retail audience.",
+    "FinTech Magazine notes that Polymarket's model differs from traditional prediction platforms by leaning heavily into cryptocurrency infrastructure, drawing liquidity from decentralized-finance users alongside forecasting enthusiasts. The platform reportedly processed billions of dollars in trading volume during the 2024 U.S. presidential election cycle, cementing its profile as a mainstream forecasting tool.",
+    "Polymarket has attracted backing from prominent venture investors and has navigated a complex U.S. regulatory environment \u2014 the CFTC settled with the company in 2022 over unregistered binary-options offerings. Despite that, the platform continues operating internationally while U.S. users face access restrictions, a tension that defines its current growth phase."
+   ],
+   "why": "Polymarket's scale makes it the de-facto benchmark for prediction-market liquidity, meaning any regulatory shift targeting it would reprice risk across the entire sector. Traders on competing platforms like Kalshi should watch Polymarket volume as a leading indicator of event-contract market sentiment. Its ongoing U.S. access restrictions also keep CFTC event-contract rulemaking squarely in focus for operators seeking domestic legitimacy.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "Polygon"
+   ],
+   "primary_source": {
+    "name": "Encyclopedia Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Vjg0b0RyaVNzRFZHMVJXOVRPSGw5MTR5Qy1yLTZROVFYZGJkRWxGemlobjN3YlNWNjNydDdVRWN1dVhMcEs0M04xSUJMWFlYZDdPUnVB?oc=5"
+   },
+   "source_title": "Polymarket | Founding, Growth, Investors, & Top Prediction Markets",
+   "also": [
+    {
+     "name": "FinTech Magazine",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2VTbnNfLTh1c1o1QWhsUGx5VmNQOWFkOXAwTXg3bmYzQUNvZkhLdHRQd1NUTWJmdzVzNC0xaWVqa2JJU083di1TaEJieXd3NHdQWVVveFMtdWZORmc5MjZTM0x2dXY0X1pYbS13X1lHNU1rd0RpdENzNGh2UU1NY293QkNZanlIeTNwWUJqNzZBQQ?oc=5"
+    }
+   ],
+   "published": "2026-07-01T07:00:00+00:00",
+   "first_seen": "2026-07-07T15:48:56.059066+00:00"
   },
   {
    "id": "92bbdf6a42f9",
