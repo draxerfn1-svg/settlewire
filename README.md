@@ -47,6 +47,41 @@ Everything lives in `pipeline/config.py`:
 Worst case 12 Sonnet calls/hour × ~700 tokens ≈ pennies/day. Typical hours
 produce 0–3 new clusters.
 
+## SEO & GEO
+
+The pipeline now generates everything search engines and AI answer engines
+need, every run: keyword-slug article URLs, NewsArticle JSON-LD on every
+story, `sitemap.xml`, a Google-compliant 48-hour `news-sitemap.xml`,
+`rss.xml`, `robots.txt` (search + AI crawlers explicitly allowed), and
+`llms.txt`.
+
+**One-time setup (in order of impact):**
+
+1. **Set `SITE_URL` in `pipeline/config.py`** to your live URL — canonicals
+   and sitemaps are built from it. Nothing works right until this is set.
+2. **Get a custom domain** (~$10/yr) and attach it in repo Settings → Pages.
+   On `username.github.io/settlewire` your robots.txt sits at a subpath
+   crawlers never read, and you share domain reputation with every other
+   github.io project. A custom domain fixes both and is the single
+   highest-impact SEO action for this site. Update `SITE_URL` after.
+3. **Google Search Console** (search.google.com/search-console): verify the
+   site, then submit `sitemap.xml` and `news-sitemap.xml` under Sitemaps.
+   This works even before the custom domain.
+4. **Bing Webmaster Tools**: same drill — Bing powers ChatGPT's web search,
+   so this is a GEO play, not just Bing traffic.
+5. **Google Publisher Center** (publishercenter.google.com): add the site so
+   it's eligible for Google News surfaces.
+
+**Standing rules that protect rankings:**
+
+- Don't loosen the keyword gate to chase volume. Google's scaled-content
+  policy targets mass-produced pages with little added value; the strict
+  topical focus + original analysis layer is the defense.
+- Never artificially freshen dates — `updated` is only set when new outlet
+  coverage genuinely lands.
+- The `why` analysis is the differentiator Google and AI engines cite. If
+  quality drops there, fix the prompt before anything else.
+
 ## How dedupe works across runs
 
 `stories.json` is both the site feed and the pipeline's memory. Each run

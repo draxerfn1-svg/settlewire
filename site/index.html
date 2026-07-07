@@ -167,6 +167,20 @@
 
 <div class="toast" id="toast" role="status" aria-live="polite">Subscribed.</div>
 
+<script>
+(function(){
+ const base=location.origin+location.pathname.replace(/index\.html$/,'').replace(/\/$/,'');
+ const ld={"@context":"https://schema.org","@graph":[
+  {"@type":"Organization","name":"SettleWire","url":base,
+   "description":"Prediction markets news: regulation, volume, deals and data, contextualized from 90+ sources."},
+  {"@type":"WebSite","name":"SettleWire","url":base,
+   "potentialAction":{"@type":"SearchAction",
+     "target":{"@type":"EntryPoint","urlTemplate":base+"/all.html?q={search_term_string}"},
+     "query-input":"required name=search_term_string"}}]};
+ const s=document.createElement('script');s.type='application/ld+json';
+ s.textContent=JSON.stringify(ld);document.head.appendChild(s);
+})();
+</script>
 <script src="assets/site.js"></script>
 <script>
 /* ================= FRONT PAGE ================= */
@@ -188,7 +202,7 @@ function renderHero(list){
  if(!list.length)return;
  const L=list[0], minis=list.slice(1,5);
  el.innerHTML=`
-  <a class="lead" href="story/${L.id}.html">
+  <a class="lead" href="story/${L.slug}.html">
     <div style="display:flex;gap:.7rem;align-items:center">
       <span class="stamp stamp-in">${L.category}</span><span class="time" style="color:var(--chalk-dim)">${ago(L.published)}</span>
     </div>
@@ -197,7 +211,7 @@ function renderHero(list){
     <div class="meta"><span class="src">First reported by <b>${L.srcName}</b>${L.alsoN?` · +${L.alsoN} outlets`:''}</span></div>
   </a>
   <div class="side">${minis.map(s=>`
-    <a class="mini" href="story/${s.id}.html">
+    <a class="mini" href="story/${s.slug}.html">
       <div class="row"><span class="stamp ${s.category.toLowerCase()}">${s.category}</span></div>
       <h3>${s.headline}</h3>
       <span class="src">First reported by <b>${s.srcName}</b>${s.alsoN?` · +${s.alsoN} outlets`:''} <span class="time">· ${ago(s.published)}</span></span>

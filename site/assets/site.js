@@ -46,6 +46,7 @@ function fetchStories(){
       ...s,
       headline: esc(s.headline), lede: esc(s.lede), why: esc(s.why),
       category: esc(s.category),
+      slug: s.slug || s.id,
       srcName: esc(s.primary_source?.name || 'source'),
       srcUrl: s.primary_source?.url || '#',
       alsoN: (s.also || []).length
@@ -54,7 +55,7 @@ function fetchStories(){
 
 /* ---------- shared render partials ---------- */
 function rowHTML(s, i){
-  return `<a class="lrow" href="story/${s.id}.html">
+  return `<a class="lrow" href="story/${s.slug}.html">
     <span class="numb">${String(i+1).padStart(2,'0')}</span>
     <div><h3>${s.headline}</h3>
     <div class="row"><span class="stamp ${s.category.toLowerCase()}">${s.category}</span><span class="src">via <b>${s.srcName}</b></span><span class="time">${ago(s.published)}</span></div></div>
@@ -65,7 +66,7 @@ function cardHTML(s){
   return `<article class="card">
     <div class="stub"><span class="stamp ${s.category.toLowerCase()}">${s.category}</span><span class="time">${ago(s.published)}</span></div>
     <div class="bodyc">
-      <h3><a href="story/${s.id}.html">${s.headline}</a></h3>
+      <h3><a href="story/${s.slug}.html">${s.headline}</a></h3>
       <button class="whybtn" onclick="this.closest('.card').classList.toggle('open')">Why it matters</button>
       <p class="why">${s.why}</p>
       <div class="foot"><span class="src">First reported by <b><a href="${s.srcUrl}" target="_blank" rel="noopener">${s.srcName}</a></b> · ${alsoTxt}</span></div>

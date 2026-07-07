@@ -120,6 +120,7 @@ def cluster(items, existing):
                     also_urls = {a["url"] for a in s["also"]} | {s["primary_source"]["url"]}
                     if it["url"] not in also_urls and it["source"] != s["primary_source"]["name"]:
                         s["also"].append({"name": it["source"], "url": it["url"]})
+                        s["updated"] = NOW.isoformat()
                     break
             continue
         placed = False
@@ -151,10 +152,10 @@ PROMPT = """You are the editor of a prediction-markets news site. Below is cover
 
 Write an ORIGINAL story in strict JSON (no markdown fences, no preamble):
 {{
-  "headline": "your own headline, max 12 words, punchy, no clickbait",
-  "lede": "one original sentence stating what happened, max 30 words",
-  "body": ["2-3 short paragraphs, ~60 words each: what happened, key details and numbers, and industry context. Attribute facts to the source by name, e.g. 'according to {primary}'."],
-  "why": "2-3 sentences of original analysis: why this matters for prediction-market traders, operators, or regulation watchers. Be concrete about second-order effects.",
+  "headline": "your own headline, max 12 words and 100 characters, key entity/topic words first, punchy, no clickbait",
+  "lede": "one original sentence that fully answers WHAT HAPPENED on its own — who, what, how much, when — max 32 words. A reader (or an AI answer engine) should get the complete fact from this sentence alone.",
+  "body": ["2-3 short paragraphs, ~60 words each: concrete details with specific numbers, dollar amounts, dates and named entities first, then industry context. Attribute facts to the source by name, e.g. 'according to {primary}'."],
+  "why": "2-3 sentences of original analysis: why this matters for prediction-market traders, operators, or regulation watchers. Each sentence should be quotable standalone. Be concrete about second-order effects.",
   "category": "one of: {cats}",
   "entities": ["up to 4 relevant entities e.g. Kalshi, Polymarket, CFTC"]
 }}
@@ -220,6 +221,17 @@ def story_id(url):
     return hashlib.sha1(url.encode()).hexdigest()[:12]
 
 
+def slugify(headline, sid, taken):
+    """SEO slug from the headline: keyword-rich, unique, stable."""
+    s = re.sub(r"[^a-z0-9]+", "-", headline.lower()).strip("-")[:80].rstrip("-")
+    if not s:
+        s = sid
+    if s in taken:
+        s = f"{s}-{sid[:6]}"
+    taken.add(s)
+    return s
+
+
 STORY_TEMPLATE = """<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{headline} — {site}</title>
@@ -227,7 +239,11 @@ STORY_TEMPLATE = """<!DOCTYPE html>
 <meta property="og:title" content="{headline}">
 <meta property="og:description" content="{lede}">
 <meta property="og:type" content="article">
+<meta property="og:url" content="{canonical}">
 <meta name="twitter:card" content="summary">
+<link rel="canonical" href="{canonical}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<script type="application/ld+json">{jsonld}</script>
 <meta name="theme-color" content="#3e6f9e">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13.5' fill='%235fa4e0' stroke='%23142c40' stroke-width='2.5'/%3E%3Ctext x='16' y='21.5' font-family='monospace' font-size='15' font-weight='700' text-anchor='middle' fill='%23142c40' transform='rotate(-8 16 16)'%3E%25%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -249,7 +265,7 @@ STORY_TEMPLATE = """<!DOCTYPE html>
 <div class="thead">
 <span class="stamp">{category}</span>
 <h1>{headline}</h1>
-<div class="meta">Published {published} · {site} newsroom</div>
+<div class="meta">Published <time datetime="{pub_iso}">{published}</time> · {site} newsroom</div>
 </div>
 <div class="tbody">
 <p class="lede">{lede}</p>
@@ -260,6 +276,7 @@ STORY_TEMPLATE = """<!DOCTYPE html>
 {ents_html}
 </div>
 </article>
+{related_html}
 </main>
 <footer class="site">
   <div class="fbase">© 2026 {site} · EDITORIAL SITE — NOT A REGULATED TRADING PLATFORM · NOTHING HERE IS INVESTMENT ADVICE</div>
@@ -273,9 +290,11 @@ addEventListener('scroll',()=>{{
 </body></html>"""
 
 
-def render_story_page(s):
+def render_story_page(s, all_stories=None):
     import html as H
     e = lambda x: H.escape(str(x or ""))
+    fname = s.get("slug") or s["id"]
+    page_url = f"{config.SITE_URL}/story/{fname}.html"
     body_paras = s.get("body") or [s.get("lede", "")]
     body_html = "".join(f"<p>{e(p)}</p>" for p in body_paras)
     also_html = ""
@@ -288,18 +307,153 @@ def render_story_page(s):
     if s.get("entities"):
         ents_html = '<div class="ents">' + "".join(
             f"<span>{e(x)}</span>" for x in s["entities"][:6]) + "</div>"
+    related_html = ""
+    if all_stories:
+        rel = [r for r in all_stories
+               if r["id"] != s["id"] and r.get("category") == s.get("category")][:4]
+        if rel:
+            rows = "".join(
+                f'<a class="lrow" href="{e(r.get("slug") or r["id"])}.html"><div><h3>{e(r["headline"])}</h3>'
+                f'<div class="row"><span class="stamp">{e(r["category"])}</span></div></div></a>'
+                for r in rel)
+            related_html = (f'<div class="sec-h" style="margin-top:2.4rem"><h2>More {e(s["category"])} tickets</h2></div>'
+                            f'<div class="latest" style="grid-template-columns:1fr">{rows}</div>')
     try:
-        pub = datetime.fromisoformat(s["published"]).strftime("%b %d, %Y · %H:%M UTC").upper()
+        pub_dt = datetime.fromisoformat(s["published"])
+        pub = pub_dt.strftime("%b %d, %Y · %H:%M UTC").upper()
+        pub_iso = pub_dt.isoformat()
     except Exception:
         pub = e(s.get("published", ""))
+        pub_iso = s.get("published", "")
+    mod_iso = s.get("updated") or s.get("first_seen") or pub_iso
+    jsonld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": s["headline"][:110],
+        "description": s.get("lede", ""),
+        "datePublished": pub_iso,
+        "dateModified": mod_iso,
+        "mainEntityOfPage": {"@type": "WebPage", "@id": page_url},
+        "url": page_url,
+        "articleSection": s.get("category", ""),
+        "author": {"@type": "Organization", "name": f"{config.SITE_NAME} Newsroom",
+                   "url": config.SITE_URL},
+        "publisher": {"@type": "Organization", "name": config.SITE_NAME,
+                      "url": config.SITE_URL},
+        "isBasedOn": s["primary_source"]["url"],
+        "isAccessibleForFree": True,
+    })
     page = STORY_TEMPLATE.format(
         site=config.SITE_NAME, headline=e(s["headline"]), lede=e(s["lede"]),
-        category=e(s["category"]), published=pub, body_html=body_html,
-        why=e(s["why"]), src_name=e(s["primary_source"]["name"]),
-        src_url=e(s["primary_source"]["url"]), also_html=also_html, ents_html=ents_html)
+        category=e(s["category"]), published=pub, pub_iso=e(pub_iso),
+        body_html=body_html, why=e(s["why"]),
+        src_name=e(s["primary_source"]["name"]),
+        src_url=e(s["primary_source"]["url"]),
+        also_html=also_html, ents_html=ents_html, related_html=related_html,
+        canonical=e(page_url), jsonld=jsonld)
     os.makedirs(config.STORY_DIR, exist_ok=True)
-    with open(os.path.join(config.STORY_DIR, f"{s['id']}.html"), "w") as f:
+    with open(os.path.join(config.STORY_DIR, f"{fname}.html"), "w") as f:
         f.write(page)
+
+
+def write_feeds(all_stories):
+    """Generate sitemap.xml, news-sitemap.xml, rss.xml, robots.txt, llms.txt."""
+    import html as H
+    from email.utils import format_datetime
+    e = lambda x: H.escape(str(x or ""), quote=True)
+    base = config.SITE_URL.rstrip("/")
+    surl = lambda s: f"{base}/story/{s.get('slug') or s['id']}.html"
+
+    static_pages = ["index.html", "all.html", "events.html", "newsletter.html",
+                    "about.html", "privacy.html", "terms.html", "risk.html"]
+    cat_pages = [f"category.html?c={c}" for c in config.CATEGORIES]
+
+    # ---- sitemap.xml (everything) ----
+    rows = []
+    for p in static_pages + cat_pages:
+        rows.append(f"<url><loc>{e(base + '/' + p)}</loc><changefreq>hourly</changefreq></url>")
+    for s in all_stories:
+        lastmod = (s.get("updated") or s.get("first_seen") or s.get("published", ""))[:19]
+        rows.append(f"<url><loc>{e(surl(s))}</loc><lastmod>{e(lastmod)}</lastmod></url>")
+    with open("site/sitemap.xml", "w") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                + "\n".join(rows) + "\n</urlset>\n")
+
+    # ---- news-sitemap.xml (Google: only articles from the last 2 days) ----
+    cutoff = NOW.timestamp() - config.NEWS_SITEMAP_HOURS * 3600
+    fresh = []
+    for s in all_stories:
+        try:
+            if datetime.fromisoformat(s["published"]).timestamp() < cutoff:
+                continue
+        except Exception:
+            continue
+        fresh.append(
+            f"<url><loc>{e(surl(s))}</loc><news:news><news:publication>"
+            f"<news:name>{e(config.SITE_NAME)}</news:name>"
+            f"<news:language>{config.PUBLICATION_LANG}</news:language>"
+            f"</news:publication>"
+            f"<news:publication_date>{e(s['published'])}</news:publication_date>"
+            f"<news:title>{e(s['headline'])}</news:title></news:news></url>")
+    with open("site/news-sitemap.xml", "w") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+                'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">\n'
+                + "\n".join(fresh) + "\n</urlset>\n")
+
+    # ---- rss.xml (latest 30) ----
+    items = []
+    for s in all_stories[:30]:
+        try:
+            pub = format_datetime(datetime.fromisoformat(s["published"]))
+        except Exception:
+            pub = s.get("published", "")
+        items.append(
+            f"<item><title>{e(s['headline'])}</title><link>{e(surl(s))}</link>"
+            f"<guid isPermaLink=\"true\">{e(surl(s))}</guid>"
+            f"<pubDate>{e(pub)}</pubDate>"
+            f"<category>{e(s.get('category',''))}</category>"
+            f"<description>{e(s.get('lede',''))}</description></item>")
+    with open("site/rss.xml", "w") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+                f"<title>{e(config.SITE_NAME)}</title><link>{e(base)}</link>"
+                f"<description>Prediction markets news: regulation, volume, deals and data.</description>"
+                f"<language>{config.PUBLICATION_LANG}</language>\n"
+                + "\n".join(items) + "\n</channel></rss>\n")
+
+    # ---- robots.txt (search + AI answer crawlers welcome) ----
+    ai_bots = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot",
+               "Claude-SearchBot", "anthropic-ai", "PerplexityBot",
+               "Perplexity-User", "Google-Extended", "CCBot"]
+    lines = ["User-agent: *", "Allow: /", ""]
+    for b in ai_bots:
+        lines += [f"User-agent: {b}", "Allow: /", ""]
+    lines += [f"Sitemap: {base}/sitemap.xml", f"Sitemap: {base}/news-sitemap.xml"]
+    with open("site/robots.txt", "w") as f:
+        f.write("\n".join(lines) + "\n")
+
+    # ---- llms.txt (site guide for AI systems) ----
+    recent = "\n".join(f"- [{s['headline']}]({surl(s)}): {s.get('lede','')}"
+                       for s in all_stories[:10])
+    with open("site/llms.txt", "w") as f:
+        f.write(f"""# {config.SITE_NAME}
+
+> Prediction markets news, contextualized. We cluster coverage of each event
+> from 90+ outlets, credit the first reporter, and add original analysis of
+> why it matters for traders, operators, and regulation watchers. All article
+> text is our own original writing; every story links to its primary source.
+
+## Sections
+- [Front page]({base}/index.html)
+- [Story archive]({base}/all.html): every story, searchable
+- [The Docket]({base}/events.html): upcoming court dates, earnings, deadlines
+- [RSS feed]({base}/rss.xml)
+
+## Latest stories
+{recent}
+""")
+    print(f"[feeds] sitemap ({len(all_stories)} stories) · news-sitemap ({len(fresh)} fresh) · rss · robots · llms.txt")
 
 
 def run(dry_run=False):
@@ -327,6 +481,7 @@ def run(dry_run=False):
     print(f"[cluster] {len(clusters)} new story clusters")
 
     new_stories = []
+    taken_slugs = {s.get("slug", "") for s in existing}
     for c in clusters:
         ctx = contextualize(c, api_key, dry_run)
         if not ctx:
@@ -338,8 +493,10 @@ def run(dry_run=False):
             if it["url"] not in seen:
                 also.append({"name": it["source"], "url": it["url"]})
                 seen.add(it["url"])
+        sid = story_id(primary["url"])
         new_stories.append({
-            "id": story_id(primary["url"]),
+            "id": sid,
+            "slug": slugify(ctx["headline"], sid, taken_slugs),
             "headline": ctx["headline"],
             "lede": ctx["lede"],
             "body": ctx.get("body", []),
@@ -360,8 +517,10 @@ def run(dry_run=False):
 
     # regenerate every story page (picks up new "also covered by" outlets too)
     for s in all_stories:
-        render_story_page(s)
+        render_story_page(s, all_stories)
     print(f"[pages] {len(all_stories)} article pages in {config.STORY_DIR}/")
+
+    write_feeds(all_stories)
 
     os.makedirs(os.path.dirname(path), exist_ok=True)
     json.dump(

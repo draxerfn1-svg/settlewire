@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "settlewire-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add site/stories.json site/story
+          git add site/stories.json site/story site/sitemap.xml site/news-sitemap.xml site/rss.xml site/robots.txt site/llms.txt
           git diff --cached --quiet || git commit -m "stories: hourly update"
           git push
 

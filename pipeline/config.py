@@ -74,3 +74,12 @@ MODEL              = "claude-sonnet-4-6"
 STORIES_PATH       = "site/stories.json"
 STORY_DIR          = "site/story"
 SITE_NAME          = "SettleWire"
+
+# ------------------------------------------------------------------
+# SEO — REQUIRED: set this to your live site URL, no trailing slash.
+# e.g. "https://yourusername.github.io/settlewire" or "https://settlewire.com"
+# Used for canonicals, sitemaps, RSS, and structured data.
+# ------------------------------------------------------------------
+SITE_URL           = "https://YOUR_USERNAME.github.io/settlewire"
+PUBLICATION_LANG   = "en"
+NEWS_SITEMAP_HOURS = 48      # Google only wants articles from the last 2 days here
