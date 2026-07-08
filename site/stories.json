@@ -1,6 +1,31 @@
 {
- "generated": "2026-07-08T10:29:14.993488+00:00",
+ "generated": "2026-07-08T12:49:01.891897+00:00",
  "stories": [
+  {
+   "id": "3058c4012de0",
+   "slug": "polymarket-bettors-threaten-lawsuit-over-iran-nuclear-deal-market-ruling",
+   "headline": "Polymarket bettors threaten lawsuit over Iran nuclear deal market ruling",
+   "lede": "A group of Polymarket users is threatening legal action after the platform ruled against them on an Iran nuclear deal prediction market, disputing how the outcome was adjudicated.",
+   "body": [
+    "According to Ynetnews, bettors on Polymarket are preparing a potential lawsuit after the platform's resolution of an Iran-related prediction market went against their positions. The dispute centers on how Polymarket determined the outcome of the contract, with affected users arguing the ruling was inconsistent with the market's stated resolution criteria.",
+    "The threatened litigation highlights a recurring tension in decentralized prediction markets: who has final authority over disputed outcomes, and what recourse do losing bettors have when they believe a resolution was wrongly decided. Polymarket uses an UMA Protocol-based oracle system to adjudicate results, but critics argue the process lacks sufficient transparency or appeals mechanisms.",
+    "This is not the first time Polymarket has faced user backlash over contested rulings. High-stakes political and geopolitical markets have repeatedly drawn complaints when resolution edges are ambiguous, and the platform's rapid growth has amplified the financial consequences of each disputed decision."
+   ],
+   "why": "A successful lawsuit against Polymarket would set a landmark precedent for legal liability in decentralized prediction-market dispute resolution, potentially forcing platforms to overhaul oracle governance structures. Regulators watching event-contract platforms \u2014 particularly the CFTC \u2014 could cite ongoing litigation as justification for tighter oversight of resolution mechanisms. Traders active in geopolitical markets should price in elevated counterparty risk on any contract with ambiguous resolution language.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "UMA Protocol"
+   ],
+   "primary_source": {
+    "name": "Ynetnews",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aNjhza294NmtQNVNUWXV4V2REaV9tRFpQaGl1ampDNGw5NVAtVzNRVndjWjJjSVVvdjg3SGNxOU5maFU4ZmF0cVd5ZG5MQmVDWWZKOHNqVGpWQWk3RXlHaFZ3?oc=5"
+   },
+   "source_title": "Bettors threaten lawsuit over Polymarket\u2019s Iran deal ruling",
+   "also": [],
+   "published": "2026-07-07T10:51:48+00:00",
+   "first_seen": "2026-07-08T12:49:01.891897+00:00"
+  },
   {
    "id": "e648144e9d2f",
    "slug": "south-korea-grants-polymarket-hearing-on-illegal-gambling-charges",
@@ -60,6 +85,33 @@
    "first_seen": "2026-07-08T00:09:08.892007+00:00"
   },
   {
+   "id": "2f3ccc5ec262",
+   "slug": "prospect-markets-enters-us-prediction-markets-via-crypto-com-partnership",
+   "headline": "Prospect Markets enters US prediction markets via Crypto.com partnership",
+   "lede": "Prospect Markets announced a Crypto.com-backed partnership to launch its prediction markets platform in the United States, expanding the competitive landscape for regulated event contracts.",
+   "body": [
+    "Prospect Markets is entering the US prediction markets space through a strategic partnership supported by Crypto.com, according to Yahoo Finance. The move signals an intent to compete directly with established players like Kalshi and Polymarket in the regulated event-contract arena, which has seen surging interest following the 2024 US election cycle.",
+    "Crypto.com's backing provides Prospect Markets with both financial support and a built-in user base from the broader crypto ecosystem. The partnership structure suggests Prospect Markets will leverage Crypto.com's existing infrastructure and customer network to accelerate US market penetration, though specific contract volumes and launch timelines were not detailed in available reporting.",
+    "The US prediction markets sector has grown rapidly, with Kalshi and Polymarket collectively handling hundreds of millions of dollars in contract volume. New entrants face significant regulatory hurdles, as the CFTC maintains oversight of designated contract markets, meaning Prospect Markets will need to navigate licensing requirements before fully operating in the space."
+   ],
+   "why": "A Crypto.com-backed entrant increases competitive pressure on Kalshi and Polymarket, which could compress margins and force product differentiation \u2014 a dynamic traders should watch when assessing platform liquidity depth. Regulatory watchers should note whether Prospect Markets pursues a CFTC designated contract market license or seeks an alternative structure, as that choice will define its legal risk profile. For prediction-market operators, this partnership model \u2014 pairing a niche event-contract platform with a major crypto exchange \u2014 may signal a replicable playbook that reshapes how new entrants capitalize efficiently.",
+   "category": "Deals",
+   "entities": [
+    "Prospect Markets",
+    "Crypto.com",
+    "Kalshi",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmY4c0ZNb2d5ZkdHTnBaSkRodnNpRHNzeGUtd2FTMWR2QldLMk9lVG0xSWlMb08yNmNOTjZ5dlJVUHl6d251ZXhHdm45ZnpReTZtNlZHYlRBMU5VMW9BN0Y3ZzhkcUgzR1M2Y0hqMlpZNk13ZlJwVnZKLTNuQW1WVHRsbDVZbHZJYkNHV0czRUU5S0VkYXFSRlhkOUJRY0VRczRj?oc=5"
+   },
+   "source_title": "Prospect Markets to Enter US Prediction Markets Through Partnership backed by Crypto.com",
+   "also": [],
+   "published": "2026-07-07T07:01:00+00:00",
+   "first_seen": "2026-07-08T12:49:01.891897+00:00"
+  },
+  {
    "id": "be049ac6b07a",
    "slug": "polymarket-50-sign-up-bonus-rolls-out-via-sports-media-referral-codes",
    "headline": "Polymarket $50 Sign-Up Bonus Rolls Out via Sports Media Referral Codes",
@@ -90,10 +142,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFJtNnJVcnVSNnBTM3dsOXF0ZkFpN1ZCZjdMdENMZXFzenRIQWlWb2xTNV9EY1hqVXc1YkY1STBOZHhCV0EtSkZjQ0p0cUNMSWY4VW1SQkZZOUdLMXJPeXhkd0pFRi1Ed1ZWVnp5Y1pjSnA2bVgyLVF2NDJ2Y1dwSmxoWnhhcGxyLW9saUdwQ1Uzbms5eWtpOHJtYU1rZzQwcDc2LQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzVjLWdkY0NtRHJsU280SVRZMFhxV01IUGJvUDRxemhfYTc3bzFtRFZGcW1ORlBRZGNuNUd4d01XejNhQzJMWGhxUTlONEVuRXoxTm1GN09JbzA2VUFmSXI2ekR5OUVneHFQaWt3OS1pSlI2X2VFNjY2cFJTNTh0SjlzTmlVXzNiNFhFbmNuakdXOUYyMm5B?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
-   "first_seen": "2026-07-07T20:56:01.664846+00:00"
+   "first_seen": "2026-07-07T20:56:01.664846+00:00",
+   "updated": "2026-07-08T12:49:01.891897+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -597,9 +654,15 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUJmOWtlS3pDM0kwbzBVT0l2RGRGaDY0Y0VfbnR0MFkxQlpEYXVRTG94RWRUOHEwbDF1YlIwNzE2UDdGX2xiQ0NiandkLTR4Z2NLY3FPbVlNT3A2enE4MUJKVFgwZEVSUTNoaTM5OFpiSThxOGhEUmVNSmcwbEtIMmktMWdXRTg0?oc=5"
    },
    "source_title": "Prediction markets can be a force for good",
-   "also": [],
+   "also": [
+    {
+     "name": "SailGP",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJQjY5UWlZQ2xpVURDTmNHLTcyMWM1MFhDdl94T2NJcXJoWnNLQ3FGZGx1cmUwYjZ6MGhSem03ODZjTWhvYklvcWd5WWtCR1J3dlQzcFdnUGcyWElG?oc=5"
+    }
+   ],
    "published": "2026-07-03T20:54:19+00:00",
-   "first_seen": "2026-07-06T22:22:47.953639+00:00"
+   "first_seen": "2026-07-06T22:22:47.953639+00:00",
+   "updated": "2026-07-08T12:49:01.891897+00:00"
   },
   {
    "id": "b7f72becd4ef",
