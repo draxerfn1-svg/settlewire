@@ -1,6 +1,114 @@
 {
- "generated": "2026-07-08T21:20:26.856135+00:00",
+ "generated": "2026-07-08T23:20:15.983884+00:00",
  "stories": [
+  {
+   "id": "938912f97a98",
+   "slug": "kalshi-appeals-ny-court-loss-blocking-sports-event-contract-state-enforcement",
+   "headline": "Kalshi appeals NY court loss blocking sports event-contract state enforcement",
+   "lede": "Kalshi filed a same-day appeal to the Second Circuit on Tuesday, July 8, 2026, after SDNY Judge Analisa Torres denied its bid to stop New York State Gaming Commission officials from enforcing state gambling laws against its sports event contracts.",
+   "body": [
+    "Judge Torres ruled that Kalshi failed to meet the 'clear or substantial showing' standard required for a preliminary injunction, finding that the Commodity Exchange Act does not preempt New York's gambling statutes as applied to the platform's sports-related event contracts. The filing was made in the US District Court for the Southern District of New York, with Kalshi immediately escalating the dispute to the US Court of Appeals for the Second Circuit on the same day.",
+    "The ruling deepens a nationwide legal split over whether sports prediction-market contracts are federally regulated derivatives under CFTC jurisdiction or gambling products subject to state oversight. According to Cointelegraph, some courts have granted Kalshi injunctions against state enforcement while others, including now New York, have denied them \u2014 fragmenting the legal landscape across multiple jurisdictions simultaneously.",
+    "Gaming attorney Daniel Wallach, whose Florida firm specializes in sports wagering law, described the ruling as a 'major loss for Kalshi in the nation's financial capital,' warning of likely knock-on effects in related cases in Connecticut and other pending SDNY lawsuits, per Cointelegraph. The Second Circuit appeal now sets up a potentially precedent-setting federal appellate ruling on the federal-versus-state jurisdiction question."
+   ],
+   "why": "A Second Circuit ruling against Kalshi could embolden additional states to enforce gambling laws against prediction-market operators before any federal appellate consensus emerges, creating immediate compliance risk for traders and platforms alike. Prediction-market traders pricing Kalshi's legal outcome should note that the Connecticut and other SDNY cases Wallach flagged may shift odds downward for a near-term pro-Kalshi resolution. Regulators watching this case will use the Second Circuit's eventual reasoning as a blueprint for whether CFTC preemption arguments can survive appellate scrutiny \u2014 a question with industry-wide implications.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "New York State Gaming Commission",
+    "Second Circuit"
+   ],
+   "primary_source": {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   "source_title": "Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement",
+   "also": [],
+   "published": "2026-07-08T10:37:52+00:00",
+   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+  },
+  {
+   "id": "5876061bdc9d",
+   "slug": "ny-court-lets-gambling-claims-against-kalshi-sports-contracts-proceed",
+   "headline": "NY Court Lets Gambling Claims Against Kalshi Sports Contracts Proceed",
+   "lede": "A New York court declined to dismiss gambling-related claims against Kalshi's sports event contracts, allowing the legal challenge to move forward in what could be a landmark ruling for prediction-market operators.",
+   "body": [
+    "A New York court upheld claims that Kalshi's sports event contracts constitute illegal gambling, according to Tokenist, refusing to throw out the case at an early stage. The ruling keeps alive a legal theory that could force Kalshi \u2014 the first federally regulated prediction-market exchange to offer sports contracts \u2014 to defend the legality of its core products in court.",
+    "Kalshi won CFTC approval to list sports-outcome contracts in 2024, a milestone that gave the company a regulatory green light at the federal level. The New York case tests whether state gambling laws can override that federal clearance, a tension that regulators and legal scholars have flagged as a critical unresolved question since the CFTC first began entertaining event-contract applications.",
+    "The outcome hinges on whether federal preemption under the Commodity Exchange Act shields Kalshi from state gambling statutes. No ruling on the merits has been issued yet; the court's decision merely allows the claims to survive dismissal, meaning discovery and further litigation lie ahead before any definitive judgment."
+   ],
+   "why": "If New York courts ultimately rule that state gambling laws apply to federally approved event contracts, every prediction-market platform operating in the U.S. faces potential patchwork liability across 50 jurisdictions. Traders on platforms like Polymarket and Kalshi should watch this case as a leading indicator of whether sports-outcome markets can scale nationally. A ruling against Kalshi could also chill new CFTC event-contract applications and prompt Congress to clarify federal preemption.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "New York Court"
+   ],
+   "primary_source": {
+    "name": "Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQl9SNGptR3ViWlRjOWhBenNYOGZ2aTNfbHFjNGpoWmxlTlVNeHZubmtwNG1sQkxGNFktRGxCODI4MDl5R2NjcE5vLUZIcnBhekxoUFRUY0lvRUFHb0VSLUdyb19ETTRWTHVtVTNYNFdoZzZUVUFjOEVwZXBnQ2p1VHRn?oc=5"
+   },
+   "source_title": "New York Court Upholds Kalshi Sports Contracts Gambling Claims",
+   "also": [],
+   "published": "2026-07-08T09:22:23+00:00",
+   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+  },
+  {
+   "id": "9d7489a4cbaa",
+   "slug": "bloomberg-prediction-markets-function-effectively-without-real-money-stakes",
+   "headline": "Bloomberg: Prediction Markets Function Effectively Without Real-Money Stakes",
+   "lede": "A Bloomberg opinion piece argues that prediction markets can generate accurate forecasts even when no actual money is wagered, challenging the assumption that financial incentives are essential to their reliability.",
+   "body": [
+    "Bloomberg published a commentary asserting that real-money stakes are not a prerequisite for prediction markets to produce useful, accurate probability estimates. The piece points to evidence from play-money platforms and internal corporate forecasting tools that have demonstrated meaningful predictive accuracy without financial skin in the game.",
+    "The argument carries weight at a moment when platforms like Kalshi and Polymarket are expanding real-money event contracts in the United States, and regulators at the CFTC are actively scrutinizing whether financial incentives serve a legitimate economic purpose. Proponents of play-money markets contend that participation volume and reputational incentives can substitute for cash stakes.",
+    "Historically, platforms such as Iowa Electronic Markets and academic forecasting tournaments have shown that non-monetary prediction environments can rival or outperform traditional polling. The Bloomberg piece adds to an ongoing debate about whether the legal and regulatory burden of real-money contracts is justified by a meaningful accuracy premium over their no-stakes counterparts."
+   ],
+   "why": "If play-money markets are empirically as accurate as real-money ones, regulators at the CFTC gain ammunition to restrict or block expansion of financial event contracts without appearing to suppress useful price discovery. For Kalshi and Polymarket, this narrative is a direct threat to the 'economic purpose' justification that underpins their regulatory approvals. Prediction-market traders should watch whether this argument surfaces in upcoming CFTC rulemaking comments or court filings.",
+   "category": "Opinion",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Bloomberg"
+   ],
+   "primary_source": {
+    "name": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3ZPTjRfX0M3TmN5eFNOaGM5SjZnMlhyR3R2R1R0RWVtR2owX29nYldfc042eFphbFFPeGZDQnNHbFMtN2ZCNWxsRU5uRFFlazJWVVhhN1lSdTl0YUVjQlU1VTRhNDVjVDNBUXFacE1zVHRDMnV3cm11bnBVQnNVUHhNUHZadFVSU1NjMHhtWnE4ZWxWUTg2TFJ6UnBUQmRYN0czZU83aW1XZHc?oc=5"
+   },
+   "source_title": "Prediction Markets Can Work Without Money on the Line",
+   "also": [],
+   "published": "2026-07-08T09:00:20+00:00",
+   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+  },
+  {
+   "id": "4ece52476ed0",
+   "slug": "judge-torres-rules-against-kalshi-in-new-york-prediction-markets-case",
+   "headline": "Judge Torres Rules Against Kalshi in New York Prediction Markets Case",
+   "lede": "Federal Judge Analisa Torres, known for her Ripple/XRP ruling, dealt Kalshi a significant legal defeat in a New York court case tied to the company's prediction markets operations.",
+   "body": [
+    "Judge Analisa Torres \u2014 the same federal jurist whose Ripple vs. SEC ruling reshaped crypto securities law \u2014 issued a ruling against Kalshi in a New York prediction markets case, according to Yahoo Finance. The decision represents a notable setback for the CFTC-regulated exchange, which has been aggressively expanding its event-contract offerings since winning its Washington D.C. regulatory battle.",
+    "Kalshi secured a landmark federal appeals court victory in 2024 that allowed it to offer congressional-control contracts, positioning itself as the leading regulated U.S. prediction market. This New York ruling, however, introduces fresh legal friction for the company as it scales into new contract categories including sports and elections, markets that have drawn scrutiny from both state regulators and federal overseers.",
+    "The involvement of Judge Torres adds symbolic weight to the decision given her profile in the financial-regulation space. The specific legal grounds and scope of the ruling were not fully detailed in available source material, but the loss signals that Kalshi's courtroom momentum is not universal and that state-level legal exposure remains a live variable for the platform."
+   ],
+   "why": "A New York state-level legal loss for Kalshi could embolden other jurisdictions to challenge the company's contracts, creating regulatory fragmentation that traders must price into event-contract liquidity. Prediction-market operators watching Kalshi's expansion playbook now have a counterexample to weigh against its 2024 D.C. appeals win. For CFTC regulation watchers, the ruling raises questions about whether federal preemption arguments will hold as Kalshi pushes into politically sensitive contract categories.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Judge Analisa Torres",
+    "CFTC",
+    "Ripple"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbldxeHBvUjRRbDFVTzFLb01PbmNIWXpTcWRTOEFadzNlRmFJcmRabVYxZ3hzOEtxTi1ybHhYVWE2MjBuX2NBLVc4bVNBd0tiNDFaZmZQUzFQVW1McmI1OFhrNWgwcm90OVBJUXNRYjdJbGtuZ3p5RWpvQUZla2pVRWFxTjlhYmF5UC1zSnV6LWxCSEM5UXEtQnI3c2wwOHBJdEE?oc=5"
+   },
+   "source_title": "Ripple Lawsuit-Linked Judge Torres Hands Kalshi a Big Loss in NY Prediction Markets Case",
+   "also": [],
+   "published": "2026-07-08T06:14:00+00:00",
+   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+  },
   {
    "id": "7ce04e4b78f7",
    "slug": "kalshi-loses-bid-to-block-new-york-sports-contract-gambling-enforcement",
@@ -44,10 +152,15 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONG9jb3k2Q1NTRjdCWktuMmF6dW9KRDdvOHNreFNwNzVfc1JGSEJ4WlFkUVdBcjhYR0hldXRUN2RCbVJPYVNvcWhHVlpuTnN5WG5xMFZWRm5MUzdwb0ZLUHNkdVo5T3Jab2p5LVhkREhHbzFnRWFxYjdBajgwUUVWeXhSSmJYM3pLMlNpT1NIVzZvYnlRRDhjZXdNMHZabGZlaXJLNlBmdHNINDFiVVJBanA5bFVjYWxy?oc=5"
+    },
+    {
+     "name": "Event Horizon | Dustin Gouker",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
-   "first_seen": "2026-07-08T21:20:26.856135+00:00"
+   "first_seen": "2026-07-08T21:20:26.856135+00:00",
+   "updated": "2026-07-08T23:20:15.983884+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -615,11 +728,19 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2wxaWs1NkFwZVVIVUx0MFhleFRta2tpVEMyVW9jaS1DWjgxYXpzcTVlcWUwNVV2MGlsRERmd1NYV1lqbWVscVFqZXQ5LTRjb1RtMFZHblZrOUI2ZGRnRlZqb1ZZX2l3V3ZiODY4LUFmT3NhTXJGOWRrdWtnTXJMUHltemVBbEhjVlNEby1CUnBJMkloZkRfMHc1WXB3VHZfMllMRQ?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXNLWDVuZzlPRW56NFZiMXZUek1RUnY5OFRMdnNFRWVnNjFrNU1lNFlLeG9wZ0FmWmJUZFI5T1B5NEJGSVljbHhRMWFFZllwSmdwWGgzRGRvVVY3WDBQMXhkN1NxcWJzYUlpRkM4MnhVZ2ZPMXdhWjBpXzM5YzFNbUNiWTFHWi1YLW9NWDNOdGM4aGRvN1ZLNHpUOU1Oa09Jc0wyUFFmSFJDaVZscDRSeXJVREpQOWZYXzFGOFlJU28?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUpyZWhjM3IwcXZNOWwyMmVuNExOZVZNaS1qT3VVbmlianZuUnQ4NzI5N0NvYVdSdm93ZTM0Uk5VYzROWGVld0pYWll2WXdzcHhoRWVBZXJlWHp4U2Fwdi1pRWZSWjNDU2poQVpKR2x3UDBJalB2emJna1AtcDFucURFNDkzYzFrb01xUDRETEZtYVc0TEdDNnI0dmRPTENuYU0xREZIVVJMZw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-08T21:20:26.856135+00:00"
+   "updated": "2026-07-08T23:20:15.983884+00:00"
   },
   {
    "id": "3b83809e121a",
