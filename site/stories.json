@@ -1,6 +1,141 @@
 {
- "generated": "2026-07-08T17:48:48.993577+00:00",
+ "generated": "2026-07-08T19:49:56.195609+00:00",
  "stories": [
+  {
+   "id": "98f1c49b5197",
+   "slug": "kalshi-traders-see-nasdaq-100-above-30-000-by-end-of-2026",
+   "headline": "Kalshi traders see Nasdaq-100 above 30,000 by end of 2026",
+   "lede": "Bettors on Kalshi's event-contract markets are pricing in a Nasdaq-100 finish above 30,000 at year-end 2026, implying expectations of a slower second half after recent volatility, according to CNBC.",
+   "body": [
+    "Kalshi's index-level event contracts show the crowd leaning toward the Nasdaq-100 closing 2026 north of the 30,000 threshold, a level that would represent a meaningful recovery from mid-year turbulence if current macro headwinds persist. CNBC highlighted the market as a real-money gauge of investor sentiment distinct from traditional options or futures positioning.",
+    "The implied probability distribution on Kalshi suggests traders are not pricing in a straight-line rally; rather, the contracts reflect a belief that the index will cool in the back half of 2026 before finishing above that benchmark. That nuanced read separates prediction-market pricing from simple bullish consensus, since participants must commit capital to specific outcome buckets.",
+    "Kalshi gained CFTC authorization to list financial event contracts in 2023 after a prolonged legal battle, and equity-index markets have become a flagship product line. Volumes on these contracts have grown as retail and institutional participants use them to hedge or speculate on discrete price levels rather than continuous price exposure."
+   ],
+   "why": "Prediction-market traders should watch whether Kalshi's 30,000 contract attracts enough two-sided liquidity to serve as a reliable signal, since thin markets can be gamed by a single large position. If the contract's implied probability diverges sharply from options-derived forecasts, arbitrageurs will face a live test of cross-venue efficiency. Regulators tracking event-contract adoption will also note this as evidence that equity-linked prediction markets are drawing genuine price discovery rather than novelty traffic.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Nasdaq-100",
+    "CFTC",
+    "CNBC"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUVSQ3RPTVVaSHJiYUVISm1XaVE3aFNEbXBLbVpuYlFaQlo0UHlidXNtY21wSTlSTGU4ZHFkV0I3MGY2aU83bWV0S2dqTlhUaGZmUHVBRFZmZk02REtJRHI4anM4ZzNZYUhiSnNBSXVrSnVPUHQ1TGZWZHdmbW4xNXczTzY1X3ctYU55NGhDVnl6akw2OFJiTTdMRjdBVHFoV29J0gGoAUFVX3lxTE9wTFRnYkQ3SnZ6ZDRVX29CUXIyMUowMTNVZVdwOS1kWXpIc0RDbUd2eTdGcU5STUVNN0VTZ1JZQV9fNEdHNUpla3AyR05QaGphLUJRWjlQV3hoSEhGMUlsSldDTHJ6RVhTcnM5MjFQQW1NLVdMR0hBRUVfQzFrQzhVc0lxTEtiSVVxeTZUYnZwWmJnREw2eHFmX0tPUGlhM3lDeWNHRlFCXw?oc=5"
+   },
+   "source_title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
+   "also": [],
+   "published": "2026-07-07T21:15:26+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+  },
+  {
+   "id": "f400776010fd",
+   "slug": "polymarket-world-cup-betting-volume-reaches-3-9b-attracting-trump-and-zuckerberg",
+   "headline": "Polymarket World Cup betting volume reaches $3.9B, attracting Trump and Zuckerberg",
+   "lede": "Polymarket's prediction-market wagering on the FIFA World Cup surpassed $3.9 billion in volume, drawing interest from Donald Trump and Mark Zuckerberg in the platform's explosive growth.",
+   "body": [
+    "According to 24/7 Wall St., Polymarket's World Cup betting pool hit $3.9 billion, marking a landmark figure for the crypto-based prediction market platform and signaling mainstream breakthrough for event-contract markets. The involvement of high-profile figures like Trump and Zuckerberg \u2014 whether as participants, investors, or public endorsers \u2014 adds significant political and commercial weight to the platform's trajectory.",
+    "Polymarket has steadily grown from a niche decentralized forecasting tool into a major venue for geopolitical and sports event contracts, with the World Cup representing one of its largest single-event pools to date. The $3.9 billion figure dwarfs previous sports-related contract volumes on the platform and underscores growing retail appetite for liquid, publicly verifiable prediction markets.",
+    "The attention from figures like Trump and Zuckerberg could accelerate regulatory scrutiny as well as institutional legitimacy. Polymarket, which previously settled with the CFTC in 2022 over unregistered binary-options offerings, operates primarily via non-U.S. users, yet high-profile American interest inevitably draws Washington's gaze toward the platform's legal standing."
+   ],
+   "why": "A $3.9 billion single-event volume benchmark gives regulators and Congress a concrete number to cite when debating event-contract oversight, making near-term CFTC rulemaking more likely. Trump's political orbit intersecting with Polymarket could cut both ways \u2014 protection from heavy-handed regulation or pressure to bring the platform onshore under formal licensing. For traders, liquidity at this scale means tighter spreads and greater price discovery reliability, but also heightened counterparty and regulatory-risk premiums to price in.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Donald Trump",
+    "Mark Zuckerberg"
+   ],
+   "primary_source": {
+    "name": "24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzBHQVNZaXJOYmdEMFNndHYtWUJ4eUFZZ3ZCdkc0X1czWTlTdm4ya2YzSnBkV2tlRlRJUkpPcUhWenBDTDFIeW95QlRWdk9EaUhaRmxHV1VVTEpXZW5mdUVPLWx5VnI4aXR5aGJqMHVCMzZtZjN1c091clRXcjh5bnAtbGNIY3pBZ0M1LXktdlpzOGZaanduVXFnemo3c21kN1RnRFNtb0tyMkJEb1ZUQlBSUXRKb24tTEJhN0s2QUNEUQ?oc=5"
+   },
+   "source_title": "Polymarket\u2019s World Cup Bets Hit $3.9 Billion. Now Trump and Zuckerberg Want A Piece.",
+   "also": [],
+   "published": "2026-07-07T19:58:59+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+  },
+  {
+   "id": "79cc771058fe",
+   "slug": "polymarket-enables-instant-bitcoin-deposits-via-lightning-network",
+   "headline": "Polymarket enables instant Bitcoin deposits via Lightning Network",
+   "lede": "Polymarket activated instant Bitcoin deposits through the Lightning Network on Tuesday, powered by the Spark protocol, giving users a faster, lower-cost on-ramp to fund prediction-market positions.",
+   "body": [
+    "Polymarket integrated the Spark protocol to support Lightning Network deposits, allowing bettors to fund accounts with Bitcoin almost instantly rather than waiting for on-chain confirmations. According to Bitcoin Magazine, the move marks a notable infrastructure upgrade for the prediction market platform, which has historically relied on USDC on Polygon for most user transactions.",
+    "Lightning Network payments settle in seconds and carry fees measured in fractions of a cent, a stark contrast to the variable gas costs and multi-minute waits associated with base-layer Bitcoin transactions. Spark acts as the bridging layer that converts incoming Lightning payments into a form Polymarket's existing smart-contract architecture can recognize and process.",
+    "The addition broadens Polymarket's potential user base to the large segment of crypto holders whose primary liquid asset is Bitcoin rather than stablecoins. It also positions the platform competitively as rivals such as Kalshi expand their own payment rails in a market environment where frictionless deposits are increasingly viewed as a key retention metric."
+   ],
+   "why": "Faster, cheaper deposits lower the activation barrier for casual bettors, which historically correlates with higher open-interest volume and tighter spreads on Polymarket contracts. For prediction-market operators watching the space, Lightning integration signals that the sector is maturing beyond stablecoin-only infrastructure toward multi-asset liquidity. Regulators tracking event contracts may also scrutinize whether pseudonymous Lightning deposits complicate KYC obligations already under debate at the CFTC.",
+   "category": "Tech",
+   "entities": [
+    "Polymarket",
+    "Spark",
+    "Lightning Network",
+    "Bitcoin Magazine"
+   ],
+   "primary_source": {
+    "name": "Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdVBTTUZXN0UzVGhhcXlINHY1X3RsZ2F4cjFuTlQ0WDkzd3NuOEkyVVUyUkg5M01yeUFSQlNJWjkxQi05YlhpcVU2akZOXzBOVDRONy1JSjh1MVFPSnZvMjZlMFBiM2htYk9oNkNlUUljZ2hQUktkek90bnJvQVU?oc=5"
+   },
+   "source_title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered By Spark",
+   "also": [],
+   "published": "2026-07-07T19:49:56+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+  },
+  {
+   "id": "ed62544560e1",
+   "slug": "roosevelt-institute-kalshi-retail-users-lost-500m-since-launch",
+   "headline": "Roosevelt Institute: Kalshi retail users lost $500M since launch",
+   "lede": "A Roosevelt Institute analysis finds that ordinary retail users on Kalshi have collectively lost approximately $500 million since the prediction-market platform launched, highlighting steep losses for everyday participants.",
+   "body": [
+    "According to the Roosevelt Institute, retail traders on Kalshi have shed roughly $500 million in aggregate since the platform went live, a figure that underscores the asymmetry between professional market-makers and casual participants in regulated event contracts. The report frames these losses as a systemic outcome rather than isolated bad bets.",
+    "The findings arrive as Kalshi \u2014 one of the few CFTC-designated contract markets for event contracts \u2014 has aggressively expanded its product slate to cover elections, economics, and sports. The Roosevelt Institute's analysis suggests that the platform's growth has largely benefited sophisticated counterparties who consistently sit on the winning side of retail flow.",
+    "The report is likely to intensify scrutiny of whether existing CFTC oversight adequately protects retail participants in prediction markets, a question that has shadowed the industry since Kalshi's landmark legal victory cleared the way for election contracts in the United States."
+   ],
+   "why": "A $500 million retail-loss figure gives regulators and lawmakers concrete ammunition to revisit disclosure and suitability requirements for CFTC-regulated event contracts. Traders watching Kalshi contract volumes should note that sustained retail losses could trigger user attrition or new onboarding restrictions that thin liquidity. If the Roosevelt Institute's framing gains traction in Washington, competitors like Polymarket may also face heightened pressure to demonstrate retail-protection mechanisms.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Roosevelt Institute",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "The Roosevelt Institute",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFNrMExiRG91WlNvTW9oVFYyVzlBd21DTm1lb29LZFNGZ3lVWVlhckRGZUd0R3Ita2dJUTQxdnZJZjhqS0t0X2tHSUI5ejBTSF9vaDZuazk3MjFWMk5TcmtzVEdxQVl4ZUFHUURnT0JFd19ibng3RkhqR0xwZ19NSXBDTG96eHdTbDFzaTdMN3pvdkF3U2Z0V1h3cDN2Q2dNdng4N2EtekI?oc=5"
+   },
+   "source_title": "Since Kalshi\u2019s Launch, Ordinary Users Have Lost Half a Billion Dollars",
+   "also": [],
+   "published": "2026-07-07T19:03:14+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+  },
+  {
+   "id": "e251ca6317c5",
+   "slug": "chicago-eyes-ban-on-kalshi-polymarket-trading-by-city-insiders",
+   "headline": "Chicago eyes ban on Kalshi, Polymarket trading by city insiders",
+   "lede": "Chicago is considering a prohibition on city employees with access to nonpublic information from trading on prediction markets like Kalshi and Polymarket, according to the Chicago Tribune.",
+   "body": [
+    "Chicago officials are weighing new ethics rules that would bar municipal employees who hold privileged government information from placing event-contract wagers on platforms including Kalshi and Polymarket, the Chicago Tribune reported. The proposal targets insiders who could theoretically exploit advance knowledge of city decisions \u2014 such as budget announcements, zoning rulings, or public-health declarations \u2014 to profit on outcome markets.",
+    "The move reflects growing awareness among local governments that prediction markets have matured into liquid venues where nonpublic information could generate real financial gains. Kalshi, which won federal court approval in 2024 to offer political event contracts, and Polymarket, a crypto-based platform processing hundreds of millions in monthly volume, are specifically named in the Chicago deliberations as platforms of concern.",
+    "No formal ordinance text had been publicly released as of the Tribune's coverage, meaning the proposal remains in an early deliberative stage. Still, the discussion signals that municipal regulators are beginning to craft insider-trading-style frameworks specifically tailored to prediction markets, a governance gap that federal oversight has yet to fully address."
+   ],
+   "why": "A Chicago ban would establish one of the first municipal insider-trading precedents explicitly naming prediction-market platforms, potentially inspiring copycat ordinances in other major cities. For Kalshi and Polymarket, named-platform prohibitions in government ethics codes add reputational and regulatory friction even without federal action. Traders pricing political and policy contracts should watch whether such rules eventually expand to state employees, who often have earlier access to market-moving information.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "Chicago",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Chicago Tribune",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnpmWUxCT1NSQ0RLUEZQMHlVaFZLaFZTYl90Zk83dF9TTnRSU19WcUlmSlBySlViMThLb0p4RjlBNGJSSHctYnN4dEhRSlZEelB3SEdaZUFmUE0yVkNFbnhVNVJTRFhmS094b1BwQ1N6Rlc3a3BxM0liRmpnME14VlFFbEtFWjBKSHVBLUxUMDFsWWE4RkNfSkhOY2licEhwWFhGMVJfZTJBVUxDd2RF?oc=5"
+   },
+   "source_title": "Chicago weighs ban on Kalshi and Polymarket bets for insider city employees",
+   "also": [],
+   "published": "2026-07-07T18:50:28+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+  },
   {
    "id": "43e303282740",
    "slug": "chicago-ban-on-city-employees-trading-prediction-markets-on-insider-info-advance",
@@ -132,9 +267,42 @@
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2h6STMxRFRVNGppT05fV0R0QUxkSXB4TG1JSHg2S1pzMlpBbUdKZGNDTjlEM19FWV9ub3ZWcUZjSmd2YTEzVjRXRWhUV2paa2NHLUJRQXFneEs2LTVZNUNvdV9KMGI4by1hczRvdWJpZGVwQVBiamVXSXBBa2NvZ0Z4TjBYZ1RiQl9VVnVaaDJrN2hSdC1OZVhVREpBUXJtUF9Mc0JJOG9vV3BXeW1ycU5aemh3eDg0VjZ1X3RNSmwzNDJib1UwbVZONUpJZk1taXUtNU13bFZUWXNtSWRVOVp3OW5YMk4wY0lES2N3TEhKUQ?oc=5"
    },
    "source_title": "Prediction Markets: ESMA Confirms Application of Binary Options Product Intervention Measures to Event Contracts",
-   "also": [],
+   "also": [
+    {
+     "name": "The National Law Review",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzBTTzhpWGpWcW5PUm9HTjZlY09zYXRPU2VVZ2lhVzA2WmUwWGhBYVZHUVR0YVpienQwb242RWpBUTVfclZmR3lQQnZnM3BkanZaT05meXVTVGJPQ1ZKcTRpT05rODFCYW5oWmx4a0dSLXdEM3RKMTlWWXhyVy1hdkhIS3hKaUJhbXNNRWN0c2I1Ny1KekNtd2xCa3A1bjVWb18wNS1GSmhEaTY3X0VYTmxR0gG3AUFVX3lxTE84Z1JJUUVZYzdsLV9IcXRiNTlfaFZESV80TURRMTlSb3pTTVU0WjdzYVJ4R2Nab1NUVWxQVFd5dTFkZnBENWFvY2pNOGhCeWQ0QlNUU1U3WTNoVVBZMElfNDNhM28wakYxT1FIUzROSU9WaVlGMG51eVZLM2VtOUpMSFpxSGVoNFJOS2RPZDNYbFZfZzhqNVpjZXR2djdGWEZHTWRhY1dJVFlxaExHVlBXQzVpMnFzNA?oc=5"
+    }
+   ],
    "published": "2026-07-07T12:49:28+00:00",
-   "first_seen": "2026-07-08T15:30:33.650678+00:00"
+   "first_seen": "2026-07-08T15:30:33.650678+00:00",
+   "updated": "2026-07-08T19:49:56.195609+00:00"
+  },
+  {
+   "id": "1f49bfcc9412",
+   "slug": "kalshi-signs-multiyear-marketing-deal-with-pro-padel-league",
+   "headline": "Kalshi signs multiyear marketing deal with Pro Padel League",
+   "lede": "Prediction markets exchange Kalshi has secured a multiyear marketing partnership with the Pro Padel League, marking the platform's latest push into mainstream sports sponsorship.",
+   "body": [
+    "Kalshi has entered a multiyear marketing agreement with the Pro Padel League, according to Sports Business Journal. The deal gives Kalshi brand visibility across one of the fastest-growing racket sports in North America, extending the exchange's sponsorship footprint beyond digital channels into live sports environments.",
+    "The partnership follows Kalshi's successful legal fight to offer event contracts on U.S. soil and its subsequent aggressive expansion into sports-related markets. Padel, a racket sport blending tennis and squash elements, has attracted significant investment and audience growth in recent years, making it an attractive vehicle for brands targeting younger, affluent demographics.",
+    "For Kalshi, the Pro Padel League deal represents a deliberate effort to build consumer brand recognition alongside its regulatory and product wins. Prediction market platforms have increasingly pursued sports sponsorships as a mechanism to normalize event-contract trading among mainstream audiences, a strategy also seen among competitors like Polymarket as the sector matures."
+   ],
+   "why": "Sports sponsorships signal that Kalshi is allocating meaningful marketing capital to consumer acquisition, a strategic shift traders should read as a precursor to higher retail volume and potentially new sports-event contracts tied to padel. For regulation watchers, high-profile brand deals increase political and regulatory visibility for the prediction-market sector, cutting both ways \u2014 attracting users but also legislative scrutiny. Competitors without equivalent sports-marketing budgets may find themselves disadvantaged in the race to become the default brand consumers associate with event-contract trading.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "Pro Padel League",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Sports Business Journal",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWstSkVDUmhpU1ZLWFZ5dEFvRzFYVXdaNmc1REplMHNudUUtU2dkelBGWEFQN3o5aEstMk8wUlFhQlVBNkJhY1JCbXg2c3YwQUFCYWwtamotQmMzeU5UWjlRZE1PWDRJelBSaEFJclVCUWxSZmxIdXNJNGR4ZVprTlVQYW5YZmVYbUplTWJMUUdtTDRfbkVoMTRCU1IzQ29pdmdMZXR2Y3gwTGNwZ2FOTWo2dXRYdw?oc=5"
+   },
+   "source_title": "Pro Padel League inks Kalshi to multiyear marketing deal",
+   "also": [],
+   "published": "2026-07-07T12:19:09+00:00",
+   "first_seen": "2026-07-08T19:49:56.195609+00:00"
   },
   {
    "id": "a1c4e1566ad4",
