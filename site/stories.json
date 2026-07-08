@@ -1,6 +1,80 @@
 {
- "generated": "2026-07-08T19:49:56.195609+00:00",
+ "generated": "2026-07-08T21:20:26.856135+00:00",
  "stories": [
+  {
+   "id": "7ce04e4b78f7",
+   "slug": "kalshi-loses-bid-to-block-new-york-sports-contract-gambling-enforcement",
+   "headline": "Kalshi loses bid to block New York sports-contract gambling enforcement",
+   "lede": "Judge Analisa Torres on Monday denied Kalshi's emergency motion to prevent New York authorities from enforcing state gambling laws against its sports-event prediction contracts.",
+   "body": [
+    "Judge Analisa Torres of the Southern District of New York ruled against Kalshi's request for a preliminary injunction that would have halted New York's enforcement action targeting the exchange's sports-event contracts. Kalshi had argued that its CFTC-regulated event contracts should be shielded from state gambling statutes, a position the court declined to accept at this stage, according to Reuters and The Block.",
+    "The dispute centers on whether Kalshi's federally licensed sports-event contracts \u2014 which allow traders to take positions on outcomes like game winners \u2014 constitute illegal gambling under New York law. New York officials have moved to restrict access to the contracts for state residents, setting up a direct conflict between state gambling regulators and a CFTC-designated contract market.",
+    "The ruling is a significant setback for Kalshi, which launched sports-event contracts in late 2024 after winning a landmark federal appellate decision against the CFTC. The company had positioned federal preemption as a core defense against state-level challenges, and Torres's denial keeps the New York enforcement action live while litigation continues."
+   ],
+   "why": "This ruling signals that federal CFTC authorization may not automatically preempt state gambling enforcement, creating a patchwork-regulation risk that could fragment prediction-market liquidity by state. Traders in New York-restricted markets face potential access cutoffs, directly shrinking the pool of participants pricing sports contracts. Regulation watchers should note this sets a template other states could follow to challenge CFTC-licensed event contracts without waiting for federal legislative clarity.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Judge Analisa Torres",
+    "New York"
+   ],
+   "primary_source": {
+    "name": "bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NjFXTElqTldnVVBmUTNhLVNiWHdfN2ZHZ21FU0lJNnFOY2ozMnhLTGVQTGlMVVZ0S1BxcFVUUHBxYlhqZ2VzZHhtZkhlOVMxUU5iZQ?oc=5"
+   },
+   "source_title": "Judge Torres Denies Kalshi Bid to Block New York Sports-Event Contract Suit",
+   "also": [
+    {
+     "name": "The Block",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWU1MjhrRFBiVGtTYjBudEJJMHkxZG5VNlo3Tk5SSkN5YW5paTAwVlNZcWprRmdQYjRjTGJGZmYyREtmSjhsSm1iTEFxRW9DTGNNS0l5UXRhdGtzb2FjamVsODhIcl9Ca2dpRC1RV0E3cHJ6WkF0MURIVGVncHNzZg?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss"
+    },
+    {
+     "name": "WTVB",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUgyN3NHQnNKZTFzT2NEU00zQmhERkc4R2FzWEpwTzdZNjNrOC13cTlDNmw0YUlSdzlGbTJmTHFZeEJQU05rUHVKdlNnczNtcXJvVUpYM21WNUtCVEtKWDFrTzB4d2FXdnRwYWZhR19rd2c3T3BTdHNxR29idU1wVlAtOEtLNHBJSmh5eWV3bnpNaEFsWUFLRHRzRDdseEk?oc=5"
+    },
+    {
+     "name": "Times Union",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlluWENQdWdKRkw4TDRuX3RaX1dUZ2d0TktMVkZ0RkJfSjg2WDZiRlQ0LXV2QnNheFBQWTVwcTBzc0IwcE9LYzllT09hUHFhNUpITmlxb0EwT0JtWkw1bEx2UlJFb3NBSWRXbm16Y0lCUGNTbEtWaW5IVUdZNXkzZk1KeExDRXpPUGhSZDJ2R3ZKazROZ3RTYnFSM3Z3VldONU0yTQ?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONG9jb3k2Q1NTRjdCWktuMmF6dW9KRDdvOHNreFNwNzVfc1JGSEJ4WlFkUVdBcjhYR0hldXRUN2RCbVJPYVNvcWhHVlpuTnN5WG5xMFZWRm5MUzdwb0ZLUHNkdVo5T3Jab2p5LVhkREhHbzFnRWFxYjdBajgwUUVWeXhSSmJYM3pLMlNpT1NIVzZvYnlRRDhjZXdNMHZabGZlaXJLNlBmdHNINDFiVVJBanA5bFVjYWxy?oc=5"
+    }
+   ],
+   "published": "2026-07-08T02:48:49+00:00",
+   "first_seen": "2026-07-08T21:20:26.856135+00:00"
+  },
+  {
+   "id": "7272f4c3dd2f",
+   "slug": "kalshi-market-prices-openai-government-stake-at-long-shot-odds",
+   "headline": "Kalshi market prices OpenAI government stake at long-shot odds",
+   "lede": "Traders on Kalshi's prediction market are pricing in slim chances the U.S. government will acquire an equity stake in OpenAI before year-end 2025, according to CNBC.",
+   "body": [
+    "Kalshi's event contract on whether the U.S. government will take an ownership stake in OpenAI is trading at low probability, signaling that market participants consider the scenario unlikely to materialize in 2025, per CNBC reporting. The contract effectively crowdsources investor sentiment on a question that has circulated in policy and tech circles amid broader conversations about AI governance.",
+    "The idea of a U.S. government stake in OpenAI gained traction as part of discussions around sovereign AI infrastructure and national competitiveness, but Kalshi traders are betting against it happening imminently. Prediction markets have increasingly become a barometer for gauging how seriously sophisticated participants take speculative policy proposals, often faster than traditional polling or pundit analysis.",
+    "OpenAI is in the middle of a high-profile restructuring from a capped-profit model toward a for-profit public benefit corporation, a transition that complicates any hypothetical government equity arrangement. The Kalshi contract captures real money on the line, making its implied probability a harder signal than informal sentiment surveys."
+   ],
+   "why": "Low contract prices on politically charged AI-governance questions like this one give traders a concrete edge in calibrating which policy headlines carry real execution risk versus noise. If the probability were to spike suddenly, it would signal insider-adjacent information flow worth tracking for correlated contracts. Regulation watchers should note that Kalshi's willingness to list this contract also tests the CFTC's informal tolerance for politically sensitive event markets.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "OpenAI",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnZYNDNjeUh0NFBnbDJGMDlzUTl1aUxuUmRSdmk2czVTcjRFNlRtNEtxcmJ3ZkpDRTVZMWRYNDV2bUdCN3lBS08xckFmUWtOdGU5TDZOdXRxcmgwNjBwS3NSWHJDTnJHM0dFQWFiUVBxRjRnRlBKTmc4YU9Rd3ZDY2VoUlBQT1hWLVdZREwzYlRIejBKdHJHdUJxMTA1eGxadkNhRVdLd9IBrAFBVV95cUxNMkQ0UTNWOW9Bd2VLUHhBMEs2blBfLUFuMmpPNzRNaGJtcXo0dlNQWmUxM2tiRlI5ZGVianVwNDlSY0tkR1VhbGJkWElSdF85UTJCVXExX2toNUFxVjJISWtfRWJobWlpM3BuX3RSdHY5bjZKbnlYQXk5d2NNd2ZYQlNKYzJsRFhxTVdhdzdQc212bzJQTDdqS1oxNUxiQWhMWXNvb3NhY2JTOXIw?oc=5"
+   },
+   "source_title": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year",
+   "also": [],
+   "published": "2026-07-07T22:51:08+00:00",
+   "first_seen": "2026-07-08T21:20:26.856135+00:00"
+  },
   {
    "id": "98f1c49b5197",
    "slug": "kalshi-traders-see-nasdaq-100-above-30-000-by-end-of-2026",
@@ -78,9 +152,19 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdVBTTUZXN0UzVGhhcXlINHY1X3RsZ2F4cjFuTlQ0WDkzd3NuOEkyVVUyUkg5M01yeUFSQlNJWjkxQi05YlhpcVU2akZOXzBOVDRONy1JSjh1MVFPSnZvMjZlMFBiM2htYk9oNkNlUUljZ2hQUktkek90bnJvQVU?oc=5"
    },
    "source_title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered By Spark",
-   "also": [],
+   "also": [
+    {
+     "name": "Bitcoin Foundation",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTMya0pJT1hEbTNQSmxSMnluQzNSdWQzeC1tYi1Mb1BXLVVSa0kxWXhkR3dpMS1SWGQ5UE85VmROSE1zdXhEM3B5Q0huRmN2ZmpGRU9Ic2J1eUN1bUtfV18tazhOSGo3YUhlbnhFejJSNG5HQnVzRng4aThLYXpsX3Zpb1NZMmFBSWNzdklvalYyNm5Cd2IyWHZfR2s0Vzd6SlJnNC1PYlcwRkZwaE1ZT2o4bFpIY1E?oc=5"
+    },
+    {
+     "name": "Bitbo",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nLTg4OThSSHhNN2ttTUtpUDB4WHVBZkYwMkptenFiVHRRbFBqRklka0hYbHh4MUU4Rkw0NVEzd1Zha1JoLWJsaHB0OWIxMHBpcG1KdGtUb2d3cXhTdjRONVZHLVgzdEFOaEw5YTcyOEJlZ1o5NDF3?oc=5"
+    }
+   ],
    "published": "2026-07-07T19:49:56+00:00",
-   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+   "first_seen": "2026-07-08T19:49:56.195609+00:00",
+   "updated": "2026-07-08T21:20:26.856135+00:00"
   },
   {
    "id": "ed62544560e1",
@@ -527,11 +611,15 @@
     {
      "name": "Action Network",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3VyY2VnRHN3cmpqcHdHOFg1Y1hmNTJlMzYzdVZlSXVRQ0Z4d0g0OERKRXFHNmRmeGRUdjQ2N0h0UUtmd3NlUDE0NlJxRWx6ZkJ6Wms5Q0JRMVUwdUFzUjdSdXZSSmh2eWJsa1JDd1psMTk2ME9taU0tbTdkN2R5ZHViV25DWjJnSDBaUXpQLXFRb09YUEt6aUs3Y3I0LUUzbkpMYg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2wxaWs1NkFwZVVIVUx0MFhleFRta2tpVEMyVW9jaS1DWjgxYXpzcTVlcWUwNVV2MGlsRERmd1NYV1lqbWVscVFqZXQ5LTRjb1RtMFZHblZrOUI2ZGRnRlZqb1ZZX2l3V3ZiODY4LUFmT3NhTXJGOWRrdWtnTXJMUHltemVBbEhjVlNEby1CUnBJMkloZkRfMHc1WXB3VHZfMllMRQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-08T17:48:48.993577+00:00"
+   "updated": "2026-07-08T21:20:26.856135+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -807,6 +895,33 @@
    "also": [],
    "published": "2026-07-05T19:15:34+00:00",
    "first_seen": "2026-07-07T03:09:05.940195+00:00"
+  },
+  {
+   "id": "2bd24d062af3",
+   "slug": "prediction-markets-under-fire-for-offering-wildfire-disaster-bets",
+   "headline": "Prediction Markets Under Fire for Offering Wildfire Disaster Bets",
+   "lede": "Prediction market platforms are drawing sharp public criticism after listing tradeable contracts allowing users to bet on wildfire outcomes, with detractors calling the practice morally reprehensible.",
+   "body": [
+    "According to Mother Jones, prediction market platforms have begun offering event contracts tied to wildfire disasters, prompting an immediate backlash from critics who argue that profiting from natural catastrophes crosses an ethical line. The outlets reporting on this story have not named specific dollar volumes or contract sizes, but the existence of such markets has itself become a flashpoint.",
+    "Mother Jones quotes sources describing the practice as 'morally reprehensible,' reflecting a growing tension between the prediction-market industry's expansion into sensitive real-world events and public expectations around decency. Platforms like Polymarket and Kalshi have previously faced scrutiny for listing contracts on politically charged or tragedy-adjacent topics, and wildfire contracts represent the latest frontier in that ongoing debate.",
+    "The wildfire betting controversy arrives as the prediction-market sector is still riding a wave of mainstream attention following high-profile election markets in 2024. Regulators and platform operators alike are now navigating questions about where acceptable market boundaries lie, with each new controversial contract category potentially inviting fresh CFTC scrutiny or congressional attention."
+   ],
+   "why": "Controversial contract categories like wildfire bets give regulators and legislators a concrete hook to revisit event-contract oversight, raising the probability of new CFTC rulemaking or public hearings. Traders in political and policy prediction markets should watch for sentiment spillover \u2014 backlash against one platform can tighten the regulatory environment for the entire sector. Operators considering disaster-linked contracts must now weigh reputational risk as a material factor alongside liquidity.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "Mother Jones"
+   ],
+   "primary_source": {
+    "name": "Mother Jones",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTdfc29ISnV4dndzY2NfR3MxUDI2MjZBTzN4SW52SGZDYlBraVNoVml4d2h0OHk1RzhYcnJyOW12N1hyNG01bEtTNWZXbnNaODRGUmhGTl9fYjFvUFpkZVNCVFdrZ0Nxb2VrMGFZMkt6b2pXTG9vSnJ2VlRyRkxtMmx5QnNfMEx0SDhLb2MwWnNFTmhfd1lSTVNkRnRKSnpjeEJiaHBPNmdyZFJJUEplU05saw?oc=5"
+   },
+   "source_title": "\u201cMorally reprehensible\u201d: Prediction Markets Offer Bets on Wildfires",
+   "also": [],
+   "published": "2026-07-05T11:30:52+00:00",
+   "first_seen": "2026-07-08T21:20:26.856135+00:00"
   },
   {
    "id": "e0f2b95c1ab4",
