@@ -1,6 +1,87 @@
 {
- "generated": "2026-07-08T15:30:33.650678+00:00",
+ "generated": "2026-07-08T17:48:48.993577+00:00",
  "stories": [
+  {
+   "id": "43e303282740",
+   "slug": "chicago-ban-on-city-employees-trading-prediction-markets-on-insider-info-advance",
+   "headline": "Chicago ban on city employees trading prediction markets on insider info advances",
+   "lede": "A Chicago City Council committee advanced an ordinance that would prohibit municipal employees from using non-public government information to trade on prediction markets, marking one of the first U.S. municipal-level regulations targeting the industry.",
+   "body": [
+    "According to WTTW News, the Chicago City Council committee moved forward with legislation that would bar city workers from leveraging privileged, non-public information when placing trades on prediction market platforms. The measure represents a direct legislative response to the growing mainstream accessibility of platforms such as Kalshi and Polymarket, which now allow ordinary users to bet on political and policy outcomes.",
+    "The ordinance extends existing conflict-of-interest frameworks already applied to traditional financial markets and would apply them specifically to event contracts. City employees with access to sensitive data \u2014 such as budget figures, zoning decisions, or public health information \u2014 would be explicitly prohibited from using that knowledge to gain an edge on prediction market platforms, according to WTTW News.",
+    "The move reflects a broader national conversation about insider-trading risk in prediction markets, a concern that has also surfaced at the federal level as the CFTC weighs expanded event-contract oversight. Chicago's action could serve as a template for other municipalities grappling with the same gap in their ethics codes as prediction markets grow in volume and visibility."
+   ],
+   "why": "Municipal insider-trading rules targeting prediction markets set a precedent that could accelerate similar ordinances in other major U.S. cities, raising compliance costs for platforms that attract government-employee users. For prediction-market operators, the ordinance signals that regulatory pressure is no longer confined to federal agencies like the CFTC \u2014 local governments are now writing the rulebook too. Traders watching political and policy markets should note that tighter information controls on government insiders could, paradoxically, make those markets more efficient by reducing information asymmetry.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Chicago City Council"
+   ],
+   "primary_source": {
+    "name": "WTTW News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGx2bTFmeXQ2YlZ4ZXFFaC1FeENueHp6N0ppQzBpNFNmeDhGRUpUc0h1YnFGa2ZYYVJXV2g1bGg5QWc3Yl84Z0JMVTF5ZTY3OHdOZGV0Y2JLTnpuUWRmNEVkS0FPNkxSQlMwc1JwMndJQUJ5TXJuVy1LR0VQV2ZWV0Yyc216THQtRl9uRDJxb2xMN21YRml0WmtjcV9HZVU?oc=5"
+   },
+   "source_title": "Ban on City Employees From Using Private Info in Prediction Markets Advances",
+   "also": [],
+   "published": "2026-07-07T17:53:52+00:00",
+   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+  },
+  {
+   "id": "6b51daf83d2e",
+   "slug": "polymarket-insider-trading-case-hinges-on-swap-definition-fight",
+   "headline": "Polymarket Insider Trading Case Hinges on Swap Definition Fight",
+   "lede": "Defendants in the CFTC's first-ever event-contract insider trading lawsuit are challenging the case by arguing that Polymarket trades do not legally qualify as swaps under the Commodity Exchange Act.",
+   "body": [
+    "The CFTC's landmark insider trading action targeting Polymarket activity has hit a foundational legal snag: defense attorneys are contesting whether the prediction-market contracts at issue are 'swaps' as defined under federal commodities law. If the trades fall outside that definition, the CFTC may lack jurisdiction to prosecute insider trading on the platform entirely, potentially gutting the case before it reaches the merits.",
+    "The question is not trivial. Swap classification under the Commodity Exchange Act determines whether the CFTC has authority to regulate the instrument, impose anti-fraud rules, and pursue insider trading claims. Polymarket operates on a binary event-contract model that differs structurally from traditional derivatives, and courts have not yet ruled definitively on how such contracts map onto existing statutory categories.",
+    "This is the first time the CFTC has brought an insider trading charge specifically tied to event contracts, making the jurisdictional threshold fight especially consequential. The outcome will set precedent for whether federal regulators can police information advantages on prediction platforms like Polymarket and its regulated U.S. competitors such as Kalshi and ForecastEx."
+   ],
+   "why": "A ruling that Polymarket trades are not swaps would leave a significant enforcement gap, signaling to traders that information advantages on decentralized prediction markets carry little legal risk. Regulated U.S. platforms like Kalshi, whose contracts are explicitly designated, would face a competitive disadvantage if offshore venues operate in a de facto enforcement-free zone. Prediction-market operators and CFTC watchers should track this case closely \u2014 the jurisdictional ruling could reshape how event contracts are classified and regulated industry-wide.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "DeFi Rate",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHprc0s3dTd5ZTNNX2l3aTkxclVwaGJlOVNJUlF4d21xNmkwQmJ6ZmI0M25vM3RWcW16Ul8taV9BRDFNVHNTcktTeEFTbUVEVXBFQUF6aWI3YmVCQ0NFVEFLQlFOV1dtejV3bUNZSUduQ3ZYc3RmNzlyV0xzQ2pXUkxLeGl6Q3NOc1duYlh6QUFyYmdaSG94TlY4YTNKelpyX3FCcF9wZ0I4cnYzMmVFQ0hFVlA0R1E1dExJYg?oc=5"
+   },
+   "source_title": "CFTC\u2019s First Event-Contract Insider Trading Lawsuit Challenged Over Whether Polymarket Trades Were Swaps",
+   "also": [],
+   "published": "2026-07-07T17:27:00+00:00",
+   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+  },
+  {
+   "id": "6addcdce11f5",
+   "slug": "willkie-farr-gallagher-publishes-prediction-market-exchange-regulatory-overview",
+   "headline": "Willkie Farr & Gallagher Publishes Prediction Market Exchange Regulatory Overview",
+   "lede": "Law firm Willkie Farr & Gallagher released a \"State of Play\" briefing on prediction market exchanges, summarizing the current regulatory and competitive landscape for event-contract platforms.",
+   "body": [
+    "Willkie Farr & Gallagher, a prominent law firm with deep CFTC-adjacent practice, published a structured overview titled 'State of Play \u2014 Prediction Market Exchanges,' signaling growing institutional legal interest in the sector. The document addresses the framework governing designated contract markets (DCMs) that offer event contracts, including platforms such as Kalshi and ForecastEx.",
+    "The briefing comes as prediction markets have gained mainstream attention following high-profile election contract trading in 2024, which drew record volume on Kalshi and Polymarket. Regulatory scrutiny has intensified in parallel, with the CFTC actively revisiting its event-contract rules and self-certification processes used by exchanges to list new markets.",
+    "According to Willkie Farr & Gallagher, the 'state of play' framing implies a fluid and actively contested legal environment \u2014 one where exchange applicants, incumbents, and regulators are still negotiating the boundaries of permissible contracts. The publication of such a memo by a major firm typically signals client demand from financial institutions exploring entry into the space."
+   ],
+   "why": "A Biglaw firm codifying the prediction-market regulatory landscape suggests institutional capital is seriously evaluating entry, which could accelerate competition against Kalshi and Polymarket. Traders should watch for new DCM applicants as a leading indicator of market expansion and potential liquidity shifts. Regulatory clarity memos of this type can also precede formal CFTC rulemaking comments, making the next comment period a key event to monitor.",
+   "category": "Legal",
+   "entities": [
+    "Willkie Farr & Gallagher",
+    "Kalshi",
+    "ForecastEx",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Willkie Farr & Gallagher",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJYWjMzZ1pxaGRJSVhjZWdSU0owaHNObGdPZlZWVW9jZG0tRjVfQ0txQU1STXY5bnc5aTFRdTJuTkR0ZjB0VWFoSTRwaVU2M19MMUpPcnFNcTRad1dabWRCUUd0bEVGMkhwazRpb3l2VTV3bW9xNUMwbVRrRWZuX1plYnNwek5YVG8yY0F3Yw?oc=5"
+   },
+   "source_title": "State of Play \u2014 Prediction Market Exchanges",
+   "also": [],
+   "published": "2026-07-07T16:36:49+00:00",
+   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+  },
   {
    "id": "cb28880381d1",
    "slug": "kalshi-market-hits-94-odds-graham-platner-drops-out-after-party-revolt",
@@ -81,6 +162,33 @@
    "also": [],
    "published": "2026-07-07T11:04:23+00:00",
    "first_seen": "2026-07-08T15:30:33.650678+00:00"
+  },
+  {
+   "id": "0e6d7369d1f5",
+   "slug": "prediction-markets-supreme-court-clash-looms-new-jersey-faces-august-deadline",
+   "headline": "Prediction Markets Supreme Court clash looms, New Jersey faces August deadline",
+   "lede": "A legal battle over prediction markets is escalating toward a potential Supreme Court showdown, with New Jersey given an August deadline to respond in a case that could reshape the industry's regulatory future.",
+   "body": [
+    "According to Lower Bucks Times, New Jersey has been handed an August deadline to respond in a high-stakes legal dispute that observers say could ultimately reach the U.S. Supreme Court. The case centers on the legitimacy of prediction markets as a distinct financial product class, separate from traditional sports betting, a distinction that operators like Kalshi and Polymarket have long argued is critical to their survival.",
+    "The core legal tension involves whether event contracts \u2014 wagers on political, economic, and other real-world outcomes \u2014 fall under CFTC jurisdiction or state gambling law. Kalshi previously won a landmark federal court ruling affirming CFTC oversight of its election contracts, and the New Jersey matter appears to extend that jurisdictional fight into new territory, potentially forcing courts to draw a definitive line.",
+    "A Supreme Court ruling, if the case reaches that level, would create binding nationwide precedent on how prediction markets are classified and regulated. The industry has operated in a legal gray zone for years, and a definitive ruling could either unlock broad expansion or impose severe restrictions on platforms currently offering event contracts to U.S. customers."
+   ],
+   "why": "A Supreme Court decision on prediction market jurisdiction would be the single most consequential legal event in the industry's history, instantly repricing regulatory risk for every platform operating in the U.S. Traders on political and legal outcome markets should watch New Jersey's August filing closely, as its arguments will signal how aggressively states intend to contest CFTC primacy. If courts side with state gambling regulators, platforms like Kalshi face potential shutdowns in major markets, a tail risk currently underpriced by most industry observers.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "New Jersey"
+   ],
+   "primary_source": {
+    "name": "Lower Bucks Times",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzRNbHMxVXJPYlRxbUk1c0lzRUIzUW80Y29GMzQwM0NzenZLTDZPbGpSX09Wd3ZJTmQyclM0azFaMlRjTEhpck5PTDUydTZMdmprQmVVTXNBSDJjLTUwYzE4N3B4OGtueTNES180dlF2UDdPWFZpRFRqbHFXVWp0ZktZb1dPMF9HMlZKaG1aUlVfdHFqODB6WmMxOEIxWlMtWlZv?oc=5"
+   },
+   "source_title": "Prediction Markets Head Toward a Supreme Court Showdown as New Jersey Gets an August Deadline",
+   "also": [],
+   "published": "2026-07-07T11:00:00+00:00",
+   "first_seen": "2026-07-08T17:48:48.993577+00:00"
   },
   {
    "id": "3058c4012de0",
@@ -243,11 +351,19 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUHVja2lhLUpCWURCOGNlSjVzX010d3NKLTFBZkx3RXJINWVJMHFuenJYQzdtOUtyeWNMQk9JdmxsTGpUN2R6YVhmZG1mRlVQbU5rZGwzM1ZkRmdYcE1EbC10OVBYTWI5NmZIYg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHFNdkNMYk9TV1NTUC1ENS1JOENaMTVpOVV5NWJWemM4ekpnajh1bHFKY29HRG1vRVRFeG8ydHMtVmtybGF0Uk5BNHh2RExGbDRpNGtKUXp5bXJ0QUJTWTRiQVZfUmtXcTM5bWtrREZvT0FSQnJsU0E3enNUZUlncTN2b25lMGZJZTduRk13ckQtOXhLcUQ1a0FyOA?oc=5"
+    },
+    {
+     "name": "Action Network",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3VyY2VnRHN3cmpqcHdHOFg1Y1hmNTJlMzYzdVZlSXVRQ0Z4d0g0OERKRXFHNmRmeGRUdjQ2N0h0UUtmd3NlUDE0NlJxRWx6ZkJ6Wms5Q0JRMVUwdUFzUjdSdXZSSmh2eWJsa1JDd1psMTk2ME9taU0tbTdkN2R5ZHViV25DWjJnSDBaUXpQLXFRb09YUEt6aUs3Y3I0LUUzbkpMYg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-08T15:30:33.650678+00:00"
+   "updated": "2026-07-08T17:48:48.993577+00:00"
   },
   {
    "id": "3b83809e121a",
