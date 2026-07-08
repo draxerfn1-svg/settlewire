@@ -1,6 +1,87 @@
 {
- "generated": "2026-07-08T12:49:01.891897+00:00",
+ "generated": "2026-07-08T15:30:33.650678+00:00",
  "stories": [
+  {
+   "id": "cb28880381d1",
+   "slug": "kalshi-market-hits-94-odds-graham-platner-drops-out-after-party-revolt",
+   "headline": "Kalshi market hits 94% odds Graham Platner drops out after party revolt",
+   "lede": "A Kalshi event contract surged to 94% probability that Graham Platner will exit his race following an intraparty revolt, according to Fox News coverage published this week.",
+   "body": [
+    "According to Fox News, Kalshi's prediction market priced Platner's withdrawal at 94% after Republican party figures moved against his candidacy. The sharp move reflects how quickly event-contract prices can reprice when new political information enters the market, compressing what had been a more contested probability distribution into near-certainty territory.",
+    "Kalshi, the CFTC-regulated event-contract exchange, has increasingly become a cited source for political probability data in mainstream media, with outlets like Fox News treating its market prices as newsworthy indicators alongside traditional polling. The Platner contract illustrates the market's real-time sensitivity to insider political signals that may not yet appear in survey data.",
+    "The 94% figure represents the crowd-aggregated implied probability derived from actual money placed by traders, distinguishing it from pundit opinion. When a market reaches this threshold, it typically signals that informed participants believe the outcome is effectively resolved, though a 6% residual leaves room for the candidate to survive the revolt."
+   ],
+   "why": "A market printing 94% on a dropout creates a highly asymmetric trade \u2014 the remaining 6% 'no' contracts offer outsized payout if Platner defies expectations, attracting contrarian speculation. Media outlets repeatedly citing Kalshi prices as authoritative signals strengthen the exchange's brand and could drive retail volume into political contracts. Regulatory watchers should note that each mainstream citation of Kalshi odds reinforces the legitimacy of CFTC-regulated political event contracts ahead of any future rulemaking.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Graham Platner",
+    "CFTC",
+    "Fox News"
+   ],
+   "primary_source": {
+    "name": "Fox News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGhzQnF2ZWRpdzRSWEZEWTRLZnY3Z2dIdHhHLVRWVTd5WGJrY0RrVVMzTl9DdHZMeWdmdUlnRUZKdEt6bUM2TjFFUjNPT3l5Q25PWGFySlNQc0YxaXB3bFlwOW1vM3dTM0Rma0E0LTd0YzREckUxaHF3aVFBY3kwZzJ3X3VNaERQM1RuVFJKY05ZczhpaWFKR000Um5velFlUE0wZlFVMUw4M2Ft0gGyAUFVX3lxTE5hSWJ5a2hYMDZHVkZNRWQ2TnJxVDFGajdoWTR2RFk2TnNvQkJwWWpSQnJHOWxITG0tdmRCTi13ZVAtWnF4V1pmRnQ1bDFuMmw4RlVrUy1QdW82aDJEYVUwalU4X2N2Yi1ZNlNNQlFqNzdXb29VSE5EYkczQjBhU3hhdXFyaE0yUUtTSU93ZXFZQlNRbUh2QW9iTkJKY19EcEJYV29iVHEtWHJvUkFzTmdXSVE?oc=5"
+   },
+   "source_title": "Graham Platner's chances of dropping out skyrocket to 94% after party revolt: Kalshi",
+   "also": [],
+   "published": "2026-07-07T13:36:15+00:00",
+   "first_seen": "2026-07-08T15:30:33.650678+00:00"
+  },
+  {
+   "id": "ed12e790933a",
+   "slug": "esma-confirms-binary-options-ban-applies-to-prediction-market-event-contracts",
+   "headline": "ESMA confirms binary options ban applies to prediction market event contracts",
+   "lede": "Europe's top securities regulator ESMA has ruled that its existing product intervention measures banning binary options extend to event contracts traded on prediction markets, according to fintechanddigitalassets.com.",
+   "body": [
+    "ESMA's confirmation closes a regulatory ambiguity that prediction market operators in the EU had been navigating since binary options were banned for retail clients under product intervention powers first enacted in 2018. The ruling explicitly maps event contracts \u2014 the core instrument of platforms like Polymarket \u2014 to the binary options definition, according to fintechanddigitalassets.com.",
+    "The intervention measures, which have been periodically renewed by ESMA and national competent authorities, prohibit the marketing, distribution, and sale of binary options to retail investors. By confirming that event contracts fall within scope, ESMA signals that any EU-facing prediction market offering yes/no outcome contracts must comply with those restrictions or face enforcement action.",
+    "The ruling creates a significant barrier for US-based platforms eyeing European expansion and raises immediate compliance questions for any operator currently serving EU retail users. National regulators in member states now have a clearer legal basis to act against non-compliant platforms, potentially mirroring the kind of regulatory pressure Polymarket faced from US authorities."
+   ],
+   "why": "For prediction-market traders, this effectively shuts the door on compliant retail access to event contracts across the EU's 27 member states, concentrating legal market activity outside Europe. Platform operators must now either restrict EU users entirely or pursue a regulated derivatives exemption \u2014 an expensive and uncertain path. Regulation watchers should note this sets a precedent that could influence how other jurisdictions, including the UK's FCA, classify event contracts going forward.",
+   "category": "Legal",
+   "entities": [
+    "ESMA",
+    "Polymarket",
+    "CFTC",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "fintechanddigitalassets.com",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2h6STMxRFRVNGppT05fV0R0QUxkSXB4TG1JSHg2S1pzMlpBbUdKZGNDTjlEM19FWV9ub3ZWcUZjSmd2YTEzVjRXRWhUV2paa2NHLUJRQXFneEs2LTVZNUNvdV9KMGI4by1hczRvdWJpZGVwQVBiamVXSXBBa2NvZ0Z4TjBYZ1RiQl9VVnVaaDJrN2hSdC1OZVhVREpBUXJtUF9Mc0JJOG9vV3BXeW1ycU5aemh3eDg0VjZ1X3RNSmwzNDJib1UwbVZONUpJZk1taXUtNU13bFZUWXNtSWRVOVp3OW5YMk4wY0lES2N3TEhKUQ?oc=5"
+   },
+   "source_title": "Prediction Markets: ESMA Confirms Application of Binary Options Product Intervention Measures to Event Contracts",
+   "also": [],
+   "published": "2026-07-07T12:49:28+00:00",
+   "first_seen": "2026-07-08T15:30:33.650678+00:00"
+  },
+  {
+   "id": "a1c4e1566ad4",
+   "slug": "nj-assembly-speaker-pledges-prediction-market-tax-bill-return-in-fall",
+   "headline": "NJ Assembly Speaker Pledges Prediction Market Tax Bill Return in Fall",
+   "lede": "New Jersey Assembly Speaker Craig Coughlin confirmed a prediction market taxation proposal will be reintroduced when the legislature reconvenes this fall, after the measure stalled earlier in 2025.",
+   "body": [
+    "According to the New Jersey Monitor, Assembly Speaker Craig Coughlin indicated the prediction market tax legislation will come back before the chamber when the fall session begins. The bill had previously failed to advance, but Coughlin's public commitment signals renewed legislative momentum in one of the country's most active regulatory environments for gambling-adjacent products.",
+    "New Jersey's interest in taxing prediction markets reflects growing state-level attention to platforms like Kalshi and Polymarket, which have expanded aggressively since federal regulators cleared certain event contracts. State officials have been debating whether prediction markets constitute a taxable activity similar to sports wagering, which generates hundreds of millions in annual tax revenue for New Jersey.",
+    "The proposal's return in fall sets up a potential inflection point: if New Jersey enacts a tax framework, it could prompt other states to follow with their own regimes. The timing coincides with broader federal CFTC rulemaking discussions around event contracts, meaning operators could face a layered state-and-federal compliance landscape by late 2025 or early 2026."
+   ],
+   "why": "A New Jersey tax law would be the first state-level fiscal framework specifically targeting prediction markets, creating a compliance cost precedent that traders should price into operator valuations. If enacted, it could suppress retail participation in NJ and trigger copycat legislation across other high-population states. Prediction-market operators without lobbyists or legal infrastructure to navigate state-by-state regimes face meaningful structural disadvantage.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "New Jersey Assembly"
+   ],
+   "primary_source": {
+    "name": "New Jersey Monitor",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2Nvck5vU0tQa0hiOTlIX1F2QzNCMmo5TTR4T0dmb0h5bjhSTVU2eFoxV0dxcUxJUXNtMHVudXV3OVh1LXRxWGVtcGgyWTRhbE5TbEdZU3BsMXJObWhTSWRJUUd1UUxQenUyZGlINXFHU2R2cDZCdjBMdjBxWGpTYUttdVcxbVNnQTgxQUhtbHlkdkNUYkQ1Y0VwT1JuMmU0WWxwQXZITDhuY2JzX3VrLXEwZGg?oc=5"
+   },
+   "source_title": "Prediction market tax proposal to return in fall, NJ Assembly speaker says",
+   "also": [],
+   "published": "2026-07-07T11:04:23+00:00",
+   "first_seen": "2026-07-08T15:30:33.650678+00:00"
+  },
   {
    "id": "3058c4012de0",
    "slug": "polymarket-bettors-threaten-lawsuit-over-iran-nuclear-deal-market-ruling",
@@ -146,11 +227,27 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzVjLWdkY0NtRHJsU280SVRZMFhxV01IUGJvUDRxemhfYTc3bzFtRFZGcW1ORlBRZGNuNUd4d01XejNhQzJMWGhxUTlONEVuRXoxTm1GN09JbzA2VUFmSXI2ekR5OUVneHFQaWt3OS1pSlI2X2VFNjY2cFJTNTh0SjlzTmlVXzNiNFhFbmNuakdXOUYyMm5B?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWxwZXhhb1pQOVZlTFBUNlhxdDAxanpRNmlick8wNXlwN1JpUkZfVVpwdjQ1eXRTWjdnenFSSWlpZEw1UmhidUpZbVRRVk9OSVNyVzdzR2pDRnl6T1NXZS1Yd2RuRUwwb0x4T0xhWGdINGZzbXlmUDI3dXNWc0hzU0dKTi1RNXVKck1GMkpWc3Q4Y0J5UTRaMTVrc005YXhGTTREZFZxWHIxTWtqS3ROUw?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVI3c0ZyNGpfOFE2UWxFc0ZMLTRXQXRtdVJvdVlpNzdMc3J2ZW84VVZsc21aUTRJcUlXVzFTbmFzTmhlMDItekdmY3EyQ3RBbWRzTFo4VzV5WldNTzRZTi1vUV9kSlc5aEYzX0k1eHRxUndwVDRUUTVOSXZlWUFISENGMjIxM3FCVmJsNi04NUF0UUJiZ3pxbDVrWHV5dWdCYjRNOF9nRUo4Y00?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXQ4WDNGNmo3MFJqb0p3NWtGekFoUklkX1ZhME5pSXRMS2IwQXBnS3lqZElPOEJTdjZnMm5SX0RNTTg5aWg3TVc5bFk2NjltekMzSnpyVjMxYUNRMEVISVk2SEREYlVqSVpObnZEY0hYQ1VuSS1TNkxranQxeTVkRHREVDFUVllvdjRCWUdnSEdOUldLY3FqWEprSUtlbGxXb2c?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUHVja2lhLUpCWURCOGNlSjVzX010d3NKLTFBZkx3RXJINWVJMHFuenJYQzdtOUtyeWNMQk9JdmxsTGpUN2R6YVhmZG1mRlVQbU5rZGwzM1ZkRmdYcE1EbC10OVBYTWI5NmZIYg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-08T12:49:01.891897+00:00"
+   "updated": "2026-07-08T15:30:33.650678+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -175,9 +272,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWZ5WC11WEhKdmVpeFU3dXZqNGg2dWkwQlBFc1JoSW5RY0ZkMHVJekxDUzVHeUhaQWFXNGJzemVFQngtQVlJX2lxb3lldFlJOEpXTmZwUVJXdFF4eE52ZG5TanphOTR6T1B0S0I0bnlIYmprbHJPNEdDT0ZCRXRYeXhPMHo3ZXQ2R0F2NFNHaVFnWHpwTWkxVHllSGgyVDhNbFY1MDVlTW4?oc=5"
    },
    "source_title": "LeBron James Next Team Market Makes Big Move on Kalshi",
-   "also": [],
+   "also": [
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLV9hS3pVWDFKVHVxWDRuSnBidnRpT1Z6N1I1S3RqNlQ1RC1XcEpCeTRrQjY1VVBBcWN1dm9XQVFaOHA0T0paY3NGVlkwTE5zd0VWRlIyVllGU1I0SnJsS1Nka2ZuQ2RuR0I2azFfRlpNYTA4emhuNWgwaXhqV0EzRXdsV2h0TUpTQTFpUWwtMG5fMDR0X0d1aldQQ2FZZ1VpRF96cmpn?oc=5"
+    }
+   ],
    "published": "2026-07-06T18:19:03+00:00",
-   "first_seen": "2026-07-08T07:39:01.455109+00:00"
+   "first_seen": "2026-07-08T07:39:01.455109+00:00",
+   "updated": "2026-07-08T15:30:33.650678+00:00"
   },
   {
    "id": "5146383bcd0a",
@@ -658,11 +761,15 @@
     {
      "name": "SailGP",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJQjY5UWlZQ2xpVURDTmNHLTcyMWM1MFhDdl94T2NJcXJoWnNLQ3FGZGx1cmUwYjZ6MGhSem03ODZjTWhvYklvcWd5WWtCR1J3dlQzcFdnUGcyWElG?oc=5"
+    },
+    {
+     "name": "Law.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUVlbFlWbk8wd2E5UG9xU1BoUGtVZmxtMkNtXzBuTTJNdVdlZWNvMllHTkVkN2lfWmdwZ2tGZTZGb21tTThLVlFfYzV6ZXNIT0tJMThfQm40amp6SVYxSGdpSTJ1a0F2LXdZQVE4R3B6Qzh2c28wS2xmWmlPbGxQWlhLNEhGSmotaUsxSjdB?oc=5"
     }
    ],
    "published": "2026-07-03T20:54:19+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-07-08T12:49:01.891897+00:00"
+   "updated": "2026-07-08T15:30:33.650678+00:00"
   },
   {
    "id": "b7f72becd4ef",
@@ -1773,11 +1880,15 @@
     {
      "name": "Good Money Guide",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2EtN0U2UHNhRVhWSFdwaTNWdzRNMF9oVEFiRklLQ0RtZFNSX3Z4TU13XzFabHA4OHFCaF8xYWM2Z1U5UjZSOUVOdklEMkRoTjhnUFNqaE8wbTYxUFpnLWdVdG04Y1B4ZEVqd0tuWTJlTDZ2cVBBb0JUWkx3aG90bVBTeXZ1Q2thQkh6amJQOXFjQ0p3akI2WTBXejBUdw?oc=5"
+    },
+    {
+     "name": "egr.global",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTdJaTQxV216SXZSdmlTeEpkbkRjOHNWVFFLRUo1NzVpQkg0NVF5UHFldmRnbjVsdjFYRmdoNG4yTGxZcm5NMnlXd0M5bUhhOGJjdV9ZQkJJOGZPLXJxQXYzcFFjUzdTSzdoS2d2VHZzX1Zta19DRGZmbnVUVE1xcDJ5bkFneWRDY1BYN1k4OS1GdVV0SVlYNDJkNFM3YktTcmVCT0FnbEUzS3I3dk51bmJDdFJrNjE2QmlRLUxITk1DZw?oc=5"
     }
    ],
    "published": "2026-04-21T14:51:50+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00",
-   "updated": "2026-07-07T18:12:12.966729+00:00"
+   "updated": "2026-07-08T15:30:33.650678+00:00"
   },
   {
    "id": "6f6cd2f67d1d",
