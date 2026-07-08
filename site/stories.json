@@ -1,6 +1,64 @@
 {
- "generated": "2026-07-07T22:19:49.064489+00:00",
+ "generated": "2026-07-08T00:09:08.892007+00:00",
  "stories": [
+  {
+   "id": "e648144e9d2f",
+   "slug": "south-korea-grants-polymarket-hearing-on-illegal-gambling-charges",
+   "headline": "South Korea grants Polymarket hearing on illegal gambling charges",
+   "lede": "South Korean authorities have given Polymarket an opportunity to formally respond to allegations that its platform constitutes illegal gambling under local law, according to SBC News.",
+   "body": [
+    "South Korean regulators have extended Polymarket the right to respond to illegal gambling allegations leveled against the prediction-markets platform, according to SBC News. The move signals that authorities are following a due-process procedure before rendering any formal ruling on whether Polymarket's event contracts fall under the country's gambling statutes.",
+    "South Korea has historically maintained strict prohibitions on unlicensed gambling activity, and regulators have increasingly scrutinized offshore prediction-market and crypto-adjacent platforms operating within its borders. The decision to allow Polymarket a response period suggests the case has not yet reached a definitive enforcement stage, leaving open the possibility of a negotiated outcome or regulatory exemption.",
+    "Polymarket, which surged in global prominence during the 2024 U.S. election cycle, has faced a patchwork of regulatory challenges across multiple jurisdictions. The company was previously barred from serving U.S. customers following a 2022 CFTC settlement, and the South Korean probe adds another front to its ongoing international compliance battles."
+   ],
+   "why": "A South Korean ruling against Polymarket could set a precedent that other Asia-Pacific regulators follow, compressing the platform's addressable market at a critical growth phase. Prediction-market traders should watch whether Korea classifies event contracts as gambling or financial instruments \u2014 that distinction will ripple into liquidity and user-base projections. Operators eyeing Asian expansion face a live test case that may define jurisdictional risk pricing for the entire sector.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "South Korea",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "SBC News",
+    "url": "https://sbcnews.co.uk/sportsbook/2026/07/07/south-korea-polymarket-dispute/"
+   },
+   "source_title": "South Korea gives Polymarket right to respond to illegal gambling allegations",
+   "also": [],
+   "published": "2026-07-07T09:40:11+00:00",
+   "first_seen": "2026-07-08T00:09:08.892007+00:00"
+  },
+  {
+   "id": "011556d8925a",
+   "slug": "traders-sue-polymarket-over-strategy-bitcoin-sale-market-dispute",
+   "headline": "Traders Sue Polymarket Over Strategy Bitcoin Sale Market Dispute",
+   "lede": "William Wood and Thomas Bush filed suit against Polymarket in New York Supreme Court on July 3, alleging breach of contract after the platform resolved a Strategy bitcoin-sale prediction market as 'No' despite an SEC filing showing Strategy sold 32 BTC between May 26 and May 31.",
+   "body": [
+    "The complaint, filed in New York Supreme Court, names Polymarket, CEO Shayne Coplan, CMO Matthew Modabber, and related entities as defendants. The plaintiffs held 'Yes' shares in a binary market asking whether Strategy would sell any bitcoin by May, according to The Block. They allege Polymarket wrongly ruled against them even though Strategy's own SEC disclosure confirmed a sale of 32 BTC during the final days of May.",
+    "The core legal claims are breach of contract and deceptive practices \u2014 a framing that could open Polymarket to damages beyond simple market losses. The disputed resolution hinges on whether Polymarket's resolution criteria adequately captured Strategy's disclosed transaction, a question of market-rule drafting that prediction platforms face constantly. The Block confirmed the filing date as July 3, 2026.",
+    "Polymarket has faced mounting scrutiny over how its markets are resolved, particularly when real-world events produce ambiguous or contested outcomes. This case is notable because the factual basis \u2014 an SEC filing disclosing a specific BTC sale \u2014 is not in dispute; rather, the fight centers on whether Polymarket's resolution logic properly accounted for it."
+   ],
+   "why": "A successful breach-of-contract ruling against Polymarket would set a precedent that resolution disputes are actionable in court, dramatically raising legal risk for all prediction-market operators. Traders holding positions in markets with subjective or narrowly worded resolution criteria should treat this case as a signal to scrutinize rule language before entering. Regulators watching event-contract platforms will likely cite this litigation as evidence that consumer-protection frameworks are needed.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Strategy",
+    "Shayne Coplan",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "The Block",
+    "url": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss"
+   },
+   "source_title": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
+   "also": [
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale"
+    }
+   ],
+   "published": "2026-07-07T08:34:34+00:00",
+   "first_seen": "2026-07-08T00:09:08.892007+00:00"
+  },
   {
    "id": "be049ac6b07a",
    "slug": "polymarket-50-sign-up-bonus-rolls-out-via-sports-media-referral-codes",
