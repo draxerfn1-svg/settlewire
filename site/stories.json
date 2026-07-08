@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-08T04:25:54.716277+00:00",
+ "generated": "2026-07-08T07:39:01.455109+00:00",
  "stories": [
   {
    "id": "e648144e9d2f",
@@ -94,6 +94,33 @@
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00"
+  },
+  {
+   "id": "3b83809e121a",
+   "slug": "kalshi-lebron-james-next-team-market-draws-significant-trader-attention",
+   "headline": "Kalshi LeBron James next-team market draws significant trader attention",
+   "lede": "A prediction market on Kalshi tracking where LeBron James will sign next has seen a notable shift in contract prices, reflecting updated trader sentiment about the NBA star's future.",
+   "body": [
+    "According to Sports Illustrated, Kalshi's event contract on LeBron James's next NBA team has experienced a meaningful price movement, signaling that traders are reassessing probabilities as offseason speculation intensifies. Kalshi, a CFTC-regulated prediction market exchange, allows users to buy and sell contracts tied to real-world outcomes, including sports personnel decisions.",
+    "The market's activity underscores growing interest in sports roster contracts on regulated U.S. platforms. Unlike offshore sportsbooks, Kalshi operates under federal oversight, meaning contract structures must meet CFTC standards \u2014 a distinction that has drawn both retail and institutional participants to its sports-related markets.",
+    "LeBron James, a four-time NBA champion, is one of the league's highest-profile free-agent storylines heading into the offseason. Markets tied to his destination have historically attracted high trading volume, making them a bellwether for how prediction platforms can monetize celebrity sports narratives within a regulatory framework."
+   ],
+   "why": "Sharp price moves in celebrity athlete markets on regulated exchanges like Kalshi are a signal that retail engagement in event contracts is deepening beyond politics and economics. Traders should watch whether volume spikes in sports personality markets correlate with news cycles, as that pattern would inform liquidity strategies. Regulators may also scrutinize how these contracts are structured to ensure they don't blur the line between event contracts and traditional sports wagering.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "LeBron James",
+    "CFTC",
+    "NBA"
+   ],
+   "primary_source": {
+    "name": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWZ5WC11WEhKdmVpeFU3dXZqNGg2dWkwQlBFc1JoSW5RY0ZkMHVJekxDUzVHeUhaQWFXNGJzemVFQngtQVlJX2lxb3lldFlJOEpXTmZwUVJXdFF4eE52ZG5TanphOTR6T1B0S0I0bnlIYmprbHJPNEdDT0ZCRXRYeXhPMHo3ZXQ2R0F2NFNHaVFnWHpwTWkxVHllSGgyVDhNbFY1MDVlTW4?oc=5"
+   },
+   "source_title": "LeBron James Next Team Market Makes Big Move on Kalshi",
+   "also": [],
+   "published": "2026-07-06T18:19:03+00:00",
+   "first_seen": "2026-07-08T07:39:01.455109+00:00"
   },
   {
    "id": "5146383bcd0a",
@@ -967,6 +994,32 @@
    "also": [],
    "published": "2026-07-02T12:03:36+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
+  },
+  {
+   "id": "8c0ceccfca1a",
+   "slug": "citadel-securities-poaches-polymarket-cto-in-high-profile-hire",
+   "headline": "Citadel Securities Poaches Polymarket CTO in High-Profile Hire",
+   "lede": "Citadel Securities has hired Polymarket's Chief Technology Officer \u2014 a former Citadel employee \u2014 marking a significant talent departure from the leading prediction-markets platform.",
+   "body": [
+    "According to eFinancialCareers, Citadel Securities has recruited the Chief Technology Officer of Polymarket, the crypto-based prediction markets giant, completing what amounts to a homecoming hire: the executive had previously worked at Citadel before joining Polymarket. The move signals intensifying competition for top technical talent between traditional high-frequency trading firms and decentralized prediction-market platforms.",
+    "Polymarket has grown rapidly in recent years, handling hundreds of millions of dollars in trading volume on political, economic, and geopolitical event contracts. Losing a CTO-level executive to a firm of Citadel Securities' scale is a notable setback for organizational continuity, particularly as Polymarket navigates ongoing regulatory scrutiny from U.S. authorities and seeks to expand its legitimacy in American markets.",
+    "Citadel Securities, one of the world's largest market makers, has been quietly expanding its presence in digital-asset and alternative-markets infrastructure. Recruiting a senior leader with hands-on experience building a high-throughput prediction-markets platform could inform Citadel's own event-contract or derivatives ambitions at a moment when the CFTC is actively reshaping the rules around such products."
+   ],
+   "why": "A CTO departure at Polymarket raises immediate questions about technical roadmap continuity ahead of a potentially pivotal U.S. regulatory window for event contracts. For prediction-market traders, leadership instability at the dominant platform is a direct risk factor worth pricing into longer-dated market-health contracts. Citadel Securities acquiring this expertise also hints at incumbent financial players positioning to compete in or influence the event-contract space.",
+   "category": "Deals",
+   "entities": [
+    "Polymarket",
+    "Citadel Securities",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "eFinancialCareers",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzhRdldDdkYyeW0tdTBnMXRacVVFbVJfZS0wZWNzWUdVUm85MXJ1N1dUcjJ0Mnd4UC11RHBFZkd5a3JzWWxTM2ZIUlZIWVlKc3MyZk5WMWp4TVV3SmVBbjhHVTRRUzhtSmN6Z1JzSDZvTTExM0xsbzI3OFVnMjRCRG0ydHpoT1pLbzJ4Uzh5N1k?oc=5"
+   },
+   "source_title": "Citadel Securities hired Polymarket's CTO, formerly of Citadel",
+   "also": [],
+   "published": "2026-07-02T11:38:30+00:00",
+   "first_seen": "2026-07-08T07:39:01.455109+00:00"
   },
   {
    "id": "fcb70cc32e93",
