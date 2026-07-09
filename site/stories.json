@@ -1,6 +1,146 @@
 {
- "generated": "2026-07-09T12:19:10.936523+00:00",
+ "generated": "2026-07-09T16:08:11.687335+00:00",
  "stories": [
+  {
+   "id": "e578f7cfb91f",
+   "slug": "kalshi-loses-bid-to-override-new-york-state-gambling-laws-in-federal-court",
+   "headline": "Kalshi loses bid to override New York state gambling laws in federal court",
+   "lede": "A federal judge rejected Kalshi's attempt to use its CFTC-regulated status to preempt New York state gambling laws, dealing the prediction-markets platform a significant legal setback.",
+   "body": [
+    "The federal court ruling, reported by both Ars Technica and Spectrum News NY1, denied Kalshi's request to have its federally regulated prediction-market contracts exempt from New York's existing gambling statutes. Kalshi had argued that its status as a CFTC-designated contract market should shield it from state-level gaming regulations that could restrict its operations in New York.",
+    "The case cuts to the heart of a critical legal question for the prediction-markets industry: whether federal oversight from the CFTC is sufficient to preempt state gambling laws. Kalshi has been aggressively expanding its product offerings, including high-profile election and sports event contracts, which several states have flagged as potentially running afoul of local gaming statutes.",
+    "The ruling creates a fragmented compliance landscape for Kalshi and competitors like Polymarket and ForecastEx, who may face similar state-by-state legal challenges. New York is a major market, and an inability to operate freely there carries both direct revenue consequences and a signal to other states that federal authorization alone may not be a sufficient shield."
+   ],
+   "why": "This ruling is a direct threat to the preemption theory that prediction-market platforms have relied on to scale nationally, meaning traders should price in regulatory risk across Kalshi's full product suite. State-by-state fragmentation could suppress liquidity and contract availability, indirectly affecting market depth and pricing efficiency. Regulation watchers should monitor whether this emboldens other states to challenge CFTC-licensed operators, potentially triggering a broader legislative or appellate battle.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "New York State",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3FqRThaNndoTkRaYVVZNWYzOUZpSEtwS2w4Nl9xbF8td2hOenFwODRJanZQdlJWWVpxLWtCRFZPT1loUk1kOUNEcGQtU1Z2MVZfSEljbmJBUkxORlNEOTl3OS1wa194SEFhSVNvMHVhd3BLSnVUX0V0WkNhZF9TX3VrTG5PdTUxWVdKUVY0VV96bjBHTVBCcEQwSUhSWDRyWXFTV1kyeXhyaUpGbEdfTEpfVHlWZFliaXNF?oc=5"
+   },
+   "source_title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+   "also": [
+    {
+     "name": "Spectrum News NY1",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHhMbEw0aFNfV0JnUkN2dWN2R1lMeThGcVVMR1BmNTBBdDdtNnM0R0k5TXZDS01Gb0hNTWswbnlTM1ludTNEcDd6YkFhd2I3TnZRQ0tiWDVpWElVVmR4ZzZXUzgzUTRicnVEaWtuZ2tKY1lzakNubVBOb1VhT2hTUzlTUEVVQmF0OGo1WWgwbVpQUWFGVFZuejhlUXdKMVN1a0M0dVA5ZFo1UExjYjBfUEhndHREUFZ1TThxZllPcVc?oc=5"
+    }
+   ],
+   "published": "2026-07-08T19:14:02+00:00",
+   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "56aa342e220a",
+   "slug": "google-bans-prediction-market-transactions-draws-industry-backlash",
+   "headline": "Google Bans Prediction Market Transactions, Draws Industry Backlash",
+   "lede": "Google has banned transactions related to prediction markets on its platform, a move that has prompted significant pushback from the prediction market industry.",
+   "body": [
+    "Google's decision to prohibit prediction market transactions marks a significant policy shift that directly affects platforms like Polymarket and Kalshi, which rely on payment rails and app distribution channels controlled by major tech companies. The ban, reported by Yahoo Finance, has triggered immediate criticism from operators and users who argue the restriction is overly broad and commercially damaging.",
+    "The backlash reflects growing tension between prediction market platforms \u2014 which have gained mainstream legitimacy following the 2024 U.S. election cycle \u2014 and gatekeepers like Google, whose payment and advertising policies can effectively determine market reach. Kalshi, for instance, operates as a CFTC-regulated designated contract market, lending the sector a degree of federal legitimacy that critics say Google's policy ignores.",
+    "The timing is notable: prediction markets are at a high-water mark of public and regulatory visibility, with the CFTC actively engaged on event-contract rulemaking. A blanket ban by a platform of Google's scale could chill user acquisition and payment processing for even fully regulated operators, raising questions about whether tech-platform policies are becoming a de facto second layer of financial regulation."
+   ],
+   "why": "Google's ban creates an asymmetric risk for prediction market operators: regulated players like Kalshi bear the same distribution penalty as unregulated ones, undermining the value of CFTC compliance as a competitive moat. Traders should watch whether this accelerates platform migration toward crypto-native venues like Polymarket that are less dependent on Google's payment infrastructure. Regulation watchers should note that if major tech firms act as shadow regulators, formal CFTC frameworks may matter less than Silicon Valley policy decisions.",
+   "category": "Legal",
+   "entities": [
+    "Google",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmpFRHQxamJMbk1Vcjdvb1lSSjRqc2paMUpsMHc1aEVsQjRtZDJWLVg2OWhYYnBGSHVnT1ZLa2ZzcjZsQV9BODAzTFFXS2liOV9iV3lZWTVGSWFQNTN0Y1F5dEdSbGZsZ3kzYU9ZTFBNbm5jZndkdnRtSDNqVWo0MFFEX01tel8taGJiZFhRd3RSUS0xT1VGd0VKcFdxX1RBRTd0T1BSWEtOZWs?oc=5"
+   },
+   "source_title": "Google Bans Prediction Market Transactions Amid Backlash",
+   "also": [],
+   "published": "2026-07-08T18:12:00+00:00",
+   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "678a25e99d5b",
+   "slug": "love-island-betting-markets-expand-as-reality-tv-contracts-go-mainstream",
+   "headline": "Love Island Betting Markets Expand as Reality TV Contracts Go Mainstream",
+   "lede": "Prediction markets have added Love Island as a tradeable event, marking a significant push by platforms to attract retail bettors through popular reality-TV programming in 2025.",
+   "body": [
+    "According to Barron's, Love Island has entered prediction markets as a new tradeable event contract, broadening the scope of what retail-focused platforms are willing to list beyond political and financial outcomes. The move signals that operators see reality television as a viable category for sustained user engagement and volume.",
+    "The expansion into entertainment contracts mirrors trends seen on platforms like Polymarket and Kalshi, which have steadily widened their event menus after regulatory headwinds eased in the United States. Reality TV programming, with its episodic elimination structure and passionate fan bases, offers frequent resolution events that keep traders active across a season.",
+    "Barron's framing of Love Island as a 'bombshell' entering prediction markets \u2014 borrowing the show's own vernacular for surprise contestants \u2014 suggests mainstream financial media is now treating entertainment event contracts as a legitimate and newsworthy asset class, not merely a novelty."
+   ],
+   "why": "Entertainment contracts could meaningfully diversify platform revenue and user acquisition beyond the election-cycle spikes that have historically defined prediction-market growth. Traders should watch whether Love Island volumes attract regulatory scrutiny, since CFTC jurisdiction over non-financial event contracts remains unsettled. If reality-TV contracts prove durable, operators without broad entertainment listings may face competitive disadvantage in the retail segment.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "Love Island"
+   ],
+   "primary_source": {
+    "name": "Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0tkcl80Z3JLN2FXLTlOVUlkZlhKREgyT1V6MENqdGZMSU52RU9BYzl4NHRKWEhjd2REN2dpRm82c0ZFUUhEOXd4eHo5U0Mtc1pudTFQMWFMN2FlSVhvS3B6TzdtN3otSFhOQlA0ekxNX2V6VW81ODM5SFVleEh5c2k1WU9rdw?oc=5"
+   },
+   "source_title": "A New Bombshell Has Entered Prediction Markets: Love Island",
+   "also": [],
+   "published": "2026-07-08T16:48:00+00:00",
+   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "9c624e950b31",
+   "slug": "polymarket-launches-u-s-influencer-blitz-mlb-deals-to-rebuild-trust-post-ban",
+   "headline": "Polymarket launches U.S. influencer blitz, MLB deals to rebuild trust post-ban",
+   "lede": "Polymarket announced a broad U.S. marketing campaign on July 8, 2026, including TikTok influencer deals, Major League Baseball partnerships, and media agreements with CNN and CNBC as it works to re-establish credibility following a four-year domestic ban.",
+   "body": [
+    "Dan Lee, Polymarket's head of U.S. operations, confirmed to the Associated Press that the platform is actively courting policymakers, regulators, and new users through a coordinated legitimacy push. The campaign spans social media influencer activations on TikTok, signed agreements with major sports franchises and MLB, and broadcast media partnerships with CNN and CNBC. Polymarket's X account now stands at 1.7 million followers, dwarfing rival Kalshi's 431,400.",
+    "The re-entry effort began in December 2025 when Polymarket launched a CFTC-supervised mobile app allowing U.S. residents to wager real money on sports outcomes. Lee acknowledged to AP that the company's dominant international trading volume has obscured its domestic progress, noting the U.S. push is aimed at broadening mainstream acceptance rather than simply recapturing existing crypto-native users.",
+    "The marketing offensive arrives under a cloud: the Wall Street Journal reported last month that Polymarket had paid influencers to promote simulated trades and fabricated winnings without adequate disclosure. Polymarket told the WSJ it remains 'committed to maintaining accurate, fair, and transparent markets.' That controversy sets a difficult backdrop for a campaign whose central message is trustworthiness, according to CoinDesk."
+   ],
+   "why": "Prediction-market traders should watch whether Polymarket's MLB and media deals drive meaningful U.S. liquidity into its event contracts, which could compress spreads and shift volume away from Kalshi. The undisclosed-influencer controversy creates regulatory exposure at exactly the moment Polymarket needs CFTC goodwill to expand its supervised product lineup. For regulation watchers, how the CFTC responds to the disclosure allegations will signal how much latitude it is willing to grant newly re-entering platforms.",
+   "category": "Global",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "Major League Baseball"
+   ],
+   "primary_source": {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report"
+   },
+   "source_title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+   "also": [],
+   "published": "2026-07-08T15:58:40+00:00",
+   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "d8b5632bcd3f",
+   "slug": "sinner-heavy-kalshi-favorite-over-djokovic-at-wimbledon",
+   "headline": "Sinner Heavy Kalshi Favorite Over Djokovic at Wimbledon",
+   "lede": "Jannik Sinner is listed as a heavy favorite against Novak Djokovic on Kalshi's Wimbledon prediction market, according to Sports Illustrated's coverage of the event contract.",
+   "body": [
+    "Kalshi's Wimbledon event contracts have priced Jannik Sinner as a decisive favorite over Novak Djokovic, with Sports Illustrated flagging the matchup as a marquee liquidity event on the regulated U.S. prediction market platform. The specific contract odds were highlighted as representing a significant implied probability gap between the two players heading into the match.",
+    "Kalshi, which won the legal right to list sports event contracts after its 2023 CFTC court victory, has expanded its sports market offerings to include major tennis tournaments including Wimbledon. The Sinner-Djokovic matchup represents one of the higher-profile individual match contracts the platform has listed, drawing mainstream sports media attention from outlets like Sports Illustrated.",
+    "The coverage signals growing crossover between traditional sports media and regulated prediction-market platforms. As Kalshi continues to build sports contract volume, individual match markets featuring top-ranked players like world No. 1 Sinner against an all-time great in Djokovic serve as flagship products for demonstrating retail trader engagement on a CFTC-regulated venue."
+   ],
+   "why": "Mainstream sports media covering Kalshi match contracts \u2014 rather than just sportsbooks \u2014 marks a legitimacy milestone for regulated event-contract platforms that traders should watch as a volume catalyst. If Sinner-Djokovic draws significant open interest, it validates Kalshi's tennis vertical and could accelerate similar contract listings. Prediction-market operators competing for sports liquidity will monitor whether CFTC-regulated venues can capture mindshare from offshore sportsbooks through this kind of media exposure.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Jannik Sinner",
+    "Novak Djokovic",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamZFakJaUmdvbm9nS3FWMVkzSXRndGVvVkJjbUpwbU5FNlBpN1QzMjZIWTMwV2twX2g4RmdHVV91bVlwaG9pZFNxUjVRZ0NsYkdNQjUwbUl3OUlXcUtrY3Z6OV96TnZvR0o2TEpVU0dNeG9LQ0VxTXRxT1dfWGVBTHlkemJvSEk2UE5ucDhVdWx5QzZYVFhRTlRMWk1JVXVKR2xrVHAxVm02MXN2Q0hySnZHS2Eta3pCelEwU0VPb2ZXdmdOVllHVzNUclpnell4d184?oc=5"
+   },
+   "source_title": "Jannik Sinner Monster Favorite vs Novak Djokovic on Kalshi Wimbeldon Prediction Market",
+   "also": [],
+   "published": "2026-07-08T15:29:36+00:00",
+   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
   {
    "id": "f76693c8724f",
    "slug": "kalshi-traders-see-hormuz-traffic-disruption-lasting-through-2027",
@@ -166,11 +306,15 @@
     {
      "name": "grafa.com",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0xsM21hZTB6VE1KOGh6TU4xVTd5ZTRMbVZraWphLXU5ZHlja0E1aDVSNGs3cXo4OFUxTkZONVE4MTN3OFhCSUx2ejkyc0NRUmoyM1NyTWhOQmtocS1ESjVwem4zUExHdk9pcWFoVVA0ZEY1alB4Zm03NDREbGViTmVwd3hya00?oc=5"
+    },
+    {
+     "name": "Lower Bucks Times",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pWEhvaFlIT3AzOWtwYTMzRlZxbWJqakZwNTU5dEpLRVZoNHJIU0R2eGx6N2xtWkNQdEhvVTlTc1c1Tm5lQVBfdU1PUFI3OHY2Q0t5RE04UzdxYzhLVFRiLWxvc1hEbzJ6bF84QTFRbWZpb0stZFFsWXZQOUJqdw?oc=5"
     }
    ],
    "published": "2026-07-08T09:22:23+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-09T04:08:19.031106+00:00"
+   "updated": "2026-07-09T16:08:11.687335+00:00"
   },
   {
    "id": "9d7489a4cbaa",
@@ -875,11 +1019,31 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG05NEZUZUN6ellxNXU1cUpxaklXQ3JSRVZUcXY4dXZ3VERDalFzUVFmMEVxdVA4bng4QW9NYUl5VVJWSVp6dXVUc1RubDFmb1hCdmlWN3NJQThxVGlLUDJGczdmenBvX3FSQnZhcHpMTmh5Q1VmMTA1elpCSGszRlB0aVo2UEdBS2ZSeUhjb21hTS0tR05sc3AydGtxSXNv?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDI0RDFIc2lkbE1MbEtNRHM1NldjUGlxZUVFVE5JcEMyazZmOVBBajd6VFpYN3FZRV9NZmNyNlAwLVlSZmlNN2ZqeTZWTDQxNkFZVlhGeHRmZXpnMGlSZ1VNSW5TWWhIazFtd1FwcDl6VnJ2LUNMU2c0emthN1BSZlAwc3JGbWY0My1QRFU1QkFpdktTUUpV?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFNvb0x5U2t1SVlMdjA1ek9PajJNeWdFMGd2VkMyR1pURWczdDl1eXVTdVdaNm9YV05FeWpRRWdXcGQ0OERiTlI0X2dPcGUxdVpXcW9rNnFHa3dxdWJ4R0dZN3FNNzVjTmI2a1pMLTZVN1A4UEZ2cGxwZHE3TVQyRmJrSTBENnNybVpmUXEyZUNqa3Y2akt6c2NFLTd3d2RqaTROR0NiZUZtVmM?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmFPSmgwcFh4TWEyeWhaNzNsaGhHVlAtNENjUDBoNC1LQ3JaZ282aGo3X1V2cXdKU1VXQVRaQ2xkUkFPeXhnYk1seW11VWp1YlBtNGZhc3FxMHNvNWlndEt3WTZMUnAwX0dCVHVnTXVoTnZkd2d5UnVxQWU2Ymg2SHhWS0gxZDNGR0VSU09BZzlhLTYtOXVMMW9zV2Ixa3hWUWhiUjZCOGhfNE9KMGs3NA?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2t4dS1TQWstcjA1YXpDX0c5dFZ4X2xPOHZDNFRpYzUxTDJjeDNyeXR0Rm9mNzFVSW9xSUplWWozeTN0SkNPZE5kemZ0VEZ1T0ZCN2wzakdja0VZb215cmR6QzM3WjFVWlQ0ZUFqZzlvLXdnZzRoR3luMVVlVjdGcVVJYUdJMzU2S1IyUjBvYkJDNWhNSUFfMzFDOEh1TlRuU1E?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rWTBRVDBVRXZNNDVfYkNuTUxwaWhKNEppX1YwM191MFRlUFNtSGhoT3c3R1RQQ05NSFFnRFB5X05vUTBIODF1QjVMNnRxWk1hcjVEeWhIRlMwNWVpTWtFY0VMbEc3LUp2ZVBuWA?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-09T04:08:19.031106+00:00"
+   "updated": "2026-07-09T16:08:11.687335+00:00"
   },
   {
    "id": "3b83809e121a",
