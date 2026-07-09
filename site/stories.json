@@ -1,6 +1,96 @@
 {
- "generated": "2026-07-09T16:08:11.687335+00:00",
+ "generated": "2026-07-09T18:57:25.549903+00:00",
  "stories": [
+  {
+   "id": "8be677bc66e4",
+   "slug": "polymarket-launches-major-u-s-comeback-campaign-after-four-year-ban",
+   "headline": "Polymarket launches major U.S. comeback campaign after four-year ban",
+   "lede": "Polymarket has launched an aggressive re-entry campaign targeting U.S. users in 2025, reversing the four-year exclusion that followed its 2022 CFTC settlement.",
+   "body": [
+    "Polymarket, the world's largest prediction-market platform by volume, is mounting a deliberate push to recapture American users after being barred from the U.S. market following a $1.4 million CFTC settlement in January 2022, according to CoinDesk. The campaign marks the platform's most significant strategic move since that enforcement action forced it to block domestic participants.",
+    "The comeback effort comes at a moment of shifting regulatory winds in Washington, where the CFTC under the current administration has signaled a more permissive posture toward event contracts and prediction markets broadly. Rival domestic platforms such as Kalshi and ForecastEx have spent those four years building legal U.S. operations, giving Polymarket an established competitive field to re-enter.",
+    "Polymarket recorded billions of dollars in trading volume during the 2024 U.S. election cycle, driven largely by non-U.S. participants \u2014 underscoring the market appetite that a domestic re-launch could unlock. Whether the platform pursues a formal CFTC designation or another compliance path will be a key variable shaping the campaign's success, per CoinDesk's reporting."
+   ],
+   "why": "A licensed Polymarket return to the U.S. would dramatically expand liquidity on political and macro event contracts, compressing spreads and potentially pressuring Kalshi's first-mover pricing advantage. Traders should watch for any CFTC designated contract market (DCM) application as a hard regulatory catalyst. If Polymarket operates without full licensing, it risks a second enforcement action that could chill the entire U.S. prediction-market sector.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjVtWHNreTI0bXFSVkVtUWxpYndZVFJmRTF3UW5xYmNBVWswNVdPOFlVNjJDcE9lcEd1YUlabDZtdjZ3NkRoaFBfeVBJdDBVNFRheWItV0dhcFlaNHFNaHZFcWxsNVdsYnduUUxZVlRUd1lRMUFadUE5ZnlCRXBZYWMtMHVNSGRzNW9HSGtISWF1TGFPakN1eFBIMDY3Mk96cEx6ZkYxQ2Jfd05UOFN4b214d3ZyVldhcjlONGNUNmxUZw?oc=5"
+   },
+   "source_title": "After a four-year U.S. ban, Polymarket mounts a major comeback campaign",
+   "also": [],
+   "published": "2026-07-08T22:02:13+00:00",
+   "first_seen": "2026-07-09T18:57:25.549903+00:00"
+  },
+  {
+   "id": "15e8957a44ea",
+   "slug": "kalshi-loses-bid-to-escape-new-york-sports-licensing-rules",
+   "headline": "Kalshi Loses Bid to Escape New York Sports Licensing Rules",
+   "lede": "A New York court ruled against Kalshi, finding the prediction-markets platform cannot avoid the state's sports licensing requirements, in a decision that could reshape how event-contract operators navigate state oversight.",
+   "body": [
+    "The ruling, reported by Newsday, determined that Kalshi's federally regulated status as a designated contract market does not shield it from New York's sports wagering licensing framework. Kalshi had argued its CFTC oversight preempted state-level requirements, a position the court rejected.",
+    "The decision marks a significant setback for Kalshi, which has been aggressively expanding its sports-event contracts since a federal appeals court cleared those markets in late 2024. The company had positioned its federal regulatory umbrella as sufficient authority to operate nationally without individual state licensing hurdles.",
+    "The ruling adds New York \u2014 one of the largest sports-betting markets in the country, generating over $2 billion in annual handle \u2014 to the list of jurisdictions where Kalshi must contend with state regulators. How the company responds, whether through appeal or licensing compliance, will set a precedent for rivals like Polymarket and ForecastEx eyeing similar expansions."
+   ],
+   "why": "This decision directly tests the core legal theory underpinning Kalshi's growth strategy: that CFTC designation grants nationwide preemption over state gambling laws. Prediction-market traders should watch whether other high-population states move quickly to assert similar jurisdiction, which could fragment liquidity across platforms. Regulation watchers should note that courts are beginning to draw a cleaner line between federal event-contract authority and state consumer-protection frameworks.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Newsday",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11NkI0b0Jaemxac0oxZkVJU213Nlk2UzVUaDJhLVNxUlJoMjh1bm9GTU9mTHB6OVJwQklwdTFyNU9Ba0FYc3ZHQmFFTDlnMVBVUmtRT0l2LTNOeXBueVNzRF9sZzhHdWxzOHB6OFdEVVpZTzA?oc=5"
+   },
+   "source_title": "Court: Kalshi can't evade NY sports licensing law",
+   "also": [],
+   "published": "2026-07-08T21:45:56+00:00",
+   "first_seen": "2026-07-09T18:57:25.549903+00:00"
+  },
+  {
+   "id": "1a8a23a81719",
+   "slug": "burry-bets-on-sportsbooks-predicts-regulation-will-curb-prediction-markets",
+   "headline": "Burry bets on sportsbooks, predicts regulation will curb prediction markets",
+   "lede": "Legendary investor Michael Burry disclosed long positions in DraftKings and Flutter in Q1 2025, publicly predicting that incoming regulation will constrain prediction-market platforms like Kalshi and Polymarket.",
+   "body": [
+    "Michael Burry's Scion Asset Management revealed stakes in sportsbook giants DraftKings and Flutter Entertainment, according to CNBC, with Burry framing the trade as a direct contrast to his bearish outlook on prediction markets. He believes regulatory pressure will limit the growth of event-contract platforms, making licensed sportsbooks the safer long-term bet for capturing retail gambling demand.",
+    "Burry's thesis centers on the CFTC's ongoing scrutiny of platforms such as Kalshi and Polymarket, which have expanded aggressively into sports and political event contracts. If regulators tighten the definition of permissible event contracts or impose stricter licensing requirements, prediction-market operators could face significant volume caps or outright restrictions on certain contract types.",
+    "The prediction-market industry has been riding a wave of post-2024-election momentum, with Polymarket reporting record volumes and Kalshi winning key legal battles against the CFTC. Burry's contrarian positioning signals that at least one prominent Wall Street figure believes the regulatory pendulum is about to swing back against the sector."
+   ],
+   "why": "If Burry's regulatory thesis proves correct, traders holding positions on Kalshi or Polymarket growth markets face a meaningful downside catalyst that may not yet be priced in. A CFTC crackdown on sports event contracts would directly redirect liquidity toward licensed sportsbooks, validating Burry's DraftKings and Flutter longs as a hedge signal worth tracking. Regulation watchers should treat this as a high-profile sentiment indicator that institutional money is starting to fade the prediction-market expansion narrative.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "DraftKings",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjJZT2Y2cW9YQUdqSVVjM195VXktSExYcVZIWVl5WE95Qmwwc1Z4YWhaTHp4R0l5Q2ZnYTgwcS1uZzFuRmZSWjA3MzlqaE4yMFJ4QVFpTU5WdVdPUXk1ZTBTSG1GVlFkMFhGdjZuUUVSMWdzbmJfVGZYUWFkZU5wZUYwdGFabTBRMmxYdGxrV2lXRE3SAZgBQVVfeXFMUDlLOERXMXNYelpxcE9rQU9RWFZ4VVdRbmJtNWdwSDkybjFpQUpVai03VW1fUURKcnp0RlFHUDlnTDFZcWtYTnE5eHNZcXlMUVR2cjNpcGp3T0ZqazlrMmY2bG5tN19CZnN2T0hob0pKWXM4MlF2UEJwcDdvZFVXaUEwdmVLUzFQOGJVNzVERGZJaGdvdmdFcng?oc=5"
+   },
+   "source_title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+   "also": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1VBVXRSNGF6dWtfMUVpY1JnUEFGcEZMdS1BaXZ0b29QNGhvVG5jejMxUGczMlExZjJVQ0QwYkF1UlluZm9EdlVxUGZiQjl3SzU0dXJHTW93dE8wSkRhMUE1LUxvMGd1amVaR3luLUNjR1VidG1GMHFsRV9MZGxZbmtzeE5XdENUbDE4UVNiUm9PUXhPRkpUazVIZG10ZkpwMFE?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUZtUS1jbmMtcFVTNVV1dm9xZUN3SnNTS1NZX3lOck9YeDYzOXdUZkt3R1g4ZV9lNHdxUkYtNUF5Nlk0MUNQb1h1ZklOczd5cGxNRmRsektLcldSNThYUGRmZE1zOE9QLV9Qd2Rhby1CcUJTTkxIU3N1Z2F5WEhnVThkWnR4Z1p0Q0I3dl80U1pYenNoZ3NxZVQ2SzVYRDRaTVRGSnRwMmRKczFYSW9xZ3JQR2oyejZzVmtoRFVwa0RVZXVpejkwVjJR?oc=5"
+    }
+   ],
+   "published": "2026-07-08T19:33:37+00:00",
+   "first_seen": "2026-07-09T18:57:25.549903+00:00"
+  },
   {
    "id": "e578f7cfb91f",
    "slug": "kalshi-loses-bid-to-override-new-york-state-gambling-laws-in-federal-court",
@@ -28,10 +118,15 @@
     {
      "name": "Spectrum News NY1",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHhMbEw0aFNfV0JnUkN2dWN2R1lMeThGcVVMR1BmNTBBdDdtNnM0R0k5TXZDS01Gb0hNTWswbnlTM1ludTNEcDd6YkFhd2I3TnZRQ0tiWDVpWElVVmR4ZzZXUzgzUTRicnVEaWtuZ2tKY1lzakNubVBOb1VhT2hTUzlTUEVVQmF0OGo1WWgwbVpQUWFGVFZuejhlUXdKMVN1a0M0dVA5ZFo1UExjYjBfUEhndHREUFZ1TThxZllPcVc?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONG9jb3k2Q1NTRjdCWktuMmF6dW9KRDdvOHNreFNwNzVfc1JGSEJ4WlFkUVdBcjhYR0hldXRUN2RCbVJPYVNvcWhHVlpuTnN5WG5xMFZWRm5MUzdwb0ZLUHNkdVo5T3Jab2p5LVhkREhHbzFnRWFxYjdBajgwUUVWeXhSSmJYM3pLMlNpT1NIVzZvYnlRRDhjZXdNMHZabGZlaXJLNlBmdHNINDFiVVJBanA5bFVjYWxy?oc=5"
     }
    ],
    "published": "2026-07-08T19:14:02+00:00",
-   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+   "first_seen": "2026-07-09T16:08:11.687335+00:00",
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "56aa342e220a",
@@ -59,6 +154,32 @@
    "also": [],
    "published": "2026-07-08T18:12:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "5a84abf98c76",
+   "slug": "polymarket-opens-u-s-marketing-push-after-regulatory-thaw",
+   "headline": "Polymarket Opens U.S. Marketing Push After Regulatory Thaw",
+   "lede": "Polymarket has launched its first formal U.S.-facing marketing campaign, marking a significant strategic shift toward domestic customer acquisition following years of blocking American users.",
+   "body": [
+    "Polymarket, the leading crypto-based prediction market platform, has initiated a U.S. marketing campaign, according to Yahoo Finance, signaling an aggressive pivot toward the American market it had previously been barred from serving. The move comes after Polymarket settled with the CFTC in January 2022 for $1.4 million over operating an unregistered facility, which at the time forced it to geo-block U.S. users.",
+    "The campaign represents a notable reversal in posture for the platform, which processed billions of dollars in trading volume during the 2024 U.S. presidential election cycle \u2014 almost entirely from non-U.S. participants. Polymarket's 2024 election markets drew mainstream media attention and significant liquidity, reportedly peaking at tens of millions of dollars in open interest on single contracts.",
+    "The timing aligns with a broader regulatory thaw under the current administration, which has signaled a more permissive stance toward crypto and event-contract platforms. Rival Kalshi, which secured federal authorization to operate legally in the U.S., has already begun marketing prediction markets to American retail audiences, raising competitive pressure on Polymarket to establish domestic brand recognition."
+   ],
+   "why": "A U.S.-accessible Polymarket would dramatically expand the addressable liquidity pool for event contracts, potentially moving market prices closer to true consensus probabilities. Prediction-market traders should watch whether this campaign implies pending regulatory approval or a legal workaround, since either path sets a precedent for platform compliance models. Regulators and competitors alike will scrutinize how Polymarket navigates CFTC jurisdiction, as the outcome could redraw the competitive map between offshore and domestically licensed operators.",
+   "category": "Global",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm1PeFVZS1lRbDhOWUg4LTFNR2J6b1dLYW1nMXZYeHUtckp3T0NlRzh2ZVFFTjNtdW9KYmRjd2hqRXhnclBmTU1takxMZ0xEZGZlOVRxM1JQOFhBUWdBYkZycFpRQlg1ZWFpbjhmbGlSUlNnVm5ucElUVXV3c01hS2ZobHFtQzJxU3JfXzg2cmFzS3k3dGVsaENBSm9RYkJFOFlqQXRORmE?oc=5"
+   },
+   "source_title": "Polymarket Launches U.S. Marketing Campaign",
+   "also": [],
+   "published": "2026-07-08T18:04:00+00:00",
+   "first_seen": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "678a25e99d5b",
@@ -218,9 +339,15 @@
     "url": "https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
    },
    "source_title": "Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement",
-   "also": [],
+   "also": [
+    {
+     "name": "rg.org",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVBIbmNrR3d4WWJaUmF4UzZTRXRpT3hrQ1lXaWlSVXp0RnRkODdCU1I1LWNzQ0NWWDJtOTZibnNVVEVRaDVBZ3gxbDR5ZEJXbkhEVkZqVW5VTHVXS2JhZmprTnM4em9sWlpRUGFXbzRpTlhabHNGeTU0SzQyVGJudlY5UXhHMkZ6ZHd3RE1La1JNODQwLS1jbQ?oc=5"
+    }
+   ],
    "published": "2026-07-08T10:37:52+00:00",
-   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+   "first_seen": "2026-07-08T23:20:15.983884+00:00",
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "d38efbc46d73",
@@ -635,9 +762,19 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGx2bTFmeXQ2YlZ4ZXFFaC1FeENueHp6N0ppQzBpNFNmeDhGRUpUc0h1YnFGa2ZYYVJXV2g1bGg5QWc3Yl84Z0JMVTF5ZTY3OHdOZGV0Y2JLTnpuUWRmNEVkS0FPNkxSQlMwc1JwMndJQUJ5TXJuVy1LR0VQV2ZWV0Yyc216THQtRl9uRDJxb2xMN21YRml0WmtjcV9HZVU?oc=5"
    },
    "source_title": "Ban on City Employees From Using Private Info in Prediction Markets Advances",
-   "also": [],
+   "also": [
+    {
+     "name": "12News",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQS1NMTmh6ZlZjTWZFYWdKRVVCNGxYNkhvWXUtRk5kWThHRW93Sk5rRTZVcUcwVGNtOURVb1Z6UVhIRHhXOFBWdExVWEU5Y0JueWNsY3FncXZjOV9vYmtMa0k0RDEwYVUzR3lFZXFNNTZJQk91bHVLVnlLUkRuakVNSjNDeDZORzQ0d0VTTTFhZHdzY2paenV5bDBUSGpwY09rTm5FSjY0LU5pVm1fYVZmWk1qc0QzUkh3Q3VfNzY4bE1XTXdZOUV4S3NMX216dFlZVUxkdERvSWtVbEtManRtaTNoalFpM0RHU0RfMVdTQ19yTS0yWHhjMWhiZFZPeENVMWRyY0pHek1VLTI5VFVtMw?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRQ?oc=5"
+    }
+   ],
    "published": "2026-07-07T17:53:52+00:00",
-   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+   "first_seen": "2026-07-08T17:48:48.993577+00:00",
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "6b51daf83d2e",
@@ -1039,11 +1176,19 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rWTBRVDBVRXZNNDVfYkNuTUxwaWhKNEppX1YwM191MFRlUFNtSGhoT3c3R1RQQ05NSFFnRFB5X05vUTBIODF1QjVMNnRxWk1hcjVEeWhIRlMwNWVpTWtFY0VMbEc3LUp2ZVBuWA?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1h0dFJuRU4xbzNoUnN4aTAxLU9tZzZtODlnZkhheHJkVHlDaTFMM19fX0tTWG9pOHUwZ25MWlhKTjUzVlZUX2gwenFOT0dLaS1WakJkdkEyQkZFMXRQRndGcExMSjgtM2JpQTVhaTgyaHJIRG1JZ28xdUV3VDlEYXVEbHgwYUxIQlJvOGdhcjRIQlNtT1JLNHhDUQ?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckQ5TXJxUWM4ZFJvUV9ReUhnU1YyUWlCQmJ4WFR2SF9naUNvdzM3VnJnWFFOWFdpMlpGcHd2VFZjNURjaXh4NzRzQ0ZFdmQ2WlV3WVNtd2JzeU10bmlnRHpGaHFlZDRVZ2RUSmQ5ekhOXzZ2QTFWV1FtNFk2SUVpeVBzQ1MzYzNYdTljWEUtNGJ6cWV4SUVZb1AxTEx1LUpkMTFTN21UNVFHeGNiNVRPVVFSVTZUUQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-09T16:08:11.687335+00:00"
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -1588,11 +1733,15 @@
     {
      "name": "Law.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUVlbFlWbk8wd2E5UG9xU1BoUGtVZmxtMkNtXzBuTTJNdVdlZWNvMllHTkVkN2lfWmdwZ2tGZTZGb21tTThLVlFfYzV6ZXNIT0tJMThfQm40amp6SVYxSGdpSTJ1a0F2LXdZQVE4R3B6Qzh2c28wS2xmWmlPbGxQWlhLNEhGSmotaUsxSjdB?oc=5"
+    },
+    {
+     "name": "Semafor",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGJ3TFpyQzJFaktVcktaVjVmQ01rSEdFN2ZFTGN1YmpiUVp2UUZVS083cHV5SXZ5Z0xPY0RWS0NndlUwQjIzcFhTaEhmUGZjbmNrMGI3bjVuYW5ydWFZemg5NXdQcklhMUxkUENLSmdfRFpoZGxzTy1objRJN0otb1Q0NmdGVFU?oc=5"
     }
    ],
    "published": "2026-07-03T20:54:19+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-07-08T15:30:33.650678+00:00"
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "b7f72becd4ef",
@@ -2717,11 +2866,15 @@
     {
      "name": "egr.global",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTdJaTQxV216SXZSdmlTeEpkbkRjOHNWVFFLRUo1NzVpQkg0NVF5UHFldmRnbjVsdjFYRmdoNG4yTGxZcm5NMnlXd0M5bUhhOGJjdV9ZQkJJOGZPLXJxQXYzcFFjUzdTSzdoS2d2VHZzX1Zta19DRGZmbnVUVE1xcDJ5bkFneWRDY1BYN1k4OS1GdVV0SVlYNDJkNFM3YktTcmVCT0FnbEUzS3I3dk51bmJDdFJrNjE2QmlRLUxITk1DZw?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3V1NUFsX3g1ZEw2aUVGNEpHQ3dvLWpOalY5dXowb3l5YlBIVzRISUR3TmZQOVZOTTltWnBselctNWdJaWt1UktJNHF1SzAxZzdheVQyNVp5T3l3TlNOZkNHOTRNOGl5M1V1c01rQ19ueWxoUnR5blQtZU9WRlU5dVlDWUI3TUJIT1pVZkNnS2Y1TTAtZENZQ3d4WWtpYmZXeFE?oc=5"
     }
    ],
    "published": "2026-04-21T14:51:50+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00",
-   "updated": "2026-07-08T15:30:33.650678+00:00"
+   "updated": "2026-07-09T18:57:25.549903+00:00"
   },
   {
    "id": "6f6cd2f67d1d",
