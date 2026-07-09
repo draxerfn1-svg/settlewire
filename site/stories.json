@@ -1,6 +1,59 @@
 {
- "generated": "2026-07-09T18:57:25.549903+00:00",
+ "generated": "2026-07-09T20:54:36.676188+00:00",
  "stories": [
+  {
+   "id": "5184d5c5282f",
+   "slug": "tribal-sovereignty-vs-cftc-authority-federal-law-clash-over-prediction-markets",
+   "headline": "Tribal Sovereignty vs. CFTC Authority: Federal Law Clash Over Prediction Markets",
+   "lede": "A legal battle pitting tribal gaming statutes against CFTC jurisdiction has emerged as Native American tribes seek to operate prediction markets under federal Indian gaming law, challenging the CFTC's regulatory monopoly over event contracts.",
+   "body": [
+    "According to Bloomberg Law News, Native American tribes are asserting that the Indian Gaming Regulatory Act gives them authority to offer prediction market products independently of CFTC oversight, setting up a direct collision between two distinct bodies of federal law. The dispute centers on whether event contracts \u2014 the core instrument of platforms like Kalshi and Polymarket \u2014 can be classified as gaming products subject to tribal sovereignty rather than derivatives subject to commodity law.",
+    "The CFTC has historically maintained that event contracts fall under its purview via the Commodity Exchange Act, a position reinforced by recent court wins allowing platforms such as Kalshi to list political event contracts. Tribes entering this space would represent an entirely new class of operator, one that could sidestep CFTC designation requirements by invoking a separate federal statutory framework that predates modern prediction market regulation.",
+    "Bloomberg Law News framed the standoff as a 'dueling federal laws' scenario, with no clear statutory hierarchy established to resolve which regime controls when the two overlap. Legal analysts expect the conflict to require either Congressional clarification or a federal court ruling to determine whether tribal compacts with states \u2014 typically approved by the Interior Department \u2014 can serve as a valid alternative licensing pathway for prediction market operations."
+   ],
+   "why": "If tribes successfully establish IGRA as a parallel legal pathway, prediction market operators could face a fragmented regulatory landscape where tribal venues offer the same event contracts without CFTC designation costs \u2014 creating competitive arbitrage that pressures existing licensed platforms. For CFTC-watchers, a court ruling favoring tribal authority would be the most significant jurisdictional setback for the agency since Kalshi's political markets victory. Prediction market traders should monitor whether tribal-operated contracts gain liquidity, as regulatory uncertainty alone could suppress institutional participation in the near term.",
+   "category": "Legal",
+   "entities": [
+    "CFTC",
+    "Kalshi",
+    "Polymarket",
+    "Indian Gaming Regulatory Act"
+   ],
+   "primary_source": {
+    "name": "Bloomberg Law News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUlOMmM1ZG9rMnhLU1VTa2FzRU9GaEZfaDZhZDhVd0xRUnRfd2hLZWtNU2lWSkZqQXktNlc1Y3pPTkJ4eWc3ZVFoQ2dkU0JWM3p1OFBvcHgwSURtMi1uWEJiVTRuVW1pZW5wVUVXdE9wM2tBM1JLNlQ2dC1TNDVtQnNVWmtyZjFLQzdwN3VyZlJxTkcxWlhBUkVadEdfVTM0SHFyTGQ3alIzQQ?oc=5"
+   },
+   "source_title": "Prediction Markets\u2019 Tribal Clash Features Dueling Federal Laws",
+   "also": [],
+   "published": "2026-07-09T09:00:00+00:00",
+   "first_seen": "2026-07-09T20:54:36.676188+00:00"
+  },
+  {
+   "id": "d87e95e51327",
+   "slug": "kalshi-traders-weigh-maine-democratic-field-after-platner-suspends-campaign",
+   "headline": "Kalshi traders weigh Maine Democratic field after Platner suspends campaign",
+   "lede": "Graham Platner ended his Maine Democratic campaign, prompting Kalshi prediction-market traders to immediately reprice odds on who will emerge as the party's next leading contender.",
+   "body": [
+    "Graham Platner suspended his campaign for a Maine Democratic seat, according to Kalshi News, triggering active repricing across event contracts tied to the state's Democratic primary. Kalshi's market-based mechanism means that as soon as Platner's withdrawal was confirmed, traders began redistributing probability mass to remaining candidates in real time.",
+    "Kalshi, the CFTC-regulated prediction market, has increasingly been used to track down-ballot and state-level political races where traditional polling is sparse. The platform's Maine Democratic contracts give bettors a real-time consensus view of the field\u2014something conventional media coverage rarely provides at this level of granularity.",
+    "The specific probability shifts following Platner's exit were not disclosed in the source report, but Kalshi News framed the market reaction as the primary lens through which the race's new dynamics should be understood, underscoring how event-contract platforms are positioning themselves as political intelligence tools."
+   ],
+   "why": "State-level political markets like this one are a proving ground for Kalshi's argument that event contracts provide genuine informational value beyond federal races\u2014a case regulators and lawmakers will scrutinize as rules evolve. For traders, sudden candidate withdrawals are high-signal moments where markets can move sharply before media catches up. If Kalshi's Maine contracts reprice accurately here, it strengthens the platform's credibility pitch for expanding political market offerings.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Graham Platner",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Kalshi News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTliZ1JwZS1nYXEzUlBvYlVQdC15dmdPZVluc2w0S3NJODh1SHpBaWRxYnFYMThHWlFJWmpxb0tzMDV1THRjSDNkQklqS2VkX1dCVXkycEpqaWV3eGFxMG9IZGEwOTBNTVp2UDNKajNYSWNmM21FSWpJaUhZSGZ1TWVNNnhiRTl2YWwzV0hTWC1wVll4cUE?oc=5"
+   },
+   "source_title": "Graham Platner suspends campaign as Kalshi traders predict what's next for Maine Democrats",
+   "also": [],
+   "published": "2026-07-09T02:08:03+00:00",
+   "first_seen": "2026-07-09T20:54:36.676188+00:00"
+  },
   {
    "id": "8be677bc66e4",
    "slug": "polymarket-launches-major-u-s-comeback-campaign-after-four-year-ban",
@@ -562,11 +615,15 @@
     {
      "name": "Bitget",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sb3VWS1JVSjhYaUwyN1dqd3J1R1ZOQnFua3h2bW1mMGhBNXVSVklKcnprNjRkZGdwSUo0c1ZpNkRnaTZGbmVIV19DUzFXNjd0WTNfMG9DczgzYTNLSVlUZXhDQdIBY0FVX3lxTE9sb3VWS1JVSjhYaUwyN1dqd3J1R1ZOQnFua3h2bW1mMGhBNXVSVklKcnprNjRkZGdwSUo0c1ZpNkRnaTZGbmVIV19DUzFXNjd0WTNfMG9DczgzYTNLSVlUZXhDQQ?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CUEdleWx3NVFyaHM3QmxtWWYzU29xdlh5TDdYaUhiTTdWWEE3a0hiVWhqZXBkNGdyNEFSaWpFVlF5bXZ2R1RyWktsSEZCbEVuZVhjZnJtbVNnbXhNbF9JbHlMY18tbWpSWEJ3YVFGc2wtRTg0c2g1VWdGNA?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-07-09T12:19:10.936523+00:00"
+   "updated": "2026-07-09T20:54:36.676188+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -770,11 +827,19 @@
     {
      "name": "AZ Family",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRQ?oc=5"
+    },
+    {
+     "name": "KJZZ",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORF9ZTEZBTkFaelA1amVOTmwwM2RFMFdseEM5Vkt4MWdYbFV0d1ZMbXRMdENBc0VfaFdEM3k1dWh1NGdpZ3FaV1EwZDFaTkdUVUhHUEd2NkVOdXNubTlPdGRRMlRFUndCVlRsOVFJRFY1b19yLVVVY3psMFZyMTJwc3ZGcTFfeHpwaDVORmx4dlQ5bVk5bnp6Z0gtMmlDWUE0N1ZqSGR2UER3MHN4YXNpMWVya3Q4MVlaME9Ba2RYNXR1WHBMWFgwa3ZWYTdWb1E?oc=5"
+    },
+    {
+     "name": "Arizona Mirror",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHVGWTBHSldzZFVrNnFka3BHMmZfSW5UYnAtR21fTThpQktVcG01QzhkQ1JvelpUZnlsMWVEVXVOVVRuVzB6QUdkRHhrXzdKcG1YeE1GSGNHZXZTdmIzVElLUjRCQ28yUFFlR2V4V1BlWm45MTR6WHZ5NXBwcV9kM1I0cmhIWldfUnpsNGl5VU96NkJXN0ZrWWpab2RwMFh3WDdPVGJpemdSbnhxZWVBbHliZEh3N3VQQVBF?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-09T18:57:25.549903+00:00"
+   "updated": "2026-07-09T20:54:36.676188+00:00"
   },
   {
    "id": "6b51daf83d2e",
@@ -1184,11 +1249,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckQ5TXJxUWM4ZFJvUV9ReUhnU1YyUWlCQmJ4WFR2SF9naUNvdzM3VnJnWFFOWFdpMlpGcHd2VFZjNURjaXh4NzRzQ0ZFdmQ2WlV3WVNtd2JzeU10bmlnRHpGaHFlZDRVZ2RUSmQ5ekhOXzZ2QTFWV1FtNFk2SUVpeVBzQ1MzYzNYdTljWEUtNGJ6cWV4SUVZb1AxTEx1LUpkMTFTN21UNVFHeGNiNVRPVVFSVTZUUQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkk0c1puaFRLaVB4N0Z2VnpHVDlBVHBnR2p0LXFDM3FuVGM0MjVxdlBzYVotTVRCaHZoWjgyRGZYb1kxTWJtM1g5QXVxRHJNajgza2VrcFZTUnE4enhhaFdQTkVES1RscEdoSG95eDVRbHJKSDRJMzBJZXZDaWNpZ1I3a20xYThCQ2llbmswbFpLdGxVaDV3QzNKWkxCY2F6Unl6bg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-09T18:57:25.549903+00:00"
+   "updated": "2026-07-09T20:54:36.676188+00:00"
   },
   {
    "id": "3b83809e121a",
