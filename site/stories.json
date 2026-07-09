@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-09T04:08:19.031106+00:00",
+ "generated": "2026-07-09T12:19:10.936523+00:00",
  "stories": [
+  {
+   "id": "f76693c8724f",
+   "slug": "kalshi-traders-see-hormuz-traffic-disruption-lasting-through-2027",
+   "headline": "Kalshi traders see Hormuz traffic disruption lasting through 2027",
+   "lede": "Prediction-market bettors on Kalshi are forecasting that shipping traffic through the Strait of Hormuz will not normalize until at least 2027, following the latest geopolitical setback to regional maritime routes.",
+   "body": [
+    "According to CNBC, Kalshi traders have priced in a prolonged disruption to Strait of Hormuz shipping, with market odds pointing to 2027 as the earliest realistic timeline for a return to normal transit volumes. The contracts reflect collective trader sentiment that recent escalations have materially worsened an already fragile situation in one of the world's most critical energy chokepoints.",
+    "The Strait of Hormuz handles roughly 20% of global oil trade, making any sustained disruption a significant macro event. Kalshi's event contracts allow participants to take positions on real-world outcomes like shipping normalization, translating geopolitical risk into quantifiable probabilities that update in real time as news develops.",
+    "This is a notable use case for regulated event contracts, demonstrating how platforms like Kalshi can surface crowd-sourced intelligence on hard-to-forecast geopolitical timelines. The CNBC coverage signals growing mainstream interest in prediction-market data as a legitimate forecasting tool alongside traditional analyst estimates."
+   ],
+   "why": "For prediction-market traders, prolonged Hormuz disruption creates sustained volume in energy and geopolitical event contracts, generating ongoing liquidity opportunities. Operators like Kalshi benefit from mainstream media citing their markets as authoritative data sources, reinforcing their credibility push with regulators. Regulation watchers should note that high-profile geopolitical contracts are exactly the category the CFTC has scrutinized most closely, meaning elevated attention could cut both ways.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CNBC",
+    "CFTC",
+    "Strait of Hormuz"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXlVWVd1b3lXdGlTUjFERkdZdGpJSlZzWS05dUxSQXB6cXFPSG13SnJmc1podWpLQ2ppbTN4NEtXNnN1VXRfQXduYkM5MWlCd1M1bWZFLUp2OXBCQVNiclprUkVQWERENnVkZGswQ2g0TmpZTXk2N3pET3otdkpFZnBwcEVHVFAwbE9IdGl2WVhGSjIwTzd6VFJQNHhydU9hRGM4NmNXSdIBrAFBVV95cUxOaktWVG5KcGJ4eGc2amRxS1lOanphNjNYdlZpSFRXTWZrbFMxN3l1d2Z3bVFVblZ5X21pejU4eHg0azh3YnNwZjBnRi1BWFRpMHJDSHNBc09qVTRaOWd5MkZnWGI1dlZUQ19CSnRJQWFZMzdBUU1YZ3pvM2kwUmUxQmMxb08tNy14dzNRNGlZSGxLWXVkMUZfb3cyQWtUUG9EeURqTng1eEk1UGhz?oc=5"
+   },
+   "source_title": "Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict",
+   "also": [],
+   "published": "2026-07-08T12:58:06+00:00",
+   "first_seen": "2026-07-09T12:19:10.936523+00:00"
+  },
   {
    "id": "605122ed4cc6",
    "slug": "muni-bond-market-eyes-prediction-markets-as-risk-and-opportunity",
@@ -88,6 +115,31 @@
    "first_seen": "2026-07-09T04:08:19.031106+00:00"
   },
   {
+   "id": "35ed91552b3f",
+   "slug": "polymarket-odds-call-johor-state-election-before-polls-close-saturday",
+   "headline": "Polymarket odds call Johor state election before polls close Saturday",
+   "lede": "Prediction platform Polymarket has effectively declared a winner in Malaysia's Johor state election ahead of Saturday's vote, with contract prices reflecting a decisive anticipated outcome, according to South China Morning Post.",
+   "body": [
+    "South China Morning Post reported that Polymarket's event contracts on the Johor state election have priced in a clear frontrunner before ballots are cast on Saturday, drawing attention to how decentralized prediction markets are increasingly being cited as electoral forecasting tools in Southeast Asian political coverage.",
+    "The Johor election represents one of the more prominent instances of an Asian regional contest attracting meaningful liquidity on Polymarket, a crypto-based prediction platform that has grown in global profile following its high-volume coverage of the 2024 U.S. presidential race. Specific contract prices and dollar volumes were not disclosed in available source material.",
+    "Prediction markets have faced scrutiny over whether early, widely-reported odds can influence voter behavior or media narratives before an election concludes \u2014 a concern regulators in multiple jurisdictions have raised. The Johor case adds a new data point to that ongoing debate, with a major English-language outlet treating Polymarket's pricing as newsworthy electoral intelligence."
+   ],
+   "why": "Media outlets treating Polymarket contract prices as credible pre-election calls signals growing mainstream legitimacy for event-contract platforms \u2014 a dynamic that could attract both new liquidity and new regulatory attention. Traders should watch whether high-profile calls that prove correct accelerate institutional interest in political markets outside the U.S. If Polymarket's implied outcome matches Saturday's result, expect another wave of press validating prediction markets as forecasting infrastructure.",
+   "category": "Global",
+   "entities": [
+    "Polymarket",
+    "South China Morning Post"
+   ],
+   "primary_source": {
+    "name": "South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0Y2Wm05OHdQQkx2ZEpXTE5DYUlRMFNuRFU4NncyMDVaalBLUkVjV0F3emx6cTZMd2dEUUpQZEI3VTgzYW1hOXQ3cFYtVW1FUG1YMlhfOHJmbDZKQmFvWVRJbm8wMGVLQWpMUVZkTnJBNV84MXUySDBKX0xUX0ItTEc1X0RCdGdnazlSdExjUjRaeEpVUENOalhoNlQ3eExLTVFzamdpZGxmZFBfblFZ0gGvAUFVX3lxTFBQRGNCbmo3bG1SX1M3b2NCT2VxVFlsWmVYRDZXemNVdlQwaUxYdlZHLVFwVmR5Nm44cnFlbXNDa3ZoY2JJT3VSVmtqQWRabkhBUjFBVmk2LU5ZTlBNMWJXUzNIMGo2blJnMTZlRmhwVU1WdHJmT19NaG9nbC1XZUcxT0x5c3JxNEZmdmZlakZtRlpwYnBvdnE5RFVaQ3dXRkloSHhFRTNZZWFwa183aDg?oc=5"
+   },
+   "source_title": "Johor votes on Saturday. Polymarket has already called it",
+   "also": [],
+   "published": "2026-07-08T09:49:05+00:00",
+   "first_seen": "2026-07-09T12:19:10.936523+00:00"
+  },
+  {
    "id": "5876061bdc9d",
    "slug": "ny-court-lets-gambling-claims-against-kalshi-sports-contracts-proceed",
    "headline": "NY Court Lets Gambling Claims Against Kalshi Sports Contracts Proceed",
@@ -151,11 +203,15 @@
     {
      "name": "WPEC",
      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTBGSzFzZ3llWlkwRkFKVmRYcTE2R1BpZ0xMOHU1cUR4NllWN0ZVWDBPYmFuU1pfX1lmaElZX0RibGlyZE1EQ1VGNDcwN3NEb3AxdUtKbnU0cXJFaUZORWQ4MzBiZDBMaW56d2VEQUEwWURDbVhFMC1XV0V5bFBmV2JwdGdqRHUxSER0ODNoVFVxTkdkaEoydU02UElPb1VNazBQWXBiUmpoNE5fbmtlNHEwYUYyY3NKWFViYTM2Ujg2d2g4Mm9qbnVTdlJnWHVnZzBwdDk2Z3hoQjVSUDN1MjhHdmJUU1l6dDdTS1k0aTRVVDJtSlZjZ0JvTm9mN2lHbUZXWloyYTNEX0VVdnEyM0JwYVlwWVZSNEE?oc=5"
+    },
+    {
+     "name": "cw34.com",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOemdQTk1KZi10NU5UTExTTjhSMW4yRE5EUVk2NGNmSjJZYWJyQWVtOFRHbjhmRjNMYU53VFptUVlUUGFwblRKLVg3Yko4SE9rWjI5SFBYaFlnS0hDUm9vdnRyZjV2TVJUYlF4dWIyVXhQUDNEcFFCd1FvTXd2V01nYVdoZHFtYmdWR3dNV3AxeDQxQl8xWjhKbDZqZ2c2ejBOVzdSYlNsVzJDLUhmWUFjODY2ZUgyQTZLX3BQaFhhZ3Jqd2N3SC12QXZHVE5tNzZoQi1yV1NrZm1rZm0tQk94aTJTUzhiOUlOQ3VzY2RvdTNWdk5sNDZsYUJnOFctRnR4bC1HVDdHYmlYRm5UZ2Z3ZzJpaGFzUQ?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-09T04:08:19.031106+00:00"
+   "updated": "2026-07-09T12:19:10.936523+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -231,11 +287,15 @@
     {
      "name": "Event Horizon | Dustin Gouker",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
+    },
+    {
+     "name": "Bitget",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sb3VWS1JVSjhYaUwyN1dqd3J1R1ZOQnFua3h2bW1mMGhBNXVSVklKcnprNjRkZGdwSUo0c1ZpNkRnaTZGbmVIV19DUzFXNjd0WTNfMG9DczgzYTNLSVlUZXhDQdIBY0FVX3lxTE9sb3VWS1JVSjhYaUwyN1dqd3J1R1ZOQnFua3h2bW1mMGhBNXVSVklKcnprNjRkZGdwSUo0c1ZpNkRnaTZGbmVIV19DUzFXNjd0WTNfMG9DczgzYTNLSVlUZXhDQQ?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-07-08T23:20:15.983884+00:00"
+   "updated": "2026-07-09T12:19:10.936523+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -2291,9 +2351,19 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFp3TTU0QUJqbHlTYnlDd0lJSi0yN3ZsX3ROWFBfb0JnYnRCMGRFM2lfUzJoMjVuTFVmNUFYZUk5VXllZlZmWDFzUzNjMU4zLTE3eWU1UVVKWjV2Zk5KTVN5QTlFT1JjN1EwSUdWS1pUQ0JWcUVoa2xFZW9xdW5YUHlNTVF1c2tEVXZoSkwyXzbSAZYBQVVfeXFMT1VXV2JhdlRiQTlHTmdGV3RJT1N2d1doai1qOG9vbkVSTkZMcE9PQjZyRWhfUldjSjhUUVpNU3JwM0lYWHVERXF2MU0zcUc1dm9ZMGVoeWRoZjR3WVdNemJUSDU4VGZNSlJCbHR1b3R2Q1BKQ0k1dVUtT2JKaDFSdUlPMElJeXFkb1ZURXYzS0RBZXBQWThB?oc=5"
    },
    "source_title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
-   "also": [],
+   "also": [
+    {
+     "name": "SailGP",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MXzVrTlB0T20wOEtQM1F1bmtOeDFEbTFJaXdEZUFhTVEwQzZEUEc0eWlLZkZITGNyeTNBbEw4WWdNX0hlVUhoTEdfa0gxOFI5X00tVFZmUjdTX0U3eWdqQ1BDX1ZTdl8ySG8wTWpYZw?oc=5"
+    },
+    {
+     "name": "SailGP",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11amtFOUVHNWE0bFpxUEcyck9yTkdQOFFEeWJ6VW1QYVVNT1hfYjNtMzNZV3hMNGh5TnY1NmFUa2R5Q1RPN2VmaVJfS2FXTEUwWVc5eFUxVUFMdGRqNll3Wk1ObnRYQjVaeDktdzh3?oc=5"
+    }
+   ],
    "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
+   "first_seen": "2026-07-06T19:46:14.006003+00:00",
+   "updated": "2026-07-09T12:19:10.936523+00:00"
   },
   {
    "id": "9de0042f35b5",
