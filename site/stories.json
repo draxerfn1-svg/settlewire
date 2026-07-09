@@ -1,6 +1,32 @@
 {
- "generated": "2026-07-09T20:54:36.676188+00:00",
+ "generated": "2026-07-09T22:41:03.433559+00:00",
  "stories": [
+  {
+   "id": "6a598eefc9a4",
+   "slug": "prediction-markets-flag-3-major-u-s-brands-as-high-risk",
+   "headline": "Prediction Markets Flag 3 Major U.S. Brands as High-Risk",
+   "lede": "Prediction market odds are now being used to assess survival prospects for three prominent American brands, according to a new 24/7 Wall St. analysis.",
+   "body": [
+    "According to 24/7 Wall St., traders on prediction market platforms have assigned measurable probabilities to the decline or failure of three named U.S. brands, reflecting growing use of event contracts as a real-time corporate health gauge. The piece highlights how crowd-sourced odds can surface risk signals that traditional financial metrics may lag in capturing.",
+    "The report underscores a broader shift in how analysts and investors are turning to platforms like Polymarket and Kalshi to supplement conventional research. Event contracts tied to corporate outcomes \u2014 bankruptcy filings, brand discontinuation, or major restructuring \u2014 have become an emerging data layer for market watchers tracking distressed companies.",
+    "While specific brand names and exact contract odds were not fully extracted from the source, the 24/7 Wall St. framing treats prediction market probabilities as credible forward-looking indicators, a notable sign of mainstream financial media legitimacy for the sector."
+   ],
+   "why": "When legacy financial outlets cite prediction market odds as analytical inputs \u2014 not curiosities \u2014 it validates the asset class for institutional readers and may drive new liquidity to corporate-outcome contracts. Traders should watch for volume spikes on brand-specific contracts as media coverage amplifies awareness. Regulators monitoring event-contract scope will also note that corporate survival markets are gaining mainstream traction beyond politics and sports.",
+   "category": "Data",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "24/7 Wall St."
+   ],
+   "primary_source": {
+    "name": "24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjZzbDRzWks1d0tpYlFjc2QxT1JPdm5YamtwTFlMb29tY29KZHY5YmJRaXUwNnlEb1JxX2N2aHllVFhnbkxLTFVVdExXek1CUEpuSXRsWklsRENub2ZpMFc3aTVnbF9pa3lnNjhaZXphSWU4dEIydWJDQ18wejF6WjNVcW9wWG1nX08wTEhnRXIwTU1HUkh5bllRcW1ySmdnT3dXVUlEOU56M1FTZlFuYw?oc=5"
+   },
+   "source_title": "What Prediction Markets Say About 3 of America\u2019s Most At-Risk Brands",
+   "also": [],
+   "published": "2026-07-09T12:15:49+00:00",
+   "first_seen": "2026-07-09T22:41:03.433559+00:00"
+  },
   {
    "id": "5184d5c5282f",
    "slug": "tribal-sovereignty-vs-cftc-authority-federal-law-clash-over-prediction-markets",
@@ -24,9 +50,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUlOMmM1ZG9rMnhLU1VTa2FzRU9GaEZfaDZhZDhVd0xRUnRfd2hLZWtNU2lWSkZqQXktNlc1Y3pPTkJ4eWc3ZVFoQ2dkU0JWM3p1OFBvcHgwSURtMi1uWEJiVTRuVW1pZW5wVUVXdE9wM2tBM1JLNlQ2dC1TNDVtQnNVWmtyZjFLQzdwN3VyZlJxTkcxWlhBUkVadEdfVTM0SHFyTGQ3alIzQQ?oc=5"
    },
    "source_title": "Prediction Markets\u2019 Tribal Clash Features Dueling Federal Laws",
-   "also": [],
+   "also": [
+    {
+     "name": "Semafor",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGJ3TFpyQzJFaktVcktaVjVmQ01rSEdFN2ZFTGN1YmpiUVp2UUZVS083cHV5SXZ5Z0xPY0RWS0NndlUwQjIzcFhTaEhmUGZjbmNrMGI3bjVuYW5ydWFZemg5NXdQcklhMUxkUENLSmdfRFpoZGxzTy1objRJN0otb1Q0NmdGVFU?oc=5"
+    }
+   ],
    "published": "2026-07-09T09:00:00+00:00",
-   "first_seen": "2026-07-09T20:54:36.676188+00:00"
+   "first_seen": "2026-07-09T20:54:36.676188+00:00",
+   "updated": "2026-07-09T22:41:03.433559+00:00"
   },
   {
    "id": "d87e95e51327",
