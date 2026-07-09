@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-08T23:20:15.983884+00:00",
+ "generated": "2026-07-09T04:08:19.031106+00:00",
  "stories": [
+  {
+   "id": "605122ed4cc6",
+   "slug": "muni-bond-market-eyes-prediction-markets-as-risk-and-opportunity",
+   "headline": "Muni Bond Market Eyes Prediction Markets as Risk and Opportunity",
+   "lede": "Municipal bond analysts warn that the rapid growth of prediction markets like Kalshi and Polymarket introduces both pricing opportunities and liquidity risks for the $4 trillion muni sector, according to Bond Buyer.",
+   "body": [
+    "According to Bond Buyer, prediction markets are increasingly being watched by municipal finance professionals as event-contract platforms begin pricing outcomes tied to state and local government decisions \u2014 including election results, budget approvals, and federal funding allocations that directly affect muni credit quality.",
+    "The intersection matters because muni valuations are highly sensitive to political and policy outcomes. When prediction markets assign probability shifts to, say, a state losing federal infrastructure dollars, that signal can move ahead of traditional rating-agency action, giving sophisticated traders an early indicator of credit stress that slower institutional players miss.",
+    "Bond Buyer's coverage highlights that while opportunity exists for muni desks willing to monitor event-contract probabilities as a leading indicator, the risk is equally real: thin liquidity in both markets can amplify price dislocations, and regulatory uncertainty around CFTC-overseen event contracts leaves compliance teams in uncharted territory."
+   ],
+   "why": "Prediction-market traders can gain edge by tracking muni-linked event contracts as a proxy for state fiscal health, particularly around election cycles and federal budget deadlines. If platforms like Kalshi expand into explicit muni-outcome contracts, it could trigger fresh CFTC scrutiny over whether such instruments constitute regulated securities. The muni market's slow-moving institutional base also creates arbitrage windows when prediction-market probabilities diverge sharply from bond spreads.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Bond Buyer"
+   ],
+   "primary_source": {
+    "name": "Bond Buyer",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHEtWU1zLTJqX0NIN2dyLTN6VkhJajc2MDIxd01FajdobkxXZFBoZWpEQ3ZPLUozSy1KM0ZRSlBJY09GMkRuaDBDSEZsQk9BS0JETkVFOXg4d3VTenVsMmtFeDVoSkpmdUtydmpaaFQ3Tll0d3E2ZTlocWZCM1hSRmZlYXNPQ3pRUjg0?oc=5"
+   },
+   "source_title": "Prediction markets bring risks, opportunity for munis",
+   "also": [],
+   "published": "2026-07-08T12:00:00+00:00",
+   "first_seen": "2026-07-09T04:08:19.031106+00:00"
+  },
   {
    "id": "938912f97a98",
    "slug": "kalshi-appeals-ny-court-loss-blocking-sports-event-contract-state-enforcement",
@@ -29,6 +56,38 @@
    "first_seen": "2026-07-08T23:20:15.983884+00:00"
   },
   {
+   "id": "d38efbc46d73",
+   "slug": "polymarket-races-to-rebuild-trust-with-us-market-recommitment",
+   "headline": "Polymarket Races to Rebuild Trust With US Market Recommitment",
+   "lede": "Polymarket is mounting a campaign to restore credibility and re-enter the US prediction-market space after a period of regulatory uncertainty and reputational damage, according to reporting by AP News and Yahoo Finance.",
+   "body": [
+    "Polymarket, the crypto-based prediction market platform, is actively working to win back user trust and re-establish itself as a legitimate player in the US market, according to AP News and Yahoo Finance. The move comes after the platform faced scrutiny over its prior ban on US users following a 2022 CFTC settlement in which Polymarket paid $1.4 million without admitting wrongdoing.",
+    "The recommitment to the US market represents a significant strategic pivot. With prediction markets gaining mainstream attention during the 2024 US election cycle \u2014 when Polymarket logged hundreds of millions of dollars in election-related trading volume \u2014 the platform appears eager to capitalize on elevated public awareness while competitors like Kalshi have already secured CFTC approval to operate domestically.",
+    "The trust-rebuilding effort involves signaling regulatory compliance readiness and broadening the platform's appeal to American users who were previously locked out. AP News and Yahoo Finance both characterized the initiative as high-stakes, underscoring the competitive and regulatory pressures Polymarket faces as the US event-contracts landscape rapidly matures."
+   ],
+   "why": "Polymarket's US push directly intensifies competition with CFTC-regulated rivals like Kalshi and ForecastEx, potentially compressing market share for compliant incumbents. Traders should watch for any formal CFTC filing or licensing announcement as a hard catalyst for volume migration. Regulators will scrutinize whether Polymarket's re-entry plan includes full compliance infrastructure or tests existing jurisdictional boundaries.",
+   "category": "Global",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnZKMWdVa2RNM1JCMkxIZXY2QmFOeHg1MGswTlIxSUJGczFuNUNEck15dTVvVEpJa1JzZXI3TnItdEFrZkRIWG1ySi15dkdrSEdTemtPeXlPXzBKcWRseXNSU1dPNzJjTmNTMENzNlRXVi1FZDdCM2dqTGVCS1hEdWdlakVYdXRaV05YWjRjaFFRb1Fid2RuQlYwaVc?oc=5"
+   },
+   "source_title": "Polymarket is in a high-stakes race to win back trust as it recommits to the US market",
+   "also": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU5XX1kxMmlYZmhpQlA0cThrWUlBa0FSZ01PN0hmWG9FRUkwMzFBR0ljclJVaFhWdlc0T09FN2dBZkl0MFU3Vnh3a21RQk5lLXFVZUFkNGdYcGViVlNYdDdxM3hTckJzOGxRRWVTQS1COTNvWS1HOUZmWXhZM3Jwc3lHQkdmYU5sOUdpNmJzeTRDNm5LLThKb3BYWjJmWm11RGpz?oc=5"
+    }
+   ],
+   "published": "2026-07-08T10:16:57+00:00",
+   "first_seen": "2026-07-09T04:08:19.031106+00:00"
+  },
+  {
    "id": "5876061bdc9d",
    "slug": "ny-court-lets-gambling-claims-against-kalshi-sports-contracts-proceed",
    "headline": "NY Court Lets Gambling Claims Against Kalshi Sports Contracts Proceed",
@@ -51,9 +110,15 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQl9SNGptR3ViWlRjOWhBenNYOGZ2aTNfbHFjNGpoWmxlTlVNeHZubmtwNG1sQkxGNFktRGxCODI4MDl5R2NjcE5vLUZIcnBhekxoUFRUY0lvRUFHb0VSLUdyb19ETTRWTHVtVTNYNFdoZzZUVUFjOEVwZXBnQ2p1VHRn?oc=5"
    },
    "source_title": "New York Court Upholds Kalshi Sports Contracts Gambling Claims",
-   "also": [],
+   "also": [
+    {
+     "name": "grafa.com",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0xsM21hZTB6VE1KOGh6TU4xVTd5ZTRMbVZraWphLXU5ZHlja0E1aDVSNGs3cXo4OFUxTkZONVE4MTN3OFhCSUx2ejkyc0NRUmoyM1NyTWhOQmtocS1ESjVwem4zUExHdk9pcWFoVVA0ZEY1alB4Zm03NDREbGViTmVwd3hya00?oc=5"
+    }
+   ],
    "published": "2026-07-08T09:22:23+00:00",
-   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+   "first_seen": "2026-07-08T23:20:15.983884+00:00",
+   "updated": "2026-07-09T04:08:19.031106+00:00"
   },
   {
    "id": "9d7489a4cbaa",
@@ -78,9 +143,19 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3ZPTjRfX0M3TmN5eFNOaGM5SjZnMlhyR3R2R1R0RWVtR2owX29nYldfc042eFphbFFPeGZDQnNHbFMtN2ZCNWxsRU5uRFFlazJWVVhhN1lSdTl0YUVjQlU1VTRhNDVjVDNBUXFacE1zVHRDMnV3cm11bnBVQnNVUHhNUHZadFVSU1NjMHhtWnE4ZWxWUTg2TFJ6UnBUQmRYN0czZU83aW1XZHc?oc=5"
    },
    "source_title": "Prediction Markets Can Work Without Money on the Line",
-   "also": [],
+   "also": [
+    {
+     "name": "WPEC",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPeHNpYVZvdS1FbXQ0MFZCMXhmWHItc3dleDBxb0ZJa2M4UkhfclI3dW14TXBzaXZsbTBOcFZ2TGRPT3R4NzM0QzN2dXFEVXdkYzZHQTZ4S3ZyY2VZSlZmYmMwRGVRdjg1SlZ2YUhUTnhxZEVLVlZxQU54bjNnWGxVb3hfbVB2YktCNlItdmlKM2FjWE1Sal9lbjV0bDNVSUJ3SHRqVEtwMDNJRHZtT3VCVUtZU0k3cHl2UkpDVVdEbTV2cDVMM2I4UzNvX2wzTVRUa3JPOGx6QjhIbkg2bUc3eHZJU0VmaTByY1NTUWRPR1FaYTVsWTRrYnZDSlFET1dIbFh1TGZSQURuX1l5Q0ZZ?oc=5"
+    },
+    {
+     "name": "WPEC",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTBGSzFzZ3llWlkwRkFKVmRYcTE2R1BpZ0xMOHU1cUR4NllWN0ZVWDBPYmFuU1pfX1lmaElZX0RibGlyZE1EQ1VGNDcwN3NEb3AxdUtKbnU0cXJFaUZORWQ4MzBiZDBMaW56d2VEQUEwWURDbVhFMC1XV0V5bFBmV2JwdGdqRHUxSER0ODNoVFVxTkdkaEoydU02UElPb1VNazBQWXBiUmpoNE5fbmtlNHEwYUYyY3NKWFViYTM2Ujg2d2g4Mm9qbnVTdlJnWHVnZzBwdDk2Z3hoQjVSUDN1MjhHdmJUU1l6dDdTS1k0aTRVVDJtSlZjZ0JvTm9mN2lHbUZXWloyYTNEX0VVdnEyM0JwYVlwWVZSNEE?oc=5"
+    }
+   ],
    "published": "2026-07-08T09:00:20+00:00",
-   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+   "first_seen": "2026-07-08T23:20:15.983884+00:00",
+   "updated": "2026-07-09T04:08:19.031106+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -736,11 +811,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUpyZWhjM3IwcXZNOWwyMmVuNExOZVZNaS1qT3VVbmlianZuUnQ4NzI5N0NvYVdSdm93ZTM0Uk5VYzROWGVld0pYWll2WXdzcHhoRWVBZXJlWHp4U2Fwdi1pRWZSWjNDU2poQVpKR2x3UDBJalB2emJna1AtcDFucURFNDkzYzFrb01xUDRETEZtYVc0TEdDNnI0dmRPTENuYU0xREZIVVJMZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOG05NEZUZUN6ellxNXU1cUpxaklXQ3JSRVZUcXY4dXZ3VERDalFzUVFmMEVxdVA4bng4QW9NYUl5VVJWSVp6dXVUc1RubDFmb1hCdmlWN3NJQThxVGlLUDJGczdmenBvX3FSQnZhcHpMTmh5Q1VmMTA1elpCSGszRlB0aVo2UEdBS2ZSeUhjb21hTS0tR05sc3AydGtxSXNv?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-08T23:20:15.983884+00:00"
+   "updated": "2026-07-09T04:08:19.031106+00:00"
   },
   {
    "id": "3b83809e121a",
