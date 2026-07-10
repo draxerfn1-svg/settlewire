@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T05:02:50.176979+00:00",
+ "generated": "2026-07-10T08:33:25.862636+00:00",
  "stories": [
   {
    "id": "6a598eefc9a4",
@@ -112,6 +112,33 @@
    "also": [],
    "published": "2026-07-09T02:08:03+00:00",
    "first_seen": "2026-07-09T20:54:36.676188+00:00"
+  },
+  {
+   "id": "0c18e7ce94c6",
+   "slug": "kalshi-opens-wimbledon-sf-market-gauff-vs-muchova-odds-live",
+   "headline": "Kalshi Opens Wimbledon SF Market: Gauff vs Muchova Odds Live",
+   "lede": "Kalshi launched an event-contract prediction market for the Wimbledon women's singles semifinal between Coco Gauff and Karolina Muchova, allowing traders to wager on match outcomes in real time.",
+   "body": [
+    "According to Sports Illustrated, Kalshi \u2014 the CFTC-regulated prediction market exchange \u2014 made available contracts tied to the Gauff-Muchova Wimbledon semifinal matchup, continuing the platform's expansion into live tennis event contracts. The move reflects Kalshi's ongoing strategy of listing high-profile sports events to attract retail traders alongside its core political and economic contract offerings.",
+    "Wimbledon semifinal markets represent a growing segment for regulated event-contract platforms. Kalshi's tennis listings compete directly with offshore crypto-based platforms such as Polymarket, which has also listed major Grand Slam outcomes. The key differentiator for Kalshi is its CFTC designation, which allows U.S. residents to legally participate without the regulatory grey area associated with crypto prediction markets.",
+    "Sports Illustrated's coverage of Kalshi's market odds signals that mainstream sports media is increasingly treating regulated prediction markets as a legitimate source of probabilistic data \u2014 similar to how betting lines from sportsbooks are routinely cited \u2014 further normalizing event contracts in public discourse."
+   ],
+   "why": "Regulated tennis contracts on Kalshi test whether sports event markets can sustain retail liquidity outside of elections and macro events, a key question for the platform's post-election growth thesis. If Wimbledon markets show strong volume, it strengthens Kalshi's case to the CFTC for broader sports contract approvals. Mainstream sports media citing Kalshi odds rather than offshore lines is a meaningful legitimacy signal that could accelerate advertiser and partner interest.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Wimbledon"
+   ],
+   "primary_source": {
+    "name": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmtBMWp4cXF4NmpYMXVkYm12QVlJdDFOSzNCOE96R3VZY0R0YXVVX2Z4R21GWUNXcEw3OHFHZ2VROWJWWlg4aVBSTXo5TUxLYzVjT25BenNidTVZQXU0bE04amJPUkFRTDlseXJvbnNKOXI2cldsa19ZMnVEMWFJQ0lEMDRISHJVWFVRR1BpSnRDR3VCblF4YnhaMkhNNUFXczhBeXRUeExqVDFrWlF0YmhHbEZ6LWw1QktDNjI4V0t2YmU2aTJQNDV3?oc=5"
+   },
+   "source_title": "Coco Gauff vs Karolina Muchova Kalshi Prediction Market for Wimbledon Semifinal",
+   "also": [],
+   "published": "2026-07-09T00:34:02+00:00",
+   "first_seen": "2026-07-10T08:33:25.862636+00:00"
   },
   {
    "id": "8be677bc66e4",
@@ -938,11 +965,15 @@
     {
      "name": "AZ Family",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRdIBuAFBVV95cUxORWZDWElwN0Frck1DbEc1VFgzVzlQVkI5UVpNQ0tRVzg5Z212OUNoWldNQjZHaHVsUGdxTERTendwNFE1ekxLenVPMWdMa0ZvZHlKbVBpTWJ6c29yTU9oWmdGbTJRM0FkcHpzRkFPZHJha0g0YWZWTEE4XzRraGJucHBRbW5XSXk4cUFSc2E1OTF3N1BMRkxPakVseF9kMWNSUW9qdWlKV3dieDNDRlVFaWdMX1BkWUFz?oc=5"
+    },
+    {
+     "name": "qz.com",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkk3Vm9MU0xJdWFjczBxTmFzOUlONGVoUVM2VnZ2anRIbWR4cUYwc3VTZHkzb21QV1RHa0xLcU9oLS1YLUY3UEU2T0ppaU9Ld2VWOTRPSHFQcTJpYUJpeWZJd1RHUHZPNGdzR0RrWElJWUhocjM1SHJhaktoMm5QMFhNdDhabVItaHRjZA?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-10T05:02:50.176979+00:00"
+   "updated": "2026-07-10T08:33:25.862636+00:00"
   },
   {
    "id": "6b51daf83d2e",
