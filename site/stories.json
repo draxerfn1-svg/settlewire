@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T00:15:18.401343+00:00",
+ "generated": "2026-07-10T05:02:50.176979+00:00",
  "stories": [
   {
    "id": "6a598eefc9a4",
@@ -373,6 +373,32 @@
    "also": [],
    "published": "2026-07-08T15:29:36+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00"
+  },
+  {
+   "id": "2983e19f96fa",
+   "slug": "kalshi-denied-preliminary-injunction-in-new-york-court",
+   "headline": "Kalshi Denied Preliminary Injunction in New York Court",
+   "lede": "A New York court rejected Kalshi's bid for a preliminary injunction, denying the prediction-market platform temporary legal protection it sought in an ongoing state-level dispute.",
+   "body": [
+    "A New York judge declined to grant Kalshi a preliminary injunction, according to Spectrum News, marking a setback for the CFTC-regulated prediction market operator as it fights to operate freely under state law. The ruling means Kalshi cannot rely on court-ordered interim relief while the broader case proceeds.",
+    "Kalshi has argued that, as a federally regulated designated contract market overseen by the CFTC, it is exempt from state gambling laws. New York officials have pushed back on that preemption argument, and the denied injunction suggests the court found Kalshi had not met the high bar \u2014 typically requiring a likelihood of success on the merits \u2014 needed for preliminary relief.",
+    "The case sits at the heart of a growing national tension between state gambling regulators and federally licensed prediction-market platforms. Kalshi's legal strategy of leaning on federal preemption mirrors a broader industry effort to establish that CFTC oversight supersedes state-by-state gambling statutes, a question with implications for every operator in the space."
+   ],
+   "why": "A loss on the preliminary injunction signal that courts may be skeptical of the federal-preemption argument Kalshi and peers rely on, raising near-term operational risk in major states. Traders pricing contracts on Kalshi's expansion or regulatory outcomes should factor in a longer, costlier legal battle before clarity arrives. If New York's position ultimately prevails, it could fragment the U.S. prediction-market landscape into a patchwork of state-by-state approvals, directly affecting platform liquidity and contract availability.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "New York"
+   ],
+   "primary_source": {
+    "name": "Spectrum News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWE5FNC1UejVNRE9mVDQ2Z0EwOVg2c1Q5UF9FalNJQkpqR3l6bGd1YW1DQnJmOG1fQlYwTmlIeUtsVWpTa3NCTnowQ2tVLTROd3lWczZTd1UxRDc0eTN0N3BScTdweHRyeEN6Q3BVelE5UFVLbUNYU0FfeVNXRjU0czI0NVNiNVpZU1MyTWNmQ2l6VkFlNC1wRlp3dktZcXdHWnZpT2F1Q1NnUTZObXEw?oc=5"
+   },
+   "source_title": "Gambling platform Kalshi denied preliminary injunction in New York",
+   "also": [],
+   "published": "2026-07-08T14:30:00+00:00",
+   "first_seen": "2026-07-10T05:02:50.176979+00:00"
   },
   {
    "id": "f76693c8724f",
@@ -760,9 +786,15 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzBHQVNZaXJOYmdEMFNndHYtWUJ4eUFZZ3ZCdkc0X1czWTlTdm4ya2YzSnBkV2tlRlRJUkpPcUhWenBDTDFIeW95QlRWdk9EaUhaRmxHV1VVTEpXZW5mdUVPLWx5VnI4aXR5aGJqMHVCMzZtZjN1c091clRXcjh5bnAtbGNIY3pBZ0M1LXktdlpzOGZaanduVXFnemo3c21kN1RnRFNtb0tyMkJEb1ZUQlBSUXRKb24tTEJhN0s2QUNEUQ?oc=5"
    },
    "source_title": "Polymarket\u2019s World Cup Bets Hit $3.9 Billion. Now Trump and Zuckerberg Want A Piece.",
-   "also": [],
+   "also": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGsxcGJpbjdmUXhRWnhkMTJXaXpnZnMtMTFFVkdfTEdjZmR0Y3RvczVLa05UaHhkdmJad3lXemtLUnREWjdpZWhEeTg1SjFJLUY3a0NRYzlMb19SNHdEZ0plUjBIU0R0UzVfeVFIWWE3V1VOVXNsaGRzYVhqT3pBNGNxWlNYQzIwdDhhaERLaHNmNHE0WkZJNWpn?oc=5"
+    }
+   ],
    "published": "2026-07-07T19:58:59+00:00",
-   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+   "first_seen": "2026-07-08T19:49:56.195609+00:00",
+   "updated": "2026-07-10T05:02:50.176979+00:00"
   },
   {
    "id": "79cc771058fe",
@@ -902,11 +934,15 @@
     {
      "name": "New York Post",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2hnZC1jZmd2NXRXM3RwTVEzQTAxdHdLUXRweTBoMmhtVXpZUG40QWgxbkM5ck9KZGRoZ3JfSTJpRVN2ajB0eGdYRkFZY0ZITEZhWWxCX09wVmhIUDhPYmpKNWhIVld2S0wtUXczRncxMGRuY2poRGdmSlpXQTdwSXBMYW80ajdzd3FZQ0o3dG9EekJZUkx3Q1NTZkxSeE54MHRfRENyNHdrSDRUTEZRNEZOYjlMZjVYT3EzTUxfaW83TjBOVms2ZGFVZw?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRdIBuAFBVV95cUxORWZDWElwN0Frck1DbEc1VFgzVzlQVkI5UVpNQ0tRVzg5Z212OUNoWldNQjZHaHVsUGdxTERTendwNFE1ekxLenVPMWdMa0ZvZHlKbVBpTWJ6c29yTU9oWmdGbTJRM0FkcHpzRkFPZHJha0g0YWZWTEE4XzRraGJucHBRbW5XSXk4cUFSc2E1OTF3N1BMRkxPakVseF9kMWNSUW9qdWlKV3dieDNDRlVFaWdMX1BkWUFz?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-10T00:15:18.401343+00:00"
+   "updated": "2026-07-10T05:02:50.176979+00:00"
   },
   {
    "id": "6b51daf83d2e",
@@ -1320,11 +1356,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkk0c1puaFRLaVB4N0Z2VnpHVDlBVHBnR2p0LXFDM3FuVGM0MjVxdlBzYVotTVRCaHZoWjgyRGZYb1kxTWJtM1g5QXVxRHJNajgza2VrcFZTUnE4enhhaFdQTkVES1RscEdoSG95eDVRbHJKSDRJMzBJZXZDaWNpZ1I3a20xYThCQ2llbmswbFpLdGxVaDV3QzNKWkxCY2F6Unl6bg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWElZMDdBVnZDRXlKeEhSVnV0X05tSEhsaVozSkYtdUFhbE9Yb250bnNYRjB0NjNDX3Z5bnhIWDZ3RmxFUnVqRmV4UDd4NW93YTRQdE56QUlkSVRmS3BfdWlYS01sb2hZSVByM2JYTG12RWVqUWpHYkJOQzVaM1FKQXp1ZGRLTnlVUjZ2c2JlZEJmbWtDRmI0UVhNc1J4c2tp?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-09T20:54:36.676188+00:00"
+   "updated": "2026-07-10T05:02:50.176979+00:00"
   },
   {
    "id": "3b83809e121a",
