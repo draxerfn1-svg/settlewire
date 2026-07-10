@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T21:15:53.877058+00:00",
+ "generated": "2026-07-10T23:10:18.446241+00:00",
  "stories": [
   {
    "id": "76c1a9f2e354",
@@ -78,10 +78,89 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmZnSF9ZWlh0Y0dPdUNiVVhLWGlNSTd5QWJiM2hmaTJGc1h4ajAxSXU3aEV0SlBNRFdlZzVuVl91X3VRRlpsOFJvQXg0LURXQm1OaEtZbkJ4TFU2eVI5ejJFdFlBN3o5V3lFUW5YSk00NVpDak1hSDJhZ3Q5b0tkYmFCUnlrVW9FaDdyUU5HamFsYnI4amw2Z1VUYTZ2aC1lSnJtNFVQbktrSE9kcGc?oc=5"
+    },
+    {
+     "name": "FOX Sports",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMkxRSnY1XzZwYnN3OXY2YTJTMEVPckFleWd1MGlOMTVDNjdOUldzdzJpdFRaTWxlekUwN1BJTWJkRDROWHRpbjZVemhqMVVxY0JWV3kyV1FEc1FjWHM1WndwNEFzTGZBc0JITUt2VXTSAXBBVV95cUxQOTVWcUsyMVlOQXdsdHBtR3ZPRWR1T1Zrb2FpbllSNmR0NUoydlFWdDJ5RUFSaG5nMXRZYWJwTXV6OEdjV2JlYk41T3UyZ1dDVWhVbmlpVVM5V3NBZWlmNHhXNy1LTWlGRTdRd1gycTZk?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJxMkFHZ0NRVUJpb3FZZlNpcjVDUEhVOWM2NGNuSkFpcG5CWGhERHRiR1RyU3B6NGtOd2VpdVZWSEpzZ1ZNSTNpTmU3emtpaWtRVE1nNHpyd3dRbEp3RC10LTE2R2RGdDRJZERGQnJVVmhfS0ZhSWdsQ2hWLUtobkMyNEVuckR2d2l5Y0FqWFRJR2d5LUhCVjIzYWZjUV9JTjQ2YTd3?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0dpekxlNXpxNW9BNnV3ajhNbHhIaWtZNjJZcTIyZEtLUDlCWkd3THFwM2R5M0c1c1J5VTh6Zzl3eUVxeXo0N000VU5wWDIzY2JNSVpta0U3aWo2cV9vWUNfbjgzWmxRZnhudy1VVGIwckNhYkRqczEyd2c5bGYydlpLa1hfYldsLVIwekhXWTI2MUlpaWhnQ193Wml0NDFHcW1XV3h5REVPX0sxYkJyTlExYjQ5dG4y?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGRsTjR3eV9GUGhrVmhpa1J6bWhwaHQ5WkdBODZuaEhtQlpaUktkVWgtWk1BWFo3TXFrbFhUOUVsOFI4N0tYQUhMV21VTC1EQzFteFJZaDA4YUQwa2V0cWxxLWNOTURpSGt6Y0lvQVVDR29qYVM3R19kUHhFeEtWZktUdWNScWVVNnh5TEUzY05TcjZxbWV3THhmYnNZQW1NMHBLTEdiWnhITHZaTG13OTlxNFZhamNZeVhYV2NQY3c3S2RlcEtPbQ?oc=5"
+    },
+    {
+     "name": "MassLive",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRE9wTlg2XzdJOVQxUmtVN0dsbUVjOGRsNUVqankteFMtUmFaam9zamlsVHlVZEVtMzNEWndxSzFLZkhKNWJZZGpQenkzRkJiU0lxamFkRWxlWmdWcVZMZXFEODl2Snl6S0JVYTF0NDJFZ0VSWXljQjVuOHJwYTJYMk5EQ0JxOGhiOWxwWVpOemNZcDZoVnU3cmNidEdGcVB5OEdPSVloamZuTms3MV81MUQ0cTlwcDRHek1neVUxbkZrTWpIRDZQdlJZVTRzVzh0NW13MllKTVp1QQ?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkYybWl1TkQydDllMGUtbWFtaHBuMnltUHNuTnh1YjA3VGN2cS03UlNGdWxhMjNzNE1IQjdUYVkweDhFS0xPZDhpMEc2S1VaTW11ZXRxdWduSjdYWnNTS1BmdU9RaVRDVlhEaGlWdFdoNzFHN0U2LTBWRmMxU1kyLUFIV0ZNa2ZTb25HQ0QtcUlycWRYWXhuTDNFLS1wR3pfSl9IQ0Q3SFlMb2V3Yks2WnNwNWNyVGEtejhleUc4aDZUTHNENUN1V3lnODA?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
-   "first_seen": "2026-07-10T21:15:53.877058+00:00"
+   "first_seen": "2026-07-10T21:15:53.877058+00:00",
+   "updated": "2026-07-10T23:10:18.446241+00:00"
+  },
+  {
+   "id": "0741dc215b0c",
+   "slug": "polymarket-launches-margin-trading-targeting-hyperliquid-liquidity",
+   "headline": "Polymarket launches margin trading, targeting Hyperliquid liquidity",
+   "lede": "Polymarket introduced margin trading to its prediction-market platform, a structural upgrade that could draw leveraged liquidity away from decentralized derivatives venue Hyperliquid.",
+   "body": [
+    "Polymarket's addition of margin trading marks a significant product expansion for the world's largest prediction-market platform, according to Yahoo Finance coverage. By allowing users to take leveraged positions on event contracts, Polymarket is no longer competing solely within the prediction-market niche \u2014 it is now encroaching on territory occupied by on-chain perps platforms like Hyperliquid.",
+    "Hyperliquid has attracted substantial decentralized-finance liquidity through its perpetual-futures model, but margin-enabled event contracts could offer traders a comparable leverage mechanism with real-world event exposure as the underlying. The competitive overlap is meaningful: both venues compete for the same pool of on-chain, high-risk-tolerance capital that cycles through DeFi ecosystems.",
+    "The timing is notable given Polymarket's already dominant market-share position following the 2024 U.S. election cycle, which drove record volume to the platform. Adding margin deepens user stickiness and raises the stakes \u2014 literally \u2014 for each contract, potentially accelerating total value locked on the platform as traders pursue amplified returns on political, economic, and sports outcomes."
+   ],
+   "why": "Margin trading fundamentally changes Polymarket's liquidity profile, making it a more direct competitor to derivatives venues and potentially attracting institutional and semi-professional traders who previously found flat event contracts insufficiently capital-efficient. For prediction-market regulation watchers, leveraged event contracts will sharpen CFTC scrutiny, since margin amplifies both the financial stakes and the systemic-risk arguments regulators use to restrict retail access. Traders on competing platforms like Kalshi should monitor whether margin features become an industry standard that forces a product-arms race.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Hyperliquid",
+    "CFTC",
+    "Kalshi"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmFQT3VMTmtkcVAyUDZDTEgxVWlBZGM1ekJUYzhNbFgwQW9kLTFvdTJ3UTgycG51eDRJQ19DZmRXbWFXQ2Y0ZEpaYVVVN3lSOEJNSDc2SVNzNnlmWnhEZ0ItamRpVzBwbWRJbEMyeloyWEtvNmZsdUxKTXZiclFHa3A2UFdUX3VfbFZESm1CSXlaa0diRktWUmQ4ajBEMm05WWFYOTlkcnVCNm55YVE?oc=5"
+   },
+   "source_title": "Margin Trading Arrives on Polymarket: Will Polymarket Hoover All Hyperliquid Liquidity?",
+   "also": [],
+   "published": "2026-07-10T11:46:05+00:00",
+   "first_seen": "2026-07-10T23:10:18.446241+00:00"
+  },
+  {
+   "id": "7559eed67903",
+   "slug": "kalshi-expands-into-gold-and-fx-perpetuals-beyond-event-contracts",
+   "headline": "Kalshi Expands Into Gold and FX Perpetuals Beyond Event Contracts",
+   "lede": "Prediction-market exchange Kalshi is moving beyond its core event-contract business by launching perpetual contracts in gold and foreign exchange markets, broadening its product suite.",
+   "body": [
+    "Kalshi, the CFTC-regulated prediction market exchange, is pushing into new territory with plans to offer perpetual contracts tied to gold prices and foreign-exchange pairs, according to Bitcoin Foundation reporting. The move represents a significant strategic pivot for a platform best known for letting users trade on yes/no outcomes of real-world events.",
+    "Perpetual contracts \u2014 derivatives with no fixed expiration date \u2014 are a staple of crypto trading venues but remain relatively rare on regulated U.S. exchanges. By adding gold and FX perps, Kalshi would be competing not just with fellow event-contract platforms like Polymarket and ForecastEx, but with a much wider universe of commodity and currency derivatives venues.",
+    "The expansion follows a period of rapid growth for Kalshi after court victories affirmed its right to offer politically themed contracts. Adding non-event derivatives suggests the company is leveraging its regulatory foothold to capture a broader slice of the derivatives market rather than remaining a niche prediction-market operator."
+   ],
+   "why": "Kalshi entering gold and FX perpetuals signals that CFTC-licensed event-contract venues may evolve into full-spectrum derivatives exchanges, raising the competitive stakes for incumbents like CME and ICE. For prediction-market traders, this diversification could attract deeper liquidity pools that spill back into event contracts. Regulators will face fresh questions about whether the CFTC's event-contract framework is being stretched to cover instruments that look more like traditional leveraged derivatives.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWxJUThXeW5HZXZNVWtUZFNhLW0xVEE0ZVQtQ05UVlZ0VGsxc1R4N3RscTJwbUNoWExFZ2FGNWpDN1lBRmIyX1FDeWpKYTZkdXV0SEFRSUxtUUtDa01VX1BnWVNFU0lhY2NNc1BHVkNYVFRiMTg5QmNGTlR2Z1VWZ0N1U29ySGkyLXVZNkp3dVFvWm9ZVUgxdg?oc=5"
+   },
+   "source_title": "Kalshi Looks Beyond Prediction Markets With Gold, FX Perps",
+   "also": [],
+   "published": "2026-07-10T10:53:38+00:00",
+   "first_seen": "2026-07-10T23:10:18.446241+00:00"
   },
   {
    "id": "9ad7a6a26958",
@@ -187,9 +266,15 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2JleURnNGs5N3JJU1BNYlRxM3E4SWhQWDlNendobFU3MExUX1hvc18yang4NUdOdlNESjI4R1ZDcUZQX2Y3MWZ5aXJRSGhXb3RjVFZzVG0ydGJLT1dHbTRGNG45ZEpyTHktak4wcU5lMXpGZzlmWnhPcC1Zc1dpVUtjVzVTM2t5S2pXNGpEaVBTaUF1dTRQVGEwLU1YdlFEcUZVa2VyZ2JqVS1iRF80bHlrc2w0U3RmaTRnSnJ3?oc=5"
    },
    "source_title": "Cboe Aims to Convert Prediction Market Traders to Options",
-   "also": [],
+   "also": [
+    {
+     "name": "Investment Executive",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejR5MFREWW5vV1RNaThSa3JUM25pMWdPa3dVT3N4UWxFRk16cjgzNTcxLVY5VmNPUV9fSlJUcDA0Y0lLYldZbkQ1Rm5oU0RaQ3BFT1RvdEFPT0dtNGVWVHV5R2h6M3pfb0pwVmF1QzI5RzA5aHM1bEphZG1xcGpMX2Rxd19iWWlxbENLLXp5a2NQVDVzVTVmdWFB?oc=5"
+    }
+   ],
    "published": "2026-07-10T07:06:19+00:00",
-   "first_seen": "2026-07-10T19:47:30.401982+00:00"
+   "first_seen": "2026-07-10T19:47:30.401982+00:00",
+   "updated": "2026-07-10T23:10:18.446241+00:00"
   },
   {
    "id": "86cf3f74cb9e",
@@ -3652,110 +3737,6 @@
    ],
    "published": "2026-04-25T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "dd244895127c",
-   "headline": "CFTC and Kalshi move against bad actors in prediction markets",
-   "lede": "Federal regulators and exchange operator Kalshi jointly announced enforcement actions targeting misconduct within regulated prediction market platforms.",
-   "why": "Joint enforcement between a regulator and a licensed exchange signals a maturing compliance posture that could deter manipulation but also raises costs for smaller operators seeking similar licenses. Traders should watch for tighter position-limit rules or identity verification requirements emerging from these cases as second-order regulatory spillover.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Lowenstein Sandler LLP"
-   ],
-   "primary_source": {
-    "name": "Lowenstein Sandler LLP",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhoVE9Qb3o1dF85ZDd0N0taUDd3dVV2cFplU0pVYnFDVHhjMjNMMmZSczA4N1VVMDNPSTNKTFBUM1BNRzNoUDJSbUFnM1pub1F3VEc3ajJKUVFnSElBRk5ycy03UUhQNXQyV1hJdDNybElHdUZnc1VBNmNPblpZLVpjTGNKWWNabW9KZGctckEwR2d5OENrZThLdGZfc3VaeFBRRjRON1FPWENIY2d0R0ZkQThMaGY3LUphYlBqMkRwM0tEQzU3NVh2YVQzYkNhXzJXTk5LVnVyZklFbDhJ?oc=5"
-   },
-   "source_title": "CFTC and Kalshi Announce Enforcement Actions Targeting Prediction Markets (FCTM)",
-   "also": [],
-   "published": "2026-04-24T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "bf90486db082",
-   "headline": "Sports Event Contracts Face Legal, Regulatory Pressure on Multiple Fronts",
-   "lede": "Sports event contracts offered by platforms like Robinhood and Plus500 are drawing simultaneous scrutiny from consumer lawsuits, state legislatures, industry opponents, and former federal regulators.",
-   "body": [
-    "A consumer lawsuit is now challenging Robinhood's sports event contracts, adding legal risk to a product category that has grown rapidly since the CFTC declined to block similar offerings from Kalshi. Meanwhile, Plus500 announced a U.S. sports event contract launch, signaling continued commercial appetite even as headwinds mount across regulatory and legal channels.",
-    "New Jersey legislators have introduced a bill that would require prediction market operators to obtain state licenses before offering sports event contracts to residents, according to Sports Betting Dime. Separately, major gambling industry associations have lobbied the Senate to take action against the contracts, framing them as unlicensed competition to regulated sportsbooks.",
-    "A former CFTC commissioner publicly questioned the 'economic purpose' of sports event contracts, per Yahoo Finance and CDC Gaming, arguing the products lack the hedging utility that traditionally justifies CFTC-regulated derivatives. KPMG has also weighed in with analysis on how these contracts should be taxed, reflecting growing mainstream attention to the asset class."
-   ],
-   "why": "The convergence of a consumer lawsuit, state licensing proposals, and a former regulator's legitimacy challenge creates compounding legal uncertainty that traders should price into any platform-specific positions. If New Jersey's licensing model is adopted by other states, operators face a patchwork compliance burden that could restrict liquidity or force product withdrawals. Prediction market operators expanding into sports contracts \u2014 including newer entrants like Plus500 \u2014 may face the steepest headwinds as regulatory arbitrage closes.",
-   "category": "Legal",
-   "entities": [
-    "Robinhood",
-    "Plus500",
-    "CFTC",
-    "Kalshi"
-   ],
-   "primary_source": {
-    "name": "KPMG",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wSXdkWXFlak5aeDk5QlNIcjRMcV9TcUpJYWVqM0NKSkFHZG1pTVp0UlVZT2hYeEM5eUthU0RXenhPN3dfdUowNk1qYTdPYVBmWHExNlRwWHlBcmZoeW5MYjFvdHFxbjhhUTNzSURXLXVla0pwbnlFdC11SlhDQQ?oc=5"
-   },
-   "source_title": "Taxation of Sports Event Contracts",
-   "also": [
-    {
-     "name": "Bloomberg Law News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3NwaHpUR1dEVlplSDlCXzRnb3lqYUFCcmhoai1aZXZkSHpCR2ZjVFIyTTFzMUU2cUhZY1BIdnNseERPWVlqOEZETFBKeUhQM01pQ3pRZjBrNlY1VnhhMDIxUjlOTFJCQVloX1k3TFpMc3oxQmxNSFlLSU42cjJWYVJrZnVOT29fOUtqUldOejZ4Yk1ZX05oeV9uNVcwY1ZzVkZEUUZaN1I3d081UjlubHlYMUdKZEVfeHNFdHEwMlM?oc=5"
-    },
-    {
-     "name": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjZ4S25abnJ2QkRZMmEwSXRnS00xODBDX1dvZXJQbWU4a1AtRUtJem5zQ1BjeldKbG1SbzZpMDJtbUFuR2t6OHVnYkVKYXZQT3RmTVIyRDVWMFdBOGhRaWJOV1hHOWU4bXdpMzJMeTZYV1IyVEx1OHNHR19wZWIyRkNmVWJHdW5NYlFybWxIMVJ5dlA5dUtMNkU2MXdUaG44OE1YSXExbVh2Y0kwZExxY3VoOEJ6cVAxNzhoeGp5dFNZNkxVNmkxT3ZKMnc3N25ZYjNEbTdtUHo?oc=5"
-    },
-    {
-     "name": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejdrc1dlRjdKSDhTMTdQUmtYd1FtcXhOZVNlLVBCN1A1NUNHWW5JTVJtYTZQM0o2eEhUWlJldnl1NzNoWmxsbkJpMzA1Y05tVDVFeDBQTUdnVDNMeHRhbkhiaFNIb1ROQ0lQOVlJX29TUDFPcGk1ZG10VU50SDA2QXc5QWJGaTJQanI2MXJ3Y0ZYYXVYQTFFRXlOcjVnNFdlNEJlbVlWTUtYdGdyak9nLV9NUzViNWYzYnFhMWZuR00zbDRRQWZ5TEtSdzBseTVXekh6cEwzaEhMWU1LV2c?oc=5"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzRRNmdrTDhJR2VNYWxPTE5wcThvZUxwQjlGZ1RWMWxBQkZNdmRtNmtBQkMybXBsUnVxZXhhWFhfc1Q0MTRmbk5MSWk5Q1pMZHFSRlliSHJNRmdkcU1JRHZzV21OZ0xyVGZoVWNFdGNYakdNQ2RKUnFONlcyNmFKbUZjWDRaSzltQjhOZ0dVUF9FeWIyeFJuVS1VbDBidkxlR1VFSjB3Zw?oc=5"
-    },
-    {
-     "name": "CDC Gaming",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2xkTkhGZmZ6MW1hemRvYWVwTF9QcG1xbnB0QlI3X1ZhZGQwMFZCdDNUT1VHUU84czQ3aU1TUFNyeXhkR1dLWlpoajFjT19iXy1GMC1pQ1Ztb2s5cTJFUzR3dmFnblc4TGY5QVhJSnB6Y2pURExjUUxhTGhrdzY1bE9yVkJhcUdLSWVUMmo2dTlMdjBoZXozOC10WUpkTUxodGYzdQ?oc=5"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM295aWV6aFVNaW05YTc5Q1NVd2NUWDJqOWZUc2pQMV9VODg1dVhqbDR1d0FQTDVCQXpHTVpjNXN6by05V2FvNTJkTWtPTjdGbjBra1BpODd2bXBxU1Yzc3dYckt6MzBTamFVeXYxTjRIZzFYT0VLMktHeXdfak04ZWtxY185aHM2?oc=5"
-    },
-    {
-     "name": "Event Horizon | Dustin Gouker",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
-    },
-    {
-     "name": "Crypto News",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGhBQ09pYnA4bjJTc3NNd2wxbkdjUzVsX3Nrb3VVNUtFQ1E4eS1PUFZXZ0JTN1ZERC1GeEVaTjBleFIwc3JvMEh5R2JBbklVR1I3N2oteXFRcEs1eE9PSmxmcjdQQWdlSzFuMHJOYWxBZmgxQWR2alM2ckU0LVlTcGNBVl9sVEU0RHRRYjZYSVc?oc=5"
-    },
-    {
-     "name": "Spectrum News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVg5aHZIY0VHQ1Q4a2FLUXdTWW84NkRBTDNpVUZKd2luZjlJN2praTdXbHJIQVNsdklLTkUtZ3VlYll2VHU2RlRrZkFjRXA5NF91VER3YzZaS2RXdnFfTVBrWno0Zl9tYmZ3ZjZ2NlJLcnF5dW1Lc0lVRmVtOE5hZ3U1TjRIMEJYSTBqemVuX3RLM1hCb0xHVnhHNA?oc=5"
-    },
-    {
-     "name": "Casino.org",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
-    },
-    {
-     "name": "NEXT.io",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pSS1UV2JWRnJDakNXa0x4WUlldk92TjRWSVhKNHhhaFR1bHhzXzBRcVgwU0JWYkdTTC0tbUx5OEJZdkpTZ2RxVEFCME5PckhFeHJadFFHX0NxUExkOVhEYXFkUQ?oc=5"
-    },
-    {
-     "name": "Good Money Guide",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2EtN0U2UHNhRVhWSFdwaTNWdzRNMF9oVEFiRklLQ0RtZFNSX3Z4TU13XzFabHA4OHFCaF8xYWM2Z1U5UjZSOUVOdklEMkRoTjhnUFNqaE8wbTYxUFpnLWdVdG04Y1B4ZEVqd0tuWTJlTDZ2cVBBb0JUWkx3aG90bVBTeXZ1Q2thQkh6amJQOXFjQ0p3akI2WTBXejBUdw?oc=5"
-    },
-    {
-     "name": "egr.global",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTdJaTQxV216SXZSdmlTeEpkbkRjOHNWVFFLRUo1NzVpQkg0NVF5UHFldmRnbjVsdjFYRmdoNG4yTGxZcm5NMnlXd0M5bUhhOGJjdV9ZQkJJOGZPLXJxQXYzcFFjUzdTSzdoS2d2VHZzX1Zta19DRGZmbnVUVE1xcDJ5bkFneWRDY1BYN1k4OS1GdVV0SVlYNDJkNFM3YktTcmVCT0FnbEUzS3I3dk51bmJDdFJrNjE2QmlRLUxITk1DZw?oc=5"
-    },
-    {
-     "name": "CDC Gaming",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3V1NUFsX3g1ZEw2aUVGNEpHQ3dvLWpOalY5dXowb3l5YlBIVzRISUR3TmZQOVZOTTltWnBselctNWdJaWt1UktJNHF1SzAxZzdheVQyNVp5T3l3TlNOZkNHOTRNOGl5M1V1c01rQ19ueWxoUnR5blQtZU9WRlU5dVlDWUI3TUJIT1pVZkNnS2Y1TTAtZENZQ3d4WWtpYmZXeFE?oc=5"
-    }
-   ],
-   "published": "2026-04-21T14:51:50+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00",
-   "updated": "2026-07-09T18:57:25.549903+00:00"
   }
  ]
 }
