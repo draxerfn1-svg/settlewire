@@ -1,6 +1,164 @@
 {
- "generated": "2026-07-10T15:38:51.763323+00:00",
+ "generated": "2026-07-10T17:56:54.895553+00:00",
  "stories": [
+  {
+   "id": "4883c5f26fb5",
+   "slug": "polymarket-files-for-us-margin-trading-license-on-event-contracts",
+   "headline": "Polymarket Files for US Margin Trading License on Event Contracts",
+   "lede": "Polymarket has submitted regulatory applications to offer margin trading on prediction-market contracts to US users, marking its most direct push yet toward legal domestic operations.",
+   "body": [
+    "Polymarket filed applications seeking approval to provide leveraged, margin-based trading on event contracts to customers in the United States, according to reporting by Bloomberg.com and CoinDesk. The move represents a significant escalation from the platform's existing posture, under which US users have technically been excluded following a 2022 CFTC settlement in which Polymarket paid $1.4 million and agreed to block American participants.",
+    "The Block confirmed the filings, noting that Polymarket is pursuing a regulated pathway rather than continuing to operate in a legal gray zone. Margin trading on prediction markets would allow users to take positions larger than their deposited collateral, amplifying both potential gains and losses on outcomes ranging from elections to economic indicators.",
+    "The applications signal that Polymarket, which recorded over $500 million in monthly trading volume during peak 2024 election activity, is betting that the current regulatory environment \u2014 shaped partly by a more crypto-friendly posture in Washington \u2014 is favorable enough to seek formal US authorization rather than wait for clearer legislative guidance."
+   ],
+   "why": "Approval would fundamentally reshape the US prediction-market landscape, giving Polymarket a major structural advantage over rivals like Kalshi and ForecastEx that have built regulated frameworks without offering leverage. Margin trading dramatically expands addressable volume and trader sophistication, which could pressure competitors to seek similar permissions quickly. Regulators' response will also set a precedent for whether event contracts are treated more like derivatives or retail betting products under US law.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkY0b29qMjl6TWhza1dINVM4VEd6R1NwcS1CMzZtQUFkbGIwc1U3dnpJRF9rMHI4QXFVR1N1VWMwSUQxS2NzY2tNUnBjYVBGZDRiWnBEdjJNRWthcXd4ZXp6aVpGUDZVeF9oZ2VPcE9JUTZieHd6TUZZOEpaNXdEeDF3M21xNmFrZGpiSlhobS1HVUMzQ0N2WkU1Y0JzTjhlTmRUTVBKb29ETXNqUkQ5bVd2OA?oc=5"
+   },
+   "source_title": "Polymarket Seeks License to Offer Margin Trading Legally in US",
+   "also": [
+    {
+     "name": "The Block",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVEw3ejdZSDhHSDUzYlpEdzRGdGpSbG5TQTNwZ3ZjbVZqM1dVUExxdnZoaXJWTXZtSlFobmxNWmNvYVYyLVFhVlQzMW5FSWFLb0xQdThLN3NUaDVGZVB2eldMbzlXdlFzb1FxdXNn?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3FLZHJVQlNEb0xRVVFZNTRTcFRhOUJWdXp6VGV0NklNM2Q2bC1FTWp3OUxFR1gyRHVUdVJ5V0ZGeThXWmlCR3NmbTFUcEN4QU81RmkzUnNIZ2tndE1SQXVvMktmOS04b2tPZ1VDcE9NVnhuWTQ0Tm1pNVQ3TmpXNkxPQjlvRll1OVY3dmhhRmNXYmo1Z2Yta04tWDhHVWFpcnlzZw?oc=5"
+    },
+    {
+     "name": "Bitcoin Foundation",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0xVT3F0bS1PQmpodlZURS1sd1VwQmx4ekdmRXNPc1k2UFNudWtpaFhkb3NKQmtlTVdTSDA0NmtpTzZ5OFhrbExCZFJaa3ZOQ2F5VzZOc0NtWkt2aHdpU2R6WVRVWlA3VlotQmdLeVpySmMzMDZwX1BSWGhDY2gyZ3RBVTRSdTVnMk5KU3dER29RRmkzSmoyazRvbGlnM3lURHFjd3p4SHhxTXRPMGdxMnhn?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVVQZ2JyazQwM2xMRmxTak1sMDJuR3JILTdSaENaLUVTUURuU3dsd2tiT1VCclM5REpHanNycE1JclZqa293RFV2bDNudERmUF9Cd1dGZE5LMlBDNU5Gb3BRMjlreG9HeWRPdVNXVUY3Y3dwU1NJRmNhdGJ1YzFyNUI4LTB3eXpEdXljRlBR?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers"
+    },
+    {
+     "name": "CCN.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWVjZkhkN0hTLUthOFBfVjRFRXNEQm1wWHZuQ3JROHlqZ0VhWktEekdSUEtmd09HT3JjYnotWXdONGdWWDdDM3ZJMEVRM19tTnBFZHpJSHZLLWJPaHN4V0FBMTk2enRWQmZoN3MzQVJob1lNdUxfa040MVpEUTQ3Qi1POEF2WGF1ZGN5N252dGRVQlU?oc=5"
+    },
+    {
+     "name": "BitKE",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObk1yeHcyOHlvSnJUTGJTSW5xN0VfTjBPRjRTM1VHUXZlRHF4Q1ZrOW5nenZrOGJHaTlkb2toeEZXVnpubFRQaWpUUkR5ZERoYnYxV2w1RkxRMzlCb3Z0YnVOaGpVeFpZcmh4VllLVmhkX2duSG9kaTVEVl9VTDNjOGNMTU5uaXZxelE?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHgwZVpnYXlNU1N6dTZ2ajRxZGo0bFVvblFXS19KMW5VVTFRb19YR0VZM1UzbmlLOHdRQzVjM1RMUVFvZXh0aDlWRlI1ekJPaVdGS1FpSS1sSzNNUnhrMUVweXl3eDVUdklpTktXMjVXTWkzUkJhaGRrNV9Gbk9RZHdvQUkxcnc1RVkzVmM3QTVwYTMwMl9YZmJJYTdsblFtaWVHTExR?oc=5"
+    },
+    {
+     "name": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqUEJHaVJUQTB6S1RWOGhlWEhRUmRxNXNOeUNsNG5YQmFfeHI1UzhiTUZTeGh1cTRxUXAyY0JxUS1URmhRVlVHdEZxVjRGa3VwZHhPVEFpUUhEUUJ5VDJQVzJ5aGRwdlNsVUhicFphSzNBWGM?oc=5"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCdWxTZEJOdXBSMGUzOTlDaU1ySUVBaFdaUDY4bUdrdmN4R2NFcHMxeEc4dkRZTW01TUhfbHlzN2tDeHNJMnUwbmFjd2w5UnJwSWJIU21kSQ?oc=5"
+    }
+   ],
+   "published": "2026-07-09T20:25:58+00:00",
+   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+  },
+  {
+   "id": "627b6bb3c98c",
+   "slug": "wall-street-banks-ban-staff-from-trading-prediction-markets",
+   "headline": "Wall Street Banks Ban Staff from Trading Prediction Markets",
+   "lede": "Major Wall Street banks have issued internal rules prohibiting employees from trading on prediction markets like Kalshi and Polymarket, citing conflicts of interest and compliance concerns, according to Reuters.",
+   "body": [
+    "Several large Wall Street institutions have moved to restrict or outright ban staff participation in prediction markets, according to reporting by Reuters and Finextra Research. The crackdowns follow the rapid growth of regulated platforms such as Kalshi and Polymarket, which now offer event contracts on economic data, elections, and financial outcomes that employees at these firms could theoretically influence or trade ahead of.",
+    "Banks are treating prediction-market wagers similarly to restrictions already placed on trading individual stocks or options in sectors where employees hold material nonpublic information. Compliance officers are particularly focused on contracts tied to macroeconomic indicators \u2014 such as Federal Reserve rate decisions or jobs reports \u2014 where analysts and traders may have edge derived from their professional work, according to Finextra Research.",
+    "The timing aligns with a broader institutional reckoning around prediction markets as CFTC-regulated platforms expand their product offerings into territory that increasingly overlaps with traditional financial instruments. Kalshi received federal court backing in 2024 to list election contracts, and both it and Polymarket have seen volume surge into the billions of dollars, raising the stakes for how employers manage conflicts."
+   ],
+   "why": "Bank-level employee bans signal that prediction markets are now consequential enough to threaten compliance frameworks built for traditional securities \u2014 a major legitimacy milestone that could accelerate regulatory scrutiny. For platform operators, losing access to a class of highly sophisticated, high-frequency traders may dampen liquidity on macro-linked contracts. Traders watching CFTC rulemaking should note that institutional risk-management departments treating event contracts like securities could strengthen arguments for stricter oversight.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Reuters"
+   ],
+   "primary_source": {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFhiZnhFd1J6SGZaMVFldDkyVUtVRERYa3hqS1BwQ3I5eWhpa081WkxDVk1wQmZnei1iVU9CMmJrZ1ZhNzBpRnd5ejdOUzExMDFENFRWWXRYOXhOaWNNUWM1ZlJGWHB1R3pvSEl1cjd0eEM1YkRsZUxnSkN5RmNiNU5fWm92YnZDNVNKbmM3M3pSWnRGOVhacVpteF9Bck9BR042cGpPSGViRkxQS21EVzNqTWJjMVpSbDdNVi1obW1zUTBUMnA1Ul83czU3dw?oc=5"
+   },
+   "source_title": "Wall Street banks rule on staff betting on prediction markets, sources say",
+   "also": [
+    {
+     "name": "Finextra Research",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzB2dV9MSGtnRGZHSXdHQlp5N0tGdk1YYU5WZFZSN245R2xUbktoRGNBMFdycm95OE1UbG9Oa2FyWHlPTVduMlBEbzc2RGJHMTJFZzdObTJMRHhOXzdOVmc1VUpoaDZ5QTg1S1ZsR1dTOVJFa21Jb1lEYTVmb2l0NXZSRk4xa1dfVTdtcFdoUHgxN0hOc1E4UmZtU2RDTDFJb1NwUWxRWmd2WV9SYWc?oc=5"
+    }
+   ],
+   "published": "2026-07-09T19:57:00+00:00",
+   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+  },
+  {
+   "id": "5f8facee2c9f",
+   "slug": "davis-wright-tremaine-insider-trading-risk-now-hits-prediction-markets",
+   "headline": "Davis Wright Tremaine: Insider Trading Risk Now Hits Prediction Markets",
+   "lede": "Law firm Davis Wright Tremaine published a compliance alert warning that insider trading rules now materially apply to prediction markets, urging platforms and participants to update their programs immediately.",
+   "body": [
+    "Davis Wright Tremaine, a national law firm with a prominent regulatory practice, issued guidance identifying prediction markets as a newly urgent frontier for insider trading exposure. The alert signals that as platforms like Kalshi and Polymarket grow in volume and legitimacy, regulators and prosecutors are increasingly likely to scrutinize trading activity for material non-public information violations.",
+    "The firm's analysis suggests that existing compliance frameworks \u2014 largely borrowed from traditional securities or commodities contexts \u2014 may be inadequate for event-contract venues. Participants who trade on contracts tied to elections, economic data releases, or corporate events could face liability if they possess information unavailable to the broader market, according to Davis Wright Tremaine's guidance.",
+    "The warning arrives as CFTC-designated contract markets, including ForecastEx and Kalshi, operate under federal oversight, making the regulatory stakes concrete. Unlike informal offshore platforms, regulated U.S. prediction markets carry the full weight of federal commodities law, meaning insider trading theories developed in futures markets could plausibly be applied to event contracts."
+   ],
+   "why": "This guidance signals that compliance infrastructure for prediction-market operators is no longer optional box-checking \u2014 it is a live legal exposure. Traders who hold information advantages on economic or political outcomes may face the same legal jeopardy as commodity futures insiders, a doctrine that has never been systematically applied to event contracts before. Prediction-market operators should watch for CFTC rulemaking or enforcement actions that use this legal theory as a template.",
+   "category": "Legal",
+   "entities": [
+    "Davis Wright Tremaine",
+    "Kalshi",
+    "ForecastEx",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Davis Wright Tremaine",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQenh5cVVRS1R3SnJkT3RlTnduZmlHakpNTnpIOFVSV01kSWVfUzBlYWMxQURQenRzbTBoaTNIZ3VJOExqWVlZZWRlZzdHcXhaa0ZnRDdrSjJRbGNlcjBLOWkzLThmT083UkhLM0JhZkhVeFk5d2NGb1RweFBwUmtKOVctMXk2UQ?oc=5"
+   },
+   "source_title": "Prediction Markets & Insider Trading: What Every Compliance Program Needs to Know Now",
+   "also": [],
+   "published": "2026-07-09T19:11:04+00:00",
+   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+  },
+  {
+   "id": "1679c91ffec3",
+   "slug": "goldman-firms-grapple-with-insider-trading-rules-as-prediction-markets-grow",
+   "headline": "Goldman, firms grapple with insider trading rules as prediction markets grow",
+   "lede": "Goldman Sachs and other major companies are actively developing internal policies to address insider trading risks posed by employee participation in prediction markets, according to CNBC.",
+   "body": [
+    "Goldman Sachs and several unnamed peer firms are crafting compliance guardrails specifically targeting prediction markets, according to CNBC, as platforms like Kalshi and Polymarket attract growing retail and institutional participation. The concern centers on employees who hold material non-public information \u2014 about mergers, earnings, or policy decisions \u2014 and could theoretically exploit that edge by trading event contracts.",
+    "Unlike traditional securities, prediction markets occupy a regulatory gray zone: CFTC-regulated platforms such as Kalshi list event contracts, but existing insider trading statutes written for equities and commodities do not map cleanly onto binary outcome markets. Legal experts quoted by CNBC warn that the absence of explicit rules creates liability uncertainty for both employers and employees who trade these instruments.",
+    "Companies are reportedly considering blanket prohibitions on prediction-market trading for certain employee classes, mirroring restrictions already applied to individual stock trading. The ad-hoc patchwork of firm-level rules underscores the broader absence of a unified federal framework governing who can trade event contracts and on what information \u2014 a gap regulators have yet to formally close."
+   ],
+   "why": "Compliance crackdowns at major financial institutions could significantly constrain the sophisticated-trader liquidity that prediction markets need to produce accurate prices. If firms prohibit employee participation, platforms lose a key source of informed order flow, which directly affects contract calibration and market depth. Separately, growing corporate anxiety over insider trading liability will likely accelerate lobbying pressure on the CFTC to issue explicit guidance on event-contract trading rules.",
+   "category": "Legal",
+   "entities": [
+    "Goldman Sachs",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3ZDRlhMcjd2S1JjNXRDTE5xOXdvaFo3WmRzaEZYdlBEd2p4RU1KWnJHOGVILUtLQngyZ25uNXZPWUxiS2RJZlE0YlhtOE1pLUFpcVd0aHNnbk4tT2VWT1pWZU9SYm5nTDlrUktXX1NyTmc1MFp2MEJ0VjFLa0xXRC0xeXZMa1pLRkYycGNwY09zZDJqRHh0d2RJNnhFZklXTHV4QWdUWGRkNVFJ0gGyAUFVX3lxTFBaSVdWUWx1SWJXNU0zNnd0c09VSzlaYVJmNHJ4NzlHc183NHBIZFdfMUdnQmdWREwtVjY0X0x4YVpkTUthY201WWRJeERaRmM1V3k4am9qd21XNzFLT1hhNlpnOTNwUENCSHpqcncxeVpFQXZBSTZZSnhSUF9CTm1wRjE5NXN1X09TQWZpTEZGR01EVU5scmhiQS00eUY3Y1d6OVRFMnloZi00Ylg4Z291U0E?oc=5"
+   },
+   "source_title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+   "also": [],
+   "published": "2026-07-09T18:52:22+00:00",
+   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+  },
   {
    "id": "2bb1c2127f5d",
    "slug": "kalshi-market-prices-50-chance-fed-raises-rates-in-2026",
@@ -1050,9 +1208,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFNrMExiRG91WlNvTW9oVFYyVzlBd21DTm1lb29LZFNGZ3lVWVlhckRGZUd0R3Ita2dJUTQxdnZJZjhqS0t0X2tHSUI5ejBTSF9vaDZuazk3MjFWMk5TcmtzVEdxQVl4ZUFHUURnT0JFd19ibng3RkhqR0xwZ19NSXBDTG96eHdTbDFzaTdMN3pvdkF3U2Z0V1h3cDN2Q2dNdng4N2EtekI?oc=5"
    },
    "source_title": "Since Kalshi\u2019s Launch, Ordinary Users Have Lost Half a Billion Dollars",
-   "also": [],
+   "also": [
+    {
+     "name": "Kalshi News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDduMEp3M0QxdFM1Q0dud1N6NlBJSjZFOUNJXzNZbUZ5ZTRER3VldjAzTWlTZUNEUWI1SHRkNl9BZWFoWmtESjhzWWU2ZmdRUGRBLTU4aEZaT0EzcUN4MVl2Z29TSFFsaU5NZTFubHhiclNTWS1jMDRuVU5RWmJ4aVY1cHhHQ2Fwd09rcTNOTmhYRjQ?oc=5"
+    }
+   ],
    "published": "2026-07-07T19:03:14+00:00",
-   "first_seen": "2026-07-08T19:49:56.195609+00:00"
+   "first_seen": "2026-07-08T19:49:56.195609+00:00",
+   "updated": "2026-07-10T17:56:54.895553+00:00"
   },
   {
    "id": "e251ca6317c5",
@@ -1136,11 +1300,15 @@
     {
      "name": "qz.com",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkk3Vm9MU0xJdWFjczBxTmFzOUlONGVoUVM2VnZ2anRIbWR4cUYwc3VTZHkzb21QV1RHa0xLcU9oLS1YLUY3UEU2T0ppaU9Ld2VWOTRPSHFQcTJpYUJpeWZJd1RHUHZPNGdzR0RrWElJWUhocjM1SHJhaktoMm5QMFhNdDhabVItaHRjZA?oc=5"
+    },
+    {
+     "name": "gamingintelligence.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNanJ5clV0QU56Mmc5Q1ZfYWdiNmdqcTkxYlRkNWRBbXRIMkNydnQ5dmQ4SzROLU9zSkZ5QWl5cjA3bVo5cU9kb3VaQjBDcmtOMk5KUEYzcDRIMTRJTjUzVUhQaG1MakEzMlBvWlA3OTZHSG81RVdMZkpCc3VFcDhCMzFiYlBxTUJxaFlmcTZXVFFVR2hpaExDdVlqd0R0TDF1VHJvTkFBRmZyaXhldjNabTY4ZHo?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-10T08:33:25.862636+00:00"
+   "updated": "2026-07-10T17:56:54.895553+00:00"
   },
   {
    "id": "6b51daf83d2e",
@@ -1576,11 +1744,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WVNFNC1yVVJyRV9aQ1lQTGIzTDc4d2tGbV9oOGdhRDNzUzZiWHlsSHUtVmhkdHhtM25qT3ZpQ0dvaTBoR28xU3JHR1F2c2p6ODI3eHE0RWt0WHhWMTN1TVhZWDNBWmJuZjI3Rg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1ZPd0Nnc2ZleFNKS25fenRnMTJFR1hsMTczYWkwNjB5RERYSjdOQjV4SUdhbGVDeHVkSllDZzZrMVpsVUNDbnp1djBMVzQ1OFpaQmhIYmlfYzVFbUNIR1ljSWY0Q2JuczZVajUxcHlNLWcxVTRtOEFKcWtuOWxmZWxWRU9mR1pUTTQ3NDN2VnNmb2ZFbWUxa2FTZw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-10T15:38:51.763323+00:00"
+   "updated": "2026-07-10T17:56:54.895553+00:00"
   },
   {
    "id": "3b83809e121a",
