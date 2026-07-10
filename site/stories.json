@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-09T22:41:03.433559+00:00",
+ "generated": "2026-07-10T00:15:18.401343+00:00",
  "stories": [
   {
    "id": "6a598eefc9a4",
@@ -26,6 +26,33 @@
    "also": [],
    "published": "2026-07-09T12:15:49+00:00",
    "first_seen": "2026-07-09T22:41:03.433559+00:00"
+  },
+  {
+   "id": "fc2afdf04096",
+   "slug": "lawsuit-challenges-prediction-markets-as-unreliable-truth-machines",
+   "headline": "Lawsuit Challenges Prediction Markets as Unreliable Truth Machines",
+   "lede": "A newly filed lawsuit argues that prediction markets systematically produce unreliable probability estimates, directly challenging the core claim that these platforms serve as accurate forecasting tools.",
+   "body": [
+    "The legal action, flagged by American Banker, takes aim at the foundational premise of the prediction-market industry: that crowd-sourced contract prices reliably reflect real-world probabilities. The suit contends that market mechanics, manipulation risks, and thin liquidity routinely distort outcomes, making price signals less trustworthy than operators publicly claim.",
+    "This challenge arrives as platforms like Kalshi and Polymarket are experiencing record trading volumes and aggressively marketing themselves to mainstream audiences as superior forecasting instruments. Kalshi, which won CFTC approval to list political event contracts in 2024, has leaned heavily on the 'wisdom of crowds' argument to distinguish prediction markets from conventional gambling.",
+    "The specific legal theory and named defendants were not fully detailed in available coverage, but American Banker's framing suggests the suit could implicate disclosure obligations \u2014 whether platforms overstate the predictive accuracy of their markets in marketing materials, raising potential consumer-protection or securities-adjacent claims."
+   ],
+   "why": "If courts accept the argument that prediction-market prices are not reliable probability signals, operators face serious exposure on marketing claims and could be forced into costly disclosure overhauls. Traders who use platform prices as inputs for hedging or investment decisions may also reassess their models, reducing liquidity. Regulators at the CFTC, already scrutinizing event contracts, could use an adverse ruling as leverage to impose stricter accuracy-disclosure rules on newly approved markets.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "American Banker"
+   ],
+   "primary_source": {
+    "name": "American Banker",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbG5vcjZuXzc5SmRyN1dJTnhHaGJxRGRJa2dCN1U5bHJlMEh3R1p0aVhTTnZVeC1mYWFfQi1pLTB1TUlrekFOU1NjSmNId0dvUFNlaG5CUXp3RWFyd2g4Wkx0cVdfeTdrZHJJTVc5MXF3OHlUUWlSS0tlTnVFdEF4TGdtOHNHOWx2YkkwUS1jZ2VOWUlIT2lF?oc=5"
+   },
+   "source_title": "Prediction markets are unreliable truth machines: lawsuit",
+   "also": [],
+   "published": "2026-07-09T11:05:00+00:00",
+   "first_seen": "2026-07-10T00:15:18.401343+00:00"
   },
   {
    "id": "5184d5c5282f",
@@ -867,11 +894,19 @@
     {
      "name": "Arizona Mirror",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHVGWTBHSldzZFVrNnFka3BHMmZfSW5UYnAtR21fTThpQktVcG01QzhkQ1JvelpUZnlsMWVEVXVOVVRuVzB6QUdkRHhrXzdKcG1YeE1GSGNHZXZTdmIzVElLUjRCQ28yUFFlR2V4V1BlWm45MTR6WHZ5NXBwcV9kM1I0cmhIWldfUnpsNGl5VU96NkJXN0ZrWWpab2RwMFh3WDdPVGJpemdSbnhxZWVBbHliZEh3N3VQQVBF?oc=5"
+    },
+    {
+     "name": "KOLD",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGx4MVBEd1dJaGxXYXBldjdOeDN6V2ptQjRKWjg0Y1VxWWRRZGw3aGp1MnFub1VtT21NMkYtVXZGcndua2JTOGFGOVNzREFkQ3lOVnNySVdGY1hWdFhQWUlmVnB1R1c0TGVRMGpINXhubzBhMjZGRmRzRFNJMVl6dEdnQVM2NjljZGVwVlA0WU1jeFdJdEVyMWNZSTFLMFE?oc=5"
+    },
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2hnZC1jZmd2NXRXM3RwTVEzQTAxdHdLUXRweTBoMmhtVXpZUG40QWgxbkM5ck9KZGRoZ3JfSTJpRVN2ajB0eGdYRkFZY0ZITEZhWWxCX09wVmhIUDhPYmpKNWhIVld2S0wtUXczRncxMGRuY2poRGdmSlpXQTdwSXBMYW80ajdzd3FZQ0o3dG9EekJZUkx3Q1NTZkxSeE54MHRfRENyNHdrSDRUTEZRNEZOYjlMZjVYT3EzTUxfaW83TjBOVms2ZGFVZw?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-09T20:54:36.676188+00:00"
+   "updated": "2026-07-10T00:15:18.401343+00:00"
   },
   {
    "id": "6b51daf83d2e",
@@ -3148,11 +3183,15 @@
     {
      "name": "LegalSportsReport",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGIzRTdZTF96ZnF3dzlhTXF2R1ZMR0huTW5ma0tpZzlpcjZjZWVaNkdHTTIyR3pMSHpraW8zdmZPTUxpY1V5MHJNbWJ5XzcxVVJhanhhOEVlXzlmbkVCWlhVUXVHUXMwWE1BUEo3aEMyY1dtcGpfVEJDYWdDNm1iSU9Yb19aUjFLQlRRdmFZOG1oQko5dHRYUFM0dF8?oc=5"
+    },
+    {
+     "name": "The Coin Republic",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONklaYXNzbE5Qck1GOHRjcnBLRFczWWMzX2paZnBYOWp3a3pMM0dqeFlTUVBvcm50ZVE4ak1LTnhKMWNWY0d5VzQ3aURWbGpFMEJaeUdlalg1LWw4bG5TQy0zOWxCUUNvM0ppNjZMeU4ydGl6Z2ltQ0FraXZGaVItQW55MGJZX2VjMExYU0EzdFk0N3RqaVhGU3Mtd0UxWlJwOWhaUUV30gGrAUFVX3lxTE4xUGtCTFZ6akxoYlBNRFExdE16Zk9tVmdOT2ZNam54RFpRak5PMWhIZjdiRXRjTDdKZ1d2V0RNSV9fZVVMWERRVTQ4MzBtWUFJR2dKTkM2eGZEaXJBQ1E0Zm4zdnFkVmdlNkwwTkNhWk5IeV9KVk9HV2lnU29CekMwZUR5T0gzRUdPVjlxUG9mdGpQblprbDl3cEhramhOY2hVVjZ1TDhIRlhWSQ?oc=5"
     }
    ],
    "published": "2026-02-13T08:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00",
-   "updated": "2026-07-07T18:12:12.966729+00:00"
+   "updated": "2026-07-10T00:15:18.401343+00:00"
   },
   {
    "id": "3ae25bbdb32c",
