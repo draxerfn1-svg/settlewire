@@ -1,6 +1,88 @@
 {
- "generated": "2026-07-10T19:47:30.401982+00:00",
+ "generated": "2026-07-10T21:15:53.877058+00:00",
  "stories": [
+  {
+   "id": "76c1a9f2e354",
+   "slug": "italy-re-blocks-polymarket-prediction-market-back-on-banned-list",
+   "headline": "Italy re-blocks Polymarket, prediction market back on banned list",
+   "lede": "Italian regulators have added Polymarket to the country's blocked-site list for a second time, cutting off access to the U.S.-based prediction market platform for users in Italy.",
+   "body": [
+    "Italy's gambling regulator has placed Polymarket on its national blocklist once again, according to SBC News, marking at least the second occasion the decentralized prediction market has faced a formal access ban in the country. The move effectively prevents Italian internet users from reaching the platform without the use of a VPN or similar circumvention tools.",
+    "Polymarket, which is based in the United States and operates event-contract markets on topics ranging from elections to economic indicators, has faced repeated regulatory friction in multiple jurisdictions. Italy's regulator has broad authority to block unlicensed gambling or wagering-adjacent services, and prediction markets occupy an ambiguous legal zone in most European countries.",
+    "The repeated nature of the ban \u2014 described by SBC News with the headline use of 'once again' \u2014 suggests Polymarket had previously been removed from the blocklist, either through a technical lapse, an appeal, or a regulatory reassessment, only to be reinstated. The cycle underscores the persistent compliance challenge facing unregulated event-contract platforms seeking global user bases."
+   ],
+   "why": "For prediction-market traders, Italy's renewed block signals that European regulators remain willing to act repeatedly against platforms that lack local licensing, even after initial bans are lifted. Operators watching Polymarket's expansion strategy should note that jurisdictional whack-a-mole enforcement can erode user growth in key markets without a formal legal resolution. Regulation watchers should track whether Italy's action influences peer EU member states to coordinate blocklist policies under existing gambling harmonization frameworks.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Italy",
+    "SBC News"
+   ],
+   "primary_source": {
+    "name": "SBC News",
+    "url": "https://sbcnews.co.uk/sportsbook/2026/07/10/polymarket-blocked-in-italy/"
+   },
+   "source_title": "Arrivederci for Polymarket once again as Italy places firm back on blocked list",
+   "also": [],
+   "published": "2026-07-10T12:23:32+00:00",
+   "first_seen": "2026-07-10T21:15:53.877058+00:00"
+  },
+  {
+   "id": "9669b9c44a8b",
+   "slug": "polymarket-launches-50-deposit-match-promos-tied-to-world-cup-quarterfinals",
+   "headline": "Polymarket launches $50 deposit-match promos tied to World Cup quarterfinals",
+   "lede": "Polymarket is running partner-specific $50 bonus promotions in July 2025, requiring a $20 deposit and unique promo codes, targeting prediction-market activity around 2026 World Cup quarterfinal matches and political events.",
+   "body": [
+    "Polymarket distributed outlet-specific promo codes \u2014 including NYPMAX, SPORTSLINE, DIME, FOX, and OREGON, among others \u2014 each unlocking a $50 trade bonus upon a $20 deposit. The campaign, active around July 10, 2025, is timed to Spain vs. Belgium in the World Cup quarterfinals, according to coverage from the New York Post, SportsLine, and OregonLive.",
+    "FOX Sports noted its code also applies to Conor McGregor vs. Max Holloway alongside the soccer matches, signaling Polymarket is bundling combat sports and football into a single acquisition push. The multi-outlet rollout spans mainstream sports media, golf publications like Golfweek, and NBA team blogs such as Denver Stiffs, reflecting a broad affiliate strategy.",
+    "The promotion represents a notable retail user-acquisition effort by Polymarket, which has historically relied on crypto-native audiences. Tying bonuses to specific match events \u2014 rather than open-ended deposits \u2014 creates natural expiration pressure and concentrates liquidity in high-profile short-duration contracts."
+   ],
+   "why": "A coordinated affiliate promo push signals Polymarket is actively competing for casual sports bettors, which could pressure Kalshi and ForecastEx to respond with their own incentive programs. Traders should watch whether the liquidity spike on World Cup contracts distorts short-term pricing on those markets. Regulators tracking retail marketing practices at CFTC-adjacent platforms will likely take note of the scale and sports-media reach of this campaign.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Kalshi",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "New York Post",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUs0bmtzS2VJOEhpQTZZOFJjc01xVnR6S3c3YjZFUTlxV0lxZE1sVEowWlVhSDlWNEhrd1BIWm5DMGE2bVluTjVmOXpGd2NGcEo1MTRKdThsY0VpdkNoZE1yM3lDWDZ0ZVNPLVFkdzhLNXVDNVROVzZydmFuQjIxYlBndGRsNWx3U1JHOHMwaVJsd3NsbkJRVWQyX0NLZ1RUV3A4T3lZZmg5ZURzbGdzTkozaw?oc=5"
+   },
+   "source_title": "Polymarket promo code NYPMAX: Deposit $20, get $50 for World Cup quarterfinals",
+   "also": [
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdMc0VMUmJZa2VYSENVa2twdjFCQWE4RXdWY1BySnFxam1CS0lLOThYMGRhd1MzVzY2NG41TnY5WW5tT1V6ZzA0WDdGdE9qRVFQNUQxZURwdHdtVHIxaVpnU1lLcjZ1ejR5U0NrMTZGLVpxUUZ4RjBya3I4UWJmUHJpS1pjSTlPb25RLUVWNUhSVEFXWkhVdlRHZEg4eEx5aVU3Ykx2V2NYVE5EWGNoU0lwSQ?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQk5UaDFxdkFXVEhxSUZPV1lNb0JUVkJ6MmE0QjlFSnIzeExxV2NIUGttLWREY1dMMjZYVnhHNDBlcXE2YjZrOWxWNkh5bk9WMkREaExfdHIyRmF3QkU0bDFGUjlDNy1CNUFmeHJ2TzVpbnVIZW5Db2hoelFJY3R0QzUxQmZlRVdUMWNPSVFQNGdtVG81d2NYUDdRLVI5OHF4aG9mNDIyV0pvSk1uM0lPV3RrVkNxa3BwOFpTVldlbXNMZw?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnp4ampBdmR4SllocThrZTZMcXFNSDNsNzRTaFRoMUxZc2dBSnZaVWpIclB1NlM5WV9MTWI4WE5IbEwwZk1YcGF1SUZYX1lRM08wVU9KTlFCejZXbzZRMDBYNDRZLUEzeVRJNVVleTFjS2IzYUNfVzgwOU45MTk0ZVZvSkp0VHdmb3lTZlFwcmpFR3ZOcVRGZUVIVjJYbW5HdmRRa01XWG1DX0otYUluNDdwVURJbnRzaWIta092MDE0YjRTdG5ZZg?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnpDSjJaazJWYnhfblAwNGR1ODdNMmg3a0tTcFlhY1hHWkRiS3Z5azNrWXJsaFk0RXV6RGhoaGxfLW90ZVVKY3pmNzlwWjZsZlVWS2JLT2VZQXlDUmpnWWF5YmpybUFxR1VwWFVEdVBrREREUWtyRUt1RUo0MFY4SWtIcUNENkFNbDE4ckZQWEV1Nk9NY3F0NXN4czRUWTh5YjJOcVBJbEE?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzhHTEkyWWtNUGxkM1BWdDZiTl85YlFNWk9OLWhaX0QxQThFWTFVR3NOX0xyQWg5aDJicUd5MHlLMk9YRjZ3UWthdGdtVjJrM0dGY2pBcUhCbUFFc3Fta19iRHZIcmVTQ1BMdVQ0cXFzOXZUZVB2RWpOY3N1MzJJaWVhVEd0UFlmRk5PUGtfWW1Eci1VaE9vNk9VTUVoQjMzQVlZeGtSX2xCbkdVX3U0TVgxdFJpdDVSLXgtNndlMnFMOU9weEpNUXln?oc=5"
+    },
+    {
+     "name": "FOX Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUXVxcGdFcTJ1ZXVVc2pFZFkxaXdEZzloN0UtRnd6bzZBT3ZDM3hsWWFNSnN4VmZjR1o0MkN5V0daeXVJN3YyTUdEdXFHUGlkSXRnR0t1NFJqeDYwcFJybjhNcW1mel9vclV3WXo0a3M2Zzh3UldNc2kxc0xCM2ljVWdMRElIM1VjQ2pOSUo4cVFqdG9LVVFzY3BxdDRGSHBZVkllMWZ0c292UXhYMjQ1RE8zSmRzbVhFaE1iYXBOcEdtRE4xdWkwbE84ZTBDLWl2NS04aEJhUdIB1wFBVV95cUxNUGZhLXRtTmh4cW8yOThXaExfQ3NGNldrTk84ZWdhT2ZvN3JDQlpYMHZGWEljVGpPOFVkQmNSRjhsM3V3Nm5ZbC1hT0g3bm9BVldVOTdOWGVIaEhqVHBzRmFzVEpuSGJOWjdNMzR1TDZyakZ1cFpYRmpMcC1RUmJhWlBSWjFVTF9nanl6NWpxR1VMWHhXV0taN3lKYUFXai1XQm1SSXJ2NjAyQl9LNExWNFhJcEtDMm1mNURnVjBxSURmRTYzUFctTVd2N0NPMnhVZ0JuZWZ3QQ?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmZnSF9ZWlh0Y0dPdUNiVVhLWGlNSTd5QWJiM2hmaTJGc1h4ajAxSXU3aEV0SlBNRFdlZzVuVl91X3VRRlpsOFJvQXg0LURXQm1OaEtZbkJ4TFU2eVI5ejJFdFlBN3o5V3lFUW5YSk00NVpDak1hSDJhZ3Q5b0tkYmFCUnlrVW9FaDdyUU5HamFsYnI4amw2Z1VUYTZ2aC1lSnJtNFVQbktrSE9kcGc?oc=5"
+    }
+   ],
+   "published": "2026-07-10T12:00:00+00:00",
+   "first_seen": "2026-07-10T21:15:53.877058+00:00"
+  },
   {
    "id": "9ad7a6a26958",
    "slug": "polymarket-advances-u-s-return-with-new-margin-trading-framework",
@@ -148,6 +230,33 @@
    ],
    "published": "2026-07-10T05:51:59+00:00",
    "first_seen": "2026-07-10T19:47:30.401982+00:00"
+  },
+  {
+   "id": "ae8ea53197ba",
+   "slug": "goldman-morgan-stanley-ban-staff-from-prediction-markets-allow-sports-trading",
+   "headline": "Goldman, Morgan Stanley ban staff from prediction markets, allow sports trading",
+   "lede": "Goldman Sachs and Morgan Stanley have prohibited employees from trading on prediction markets such as Kalshi and Polymarket while permitting sports-betting activity, according to Casino.org.",
+   "body": [
+    "Goldman Sachs and Morgan Stanley issued internal policies barring staff from participating in financial prediction markets, including platforms like Kalshi and Polymarket, according to Casino.org. The distinction drawn by both firms is notable: sports wagering remains permissible for employees, while event contracts tied to economic or political outcomes are off-limits.",
+    "The banks' concern appears centered on conflicts of interest \u2014 traders and analysts at major financial institutions may possess material non-public information that could be exploited on prediction markets covering interest rates, elections, or macroeconomic events. Sports outcomes, by contrast, are seen as sufficiently removed from the firms' core business activities to pose less compliance risk.",
+    "The bans arrive as prediction markets are experiencing rapid mainstream growth, with Kalshi recently expanding into sports event contracts and Polymarket recording hundreds of millions in monthly volume. Compliance departments at large banks are now scrambling to write policies for an asset class that regulators and employers alike are still defining."
+   ],
+   "why": "Bank-level employee bans signal that prediction markets are now viewed as material enough to trigger institutional compliance regimes \u2014 a strong indicator of the sector's growing legitimacy. For Kalshi and Polymarket, losing access to a cohort of sophisticated, high-volume traders could reduce liquidity depth in complex financial event markets. Regulators watching how major institutions self-police here may use these internal policies as informal benchmarks when drafting formal CFTC guidance on participant eligibility.",
+   "category": "Legal",
+   "entities": [
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "Kalshi",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Casino.org",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX05WZmRQN1V4RExsNTdjaHpvS1U0QVR1a2EzN2o4MUdYN0VrOW9mUXZjTFBTOW1uMXB2WXJWSGtJVGw4RmF3eGZGRDVJdUVzdV9CN2Uyay12Zl9HY2dTaXl1Y2UxdWhBak1YLVN4UGdHU0F0LWMtMmMtLW9EMTRMTHBja3BucVRiVThJMldRSWlfZjc5WU9VYzA2TjRpN1VOaXpfTlhQeXU4X0VacUlz?oc=5"
+   },
+   "source_title": "Goldman, Morgan Stanley Bar Staff from Prediction Markets, But Sports Trading Is OK",
+   "also": [],
+   "published": "2026-07-10T02:26:56+00:00",
+   "first_seen": "2026-07-10T21:15:53.877058+00:00"
   },
   {
    "id": "efb045bab74a",
@@ -1545,9 +1654,19 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJYWjMzZ1pxaGRJSVhjZWdSU0owaHNObGdPZlZWVW9jZG0tRjVfQ0txQU1STXY5bnc5aTFRdTJuTkR0ZjB0VWFoSTRwaVU2M19MMUpPcnFNcTRad1dabWRCUUd0bEVGMkhwazRpb3l2VTV3bW9xNUMwbVRrRWZuX1plYnNwek5YVG8yY0F3Yw?oc=5"
    },
    "source_title": "State of Play \u2014 Prediction Market Exchanges",
-   "also": [],
+   "also": [
+    {
+     "name": "NEWS10 ABC",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeHdFRFBGYm5JRlhabElvaTcwUU96M0ZPNE5nNnZVZ1pqcEFBYTQ4cWw2YWxQVjhpaGxjeXdZSkZHNFMzeDNVY3RqUXpzMEdMZWZ4bm0yNVF4TDVOb3ptM3A2dEV1NHFXRWZRbENnNXo5S2RPZ0xNT3JxRmdkNUpBODZzWERqa1pnLTgtRllxVFpnQQ?oc=5"
+    },
+    {
+     "name": "NEWS10 ABC",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDdPNkVKc042UUdXYkozX1ZzOFl5MkJLLVNZbExoSFBVbVNTT2dNbHpfQUhuR1NXeFdBdjJuMTZqX0ZqN19SRTgyXzE2Vi1CdDdWQlBYYUdzWGJXSlZlMWxWNmluMWZkYUUya2RKcE9Cc0xTLWxKVUpjcl9teTlsV3BkMXZjeDRSSnNxdFBHd0p0QmhVUl9fbHd6Ql9jRHd0UWtvcUR5eS04NGRGOFVZVFdZREzSAboBQVVfeXFMTzY4VlREUmlod0o5VkVYV1JsVXA4VEFRdkloWVdHSUY3SVlpdEtYWWNMUExDWm5FZ3dEY0QxSWVXMk5Fa2YtdjVnYnRfSEhSeVIyZ3RoSTJNMWpLVk0wMl9MWmdmeHNEU0NQYkszeFlDWGw3Z3R5bkwtMDVSWmt4TzN4Vlo0N0o5STBRWmtzQ1pydTJkX2NPMGk0eVBZS0VZSy1wLVdkSV9DMGJiLTdjNGNYbk9YV0w0dERR?oc=5"
+    }
+   ],
    "published": "2026-07-07T16:36:49+00:00",
-   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+   "first_seen": "2026-07-08T17:48:48.993577+00:00",
+   "updated": "2026-07-10T21:15:53.877058+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -1937,11 +2056,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVg3STdSTXNHd0tjWGU2M0htbFE1WTdwOHFfMFE1VXEyNWJ3RnZWOHNQMnMzSVNzeGtwa2xPdWhRSlpnZW03NmdEMU5YbFc0RExQYjZ1T3JqVGZ6T3E2dEtKU0FiU1Y5cVpBdUh0RXloMTZlRFNxb0ZpU0ZWWnBVV04xWEZkdE1hNFA3SnJuM0NQYl9mY3dlQk5fR0xnT1ZUZV9oVWhhYUZ2Ym1Z?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJxMkFHZ0NRVUJpb3FZZlNpcjVDUEhVOWM2NGNuSkFpcG5CWGhERHRiR1RyU3B6NGtOd2VpdVZWSEpzZ1ZNSTNpTmU3emtpaWtRVE1nNHpyd3dRbEp3RC10LTE2R2RGdDRJZERGQnJVVmhfS0ZhSWdsQ2hWLUtobkMyNEVuckR2d2l5Y0FqWFRJR2d5LUhCVjIzYWZjUV9JTjQ2YTd3?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-10T19:47:30.401982+00:00"
+   "updated": "2026-07-10T21:15:53.877058+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -3633,67 +3756,6 @@
    "published": "2026-04-21T14:51:50+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00",
    "updated": "2026-07-09T18:57:25.549903+00:00"
-  },
-  {
-   "id": "6f6cd2f67d1d",
-   "headline": "WilmerHale breaks down path to CFTC event contract compliance",
-   "lede": "Law firm WilmerHale published a practical guide explaining the regulatory steps required to enter CFTC-overseen prediction market trading.",
-   "why": "With event contract platforms scaling fast, compliance clarity from major legal counsel signals rising institutional appetite and could accelerate new entrants building regulated venues. Traders should watch for a wave of new designated contract markets that could fragment liquidity across competing platforms.",
-   "category": "Legal",
-   "entities": [
-    "WilmerHale",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "WilmerHale",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODdyN2pPelJhSFloNUpVeHpIbV9nNGJJdXhHWHBfZ3VmdjNIZHZnbWVmekJ3dURhRzhVYmtSN1VLRWw5QVg2c0swbkxaUG45Q3dqZzZFRVFPcWFTWFZScVdpbWNhaThfeC1pRjltNHZRVEE2ekZjc2lEb0xweDVjcXItTWtlWFVPQ2wtRUJUXzU3dmxjbkQyTUpndzRQTEFuMkdVX2kxVFIzdUQwRXo3RkI0dWZidlpmUkVMUVFSUVgtMXJzd3Jrc21JWV9jRnNT?oc=5"
-   },
-   "source_title": "Want To Get Into CFTC-Regulated Event Contract Markets? Here\u2019s How It Works",
-   "also": [],
-   "published": "2026-04-15T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "a9daf5c481bd",
-   "headline": "Third Circuit backs Kalshi, upholds block on congressional bet ban",
-   "lede": "A federal appeals court affirmed a preliminary injunction allowing Kalshi to continue offering contracts on congressional election outcomes while litigation proceeds.",
-   "why": "The ruling strengthens Kalshi's legal standing and signals that courts are skeptical of CFTC authority to categorically ban political event contracts, which could embolden other platforms to list similar products. Traders pricing regulatory risk on competing platforms should treat this as a meaningful reduction in the probability of a near-term federal crackdown on election markets.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Third Circuit",
-    "Skadden Arps"
-   ],
-   "primary_source": {
-    "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmd4a3V6WU5vcEZlaHo4RGJyazE4UTJtRkRoNFNLa0FoMTBUeHFoRDUzVnd5RmRWR0MxLTJKQms4eG9KZlY3M2tVVW5zRFpwVU9OOWYzY3dIYkk1a0E4blNzekIwV0RYclNpWmxmcVl3SFI4ZUpBa3Jnd216a0FlZkc2N2FyN0pXV0FvUWhJclZEc0xZSmV3c0wzMDRpQlZiOGZ5UzJNTjNaUQ?oc=5"
-   },
-   "source_title": "Third Circuit Affirms Kalshi\u2019s Preliminary Injunction",
-   "also": [],
-   "published": "2026-04-09T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "e3bbc6078628",
-   "headline": "CFTC moves forward with formal prediction market rules",
-   "lede": "The CFTC has taken concrete steps toward establishing a dedicated regulatory framework governing prediction market event contracts in the United States.",
-   "why": "A clearer ruleset could unlock institutional capital by reducing compliance uncertainty, directly boosting liquidity on platforms like Kalshi and Polymarket. Conversely, codified rules may impose operational costs or contract-approval burdens that disadvantage smaller or offshore operators.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "Norton Rose Fulbright"
-   ],
-   "primary_source": {
-    "name": "Norton Rose Fulbright",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2kzRW5oQ1FTaHI2SWNIRzlockJMNG9BLTJTVk56SmY1RHVvc0g1Ql9qQWtvV1BjLURkbTBxbnU1YlVrUElseHVzaVVwYklVMDhydlI5dGszREV4NC1PbnBKWjlZVkJWdmIwYzR5b01kcWhHbjVFeEZXUnlaSkR2TkZiR21mMWJDNVBkd0hUR2M5dzVsaHlLdHlkZjZZemNKUm9VN2N6Q2d0bDVOSEpjc0stc2lQRUhCbmpzZTBPS0RPN2tHbnlEVVNtZw?oc=5"
-   },
-   "source_title": "CFTC advances regulatory framework for prediction markets | United States | Global law firm",
-   "also": [],
-   "published": "2026-03-20T17:03:37+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
   }
  ]
 }
