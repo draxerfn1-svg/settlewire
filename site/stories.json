@@ -1,6 +1,60 @@
 {
- "generated": "2026-07-10T12:07:30.143112+00:00",
+ "generated": "2026-07-10T15:38:51.763323+00:00",
  "stories": [
+  {
+   "id": "2bb1c2127f5d",
+   "slug": "kalshi-market-prices-50-chance-fed-raises-rates-in-2026",
+   "headline": "Kalshi market prices 50% chance Fed raises rates in 2026",
+   "lede": "Traders on Kalshi's prediction market are pricing approximately 50-50 odds of a Federal Reserve rate hike occurring sometime in 2026, reflecting deep uncertainty as Fed policymakers remain publicly divided on the path forward.",
+   "body": [
+    "According to CNBC, Kalshi's event contracts on Federal Reserve policy have converged around roughly 50% probability for a rate hike in 2026 \u2014 a striking signal given that mainstream expectations just months ago centered on cuts, not increases. The market-implied split mirrors public disagreements among Fed officials over whether inflation risks or growth concerns should dominate near-term decisions.",
+    "Prediction markets like Kalshi aggregate real-money bets into probability estimates that traders treat as a live alternative to survey-based forecasts. A 50% reading on a binary outcome is the market's way of saying it has no edge \u2014 equivalent to a coin flip \u2014 which itself is informative when consensus narratives have historically leaned heavily in one direction.",
+    "The Fed policy contract space has grown significantly since Kalshi won its legal battle with the CFTC in 2024, opening the door to regulated event contracts on interest-rate outcomes. Competing platforms including Polymarket and ForecastEx also list macro policy markets, meaning cross-platform arbitrage and liquidity dynamics are increasingly shaping how these probabilities are discovered."
+   ],
+   "why": "A 50% hike probability on a regulated exchange like Kalshi gives traders a quantifiable, liquid reference point that can diverge from Fed Funds futures \u2014 creating potential arbitrage opportunities between traditional derivatives and event contracts. For prediction-market operators, high-volume macro contracts validate the case for expanding into financial event categories, which could draw regulatory scrutiny about overlap with CFTC-regulated swaps. Regulation watchers should note that a contested rate-hike outcome in 2026 would be a live stress test of Kalshi's settlement infrastructure and CFTC oversight framework.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Federal Reserve",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmFLNEMzbXV6VmR0RE43N2NZcEhIeWdWUzhCUDluSHc3aS1fc1BnOFdFR1I3WUo1OUIwM3Vwb0FZT1lDaFhsWU5fTGJSMlltc0JIRFQ1V2tieHBEQktnYkJuU1hSUUhLQ1VST3JxVGl1OTdtRmFEdzJkalJNS01nSjc3OXAzd2pKeHhTOG5LYUlTQXV2ZE9qaU1UMHVzRHNWdU90ZHl1SnpXZi0yX1ZTSGQ1bkZ5bDZqaTRqQ2ltcm5Fay0xUUHSAcsBQVVfeXFMTUpaVE9Yd09wRkE4a2J3SklaNHk2Z2RKSXVab0RXVzQ2Qy1SWDh1NjY5T1pKWVFWRUU1M3JhdlpKQWc0dXpXVGlwRXVuMUJGdE9CVkg4T0duR3MwZkRLenhseGFST01vVXJTeUV1VElGZGpWdVNreDVxS1RWNGc3UTBBaUFqR0szLWduN1dYNjFsSy1UVTQ0Q0FvdUhvdkppU3doTDJsRkRnTkZ6aEc2VHZUOHFEYlJCRGdPTXQtMUFpXzRPZHdDZWEySWM?oc=5"
+   },
+   "source_title": "Kalshi traders see roughly 50% odds of a rate hike in 2026 as Fed is split on policy",
+   "also": [],
+   "published": "2026-07-09T18:21:16+00:00",
+   "first_seen": "2026-07-10T15:38:51.763323+00:00"
+  },
+  {
+   "id": "b2025bea9b31",
+   "slug": "kalshi-traders-bet-gas-prices-stay-elevated-amid-u-s-iran-tensions",
+   "headline": "Kalshi traders bet gas prices stay elevated amid U.S.-Iran tensions",
+   "lede": "Kalshi event-contract traders are pricing in persistently higher U.S. gasoline prices through mid-2025, driven by renewed geopolitical risk tied to escalating U.S.-Iran tensions, according to CNBC.",
+   "body": [
+    "Kalshi's gas-price event contracts show traders positioning for above-average pump prices to persist, with market sentiment shifting notably as U.S.-Iran diplomatic relations deteriorate, according to CNBC. The crowd signal emerging from these contracts reflects a view that near-term supply disruptions tied to Middle East risk are not adequately priced into conventional energy markets.",
+    "Prediction-market participants on Kalshi are effectively aggregating geopolitical risk into a single, tradeable probability \u2014 a function that traditional futures markets perform only indirectly. The contracts give retail and institutional traders alike a binary, cash-settled mechanism to express views on whether average U.S. gas prices will remain above specific thresholds over defined time windows.",
+    "Kalshi, which gained CFTC authorization to list economic event contracts, has been expanding its energy-related offerings as a way to demonstrate real-world forecasting utility. Gas-price contracts sit alongside its existing elections and economic-indicator markets, broadening the platform's appeal beyond political betting."
+   ],
+   "why": "Gas-price contracts on regulated platforms like Kalshi offer a live sentiment gauge that traders can use to hedge or speculate on macro energy risk \u2014 a second-order signal worth tracking if Iran tensions escalate further. For prediction-market operators, high-volume energy contracts validate the case for CFTC-approved event contracts beyond elections, potentially accelerating regulatory acceptance of new asset classes. Regulation watchers should note that sustained trading interest in commodity-linked event contracts could invite additional CFTC scrutiny over the line between hedging instruments and speculative products.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "U.S.-Iran relations",
+    "gasoline prices"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctSGlTTWVMLXEyd084b1lMcWw1Q0NCV29JZDNtV2pCM2FQNHBjUzRRUGotYjFQWjVSZVpfcTBfSkVEZUZUaV9TdzhvYW1pZk42dy12MTVVUHd6bFpnQkYtb283ZlVvZ3U2RWFfTHZrRmE5ZUpsdXA5ejlmcEZBYWVsOTJFbFJzbS1VUHJ3Rm9zdDljd0QzZExkNjZ0T3RERkY3X9IBqgFBVV95cUxPRnFCQzNaZ0ZBMTRMcTQ2UF84djhESWxVWXVHT1FsaHoxbU5EMDU0NzFTWm9hZkpIdUVqdC1wMUpNcmt4THg4Z1FnUFdMU21mU3U5alp1amNjcE50WjJzWEFXVVhQcFhwNlBKbmc5czhsLUZRdVlwdXA5Mk9tc3V4aE9NeEM5MThYVF9TT0J2QlVkdkk0VEtQaWs0XzhkcGE0OVl0VVp6eDJ2Zw?oc=5"
+   },
+   "source_title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+   "also": [],
+   "published": "2026-07-09T18:11:22+00:00",
+   "first_seen": "2026-07-10T15:38:51.763323+00:00"
+  },
   {
    "id": "34e4c67d2e8c",
    "slug": "arizona-gov-hobbs-signs-executive-order-targeting-prediction-market-insider-trad",
@@ -24,9 +78,15 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sVl9iMEhoUUQ1LTF1N1RjcHdaQ3VwaWdrSVVINHROUkdQY0V4bGVudzdmdnBIRW0tSXVWWXdPRXVZTmFwamthQTV4UFh2X21xZkM4ZGQwRFFVZHNsdXlmM1NWckhXRG5IQWp5VVBlVllYOXRrZGc4NjlFQQ?oc=5"
    },
    "source_title": "Arizona Gov. Katie Hobbs issues order targeting insider trading on prediction markets",
-   "also": [],
+   "also": [
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRdIBuAFBVV95cUxORWZDWElwN0Frck1DbEc1VFgzVzlQVkI5UVpNQ0tRVzg5Z212OUNoWldNQjZHaHVsUGdxTERTendwNFE1ekxLenVPMWdMa0ZvZHlKbVBpTWJ6c29yTU9oWmdGbTJRM0FkcHpzRkFPZHJha0g0YWZWTEE4XzRraGJucHBRbW5XSXk4cUFSc2E1OTF3N1BMRkxPakVseF9kMWNSUW9qdWlKV3dieDNDRlVFaWdMX1BkWUFz?oc=5"
+    }
+   ],
    "published": "2026-07-09T17:35:30+00:00",
-   "first_seen": "2026-07-10T12:07:30.143112+00:00"
+   "first_seen": "2026-07-10T12:07:30.143112+00:00",
+   "updated": "2026-07-10T15:38:51.763323+00:00"
   },
   {
    "id": "44539d636c53",
@@ -1504,11 +1564,23 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWElZMDdBVnZDRXlKeEhSVnV0X05tSEhsaVozSkYtdUFhbE9Yb250bnNYRjB0NjNDX3Z5bnhIWDZ3RmxFUnVqRmV4UDd4NW93YTRQdE56QUlkSVRmS3BfdWlYS01sb2hZSVByM2JYTG12RWVqUWpHYkJOQzVaM1FKQXp1ZGRLTnlVUjZ2c2JlZEJmbWtDRmI0UVhNc1J4c2tp?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTdSVHR6b191d1ZRa3FjdWNBVmpKSTZNcVFBcnlXQWwySlFiVEQtN2hXSXpoZnc4U3pDVl9jUGlSNlpNMXRSMlowbTFpTFRGdjVjR1gzNkxEbFNwalN3TnptOXh1UGZ6amVNTFB3M29PUm5pdk8yTXdRLW1YN2lGMXA4bEwyUGx2NGE0dEJaVk5ZQ2lXQklyYU5ZZnZkRjlaZmVqRnlJR2tQRGN6aEJpbm5B?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSm9SQUhpdmZ6TzdqZUZMU2VVYzRIZHM5OHpYRUstWjdpa0Z1WW41VUFCQmd2M1BlOWkzVjlYRzNnVWxqZ0U3b3BvUkpBcV9rdzBNY3RUUjl1U1YyWHBlMnV4TkVzN1lBcFJ3TWlaOEtBNjZ2RUx0Z0hiZ0dLM1A2Yko4cnZvOWJNQlhGai1vTmgxLWN6MVFFNktlOWNFUUtLTW9R?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WVNFNC1yVVJyRV9aQ1lQTGIzTDc4d2tGbV9oOGdhRDNzUzZiWHlsSHUtVmhkdHhtM25qT3ZpQ0dvaTBoR28xU3JHR1F2c2p6ODI3eHE0RWt0WHhWMTN1TVhZWDNBWmJuZjI3Rg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-10T05:02:50.176979+00:00"
+   "updated": "2026-07-10T15:38:51.763323+00:00"
   },
   {
    "id": "3b83809e121a",
