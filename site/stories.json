@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-11T19:21:01.787802+00:00",
+ "generated": "2026-07-11T21:01:24.282169+00:00",
  "stories": [
+  {
+   "id": "41db4072d9f0",
+   "slug": "kalshi-legitimacy-guide-targets-new-prediction-market-users-in-2026",
+   "headline": "Kalshi legitimacy guide targets new prediction market users in 2026",
+   "lede": "MLive.com published a consumer explainer in 2026 assessing whether Kalshi is safe and legitimate, aimed at first-time prediction market participants considering the regulated U.S. exchange.",
+   "body": [
+    "MLive.com's guide addresses growing public curiosity about Kalshi, the CFTC-regulated prediction market exchange that has expanded its contract offerings significantly heading into 2026. The piece targets users unfamiliar with event contracts, walking through Kalshi's regulatory standing, account protections, and how the platform differs from offshore or unregulated alternatives.",
+    "Kalshi holds a Designated Contract Market license from the CFTC, distinguishing it from competitors like Polymarket, which operates outside U.S. regulatory oversight. That federal registration is the centerpiece of any safety argument for the platform, as it subjects Kalshi to mandatory reporting, capital requirements, and customer-fund segregation rules that unregulated venues do not face.",
+    "Consumer-facing explainers from mainstream outlets like MLive.com signal that prediction markets are reaching audiences well beyond finance and crypto circles. As new retail participants enter the space, questions about fund safety, contract settlement, and legal status are becoming front-page topics rather than niche forum discussions."
+   ],
+   "why": "Mainstream legitimacy coverage drives retail onboarding, which directly affects contract liquidity and market depth \u2014 a metric prediction-market traders watch closely. Regulatory-clarity narratives around Kalshi also create pressure on the CFTC to maintain consistent enforcement standards across all event-contract platforms. Traders monitoring Polymarket's U.S. re-entry prospects should note that growing public comfort with Kalshi's CFTC license sets a higher regulatory bar for any competitor seeking domestic approval.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "MLive.com"
+   ],
+   "primary_source": {
+    "name": "MLive.com",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnWmlVR1ltS2drSEJRMjNJVnp3OUxXUEVQZXNUQ0NZdHpCREFjTHp3SVliU1NzOWZpSlBzYXZxQWV1R3hJVUEtaVZWd3FNdlJJdzVBTzdrRlpBN2dOd1FpMGJOYw?oc=5"
+   },
+   "source_title": "Is Kalshi legit and safe? What new prediction market users should know about the exchange in 2026",
+   "also": [],
+   "published": "2026-07-10T19:58:00+00:00",
+   "first_seen": "2026-07-11T21:01:24.282169+00:00"
+  },
   {
    "id": "b5833f2557a9",
    "slug": "corporate-crackdown-targets-prediction-markets-amid-explosive-growth",
@@ -239,11 +266,23 @@
     {
      "name": "Denver Stiffs",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHZTc3FmaEVxVHdJTDczMGZIMWVSRWc1MHN3RXZ1U3h5VzJEd0JYdUxpSVZGQUNmOERWNXprSUkyLTFnd0tuYUY2TC1jdEdkZ1AzQ0tITWd5Y2FtR0JmUFVKNTRFaHVOVHBCcVcyQ2hvRzRscTNZTXlITVFIalRjcXRZTVBES0FfSmJ2MDczRUNuUWw0Z05HS2xsV05HYVlyOTBNcy1CaHFhZw?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFo4cTZJcHFxbi1SYUh1UHJWWWdXdVpkaUtKVlFxb01KLU5raTcwMFo3R0ZZY1lFZjNPcjAzNnZ6V1NTWFo0ZG1oa2tfN2ZfNTJNWUQ4ZVhfM0xaVkJXM3ZtSjBxLTdsblZUdVFFYTRSWGJvTXpBU1MxU2ZGRzluaXlWWURna040RVR1TUR1RldIaGh6UUROVDZqUWNPTGItNFpUbXlFV2NhcTJpaHJsNnVtdXpvVERGMnJMVWpDbzg?oc=5"
+    },
+    {
+     "name": "Saturday Down South",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFdjOUQxc3hCaFJzdWY0TlIwR2phOEdQUHhQZHdkOVNBeVdJTXlTLS13REZVOWVLMURLcGhxeDRpdkV4WExFTGR0blY5WHpxRWE4cHpKWC1femxKSmdRZ3FXMVZjMVlLcGdhUXEzeXdySFpzQjhiYmtGZk85b2lkc0JaSFE4YmVEMy1uRWdJSWVDa1VRSXVXU2ZaTlVTcVlnQ0V4NlhaMWE4aWU5M1QzNm5B?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3c1WkFFT2E4MURYOTgwYTNoNHpkcng5NXFTVV83YUtRU0FHUFJ5U2pWeFpsMDB3cnlXR2xVNDN4dW1oUkk0bFluLVRIOW1uaE52eEJMOWdpZUdMdzNkS2IybzRTOHhxUzBKSm0zSGdSM3RnU0pfWUZVeWNTTW1IUnlnek5uZ3F2WDBhWkJVWWJQbFN0S2t6SzVCSzJENmdvdkhQTGR3?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-11T19:21:01.787802+00:00"
+   "updated": "2026-07-11T21:01:24.282169+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2364,11 +2403,15 @@
     {
      "name": "Syracuse.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLV9hS3pVWDFKVHVxWDRuSnBidnRpT1Z6N1I1S3RqNlQ1RC1XcEpCeTRrQjY1VVBBcWN1dm9XQVFaOHA0T0paY3NGVlkwTE5zd0VWRlIyVllGU1I0SnJsS1Nka2ZuQ2RuR0I2azFfRlpNYTA4emhuNWgwaXhqV0EzRXdsV2h0TUpTQTFpUWwtMG5fMDR0X0d1aldQQ2FZZ1VpRF96cmpn?oc=5"
+    },
+    {
+     "name": "Kalshi News",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZUUwOE92cE5lVmoxMUFfN09uSXp0emR3cDNGVERGYzRodXU1RlRPeW9TZ25YeVFKSjg1RXNUYVF0NDAyanFTcF9yc0JhUlNFTTZFTDRpM09FZ3JKNnp4RGtZTEY3Y1V0N3hqREJxUEZxOGs?oc=5"
     }
    ],
    "published": "2026-07-06T18:19:03+00:00",
    "first_seen": "2026-07-08T07:39:01.455109+00:00",
-   "updated": "2026-07-08T15:30:33.650678+00:00"
+   "updated": "2026-07-11T21:01:24.282169+00:00"
   },
   {
    "id": "5146383bcd0a",
@@ -3797,42 +3840,6 @@
    ],
    "published": "2026-05-05T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "0b664a27e250",
-   "headline": "Democrats Press CFTC to Crack Down on Prediction Market Sports Contracts",
-   "lede": "A group of Democratic lawmakers has called on the CFTC to tighten oversight of prediction markets, specifically targeting sports-event contracts and potential insider trading risks.",
-   "body": [
-    "Democratic members of Congress sent a formal letter to the Commodity Futures Trading Commission urging regulators to take a harder line on prediction markets that allow wagering on sporting event outcomes, according to CNBC. The lawmakers expressed concern that these products blur the line between regulated financial derivatives and unlicensed sports gambling.",
-    "The letter also flagged insider trading vulnerabilities unique to event contracts, where participants with privileged knowledge \u2014 such as team staff or athletes \u2014 could potentially profit from non-public information. According to CNBC, the Democrats argued the CFTC's current framework is ill-equipped to detect or deter that kind of activity in fast-moving event markets.",
-    "The intervention comes as platforms like Kalshi and Polymarket have rapidly expanded sports-related contract offerings following a string of legal and regulatory wins. The CFTC has been under mounting pressure from both industry players seeking clarity and critics who argue the agency has been too permissive in allowing products that resemble traditional sports betting."
-   ],
-   "why": "Congressional pressure on the CFTC could accelerate rulemaking or guidance that directly limits the scope of sports contracts on platforms like Kalshi, squeezing a fast-growing revenue vertical. Traders with open positions on sports event contracts should watch for any emergency CFTC action or new proposed rules that could affect contract availability. Longer term, a formal crackdown could also create a regulatory wedge between US-based platforms and offshore operators like Polymarket, reshaping competitive dynamics.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "U.S. Congress"
-   ],
-   "primary_source": {
-    "name": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFp3TTU0QUJqbHlTYnlDd0lJSi0yN3ZsX3ROWFBfb0JnYnRCMGRFM2lfUzJoMjVuTFVmNUFYZUk5VXllZlZmWDFzUzNjMU4zLTE3eWU1UVVKWjV2Zk5KTVN5QTlFT1JjN1EwSUdWS1pUQ0JWcUVoa2xFZW9xdW5YUHlNTVF1c2tEVXZoSkwyXzbSAZYBQVVfeXFMT1VXV2JhdlRiQTlHTmdGV3RJT1N2d1doai1qOG9vbkVSTkZMcE9PQjZyRWhfUldjSjhUUVpNU3JwM0lYWHVERXF2MU0zcUc1dm9ZMGVoeWRoZjR3WVdNemJUSDU4VGZNSlJCbHR1b3R2Q1BKQ0k1dVUtT2JKaDFSdUlPMElJeXFkb1ZURXYzS0RBZXBQWThB?oc=5"
-   },
-   "source_title": "Democrats urge CFTC to rein in prediction markets sports betting, insider trading",
-   "also": [
-    {
-     "name": "SailGP",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MXzVrTlB0T20wOEtQM1F1bmtOeDFEbTFJaXdEZUFhTVEwQzZEUEc0eWlLZkZITGNyeTNBbEw4WWdNX0hlVUhoTEdfa0gxOFI5X00tVFZmUjdTX0U3eWdqQ1BDX1ZTdl8ySG8wTWpYZw?oc=5"
-    },
-    {
-     "name": "SailGP",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11amtFOUVHNWE0bFpxUEcyck9yTkdQOFFEeWJ6VW1QYVVNT1hfYjNtMzNZV3hMNGh5TnY1NmFUa2R5Q1RPN2VmaVJfS2FXTEUwWVc5eFUxVUFMdGRqNll3Wk1ObnRYQjVaeDktdzh3?oc=5"
-    }
-   ],
-   "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00",
-   "updated": "2026-07-09T12:19:10.936523+00:00"
   }
  ]
 }
