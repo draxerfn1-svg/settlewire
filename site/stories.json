@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T23:10:18.446241+00:00",
+ "generated": "2026-07-11T03:35:02.416625+00:00",
  "stories": [
   {
    "id": "76c1a9f2e354",
@@ -102,11 +102,31 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkYybWl1TkQydDllMGUtbWFtaHBuMnltUHNuTnh1YjA3VGN2cS03UlNGdWxhMjNzNE1IQjdUYVkweDhFS0xPZDhpMEc2S1VaTW11ZXRxdWduSjdYWnNTS1BmdU9RaVRDVlhEaGlWdFdoNzFHN0U2LTBWRmMxU1kyLUFIV0ZNa2ZTb25HQ0QtcUlycWRYWXhuTDNFLS1wR3pfSl9IQ0Q3SFlMb2V3Yks2WnNwNWNyVGEtejhleUc4aDZUTHNENUN1V3lnODA?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOW54dHBjUG1Rd2l0dC1WaGg4LS1zaVRwNGhpdVN6UjBGNjhmb190UkNZOGZrNjVvVlFvRGNxb3lrMWJMNGJrRXZFZzB1THdPUU1xVy1HdkRLbzFFbEtMdVBMeE03RXJKZEl3NlhzMFNoWW1yZzRUMWFFdzVTQVNNVDI1dXFWZ3lqYTUxbEVMaE9iOV9WZ0tsVFF3dkRLZ0J0czhGZzZueUZObTB2akJWaGJURzhobmVvaXJpVF9oMWlsb0VGdElfRTFXbFdBUWQ3VExMV1l4cm8?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUm40emVMbDFOYjUyTVVKazJrUzRuWFhHdVcxZ2s5MEJURHBCOWRWcmhhNWJteXBVWlFDNWNTRDdVWXRxMVFfemkydmEzMG9abGZoVXlxYUZHd1RKQ0VoeFpENWtRaDJWbWpRajdfSUhmcWRIZEUteGsxN0RkUE9BWmJMM21GQ1BMc2ptTjNiVjcwdmhtYlZNVmU3ZHZqaGdt?oc=5"
+    },
+    {
+     "name": "newyorkupstate",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0d2Mkx4anpOdXRxUGlXUGNRZkQ3Z1VIQWp5Mm5TX0s5a2JXOWdUMW5YVkw0bHVCU1dwWHh4TlBiSkh6b0FWSTlzNFgzd21mbVNsSkwzaGxJbll4MHZ4R3l5UUVnRTVfNjZKcXNjSWFWeGlnd0hpVF8zUGRUaXF2VmhPaE41ZWQ2NTVxbi1fcjB3Yk9HZ0NCWHBpTjdHc1RtN1JzOHpBMjZBUTJrcHRjM08xT0VMMUFjdnFuSUdKOEU?oc=5"
+    },
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHZ0NklncUpwWTVaTWo4LVg3VUxVTlNROUIzZU56Q3hScUdxU1EyV1oybXlLeVNPMU9EQ0ZacUs0RWMwZFJOVkNmVnFxaFRZNm44UzNaSFZ4TzJFbDhUaG1Jd19wVjhaVDZWSXpZajBPZHhYbHRMa0IzTXBwM0NrRnhmRHZXOXdQdFVGckhtSGJJUzZvenhQNGx2SVk1TlRxOWRwakQ0MVpzSlFpR1pGUUJuRGhqcXpa?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG40aUhxOThRMHJFSGJERkxhM0JPNkNvdnJXcTJ6VG0zbUxGVVpqcW5BSExWWC11MEFBeWd3ZW5lbkx6T1FEUVNEMEYtOGxTZTgzMWRTd3MxT2l6dUNQMkluMDV0RjlQOW1aRzJQdWN3cm56ZlJBVEp2c0VTNUoxQ3BNRmttdVI2bzFkTGYwYXVwYXJ1bGFINFlLOUNHLU1SSnJRZXZvNU05SkoyR2RZSTZfcFIzN0I5aVJuVE4wenhMcG8?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-10T23:10:18.446241+00:00"
+   "updated": "2026-07-11T03:35:02.416625+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -339,9 +359,15 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX05WZmRQN1V4RExsNTdjaHpvS1U0QVR1a2EzN2o4MUdYN0VrOW9mUXZjTFBTOW1uMXB2WXJWSGtJVGw4RmF3eGZGRDVJdUVzdV9CN2Uyay12Zl9HY2dTaXl1Y2UxdWhBak1YLVN4UGdHU0F0LWMtMmMtLW9EMTRMTHBja3BucVRiVThJMldRSWlfZjc5WU9VYzA2TjRpN1VOaXpfTlhQeXU4X0VacUlz?oc=5"
    },
    "source_title": "Goldman, Morgan Stanley Bar Staff from Prediction Markets, But Sports Trading Is OK",
-   "also": [],
+   "also": [
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2hnZC1jZmd2NXRXM3RwTVEzQTAxdHdLUXRweTBoMmhtVXpZUG40QWgxbkM5ck9KZGRoZ3JfSTJpRVN2ajB0eGdYRkFZY0ZITEZhWWxCX09wVmhIUDhPYmpKNWhIVld2S0wtUXczRncxMGRuY2poRGdmSlpXQTdwSXBMYW80ajdzd3FZQ0o3dG9EekJZUkx3Q1NTZkxSeE54MHRfRENyNHdrSDRUTEZRNEZOYjlMZjVYT3EzTUxfaW83TjBOVms2ZGFVZw?oc=5"
+    }
+   ],
    "published": "2026-07-10T02:26:56+00:00",
-   "first_seen": "2026-07-10T21:15:53.877058+00:00"
+   "first_seen": "2026-07-10T21:15:53.877058+00:00",
+   "updated": "2026-07-11T03:35:02.416625+00:00"
   },
   {
    "id": "efb045bab74a",
@@ -441,11 +467,15 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVURRblF4N1BxZXRRWldIZ2hXRUplMlhVLVBIX3JaTUpZOXFNRGhvZUlESGtYeUxHYXFGeEtPUWxOZGppb05LaVYwMXFBSGRzOU1fY2dYUzljUk43emxTeDJXbk9GaGx3MldoYURlNURTcDRFT08tU0UtZkNONFI4eFZXV29rUWNUSWlhU2ZwSE43OFAwQ1FrNWk3WkZzWkpXLVE?oc=5"
+    },
+    {
+     "name": "The Defiant",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQml0TUI5QkMybDY3NjdZbEVnT2l1b1hLNXdCNC11a196dlFOaFpmanRxaTB0U0Y1U3pEbFN6UVhONmxhRzF3eXU0enFBTWpwNW0xX181T1VqYnFiS1hnVnZvSU5pc1JzbVk1Z1pzLVYzamszSjN2TnRGNHluSWFJa01DQ196ZldFS25mcUVOV1VNRmdyMDJsV1VUYw?oc=5"
     }
    ],
    "published": "2026-07-09T20:25:58+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-07-10T19:47:30.401982+00:00"
+   "updated": "2026-07-11T03:35:02.416625+00:00"
   },
   {
    "id": "627b6bb3c98c",
@@ -1785,6 +1815,33 @@
    "published": "2026-07-07T13:36:15+00:00",
    "first_seen": "2026-07-08T15:30:33.650678+00:00",
    "updated": "2026-07-10T12:07:30.143112+00:00"
+  },
+  {
+   "id": "5be6c66e9412",
+   "slug": "plus500-launches-sports-event-contracts-across-32-us-states",
+   "headline": "Plus500 Launches Sports Event Contracts Across 32 US States",
+   "lede": "Plus500 has expanded its US prediction-markets platform to 32 states, adding sports event contracts in a direct push into the regulated event-contract space dominated by Kalshi and Polymarket.",
+   "body": [
+    "Plus500, the publicly traded trading-technology firm, rolled out sports event contracts to users across 32 US states, according to Good Money Guide, marking a significant geographic expansion of its American prediction-markets footprint. The move positions Plus500 as a growing competitor in a segment that has seen rapid regulatory clarification following Kalshi's court victory over the CFTC in 2024.",
+    "The sports event contracts represent a product category that has become a flashpoint in US financial regulation, with Kalshi and ForecastEx already offering similar instruments under CFTC oversight as designated contract markets. Plus500's entry signals that established retail-trading platforms see the post-Kalshi regulatory environment as commercially viable at scale.",
+    "Good Money Guide reported the 32-state rollout without specifying an exact launch date or contract volume figures, but the breadth of the expansion suggests Plus500 has secured the necessary regulatory approvals or is operating under an existing DCM framework. The company already operates a futures-focused US platform, giving it a compliance infrastructure competitors built from scratch lack."
+   ],
+   "why": "Plus500's 32-state expansion intensifies competitive pressure on Kalshi and Polymarket, potentially compressing margins and forcing those platforms to differentiate on liquidity depth rather than access alone. For prediction-market traders, more competing platforms typically means tighter spreads and better pricing on high-volume sports contracts. Regulation watchers should note that an incumbent retail broker entering the space validates the CFTC's post-Kalshi framework and may accelerate further institutional entrants.",
+   "category": "Global",
+   "entities": [
+    "Plus500",
+    "Kalshi",
+    "CFTC",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Good Money Guide",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2EtN0U2UHNhRVhWSFdwaTNWdzRNMF9oVEFiRklLQ0RtZFNSX3Z4TU13XzFabHA4OHFCaF8xYWM2Z1U5UjZSOUVOdklEMkRoTjhnUFNqaE8wbTYxUFpnLWdVdG04Y1B4ZEVqd0tuWTJlTDZ2cVBBb0JUWkx3aG90bVBTeXZ1Q2thQkh6amJQOXFjQ0p3akI2WTBXejBUdw?oc=5"
+   },
+   "source_title": "Plus500 expands US prediction markets to 32 states with sports event contracts",
+   "also": [],
+   "published": "2026-07-07T13:30:59+00:00",
+   "first_seen": "2026-07-11T03:35:02.416625+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -3710,32 +3767,6 @@
     }
    ],
    "published": "2026-04-27T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "0f9a05dc63fd",
-   "headline": "CFTC sues New York, unveils framework to govern event contracts",
-   "lede": "The CFTC filed suit against New York state while simultaneously proposing a new regulatory structure for sports-related event contracts.",
-   "why": "A federal win against New York would remove a key legal barrier for licensed prediction market operators seeking to expand sports contracts into major U.S. markets. Traders should watch whether the proposed framework creates standardized contract rules that lower compliance costs or instead impose new restrictions that narrow tradeable event categories.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "New York"
-   ],
-   "primary_source": {
-    "name": "Law360",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVGak5ucFBZZkdhS2VFNzB5TzBfeDdJazVBM0tWM3Q3U1h1eEFTYmdMSHA5MnJPN3U3UXJyemQ1c3lLd21NbU5NcEE2WE81aGJYaUdoazVKaVpjZGs0WWtzZWxhdTRJa1R6eDFKSk5qTVB4bHh6RzNWQ1U3MV84NU9oMy0xcTRVZEhINlRReXNEdnYxUExZYXhnd9IBVkFVX3lxTE0wakgzaUE0ZTByeWpacVhuUHYwT1N6UU9HdEl6eVNoX3Fra2NpdmNQYWJ0My1TbTVzWkxSUDM2VEVmQ1JKYUxFeU03NkVhQmszWjhIUmtR?oc=5"
-   },
-   "source_title": "CFTC Sues New York Over Sports Event Contract Crackdown",
-   "also": [
-    {
-     "name": "The National Law Review",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGdaMFYzSmdGb0ZEa2pZX0xYRlZkbXBhU1RJUFR3UXd1UUZUWTF4Y1ZoTGlDLTRaczVVQXgyMXlINXZkV0tvZ3FfazlOU0FUYkZIZkxNRV9UTzBRRkRYX1NCX3dGTVduVUtYUVZ3STRLNFY5OTQxWkhUNE4yU2NBV1F30gGHAUFVX3lxTE5UUTRtQ2VzeGxMOG9GSy14Z1lKeXpVZmh5SmxVOHNQZDIyckZrcHZSdk5sc011bEtYRkR6TTBqU0NUZ1JyU1JOTG52OVBwQmpXLVk4NjAzMlJsaFRGU3ptdGJjZ2w2R2RpWDJJUS1za3J5RzBrS2M3UWxkYk1OMTVDZUZWTE93dw?oc=5"
-    }
-   ],
-   "published": "2026-04-25T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
   }
  ]
