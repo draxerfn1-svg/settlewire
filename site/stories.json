@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-11T10:22:59.381684+00:00",
+ "generated": "2026-07-11T12:01:00.193544+00:00",
  "stories": [
+  {
+   "id": "9710a6dff173",
+   "slug": "prediction-markets-expand-from-elections-to-love-island-and-gold",
+   "headline": "Prediction Markets Expand From Elections to Love Island and Gold",
+   "lede": "Prediction markets have broadened sharply beyond political forecasting into entertainment and commodities contracts, including reality TV outcomes and precious metals prices, according to a new PYMNTS.com analysis.",
+   "body": [
+    "PYMNTS.com reports that platforms once synonymous with electoral forecasting are now listing contracts on outcomes as varied as Love Island episode results and precious metals price movements, signaling a structural shift in how event contracts are being designed and marketed to retail participants.",
+    "The expansion reflects growing operator competition to capture user attention outside election cycles, which have historically driven the bulk of volume on platforms like Polymarket and Kalshi. By diversifying contract categories, platforms aim to sustain liquidity year-round rather than relying on quadrennial political surges to drive activity.",
+    "The trend carries regulatory implications, as the CFTC continues to evaluate the boundaries of what qualifies as a legitimate event contract under its jurisdiction. Contracts tied to entertainment outcomes or commodity benchmarks may face different legal scrutiny than political markets, potentially forcing platforms to navigate multiple regulatory frameworks simultaneously."
+   ],
+   "why": "Diversification into entertainment and commodities contracts is a direct signal that prediction market platforms are chasing sustainable daily volume, which traders should monitor as a leading indicator of platform health and liquidity depth. Regulatory watchers should note that each new contract category reopens the CFTC's definitional question of what constitutes a legal event contract. If entertainment contracts scale, they could become the battleground for the next major enforcement or approval action.",
+   "category": "Global",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "PYMNTS.com"
+   ],
+   "primary_source": {
+    "name": "PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEJOUGhCUW5pOE9ZNmViT21lNGstYy1MUDNWZ0lQd2Z1MktlcDZRSHRiRmlNbWVVTGZUWG4tUXdNOHlXRnNmdVFrVGlSbGhpWHFyLW9jS2tUc3NkYzR6VFlvaFJEc0pNUFVKZGdKcXdSaGxZelJHVklRSEpFNlVRTEVZM1ZHcFlXaEtvUWxudlN3a2xoS2hOd3Z6NjJ6X3V5bmNtME5CSmtXWVdnVnZnQ0Nn?oc=5"
+   },
+   "source_title": "From Love Island to Precious Metals, Prediction Markets Are Changing Finance",
+   "also": [],
+   "published": "2026-07-10T15:54:48+00:00",
+   "first_seen": "2026-07-11T12:01:00.193544+00:00"
+  },
   {
    "id": "76c1a9f2e354",
    "slug": "italy-re-blocks-polymarket-prediction-market-back-on-banned-list",
@@ -3741,32 +3768,6 @@
    "source_title": "Yost Urges CFTC to Recognize State Authority Over Sports-Related Prediction Markets",
    "also": [],
    "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "28ede588f5b3",
-   "headline": "DOJ and CFTC file landmark insider trading charges tied to prediction markets",
-   "lede": "Federal prosecutors and the CFTC jointly brought the first criminal and civil insider trading case targeting manipulation of prediction market contracts.",
-   "why": "This unprecedented enforcement action signals that regulators now view prediction market contracts as genuine financial instruments subject to the same insider trading rules as securities, which could force platforms to build surveillance and compliance infrastructure similar to traditional exchanges. Operators and market makers should expect heightened scrutiny of information advantages, while the case may accelerate CFTC rulemaking that formally defines what constitutes material nonpublic information in event contract markets.",
-   "category": "Legal",
-   "entities": [
-    "DOJ",
-    "CFTC",
-    "Kalshi",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "Dentons",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUNCcS1iLUVtc1FpMnlzdDZ6UFRra0d0R0lVbWxkSUF5TmlyZUZabmhVZHNvWUp2S0hTNUNyMWctVDhUVFIyTkR4WGNSQXNIbUIwMmRpS3hvaHBpaVFRYkFuaU83OG5lT0E2RWt6WkFkdld1aTlic2Q1MXRIQ0VCdndFYXZQUXlfN28wSFFXaDVFZmFUbjkwa01BcmtNUmpaeVFCQ1I2MERNYmpjVk0yb2ozSm9PWmVnN0QxeGRtUmJLVV84ZnJDLUxYczM?oc=5"
-   },
-   "source_title": "DOJ and CFTC Bring First-of-Its-Kind Prediction Market \u201cInsider Trading\u201d Case",
-   "also": [
-    {
-     "name": "Davis Wright Tremaine",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dUZGxLd1R3QjRYUjdsWmtKNnIzRFJZeGpnVTVGWnRCd2JTUkE1Ym5nREFmWGVDWWllOHhvMlVjcVZzZHl1MzNVdi1JdUdFQkVtV2pqeWZ1eGxwNjhsdkkzNmFfbjNCWXphUWpFN3NvdUtLMTNpVzY3Q3loejBrMkd4ZDBJTjNhcmh2THFheWM0QjVIaGZTbFhiMjlwVUQxWWxITmttbWRQTWNmaVRPM01RSQ?oc=5"
-    }
-   ],
-   "published": "2026-04-27T07:00:00+00:00",
    "first_seen": "2026-07-06T18:43:51.439618+00:00"
   }
  ]
