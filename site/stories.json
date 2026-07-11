@@ -1,6 +1,60 @@
 {
- "generated": "2026-07-11T17:10:04.839418+00:00",
+ "generated": "2026-07-11T19:21:01.787802+00:00",
  "stories": [
+  {
+   "id": "b5833f2557a9",
+   "slug": "corporate-crackdown-targets-prediction-markets-amid-explosive-growth",
+   "headline": "Corporate Crackdown Targets Prediction Markets Amid Explosive Growth",
+   "lede": "Prediction markets are experiencing rapid expansion in 2025, but companies and institutions have begun restricting employee participation, signaling a new wave of corporate resistance to the sector, according to Inc.com.",
+   "body": [
+    "Inc.com reports that prediction markets have surged in visibility and trading volume following high-profile electoral forecasting in 2024, with platforms like Polymarket and Kalshi drawing mainstream attention. That growth has triggered a backlash: employers are beginning to prohibit staff from trading event contracts, citing conflicts of interest and potential misuse of insider information.",
+    "The corporate response mirrors early regulatory friction seen in other fintech sectors. Companies with access to sensitive operational or market data are particularly concerned that employees could exploit non-public information to trade event contracts \u2014 a compliance gap that existing securities law does not cleanly address, since prediction markets occupy a distinct legal category under CFTC oversight rather than SEC jurisdiction.",
+    "The tension highlights a maturing industry grappling with the responsibilities that come with scale. As Kalshi gains federally regulated status for more contract types and Polymarket continues operating via offshore structures, the question of who governs employee conduct on these platforms remains largely unanswered by both regulators and most corporate HR frameworks, according to Inc.com."
+   ],
+   "why": "Traders should watch whether corporate restrictions create liquidity gaps on specific contract types, particularly those tied to earnings, M&A, or macroeconomic data where information asymmetry is highest. For platform operators, voluntary compliance frameworks \u2014 similar to broker-dealer employee trading policies \u2014 may become a prerequisite for institutional partnerships and legitimacy. Regulators at the CFTC could use employer concerns as justification to impose stricter participant disclosure rules on designated contract markets.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CFTC",
+    "Inc.com"
+   ],
+   "primary_source": {
+    "name": "inc.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlFncEs4SDNvQ3RIdG5JTUxHaC1uWmtjNGRhdTV1LVJmTUZ0WmhlLTFmTEc5QXhTU2gzY3V0R1hrMlRHcExELXFvTnhqX2FCeHRHSm9LM2ZMUHludlB2TXJVM0xUbVRPaW9mWGhoVU9PRF85RmFnZ2dSQmU0YzY3WXZ6NzEzb2xVR19GWGpSbHQwS0NiMWlEVGVVMDQxYzlvM09JeERzb3BDbUQ4eXc?oc=5"
+   },
+   "source_title": "Prediction Markets Are Exploding\u2014but the Corporate Crackdown Has Already Begun",
+   "also": [],
+   "published": "2026-07-10T19:34:07+00:00",
+   "first_seen": "2026-07-11T19:21:01.787802+00:00"
+  },
+  {
+   "id": "37cafe6572e2",
+   "slug": "kalshi-expands-perpetual-contracts-as-world-cup-markets-set-volume-records",
+   "headline": "Kalshi Expands Perpetual Contracts as World Cup Markets Set Volume Records",
+   "lede": "Kalshi has launched an expanded perpetuals product line while World Cup event contracts have driven prediction-market trading volumes to new highs, according to TradingView.",
+   "body": [
+    "Kalshi's expansion into perpetual contracts marks a structural broadening of its product suite beyond traditional binary event markets, according to TradingView coverage. Perpetuals allow traders to hold positions without a fixed expiration date, a format borrowed from crypto derivatives markets and now being adapted to regulated event-contract trading for the first time at meaningful scale.",
+    "Simultaneously, World Cup-related prediction markets have pushed trading volumes to record levels, signaling that major sporting calendars remain the single largest demand driver for retail participation in event contracts. The confluence of a marquee global sporting event with a product-line expansion suggests Kalshi is deliberately timing infrastructure rollouts to coincide with peak liquidity windows.",
+    "The CFTC-regulated exchange has been steadily widening its addressable market since winning its legal battle to offer election contracts in 2024. Adding perpetuals alongside high-traffic sports events represents a two-axis growth strategy: deepening instrument complexity for sophisticated traders while broadening the consumer funnel through familiar, high-interest tournaments."
+   ],
+   "why": "Perpetual contracts without expiry dates introduce continuous funding-rate mechanics that prediction-market traders must price differently than standard binary outcomes, creating new arbitrage and hedging opportunities. Record World Cup volumes validate that sports remain the most reliable on-ramp for retail liquidity, giving Kalshi leverage in any future regulatory conversations about expanding permissible contract types. Operators and competitors like Polymarket should watch whether CFTC staff issue guidance on perpetual event contracts, as that ruling would reshape the entire industry's product roadmap.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "TradingView"
+   ],
+   "primary_source": {
+    "name": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOR3JERXhqek9ld2RTYW5uaDl3MEZvVl9yQXZfTTZtaUt5QS1VNzNXeng4TVVGeU9teXJodzJHby1CclNyTmpyX2x2eUN1VEFBckVHTTI1cTdzNjdGNWF3b2VIc2MzRTdia0NuSlpEdHdiUkRfRGhRUHlJdEM0RmM5QnlMZ2NFd3dDYnRWVUVNLWNaTXBkVXJULVNlRG9mS2g3bFVpRk9TVzUzVXpvT2JfUVpHTVNzU1BSXzRxaEpuOENBQlU4WEZtdFVjeGJBNVA0Q3dLRDh1NVBZMnhoVklITVdpak5yTFZtMzE4Unh3?oc=5"
+   },
+   "source_title": "Inside the Prediction Markets: Kalshi Expands Perpetuals as World Cup Trading Hits New Highs",
+   "also": [],
+   "published": "2026-07-10T19:05:00+00:00",
+   "first_seen": "2026-07-11T19:21:01.787802+00:00"
+  },
   {
    "id": "9710a6dff173",
    "slug": "prediction-markets-expand-from-elections-to-love-island-and-gold",
@@ -173,11 +227,23 @@
     {
      "name": "Athlon Sports",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXhzdGNoblpoZlZSTUd4NHY0S29uSUJBV09lLUtKX1djVzRsLTFLcGdsOFFiNExkN3ZBblRpTy1BZlFzdHk0YzQxakRiUmgxZ3Y3MnBuMl82MElhUEo2VmxBR0F6cWdWT2Nyc0N2R1poNXd4Mld2V3REeWhWdHFVUUdzcDZtWGNVaUNoanNQXzJkcnJDQWtpU1JCdUdYV3FhSVlz?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHhqYXJfRjVvUWEydnB2bmlGS2F4d20zaE5oaTQ3QmxJT21ubjIwQkQ3SUtOZ1dRQ01IS0ZfT1c3MWN6RHg5MEhvT05tNjZtZFBqWXpCQzBvbDNaWlVWX3dzYjlsTllDQnl6VjRBTFB4OTk4RmtuZGpRX3Jia2Z5SFc5N2Z0dl9IMTNydGNELTFEVHY3RTNmbUdzaXRrUHN3TUpyS3pQTlRLekRvemZiRDRPa0l6WThKQktjWHB4RDFUQ05fSktTX2x2bDdqWHlmNkxLdjlwYVRad2tGYmI2dDdYMlV4LS16NWt5MF9R?oc=5"
+    },
+    {
+     "name": "Crossing Broad",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHVjaDR5UjNvRFV1bHl0NERWd0ZCV3h2dGtvYWdwN3ZsY3d3N1IxclRMTXpIS1pjMEp6aHdmVkpDay1zTWp1WEE4REIzbEtJM2N4eFdnQVRrbnpJT0g0Ukd4VDFTdG12dHN2T0hlZ0RrajRqWHRGX3RpY05VRVEwemxtRldsN1V4SFVBSGxpbFVIRXo2NUZhc0pEcVluTTlrOTdZZTQtaw?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHZTc3FmaEVxVHdJTDczMGZIMWVSRWc1MHN3RXZ1U3h5VzJEd0JYdUxpSVZGQUNmOERWNXprSUkyLTFnd0tuYUY2TC1jdEdkZ1AzQ0tITWd5Y2FtR0JmUFVKNTRFaHVOVHBCcVcyQ2hvRzRscTNZTXlITVFIalRjcXRZTVBES0FfSmJ2MDczRUNuUWw0Z05HS2xsV05HYVlyOTBNcy1CaHFhZw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-11T17:10:04.839418+00:00"
+   "updated": "2026-07-11T19:21:01.787802+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3767,48 +3833,6 @@
    "published": "2026-04-30T07:00:00+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00",
    "updated": "2026-07-09T12:19:10.936523+00:00"
-  },
-  {
-   "id": "9de0042f35b5",
-   "headline": "Eight senators demand CFTC crack down on prediction market manipulation",
-   "lede": "A bipartisan group of eight U.S. senators sent a formal letter urging the CFTC to address insider trading and corruption risks on prediction market platforms.",
-   "why": "Congressional pressure of this scale could accelerate rulemaking or enforcement actions that reshape how platforms like Kalshi and Polymarket handle market integrity \u2014 traders should watch for compliance costs and potential contract restrictions. Operators face real risk that inaction by the CFTC invites legislative intervention, which typically produces blunter, less industry-friendly rules than agency guidance.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "U.S. Senate"
-   ],
-   "primary_source": {
-    "name": "Merkley (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPelJmWW5aZkNKTTlHUWNjeWpJTWVzZVgtQmZSSVBaOUJqZlV6M0NnaUhvZFM0T25Ra2pQSUdNT3JPcEkwZUU1ckRyT2ZWTUZIYkhuak1zWEFhVVB0T1F1eDZWb2I2TmZ1a014azFwX3BsNUd6REFWWFZFYnNCSTVQb3M5T21HRUZxSC1tQTY5SWt1aDZyTE9tVmg1QUlZM3BaMkFXYUpqbmMyTllwZ3BwdDFnbzMtUUNFaUVnd2NTQXNnQVdGcWpsMmdZZkhvUTduTUNidi1RWXVHNDZOcV9kWFMyTm96UVd4X1praFhLQ05hZGhwblVoaHdHbWNQNjQ?oc=5"
-   },
-   "source_title": "Merkley, Blumenthal, Van Hollen, Whitehouse, Heinrich, Rosen, Smith, Raskin: CFTC Must Tackle Insider Trading and Corruption on Prediction Markets",
-   "also": [],
-   "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
-  },
-  {
-   "id": "9e71234444d0",
-   "headline": "Ohio AG Pushes CFTC to Cede Sports Market Oversight to States",
-   "lede": "Ohio Attorney General Dave Yost formally urged the CFTC to acknowledge that states, not federal regulators, hold primary jurisdiction over sports-based prediction market contracts.",
-   "why": "If the CFTC accepts this argument, federally designated contract markets like Kalshi could face a patchwork of 50 different state licensing and compliance regimes for sports event contracts, dramatically raising operating costs. Prediction-market traders should watch for potential product pullbacks or geo-blocks in states that move to assert aggressive oversight before federal rules are finalized.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Ohio Attorney General",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "Ohio Attorney General (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY21QblZEcTJrN0VyQ05rVkhhcTJmZW9CMEtPNmZqRXFRdnRIVUREamdHRVlEZ3lCQndkbW5WaWxJUElVVmhrV29tb3FFQU9ZZTVtT0l0RlIzajJkbUZvSFItOFVGYnBiV3h4aUs1bG9hOUI5ZWxMT25GQWgyX1pFX2J6RWZyWmdBNXNTYjZDUGtldzdoMlo3dzRkbE5nLXBNZDVHcE5tM1lrMjl4cDBwRk9YUzgzMFk?oc=5"
-   },
-   "source_title": "Yost Urges CFTC to Recognize State Authority Over Sports-Related Prediction Markets",
-   "also": [],
-   "published": "2026-04-30T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
   }
  ]
 }
