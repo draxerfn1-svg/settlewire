@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-11T23:03:43.974553+00:00",
+ "generated": "2026-07-12T00:06:11.335502+00:00",
  "stories": [
+  {
+   "id": "e4ab1e09febf",
+   "slug": "kalshi-spotify-partnership-collapses-in-public-dispute",
+   "headline": "Kalshi-Spotify Partnership Collapses in Public Dispute",
+   "lede": "Prediction markets platform Kalshi and Spotify ended their promotional partnership in a messy, public falling-out, according to a Garbage Day report published recently.",
+   "body": [
+    "According to Garbage Day, Kalshi and Spotify entered into a partnership \u2014 likely tied to podcast or audio advertising \u2014 that has since dissolved under contentious circumstances. The breakup became notable enough to warrant detailed coverage, suggesting the split involved more than a routine contract expiration between the prediction markets firm and the streaming giant.",
+    "Kalshi has aggressively pursued mainstream brand partnerships as part of its post-CFTC-approval push to grow retail user acquisition. A high-profile tie-up with Spotify would have represented a significant distribution play, potentially exposing Kalshi's event contracts to millions of podcast listeners at a moment when the platform is competing fiercely with Polymarket for mindshare.",
+    "The public nature of the breakup is unusual for corporate partnership dissolutions and may signal underlying disagreements about how prediction markets products should be marketed to general consumers \u2014 a question with real regulatory weight as the CFTC continues to scrutinize the sector's retail-facing advertising and promotional practices."
+   ],
+   "why": "Brand partnership blow-ups create reputational risk that can slow user-acquisition momentum at a critical growth phase for Kalshi. For prediction-market operators watching the space, this signals that mainstream media platforms may be skittish about associating with event contracts, potentially constraining the marketing channels available to the industry. Regulators monitoring retail-facing promotion of event contracts will also be watching how platforms respond to this kind of public friction.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "Spotify",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Garbage Day",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41VnFPdjU2V2hZSlNoeWZXdVdaSmpJZGsyaTByLVE4cG56MGJaSlJsdGc1dURGVkFNOXVFWXc0ZE1QY0hZcWVHclB5Rm5lUXdybkZuYmh0VzI0UVlVempURFRFWWxPYnlQcXNETWF0U0pVVTRUSVFxNGM1RW4?oc=5"
+   },
+   "source_title": "Inside Spotify and Kalshi's messy breakup",
+   "also": [],
+   "published": "2026-07-10T23:46:06+00:00",
+   "first_seen": "2026-07-12T00:06:11.335502+00:00"
+  },
   {
    "id": "41db4072d9f0",
    "slug": "kalshi-legitimacy-guide-targets-new-prediction-market-users-in-2026",
@@ -290,11 +317,15 @@
     {
      "name": "MassLive.com",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONW5aUEh0LUNnaVZ3TUhHU1FTbUNubDJmMllTTXd2MHh4OFRLUG80RTc2NzRhc3E0enJNVlplQ0paN2Z3UXc3LVRQUXBvQ1VHWEh0UmlTU1JrcFBmV2dzbnl1d0ZZYXFyZXVaZVVfWS1ZWUpPTmJWRi1uVHY0SUpfNE1NSjJnSWZ2ZkQwMWExSHZmS1B6bEtUdmZYeDFqNk4wbVFvM0dkWXM1amNIb3BxRjkyMEZOcWowbWsxbVo1QXl5QlU3cEp5UWhzeDZ5ejRVZDJV?oc=5"
+    },
+    {
+     "name": "Mile High Sports",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1FiSlBvc0xObVFleXZ3Rkc3N1FMQWluSnpyRmpyVG5XMkNyWkYyMnJUdUxMNHQ2OWhfQXNwYzVPSGo5MHM0T2thM19MRzdUZnhIZFJ4c1BTVWtKa1NnYlMtdDFUZ2xVS19fbjVwaHVZT2JnajV4T0NwTDIxUTRsVUo5bTVFREU3dTYxbDgxcldLZm03WHI2Ykk2X0ZKeXfSAaQBQVVfeXFMT2V1eW5vTGktM1U0Q1llU19aWUtnbEtranZ2NTJGUUN0NUthWGthNzVEdmVpUURrUkhvV3FsMEZxUTBaLXNnQWFyaGpUSUN2UF9OVkRqbTJwTHV4ZWc1bE50Z19UQmQybW9qeEFtUTNoLWRiX01OaG9nYjNCSDhKZTk5OGtXbFVVbTc4aWdIY25IZEtyZm9TQ3dmbkpPSlNHcFp4NkQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-11T23:03:43.974553+00:00"
+   "updated": "2026-07-12T00:06:11.335502+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3827,31 +3858,6 @@
    "also": [],
    "published": "2026-06-10T07:00:00+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "1841c7ee4a36",
-   "headline": "State vs. Federal Clash Escalates Over Prediction Market Jurisdiction",
-   "lede": "State and federal regulators are increasingly at odds over which authority governs prediction markets, creating legal uncertainty across the industry.",
-   "why": "Traders face platform-level risk if exchanges operating under CFTC approval suddenly encounter state-level enforcement actions that could freeze activity or force delisting of contracts. Operators and investors must now price in jurisdictional fragmentation, which could splinter liquidity and raise compliance costs significantly.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "Steptoe",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFJyNU1wYkNVOFFCbGJKNFJMeE9NLW5mYVhvMzRNcDFhZVNmRVhrYzZjOUxudXVVbmhGSnR0LVRyOW9lVnhoTS1aTzJ0Vld2SWc0ZmV3eDlEVE4wcWhRVUtXYlFlVWgxY1JvaXdNeU5tQVlfOTQybmtoR3pRcl8taVp5ZzdBa3VqYkxqZkJ3UmtUYVp0NUozN3VqTlpkeUJSV2ZVRkpybkhaZzVyd1VVQg?oc=5"
-   },
-   "source_title": "State and Federal Regulators Face Off Over Prediction Markets",
-   "also": [
-    {
-     "name": "Klement on Investing",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaGVoM2dfM1NxVzdDd3RpdTNoSk1SeVd1QjRGcmNpSWZoanJ5bHJEQWtsOVZ6RGk1bDFNWGs5U1VBQ2R2MWZ5Y1RwZmtxOTlCeEo2S2Z1SUdYZXFKMFFMMUV0czhhZlk1MTZyOXdZYUJ1bXRGdFpCQWVUSXNlc3c?oc=5"
-    }
-   ],
-   "published": "2026-05-05T07:00:00+00:00",
-   "first_seen": "2026-07-06T18:43:51.439618+00:00"
   }
  ]
 }
