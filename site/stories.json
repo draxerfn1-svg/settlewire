@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T06:43:37.820877+00:00",
+ "generated": "2026-07-12T09:10:02.310846+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -1414,9 +1414,15 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHEtWU1zLTJqX0NIN2dyLTN6VkhJajc2MDIxd01FajdobkxXZFBoZWpEQ3ZPLUozSy1KM0ZRSlBJY09GMkRuaDBDSEZsQk9BS0JETkVFOXg4d3VTenVsMmtFeDVoSkpmdUtydmpaaFQ3Tll0d3E2ZTlocWZCM1hSRmZlYXNPQ3pRUjg0?oc=5"
    },
    "source_title": "Prediction markets bring risks, opportunity for munis",
-   "also": [],
+   "also": [
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWtJYmlWRnVRWTl0ajBNNW1lYUs5R1JtUDlscmhLbVVtQXQ1NjI4Smc4akpldVNNeG5PZmxwSEZic09yd2prUV9UZTUwd054cnZIS3h5SEhvU3V4ZHVJUWJ0clM3eVBsNEI5Z01uaTk1aDRVM3NTdWIyWlVieEtqWndldjJlaUJaWjlwTkFMWUdPOWZjRWpqT1YxRVdHUWtZVlRqT3dn?oc=5"
+    }
+   ],
    "published": "2026-07-08T12:00:00+00:00",
-   "first_seen": "2026-07-09T04:08:19.031106+00:00"
+   "first_seen": "2026-07-09T04:08:19.031106+00:00",
+   "updated": "2026-07-12T09:10:02.310846+00:00"
   },
   {
    "id": "938912f97a98",
