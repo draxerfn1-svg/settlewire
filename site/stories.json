@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T11:21:12.651611+00:00",
+ "generated": "2026-07-12T13:49:38.015885+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -325,11 +325,19 @@
     {
      "name": "WTOP",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXIzXzhhaUxmY2Jva3VudGU5bWRzX0RsRGFLOXo2YUdWZ0JTR0JXTGttZ19wck9SNFQyN1hvVi1XOXBXdllkcFB4NW9XRjdiMFl3Mm5XYkMxeUhUMmdSYnFzZWN0SVRNeHlCc1kzUVozdkstZk1YNmlObXpVbDZoZEZieGRZbkdPajNUUERfMjQxMTZTZ3FSUjFiU2lTdjJyN0hqRmhn?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE9KZnFQcDdPTzhyck1vT1VhcXZXM0c1TThOY2cxSnFGaUhpQWg0QjVMNU9jZm9hVDY5V0FOME9xUUY1SDlqdEdZYjYweHdiY09xcWZDQnlwNnJ3aDJOcW5CSW1NampMZjNYQnNURzhxQmtEOVl1ZWtkMVJIVm1taHp3dnJhQU9nMWdYbThlUnViR3pHSHRGMQ?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2o1Zk5mWFNtV3pnX3pPQVdsRUhlSzFnbVBTa1VvSjZfVkpuSC1vSmg1cDhzZE9wNk5xcnhVMTMxQWpPek9TQmllU1hES1lhVmEycWF1ZnVZb2ZtbVBnZjJpY3cyeTAwODhIbEZUalNsWklRdjZCdTZlMElUNVdfMzhZZ0Y0NzFvbHpUSmo5a1VUdi1aY3daRGpfOUE3N0kteU1yNWVBd3k2RnVEZGtVQmN5ZXF6VHlBUmlRamFxa21mS09pejVOX0lnUmxPTnljQVJieTlpeXE4QQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-12T03:52:35.198376+00:00"
+   "updated": "2026-07-12T13:49:38.015885+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2423,11 +2431,19 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiakR1OXlON0pTV0xzU0pQM1Y3TGp3dFo4TUhlMGtLUGFUS0tWcGJ6ZW1nNnlfRi1ZYWpsSDZHNnJTRnlBdWdRdWFvS05Ya0NrZklaemlSN0JsQmxjaTd2TTZDS1V3TFFhY0E5Yg?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQME04ak01ZW5xV3pHaXE5bTR3QkNNdG1fMlg2R2p4V182LVpXV3VGY3FKUWNqWEg3SmxTcmZCRmdNdHl4bkpGY2R4S2hBb196eFZhOHQ3dzJXb3NYeDZlb0REeWJ2dURKQjhoZjB0MzMxNDZwZFNndTB4ZnUwYS11VVo3alRrRjJreVBfOG00ZUd2M2RqLVk0SzlnYUY1bnp1cjFV?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0VLakFVaHAtY00wbk9iYjI2UG5WaXo5OXRUU2J0R3J2dE51NDhSemI0c0lEYkYwa3EwZjJSaGdaTlNibXBYU1NRZENoTkZhZVI3eDVPdkJPOF94cThaXzVULVFCejFWeW8zMnZBMy1VSmQ1SDRuUDRkYTZyTXA2Ykl1UDd5ZFpXVmN1QXVMc1NrRXdjN1c2cDNBWWxpd2ZQSmhoLVBaWUFSaHVRelMzYlh3?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-11T15:08:57.080515+00:00"
+   "updated": "2026-07-12T13:49:38.015885+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -3302,9 +3318,15 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVhXS2FMQkpVRnAxcVZRdXlKTFAzZ25CTExGVDBHc1lpcWFONlRCejN3RGxLbnlmbGhVZ1NUZ1NRM2xWVmxkaEZHb1lMbnI1emp4Zm1qNlpXWS14Z0FXckJsWl83MTZtVXZtNXpqVnJfVTRWR2o5MWtEVkpYM19BT0p4d1ZFTWVjVXVUTQ?oc=5"
    },
    "source_title": "Sports Prediction Market Fight Gets First Supreme Court Filing",
-   "also": [],
+   "also": [
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzlPdURYeTl5VnkzUjZrTkJzazBxOG5VQ0gyZUlySVdqRVNSV1VYRGtSeFdpN0FjRG9IaGNsa0JYSXRmWHRSOWZ1a2FlQzh4MUJ5VVVpRElwcTVsYkc1S0NpNmIwdFZwWUFVakdBLWd3VHJPeDFVd0lhd3hiLXZjVWpSZVNCUFplT0RjRFNvbjJ3ZHpDVHBjWk1fNkhxWDRCVG5vT1pyWThqb0tpUktxYzdjSjhzd2syQklUbQ?oc=5"
+    }
+   ],
    "published": "2026-07-02T17:45:00+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
+   "first_seen": "2026-07-06T20:48:28.064595+00:00",
+   "updated": "2026-07-12T13:49:38.015885+00:00"
   },
   {
    "id": "3ea2ecf0174f",
