@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T17:12:13.513182+00:00",
+ "generated": "2026-07-12T19:19:28.092082+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -908,9 +908,15 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUk8xNW15VTNwX0FvT0NlYVdjV0t5ejNiS0YzOVY4R1ZsU0EtLUdoVnYzejNHM1A4MVE2U3UwdzJGMkw0ZXgwMXFVd3R4SXhMQ1FyT2VMem9QaV9DZ2txaTEtMmNzTTJpVWtRWklzdEY2Zk82eHJ2OWVxeDRnTkJXbzZUaUxIbG5EZGpFTkd1czRsM3RSNDItTnhBWG8xREM5THp3?oc=5"
    },
    "source_title": "Kalshi appeals after federal judge sides with New York gambling regulators",
-   "also": [],
+   "also": [
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGpMV0ZCU01maFF6bUxhQjBNdndITG9YbnNiYTdGeVhYYlZTVExFRUh2QVpPUUR1ZVlncjdyODMxcmhPVUNaUXo5ZU9pQXdLRDJGWElBTkVaOXdWMGlwR2dodmRzbXBXdjRfbjVYN2hvczN4MzJzWlFNQ3NyaXlMWjF0YUhOaVd6Z3lIVjllM1A5VzBpRmtwZkdkZUpnWmZOVXN5RjhB?oc=5"
+    }
+   ],
    "published": "2026-07-09T16:05:00+00:00",
-   "first_seen": "2026-07-10T12:07:30.143112+00:00"
+   "first_seen": "2026-07-10T12:07:30.143112+00:00",
+   "updated": "2026-07-12T19:19:28.092082+00:00"
   },
   {
    "id": "1f4bbe026486",
