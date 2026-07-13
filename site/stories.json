@@ -1,6 +1,32 @@
 {
- "generated": "2026-07-13T19:43:07.967263+00:00",
+ "generated": "2026-07-13T21:09:22.780568+00:00",
  "stories": [
+  {
+   "id": "5fb3ede7b560",
+   "slug": "polymarket-rocky-referral-code-extended-through-mlb-all-star-game",
+   "headline": "Polymarket 'ROCKY' referral code extended through MLB All-Star Game",
+   "lede": "Polymarket has extended its $50 referral promotion using code 'ROCKY' through the MLB All-Star Game, according to Rocky Top Insider.",
+   "body": [
+    "Rocky Top Insider reports that Polymarket's $50 referral code 'ROCKY' has been extended to run through the MLB All-Star Game, giving new users an incentive window tied to one of baseball's marquee mid-season events. The All-Star Game is scheduled for mid-July, meaning the promotion gives prospective sign-ups a clear, sports-calendar-anchored deadline to join the platform.",
+    "Referral campaigns have become a standard customer-acquisition tool for prediction market platforms competing for retail traders. Polymarket, the largest decentralized prediction market by volume, has previously used sports and political milestones as natural hooks to time promotional pushes, aligning sign-up incentives with moments of elevated public interest in forecasting outcomes.",
+    "The $50 incentive is notable in the context of Polymarket's broader U.S. expansion efforts following regulatory scrutiny. Tying promotions to mainstream American sports events like the MLB All-Star Game signals a deliberate move to grow the platform's user base beyond its crypto-native core audience and toward general sports and news followers."
+   ],
+   "why": "Referral-driven user growth directly inflates liquidity on active markets, which tightens spreads and improves price discovery \u2014 a metric traders watch closely. Operators competing with Kalshi and ForecastEx should note that milestone-anchored promotions are an emerging playbook for retail acquisition. Regulation watchers may also flag whether such incentive structures invite additional CFTC scrutiny of Polymarket's U.S. onboarding practices.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "Rocky Top Insider",
+    "MLB All-Star Game"
+   ],
+   "primary_source": {
+    "name": "Rocky Top Insider",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHdZOUdLVWtfczBCbk9YUXJBSzJ3QnFNMy0zcmc2b3NYZV95cXBsRDcxYUstWWY2ZTQwbzV4eFlxOHBHSlNpUEZmd29EV0xPdGE0NDh4cElSS3ZCNUZVTVROY3I2VnJjT3VxM2UtZGhtS3MxeXplUEFNOHVOT0dzeEMzTi1hN0VlT1J6UFp1c1F1czFnSlJiRXVkRnNweTI0bHBlMXB6bmh2eW1PMGV2YXVB?oc=5"
+   },
+   "source_title": "Polymarket extends $50 referral code \"ROCKY\" through MLB All-Star Game",
+   "also": [],
+   "published": "2026-07-13T01:03:05+00:00",
+   "first_seen": "2026-07-13T21:09:22.780568+00:00"
+  },
   {
    "id": "03bbda598d7a",
    "slug": "tribal-gaming-leader-warns-prediction-markets-threaten-sovereign-casino-revenues",
@@ -24,9 +50,15 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzlmQUlvUU5xSnNQZE53ZXBUWVRhWnM2bHlUc1JJczUyZ2t4TmtHWFpHaFhLUC1YQ3FFdTVfZmZYVGR5ZlM1c3pQX1FUTGotWm1ISEZaM1NUQ2hZb1lFY21JTzhpWFFWOFpVWjBPMVc0ZklBYUJUTUdjbFRqT1ktQjExYXZrNndOMktBMGdsMWx6cVQ5V2dPRklzcVRacUZmNDdCWUt3VHBUSlE0dEpyTmkyYktfaTBEaDVJZ2hPVk8wZ21wX3BHUENn?oc=5"
    },
    "source_title": "Q+A: James Siva on the growing threat prediction markets pose to tribal gaming",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    }
+   ],
    "published": "2026-07-12T11:10:14+00:00",
-   "first_seen": "2026-07-13T19:43:07.967263+00:00"
+   "first_seen": "2026-07-13T19:43:07.967263+00:00",
+   "updated": "2026-07-13T21:09:22.780568+00:00"
   },
   {
    "id": "0540b11c6e23",
@@ -509,11 +541,15 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzdCcmRUeGx2T09XaFdrcUYzdV96dHpBV0h4aF9DYnVZRUVOdFMwOUE1RXdMX1lyX1hYdmNRMnZtOVVDR0JMbE9ibm1xd3pjRnYzX25aMTB2UVAxdG90cVppM2MwSTJxZkx3a3ZWZW9XbUJfeHA3c0w2V05TbW9XY29uaUE1dFlhLXB2VVBiQjJyMzJfUzJwR1o2Zk5OZ29yd0NRZTE3Qm5KeGpfV2c?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEE0QWltZjgxN3BWUTA0Z0Q2azBOaEdhU2ZvWnh0Y2dpMzNPcm1DeEp6UTIzajUxLWxtQVU2NkhmbWVWcExtRGNLTXRQVmFKMjFUYUQwcjlyQXBiVkdEdHpFZjdHZUFVY2M3Z2FPNXI4Uk8zTXAxTVdtYWRhVGYwa1F5a0hhN0hMeDFqSy1RYTAyRnRiOTRwUWlvRmtEUDJrb1R6MmFB?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T19:43:07.967263+00:00"
+   "updated": "2026-07-13T21:09:22.780568+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -1474,9 +1510,15 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0tkcl80Z3JLN2FXLTlOVUlkZlhKREgyT1V6MENqdGZMSU52RU9BYzl4NHRKWEhjd2REN2dpRm82c0ZFUUhEOXd4eHo5U0Mtc1pudTFQMWFMN2FlSVhvS3B6TzdtN3otSFhOQlA0ekxNX2V6VW81ODM5SFVleEh5c2k1WU9rdw?oc=5"
    },
    "source_title": "A New Bombshell Has Entered Prediction Markets: Love Island",
-   "also": [],
+   "also": [
+    {
+     "name": "Vanity Fair",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Cb2UzeWdyUHZwV1Z4MkFxX3h0R2paWFFIdjJJQkI0SHpJWlNoNDNtaGZMOUNoeThKRVQyUHgyUlVuYjVvX05kUTNfbzBCZlY3b21EUG1aYTlLNzVvY0JmWWZnNUo4ZV9HQ0kzTFRuRWI?oc=5"
+    }
+   ],
    "published": "2026-07-08T16:48:00+00:00",
-   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+   "first_seen": "2026-07-09T16:08:11.687335+00:00",
+   "updated": "2026-07-13T21:09:22.780568+00:00"
   },
   {
    "id": "9c624e950b31",
@@ -4010,32 +4052,6 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkNCWkVjUnVvSVZRdVVJU01UekxneUJfZk10RURNUnJfeDNva2V4eGkxb0VZU21zUG5KR0U5TmtEYmZLNTUtWm95WFdOM0ZjRUYzYzJ5ZnlxNDlKZmlWR3BFdFRUWU9iVVFySWdIdUh2emZZcC10SzVfTHN2bVJMWjJZZkdMSlhuSi11QXN5TG5Cb21SRHFPXzJBcXM0SHZCR2k0VzBXSTRXY05zSU9hY0hYNXFpUUow?oc=5"
     }
    ],
-   "published": "2026-06-10T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "dd84e9edcdcd",
-   "headline": "CFTC Draft Rules Would Bar Event Contracts on Terror, Assassinations",
-   "lede": "Federal regulators have released proposed rules for prediction markets that would explicitly prohibit trading on terrorism events and political assassinations.",
-   "body": [
-    "The CFTC has put forward a framework governing event contracts that draws hard lines around certain categories of activity, according to CNBC. Among the explicitly banned subjects are terrorism and assassinations, which regulators have flagged as contrary to the public interest regardless of any potential price-discovery value.",
-    "The proposed rules arrive as prediction markets have surged in mainstream visibility, particularly following high-profile election trading on platforms like Kalshi and Polymarket. Regulators appear to be trying to establish guardrails that allow legitimate forecasting activity to continue while blocking contracts that could create harmful incentives or be seen as profiting from violence.",
-    "The CFTC's move represents one of the most substantive regulatory actions targeting the event-contract space in years. The proposal is expected to enter a public comment period, giving platforms, traders, and legal advocates an opportunity to shape the final language before any rules take effect."
-   ],
-   "why": "For prediction-market operators like Kalshi and ForecastEx, the rulemaking creates both clarity and constraint \u2014 clearer legal footing for permissible contracts, but potential compliance costs for policing listed markets. Traders should watch whether the final rules define banned categories narrowly or broadly, since vague language around 'terrorism' could chill legitimate geopolitical contracts. Regulation watchers will note this sets a precedent for future CFTC intervention in what topics event-contract markets may touch.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "ForecastEx"
-   ],
-   "primary_source": {
-    "name": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHBIVW5rckcxNWo2VjMtLWFsYVhmVWliY2pqWUtYb2dZa0ZmbTFFdTl5OXpGUlowazFPTzhUZldIeTltMTE3LVgyckxkNkgtZDNLdlk4SjFERkdHelFsUzY2cllJeFBrcTVWQUJaZ0JvZ3B2VkJPV0hwMkRKQXlEc3M1TW4wcjdsdXpHeC1vMk9KSEF1dkhXaWtDMEVGQ0kxazdhdnpRUGpIenh1Q2Z4cmVOZUgyenkwbFpSQzVn0gHDAUFVX3lxTE83a1lEeVIzMTRqbW9tVTlTYndQa1JoNjhFUnJ0UXFHYzRjV2tzYklsb19SYWpWd0l6X0JOR0NLc2phYk5oaHNqdFU4dS12NE9nUUVmQTZKMWZZeFBROGk4OHJtbElpTEZqSm9TWTlfLWZhbjVveGYxdTVBZ0lNaWJiSVBabGZ1a1d0MnhrOEE4LWgzYmxndnFhdFF2Qm4zVFhXNHpJOXB0UnA1QlBXSUtWSS1VZm9tdUs0alNRM09WT0pUaw?oc=5"
-   },
-   "source_title": "Regulators' proposed prediction markets rules ban trading on terrorism, assassinations",
-   "also": [],
    "published": "2026-06-10T07:00:00+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00"
   }
