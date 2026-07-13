@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T03:56:31.225215+00:00",
+ "generated": "2026-07-13T07:32:30.100458+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -78,9 +78,15 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlFncEs4SDNvQ3RIdG5JTUxHaC1uWmtjNGRhdTV1LVJmTUZ0WmhlLTFmTEc5QXhTU2gzY3V0R1hrMlRHcExELXFvTnhqX2FCeHRHSm9LM2ZMUHludlB2TXJVM0xUbVRPaW9mWGhoVU9PRF85RmFnZ2dSQmU0YzY3WXZ6NzEzb2xVR19GWGpSbHQwS0NiMWlEVGVVMDQxYzlvM09JeERzb3BDbUQ4eXc?oc=5"
    },
    "source_title": "Prediction Markets Are Exploding\u2014but the Corporate Crackdown Has Already Begun",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TY05QYkZQNzRPTXZpUTBaQ0Z0aHkwVW1rTGxTVFlCQW5TcG04Y2hQdS1TaWVHY1dIaXdqZmgwc3pQZ2NEX2dnVWdBd1lFN21raXdKZkFpcTZxTDZHeVhnbldHaExfOWc3RnYzVFV5VlI?oc=5"
+    }
+   ],
    "published": "2026-07-10T19:34:07+00:00",
-   "first_seen": "2026-07-11T19:21:01.787802+00:00"
+   "first_seen": "2026-07-11T19:21:01.787802+00:00",
+   "updated": "2026-07-13T07:32:30.100458+00:00"
   },
   {
    "id": "37cafe6572e2",
