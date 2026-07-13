@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T14:55:03.452817+00:00",
+ "generated": "2026-07-13T17:20:49.873458+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -435,11 +435,19 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEFhVmdzclUtRUF6OUF4NU04UTEya1dXSUszRmRRQXJvRDVRLWdxcW11QTFLTFVnZjIyZ2ZNMjVtak50ZEhHa3kxXzJYTFRSZFNaMVhfVnpVU1BXVVNKS2hIbzdJZG8xYmpNeF82WnlFSi03UU5fSWxMZkV4SldEU1pWMFp0bE9kT1JFdVBaeGd3dDZNMkVMQXRnTThIUTRlY2dxV2VpWnBYUzBhRHc?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzlFMDJFVFJ6SWluWnBMTE81VjRXTzJBS0V6R1hualpSNmE4TTFqdzJxb1I5dEZuTmFlWjBESXZCdEFfeFhHYlVnT1RyeDlJQ3Q5VzJVLTNrWjM2ZmhiR2ozR2ZxYjRRWklxbnBRbTZCMkRFOS00a2FNc2FuNUNJZW9LTVBDaXJ4OWM5MTJxczNYZTZPQkJZWjlfd3djSm1RXzdmbWItQ0hFQ1BzQU1EZWFHS2pUMGY1SUZibldiY0NWcS1j?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1STHZvNUhhc3ZObVNCQVZwVEh1SlRkSS16Rmd1QVRjaXNiam9JRnl2dzNZaW9pOXYxSERJYkNiQjZMWlRmU2FYMDhEU2d3dEtLRnhPWW4yblJ2S0lISldZM0xWeU1OUnlzZUZoREUyRFFudlFmcjYyWVU0MDB5TjdZdFpyb1d6TGJaZWU2bkd1alpXOG82QlV6VQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T14:55:03.452817+00:00"
+   "updated": "2026-07-13T17:20:49.873458+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2567,11 +2575,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmtIVU5yQ3pqeThYQXlhRUpkNDhDdENuTzRjZW0xRmcxeTJrTzQ1YkRPbnk2SnNNWVVhTy1US0kxWklnemNRNTZZbWpYZ1AyZUg2STVFT01qdXZvVTk0OE43cVQzRUVJcGpOSUNMdHRXZDhIdlhBdHJlUkhLZ2YwWjFxWmRlR3RCQlNoSzNpWmExMW9hRnJINHluNHN5akN2RkpN?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTVg3SlZBVURITnU1cnVKRXQwd1paMkVFajJhbDBwcnBOMnF2TlotR3dLLWJjc2ctUkEtcW0tVVlRN3R3aFd1YjlvbjVHMXREOW4xMnMtSm84dC1MaHk0YTRBSGxXM1lST2VkNg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-13T14:55:03.452817+00:00"
+   "updated": "2026-07-13T17:20:49.873458+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -3458,11 +3470,15 @@
     {
      "name": "Fortune",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWM0a0dxUjh3MnVWSW5lVjhkcTFwcmpmVnd4OVlpY3FhbDNRM3hBS3pkODlmYnlIQTdCTHNGOFdfTHdfZ3phQlVDWEdyWEJ1dU14WjY0VW0yREEtNzRKM0trclRZcU82OVY2MjJmZVdrUUtVVk05aW5KRE5laWFRTTNpVm5kd1g2OVpDRkpJRlU0NHByZEd6aUI4SQ?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUtLMTVzbVlxVVJOUG9zRzF1Uk5UN3FUa0lYQlJ6VUhqQUpkOEstZHFrNVZfUVlXTkJoNDNyU2xvX1dZdzBKWjR4Y05UUHNNbUxucV9QTGZkdHBxQnpoNEtadzk5T0F0cXNMMnZaaElPbkhGamZfWVRacEtfeTd0SnFGZzJFTEkwQUxzNlV5QXBUWEdLZmRPOUwzV0FGd20wODhUS3VhOHFMTmlhUXp5V1Q4RV80V0tHRmVpNWNyOExOXy1xNUVrSW12NEU?oc=5"
     }
    ],
    "published": "2026-07-02T17:45:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00",
-   "updated": "2026-07-12T17:12:13.513182+00:00"
+   "updated": "2026-07-13T17:20:49.873458+00:00"
   },
   {
    "id": "3ea2ecf0174f",
