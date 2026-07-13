@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T23:03:49.937354+00:00",
+ "generated": "2026-07-13T00:06:40.060249+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -108,6 +108,32 @@
    "also": [],
    "published": "2026-07-10T19:05:00+00:00",
    "first_seen": "2026-07-11T19:21:01.787802+00:00"
+  },
+  {
+   "id": "1f8ffe182956",
+   "slug": "midterm-election-contracts-top-200m-in-prediction-market-volume",
+   "headline": "Midterm Election Contracts Top $200M in Prediction Market Volume",
+   "lede": "Traders on prediction markets have collectively wagered nearly $200 million on 2026 U.S. midterm election outcomes, according to NBC News.",
+   "body": [
+    "NBC News reports that cumulative trading volume tied to the 2026 midterm elections has approached $200 million across prediction market platforms, a figure that underscores the rapid mainstreaming of event contracts as a political forecasting tool. The milestone comes well ahead of Election Day, suggesting volume could dwarf previous electoral cycles.",
+    "For context, the 2024 U.S. presidential election set records on platforms like Polymarket and Kalshi, with combined volume exceeding $3 billion. Midterm elections historically draw lower engagement, making a $200 million figure at this early stage a meaningful signal that retail and institutional participation in political contracts is accelerating between presidential cycles.",
+    "Platforms such as Kalshi, which won a landmark legal battle against the CFTC in 2024 to list political event contracts, and Polymarket, operating primarily on blockchain infrastructure, are the leading venues for this activity. Increased midterm volume strengthens the commercial case both companies have made to regulators and investors about the sustained demand for election markets."
+   ],
+   "why": "A $200 million midterm volume figure arriving this early in the cycle suggests political event contracts have achieved durable retail traction, not just presidential-election novelty \u2014 a key variable for traders pricing platform-growth contracts. For regulation watchers, sustained high volume raises the probability that the CFTC will revisit or formalize its oversight framework for political markets before November 2026. Operators can expect this data point to be cited in lobbying efforts and potential congressional hearings on event-contract legality.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTIyYVZvTUxtNzR3ekpndWo0TGRIRG1IOUV3RjNfWW15S0ZwMGlpLVM3NjU2ckFBVGtOX0pyWkRxWnVGSEFySl9sVFF5cy1lVUFvZFFka0kyZUs4Nk5QTVRtM1BLZ2xTZEF6NzUzU3hGc19YcTFDaDhoSE8xWXdjLVNERzdySFRXd0h4TENHVlRPYjhPSnJibVJIbjhkUF9JckQ2aTZ5ZTJEckF1alVYVzdn?oc=5"
+   },
+   "source_title": "Prediction market users have traded nearly $200 million on midterm elections so far",
+   "also": [],
+   "published": "2026-07-10T16:00:00+00:00",
+   "first_seen": "2026-07-13T00:06:40.060249+00:00"
   },
   {
    "id": "9710a6dff173",
@@ -361,11 +387,19 @@
     {
      "name": "MassLive",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0lkNTBncDduWFprbHVPcUxKbGFBeVN2NlFrdHdJb0tOWmZMMTR5eDhnYmpNSzR0R1VMeGtrc1lzMmlycTlXVmRXc25Ta0hPS0V4TFNlU1ZkUVlnQ1FGOS1aYjYxUnNLbk5LbE1SN0hCWU45bkxSQWZvZnQ4d2ZsSFF1MWEwS1RwRjNSMTJYdmpDNG5Ca2ZCc01uZnZiSXY0Q19iTnRIRkdRVVpra1lvb3h0LW5sbGc4anlDRA?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOElxRi1ISE1VYjdSeFNmWF9ZZUpmaVNDTEtjTm1RMkZGNmFIVnhYUkdNTVlqX2dwQVJ6N2VuTWlTNDdFUGM4WVNnOUFhcGRCQmhtbVJ6ZWRmcXpzNXpWcURTWVdYdTNHVWU3WEFLbVVqdjVDSGFyRTRlZDRuS3didGp4UF85eFpWLUV1SWMyb0tNM2xtaUkyd0hod3VqMmdDQlJ0ZkxjcEN6bDB5RmNsUzdBcENsZw?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1p5MFFHMm00cDRuZHprcU54eXY3OG8ydm4yLVQzeTFNNGl4SXBRdGlDTHZPNVRtcG96Vzl3ZnZOQ2pMVWVRZFotbTdZWE1qYzduT21IdDZRcGw0UzE0S08tWkhWd3AyY2NaYXNPMS1icVlTa1NTeEw5bVBXdC1ZeXBhRng3M2NsRVlsdFNqV2RTdFNVX0hqQXpUS1pzNVVfMS1lQW1TVHZFaTFTc243MnA4OEZTUQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-12T23:03:49.937354+00:00"
+   "updated": "2026-07-13T00:06:40.060249+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3903,32 +3937,6 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSk1kRVZ6eDdSNVBvckV2eWNKazEwazI3b21hc0xvN3FPNUFZdjFoUG1vOHJuME9XTWRYYVhyYmZsRkNQbV9RY1pTeF94Rjg3WDJNUnhpbG9BcEJXZHQ5Z0dvSmVjZTRZaG96UV9TRXo5X0swTjRxR0VFRG9MS2todEZfMjBMWVlmM19mazUzZ05fcVpkUWc?oc=5"
    },
    "source_title": "Trump Regulator Proposes New Rules on What\u2019s Allowed on Prediction Markets",
-   "also": [],
-   "published": "2026-06-10T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "3f0dce21e673",
-   "headline": "Better Markets Blasts CFTC Prediction Market Rules as Industry Capture",
-   "lede": "Advocacy group Better Markets has publicly condemned the CFTC's new prediction market framework, arguing the agency has abandoned its oversight mandate to serve industry interests.",
-   "body": [
-    "Better Markets, a financial reform nonprofit, released a sharp critique of the CFTC's recently proposed prediction market rules, accusing the regulator of acting as a 'cheerleader' for the industry rather than a neutral watchdog. The group argues the rules tilt in favor of platforms like Kalshi and Polymarket at the expense of meaningful consumer protections.",
-    "The advocacy group contends that the CFTC's framework fails to adequately address risks associated with event contracts on politically sensitive topics, including elections and economic outcomes. Better Markets warns that lax oversight could open the door to manipulation and undermine public trust in both the markets and the regulatory process itself.",
-    "The critique lands as the CFTC finalizes rules that would govern how prediction market platforms operate under U.S. law. Kalshi's legal victories and Polymarket's surging volume have pressured regulators to produce a clearer framework, but critics say the resulting rules favor commercial operators over systemic safeguards."
-   ],
-   "why": "For prediction-market traders and operators, a sustained advocacy campaign against CFTC rules could fuel congressional scrutiny or legal challenges that delay or revise the regulatory framework. If Better Markets' framing gains traction, platforms may face stricter contract-approval standards or leverage limits. Regulation watchers should monitor whether this pressure influences the final rulemaking timeline or triggers a formal comment-period extension.",
-   "category": "Legal",
-   "entities": [
-    "Better Markets",
-    "CFTC",
-    "Kalshi",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "Better Markets",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUJ2alJfbWpMaWRpTHFyWVFzbTJ3RExtLW5EZXF6TmtKNjM1bzEzUGQzX3A2TFlXVFF5ZlYtQTc2MW1uSUtqMVNlQ2hfbDREaklkRFpnX1pDVVVGMFZnMl9ST0JTaWxocTNWY2JGd0hhZU56QTREamNlX3lpbGkyUjFvVU9ycjQ3NlZHTURQNlA2OTVnaFhWejYwUlVRMF8tTEtOcTNfb3ppZw?oc=5"
-   },
-   "source_title": "CFTC\u2019s Prediction Markets Rules Cement Its Role as Industry Cheerleader",
    "also": [],
    "published": "2026-06-10T07:00:00+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00"
