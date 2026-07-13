@@ -1,6 +1,60 @@
 {
- "generated": "2026-07-13T17:20:49.873458+00:00",
+ "generated": "2026-07-13T19:43:07.967263+00:00",
  "stories": [
+  {
+   "id": "03bbda598d7a",
+   "slug": "tribal-gaming-leader-warns-prediction-markets-threaten-sovereign-casino-revenues",
+   "headline": "Tribal gaming leader warns prediction markets threaten sovereign casino revenues",
+   "lede": "James Siva, a tribal gaming advocate, warned in a Tribal Business News Q&A that the rapid expansion of regulated prediction markets poses a direct competitive threat to Native American tribal casino operations.",
+   "body": [
+    "According to Tribal Business News, Siva outlined how federally regulated prediction markets \u2014 platforms like Kalshi that now offer contracts on sports outcomes and other events \u2014 are drawing wagering dollars that historically flowed to tribal gaming facilities. Tribal casinos generated roughly $41 billion in revenue in 2023, a base Siva argues is now under new pressure.",
+    "Siva's concern centers on regulatory asymmetry: tribal gaming operates under the Indian Gaming Regulatory Act and negotiated state compacts, a framework that imposes compliance costs and geographic restrictions, while CFTC-regulated event contracts face a lighter and nationally uniform ruleset. That gap, he argued, gives prediction-market platforms a structural advantage in capturing mobile, at-home bettors.",
+    "The interview arrives as the CFTC has allowed Kalshi's congressional-election contracts and sports-event contracts to proceed, setting precedents that tribal leaders fear will be extended broadly. Siva called on tribal governments to engage federal regulators directly before the market-design window closes, signaling that organized lobbying efforts may be forthcoming."
+   ],
+   "why": "Tribal opposition represents a politically potent new constituency in the CFTC's regulatory environment, and organized pushback from sovereign nations could slow or complicate future event-contract approvals. Prediction-market operators expanding into sports and entertainment verticals should price in the risk of new legislative challenges backed by tribal gaming's substantial lobbying infrastructure. For traders, any regulatory slowdown in contract-category expansion would directly constrain the universe of markets available to trade.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Tribal Business News",
+    "James Siva"
+   ],
+   "primary_source": {
+    "name": "Tribal Business News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzlmQUlvUU5xSnNQZE53ZXBUWVRhWnM2bHlUc1JJczUyZ2t4TmtHWFpHaFhLUC1YQ3FFdTVfZmZYVGR5ZlM1c3pQX1FUTGotWm1ISEZaM1NUQ2hZb1lFY21JTzhpWFFWOFpVWjBPMVc0ZklBYUJUTUdjbFRqT1ktQjExYXZrNndOMktBMGdsMWx6cVQ5V2dPRklzcVRacUZmNDdCWUt3VHBUSlE0dEpyTmkyYktfaTBEaDVJZ2hPVk8wZ21wX3BHUENn?oc=5"
+   },
+   "source_title": "Q+A: James Siva on the growing threat prediction markets pose to tribal gaming",
+   "also": [],
+   "published": "2026-07-12T11:10:14+00:00",
+   "first_seen": "2026-07-13T19:43:07.967263+00:00"
+  },
+  {
+   "id": "0540b11c6e23",
+   "slug": "kalshi-disputes-think-tank-claims-users-lose-millions-to-pro-traders",
+   "headline": "Kalshi disputes think tank claims users lose millions to pro traders",
+   "lede": "Kalshi is publicly contesting allegations from a think tank asserting that retail users suffer significant losses when trading against professional market makers on the prediction platform.",
+   "body": [
+    "According to Business Insider, Kalshi has entered into a public dispute with a think tank over research claiming that ordinary users routinely lose millions of dollars when matched against sophisticated, professional traders on the platform. The exchange pushed back against the findings, challenging the methodology and conclusions drawn about retail trader outcomes.",
+    "The core of the disagreement centers on whether Kalshi's market structure systematically disadvantages everyday participants relative to professional counterparties \u2014 a concern that mirrors longstanding debates in traditional financial markets about order flow and market maker advantages. The think tank's claims, if accepted broadly, could fuel regulatory scrutiny of event-contract exchanges.",
+    "Kalshi secured federal court victories allowing it to offer political event contracts in the U.S., making it one of the most prominent CFTC-regulated prediction market operators. Any credible narrative about retail harm on the platform arrives at a sensitive moment, as the broader industry is still establishing its legitimacy with regulators and the public."
+   ],
+   "why": "If the think tank's retail-loss findings gain traction, they could give the CFTC or Congress fresh ammunition to tighten oversight of event-contract platforms beyond existing rules. Prediction-market operators beyond Kalshi \u2014 including Polymarket and ForecastEx \u2014 would face collateral reputational risk if the 'pros beat retail' story becomes the dominant media frame. Traders monitoring Kalshi's market volumes should watch for any chilling effect on retail participation as this dispute plays out publicly.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWVUdF8yZWFIbDJMSEZWMEVkQmtqd1BFWE9fMUpXTi1tZ3pMYmptY2VnRG5rbXpTcDdqTEpmNWd5YV90VEljdVJDSGc3dHRnMU1SR1R4OUw3bXJhT1VtVExhcFlPcFRIVm1MSkhTZlBVY0R6d1BEWjRaUy1FUmRXem9zZ0RFc3VNQnZwN19xVFk0VnB0NGR5c21pTTJjRGdaVXl6VnNxa1ROZ2wzQXhxUUw5ODJYdw?oc=5"
+   },
+   "source_title": "Kalshi is sparring with a think tank over claims users lose millions betting against pro traders on the platform",
+   "also": [],
+   "published": "2026-07-12T09:40:00+00:00",
+   "first_seen": "2026-07-13T19:43:07.967263+00:00"
+  },
   {
    "id": "e4ab1e09febf",
    "slug": "kalshi-spotify-partnership-collapses-in-public-dispute",
@@ -443,11 +497,23 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdC1STHZvNUhhc3ZObVNCQVZwVEh1SlRkSS16Rmd1QVRjaXNiam9JRnl2dzNZaW9pOXYxSERJYkNiQjZMWlRmU2FYMDhEU2d3dEtLRnhPWW4yblJ2S0lISldZM0xWeU1OUnlzZUZoREUyRFFudlFmcjYyWVU0MDB5TjdZdFpyb1d6TGJaZWU2bkd1alpXOG82QlV6VQ?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVR6YkVnb0U2RVR6UGRiTjcwQjRNWGt0VGRCYlNnY2dKZmVpT2hmMUZKM1R4WXFLMU9BMllUODdoemppcTV6U0x1WFpQNGdxZmEyeXZLeXFQSlZJOFhuYWY1ZU5NZnFIR3JSSHZ5b0cyYkxqVzZ2N1lwTno2ZmpqbVNWb3dKeWdmeHJVRUJzMlE2VnlTXzZHX3VQSU5PU192b2g4Nm1TVUFqY2FkVW0tUEJiUzNEcTB3MVlqUU52ajg5aGxVOFM5V2JSdw?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlYxRldPbkdDemV6eHVleVJaNHp3MktuVHYwVXVValFoa2Y4b3B6RkdOemZZVmVRUkV1T1E3QzVlSXAwUTA4QnREU0gyeEthVFdxdTFJX2N1bTl3cHFxU2RkQ3RqQXFRcmVlLWRfVmpaVlkyVjJfNXA1YkNPbko3d2pXandpQmVjdzdVNUppRFlJMFV4ajdNREFjNHllbzN5c2U1QmdzUmlOdjlzczVQV21VQQ?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzdCcmRUeGx2T09XaFdrcUYzdV96dHpBV0h4aF9DYnVZRUVOdFMwOUE1RXdMX1lyX1hYdmNRMnZtOVVDR0JMbE9ibm1xd3pjRnYzX25aMTB2UVAxdG90cVppM2MwSTJxZkx3a3ZWZW9XbUJfeHA3c0w2V05TbW9XY29uaUE1dFlhLXB2VVBiQjJyMzJfUzJwR1o2Zk5OZ29yd0NRZTE3Qm5KeGpfV2c?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T17:20:49.873458+00:00"
+   "updated": "2026-07-13T19:43:07.967263+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -1802,11 +1868,15 @@
     {
      "name": "The Block",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CUEdleWx3NVFyaHM3QmxtWWYzU29xdlh5TDdYaUhiTTdWWEE3a0hiVWhqZXBkNGdyNEFSaWpFVlF5bXZ2R1RyWktsSEZCbEVuZVhjZnJtbVNnbXhNbF9JbHlMY18tbWpSWEJ3YVFGc2wtRTg0c2g1VWdGNA?oc=5"
+    },
+    {
+     "name": "Bettors Insider",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEJ1cXRPdWhGcnU5TS1qUzNwWVhQOW0xTjlPRTdFZFRIdEpEVkc2blBWcHhnSFBXb085LU9VTFQxOUpRRzVrS2t5YmI4TDVoZjYydWEwdnpPa196ZkhhcVZma2JUTDFNZGxQYXA2UTZ2TlNIcmlZM3FxbjVuaERETS10UzJPSWl6QmExa1F3NDlDN01hemp1cGpxeHZmMlpjOUZBcXBUZ004UkpQdG93alA0N0hIZWtNbi1kM3BMU2NIdXloZkZPd29DOV9NZHRQR0VBUDVFSzNXWkRo?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-07-09T20:54:36.676188+00:00"
+   "updated": "2026-07-13T19:43:07.967263+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -2579,11 +2649,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTVg3SlZBVURITnU1cnVKRXQwd1paMkVFajJhbDBwcnBOMnF2TlotR3dLLWJjc2ctUkEtcW0tVVlRN3R3aFd1YjlvbjVHMXREOW4xMnMtSm84dC1MaHk0YTRBSGxXM1lST2VkNg?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZFazk1eEx3MmFSemlqRzBFUlV6d3ZPWGRZQkJXNHJUWHByRnlEaGVxYUFiYWZfcmhVb3BaZjFUYVdhSEhnYUFzNmt3U2haS21vM0hOZ3hoUW1vS1VMQWdSaDFORXNRWXRpNERrRUVnNDRialFVY0NVNzk5MzBMYjZIajZtYm5PWXF6MmhoMkFmSzMzY09ld1ZIT3B2Mlo0dlRqOEQtd3p3aU0?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-13T17:20:49.873458+00:00"
+   "updated": "2026-07-13T19:43:07.967263+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -3961,58 +4035,6 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHBIVW5rckcxNWo2VjMtLWFsYVhmVWliY2pqWUtYb2dZa0ZmbTFFdTl5OXpGUlowazFPTzhUZldIeTltMTE3LVgyckxkNkgtZDNLdlk4SjFERkdHelFsUzY2cllJeFBrcTVWQUJaZ0JvZ3B2VkJPV0hwMkRKQXlEc3M1TW4wcjdsdXpHeC1vMk9KSEF1dkhXaWtDMEVGQ0kxazdhdnpRUGpIenh1Q2Z4cmVOZUgyenkwbFpSQzVn0gHDAUFVX3lxTE83a1lEeVIzMTRqbW9tVTlTYndQa1JoNjhFUnJ0UXFHYzRjV2tzYklsb19SYWpWd0l6X0JOR0NLc2phYk5oaHNqdFU4dS12NE9nUUVmQTZKMWZZeFBROGk4OHJtbElpTEZqSm9TWTlfLWZhbjVveGYxdTVBZ0lNaWJiSVBabGZ1a1d0MnhrOEE4LWgzYmxndnFhdFF2Qm4zVFhXNHpJOXB0UnA1QlBXSUtWSS1VZm9tdUs0alNRM09WT0pUaw?oc=5"
    },
    "source_title": "Regulators' proposed prediction markets rules ban trading on terrorism, assassinations",
-   "also": [],
-   "published": "2026-06-10T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "53e82f0f07c9",
-   "headline": "CFTC Proposes Formal Rules for Prediction Market Public Interest Reviews",
-   "lede": "The CFTC has issued a Notice of Proposed Rulemaking that would establish a structured framework for determining whether event contracts serve the public interest.",
-   "body": [
-    "The Commodity Futures Trading Commission released a Notice of Proposed Rulemaking aimed at codifying how it evaluates prediction market event contracts under the public interest standard, according to Davis Wright Tremaine. The move signals a shift from ad hoc reviews toward a more predictable regulatory process for platforms seeking to list event-based contracts.",
-    "Under current rules, the CFTC has broad discretion to block event contracts it deems contrary to the public interest, a power it has invoked in high-profile disputes with platforms like Kalshi over political event contracts. The proposed rulemaking would define criteria and procedures that could constrain that discretion and give operators clearer guidance before launching new contract types.",
-    "The prediction markets industry has grown substantially, with platforms such as Kalshi and Polymarket handling hundreds of millions of dollars in volume on political, economic, and sports outcomes. Regulatory clarity has been a persistent bottleneck for expansion, and a formal rulemaking process could accelerate both product development and institutional participation in the sector."
-   ],
-   "why": "A codified public interest standard reduces the CFTC's ability to block novel contracts arbitrarily, which could open the door for contested contract categories \u2014 including political and sports markets \u2014 to gain approval more readily. Traders should watch for comment-period outcomes that may signal which contract types regulators are inclined to approve or restrict. Operators planning new product lines now have a formal channel to shape the rules before they are finalized.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "Davis Wright Tremaine"
-   ],
-   "primary_source": {
-    "name": "Davis Wright Tremaine",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXl4d2QwenJ3bGVBYzlpdldOSkF6b1BaUXFlS0dSNUc5cjItZ3phU1djeUZuWDBQLUhVSUwyOXY2OEhEZ1N5YXBkODNkUUhyZHMzRkVUMk5sOTFVQklwUUo1MXVEMGgwTWduMFRfSlFNZGI5bmRjR2h4dVVpd3ZBMW02MXY1RGFTX3FhSkRDMzg2a2s3cWxiMW1ZYUdyMEQ4Z2V6S2dlQi10YUd1NDZmRGtWUQ?oc=5"
-   },
-   "source_title": "CFTC Issues Prediction Market Notice of Proposed Rulemaking on Public Interest Determinations",
-   "also": [],
-   "published": "2026-06-10T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
-  },
-  {
-   "id": "91c32b214514",
-   "headline": "CFTC Proposes Framework to Define Permissible Prediction Market Contracts",
-   "lede": "The CFTC under the Trump administration has put forward new rules aimed at clarifying which types of contracts are legally permitted on prediction markets.",
-   "body": [
-    "The Commodity Futures Trading Commission, led by a Trump-appointed regulator, has proposed a regulatory framework that would establish clearer boundaries around what event contracts prediction markets can legally offer, according to the Wall Street Journal. The move represents the most significant regulatory guidance for the sector in years.",
-    "The proposed rules would give platforms like Kalshi and Polymarket a more defined legal pathway for listing contracts, potentially opening the door to a broader range of political, economic, and event-based markets. According to the WSJ, the proposal comes as prediction markets have surged in public visibility following heavy trading activity around the 2024 U.S. election cycle.",
-    "The CFTC has historically used a case-by-case review process to evaluate event contracts, creating uncertainty for operators. A formal rule would replace that ad hoc approach with standardized criteria, which industry participants have long requested as a prerequisite for scaling their platforms and attracting institutional participation."
-   ],
-   "why": "A codified CFTC framework could dramatically accelerate contract listings on regulated U.S. platforms, shifting volume from offshore venues like Polymarket back to domestic competitors. Traders should watch for which contract categories get explicitly blessed or banned, as that will reshape market liquidity and arbitrage opportunities. Operators and investors in Kalshi or ForecastEx stand to benefit most if the rules reduce compliance ambiguity.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "ForecastEx"
-   ],
-   "primary_source": {
-    "name": "WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSk1kRVZ6eDdSNVBvckV2eWNKazEwazI3b21hc0xvN3FPNUFZdjFoUG1vOHJuME9XTWRYYVhyYmZsRkNQbV9RY1pTeF94Rjg3WDJNUnhpbG9BcEJXZHQ5Z0dvSmVjZTRZaG96UV9TRXo5X0swTjRxR0VFRG9MS2todEZfMjBMWVlmM19mazUzZ05fcVpkUWc?oc=5"
-   },
-   "source_title": "Trump Regulator Proposes New Rules on What\u2019s Allowed on Prediction Markets",
    "also": [],
    "published": "2026-06-10T07:00:00+00:00",
    "first_seen": "2026-07-06T19:46:14.006003+00:00"
