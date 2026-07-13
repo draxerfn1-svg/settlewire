@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T11:25:48.111091+00:00",
+ "generated": "2026-07-13T14:55:03.452817+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -145,11 +145,15 @@
     {
      "name": "The Hill",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVVfRnZRZ0J4UEJHd3FzY2dHekdmRDFYNW5iN3RyaDNEZWhQVE9GalFtcUhIVzVacWo2NFBKaDB6dHhoRVI1ZmtUWnR1WWpYMGFhLXNQZDZEZkFZdFdzU1dOWnRNQTZtVTNkbHI4UlBOZlN2OEQ1NjlZaHVIOUhMRUlmZk1IYTJIWHJnYdIBkgFBVV95cUxQREpEd2JWMGVVYzNGTmQta3Mzdm9TTGxCT3Rlc3lVWVNLNWZTT3pxY3A2dVRfQnlPdWFTZmFPclcxejB1NVY0N3FQbU1fSHJQWmpZYS1mYzlsWklqZnNVTEhsWV81cXRpZW1EcnMwcmxSblFuclAyeV9JSE5YZENtWVpNZjVXdGptemI0U2VpQUhJQQ?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmFmUjBaOEhnX0t1aVdER1g3T1p4aW02NlhvdTQ4elFSZVV5bEtSQUU5aHduVWNBcWhPdS1idS01anJrUjBKNjRVWkYxOU1GQjVPUGRLN1dvaExaNHgtWjNEU3dYNWpYaW9ZdnlINnRuTUoxdWxEa3VrVHBVRDdQRU1NbVlZX215LTB2WllKSjhtcDdveWfSAZsBQVVfeXFMTWVKandVUkZlNHRsRkdCQmVmeGhtOWFJRERNZm1QRmNTalE5bkpNZ2FEU1BrM2o4WTJ1c1hHOHk2U0s0X1NYRlJGTTJTb2ZZV0I0ckhudmJWb1hIWlJsZnk3R2U2UTcxdk9aMGFzdl81WjdEYlBqNE9EbHcxUDZtODF6eC1DUWt0NFEwVzJKMWFFQUtOWnpPTWljZnc?oc=5"
     }
    ],
    "published": "2026-07-10T16:00:00+00:00",
    "first_seen": "2026-07-13T00:06:40.060249+00:00",
-   "updated": "2026-07-13T03:56:31.225215+00:00"
+   "updated": "2026-07-13T14:55:03.452817+00:00"
   },
   {
    "id": "9710a6dff173",
@@ -419,11 +423,23 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjhfNVV3X1lTTlFLZHdxQ05aZ0FRVzhnRUk0SndMaVZqcHFVcUtwSWlVb0dCeWhrVzNsSlpTWVJjRC1sMHdZOE50bjJwMGhuR3YzcXE4SWVFVlRNb3p5Vnh2Z1RNSFBfTWdfeXhieGRSRTFRaGFEOW1NYkZwYU81RFNNSGI3b3ZMRUJOdWhVQlYxZGRPQUJnWEdiRlZ6dUk0?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXhMV0RuV0V3UVBIVXpIYU9DR1ZYTXUwQUNHWEthTDA0bHhoY3BCRm5OZ1UwS0hab3pxUXAxeWQtZldPeGI5bVYtb0JjQkVNazJJZF9OSVZ6ak1lRWdJWF9HQml3WThGbEdMSkNhdzFHSVVZaUZyT0k5WTVHamxLWXBoMHRBZUxZQU5wYXFpRWtIbHl6MGF4aw?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGctMk1nRFhqaFNCZllKbDg5dTlGS2dmUlpxMGdsbjVlclFZVTZjY19wd2xvNnFWVTdGaEtzS1hvQ2NLakxQeUthalBqY1RldllqOG5LS28xMEV4aHBxQlpzbkRiamZtWjNsZ1NYVDNJVGdVX3hiWkpNYzZNZ3VVZjI4U3MxMEhUSVh6OGstY2Nxa1hKMTdOMWJndkUtRnR4dHJwbDVlUElmdjA3SFJCTTdqLVB2Zw?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEFhVmdzclUtRUF6OUF4NU04UTEya1dXSUszRmRRQXJvRDVRLWdxcW11QTFLTFVnZjIyZ2ZNMjVtak50ZEhHa3kxXzJYTFRSZFNaMVhfVnpVU1BXVVNKS2hIbzdJZG8xYmpNeF82WnlFSi03UU5fSWxMZkV4SldEU1pWMFp0bE9kT1JFdVBaeGd3dDZNMkVMQXRnTThIUTRlY2dxV2VpWnBYUzBhRHc?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T03:56:31.225215+00:00"
+   "updated": "2026-07-13T14:55:03.452817+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -978,11 +994,15 @@
     {
      "name": "CDC Gaming",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGpMV0ZCU01maFF6bUxhQjBNdndITG9YbnNiYTdGeVhYYlZTVExFRUh2QVpPUUR1ZVlncjdyODMxcmhPVUNaUXo5ZU9pQXdLRDJGWElBTkVaOXdWMGlwR2dodmRzbXBXdjRfbjVYN2hvczN4MzJzWlFNQ3NyaXlMWjF0YUhOaVd6Z3lIVjllM1A5VzBpRmtwZkdkZUpnWmZOVXN5RjhB?oc=5"
+    },
+    {
+     "name": "Bettors Insider",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEJ1cXRPdWhGcnU5TS1qUzNwWVhQOW0xTjlPRTdFZFRIdEpEVkc2blBWcHhnSFBXb085LU9VTFQxOUpRRzVrS2t5YmI4TDVoZjYydWEwdnpPa196ZkhhcVZma2JUTDFNZGxQYXA2UTZ2TlNIcmlZM3FxbjVuaERETS10UzJPSWl6QmExa1F3NDlDN01hemp1cGpxeHZmMlpjOUZBcXBUZ004UkpQdG93alA0N0hIZWtNbi1kM3BMU2NIdXloZkZPd29DOV9NZHRQR0VBUDVFSzNXWkRo?oc=5"
     }
    ],
    "published": "2026-07-09T16:05:00+00:00",
    "first_seen": "2026-07-10T12:07:30.143112+00:00",
-   "updated": "2026-07-12T19:19:28.092082+00:00"
+   "updated": "2026-07-13T14:55:03.452817+00:00"
   },
   {
    "id": "1f4bbe026486",
@@ -2539,11 +2559,19 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRndvdUhnR1UyMGthUXFJMUo4VWZmREw5VWFqTUlFckVYU1JwV0VCQ05TR1FzRFRIWmdyc2NkVURZNi1ldEZHOUQwZko3enhVNEdLeS1wcVlFZXUzR3ZNUjhjcEY5QXdnRk1SM3ExWGluVWRZVERXZndkZzhFN2hiM01RSDRBZ2loT0FqVTRUWWEySG9xX0N6Q0tYTzRPSFJ5clFXZHhKODF3Q21BUEJEOVNMQTdhdw?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQllOLUpKUUNoSG44X2poXzBJSkRrZmthVHd3eFkyQ0Qwc1hJQzBiTThyZ3pCcWhrMms4d01seU5GSFZVY0pFSWRnbWJaM2VQa29MQ0Fab0g3SGp5YUNCeVdCNENqTHB3ZmFGVW1yaW9oNG95UXhNVFdURVpzVE1ZQlVrX2otQTJpZzV2UmxFaV9SS1djb09wT1VxUmlVaFVuVFpFVUo4VmxucEdObUlNM01n?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmtIVU5yQ3pqeThYQXlhRUpkNDhDdENuTzRjZW0xRmcxeTJrTzQ1YkRPbnk2SnNNWVVhTy1US0kxWklnemNRNTZZbWpYZ1AyZUg2STVFT01qdXZvVTk0OE43cVQzRUVJcGpOSUNMdHRXZDhIdlhBdHJlUkhLZ2YwWjFxWmRlR3RCQlNoSzNpWmExMW9hRnJINHluNHN5akN2RkpN?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-13T03:56:31.225215+00:00"
+   "updated": "2026-07-13T14:55:03.452817+00:00"
   },
   {
    "id": "3b83809e121a",
