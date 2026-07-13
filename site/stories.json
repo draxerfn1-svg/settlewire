@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T00:06:40.060249+00:00",
+ "generated": "2026-07-13T03:56:31.225215+00:00",
  "stories": [
   {
    "id": "e4ab1e09febf",
@@ -131,9 +131,15 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTIyYVZvTUxtNzR3ekpndWo0TGRIRG1IOUV3RjNfWW15S0ZwMGlpLVM3NjU2ckFBVGtOX0pyWkRxWnVGSEFySl9sVFF5cy1lVUFvZFFka0kyZUs4Nk5QTVRtM1BLZ2xTZEF6NzUzU3hGc19YcTFDaDhoSE8xWXdjLVNERzdySFRXd0h4TENHVlRPYjhPSnJibVJIbjhkUF9JckQ2aTZ5ZTJEckF1alVYVzdn?oc=5"
    },
    "source_title": "Prediction market users have traded nearly $200 million on midterm elections so far",
-   "also": [],
+   "also": [
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVVfRnZRZ0J4UEJHd3FzY2dHekdmRDFYNW5iN3RyaDNEZWhQVE9GalFtcUhIVzVacWo2NFBKaDB6dHhoRVI1ZmtUWnR1WWpYMGFhLXNQZDZEZkFZdFdzU1dOWnRNQTZtVTNkbHI4UlBOZlN2OEQ1NjlZaHVIOUhMRUlmZk1IYTJIWHJnYdIBkgFBVV95cUxQREpEd2JWMGVVYzNGTmQta3Mzdm9TTGxCT3Rlc3lVWVNLNWZTT3pxY3A2dVRfQnlPdWFTZmFPclcxejB1NVY0N3FQbU1fSHJQWmpZYS1mYzlsWklqZnNVTEhsWV81cXRpZW1EcnMwcmxSblFuclAyeV9JSE5YZENtWVpNZjVXdGptemI0U2VpQUhJQQ?oc=5"
+    }
+   ],
    "published": "2026-07-10T16:00:00+00:00",
-   "first_seen": "2026-07-13T00:06:40.060249+00:00"
+   "first_seen": "2026-07-13T00:06:40.060249+00:00",
+   "updated": "2026-07-13T03:56:31.225215+00:00"
   },
   {
    "id": "9710a6dff173",
@@ -395,11 +401,19 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1p5MFFHMm00cDRuZHprcU54eXY3OG8ydm4yLVQzeTFNNGl4SXBRdGlDTHZPNVRtcG96Vzl3ZnZOQ2pMVWVRZFotbTdZWE1qYzduT21IdDZRcGw0UzE0S08tWkhWd3AyY2NaYXNPMS1icVlTa1NTeEw5bVBXdC1ZeXBhRng3M2NsRVlsdFNqV2RTdFNVX0hqQXpUS1pzNVVfMS1lQW1TVHZFaTFTc243MnA4OEZTUQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHFUWTFwRGhfSEVYNTVEbnpCbUd1YlM4djBxb280OWstSkhsYnQwNXdkYlc5b0NvSDRFQ3hsZ1FyLTRXb3doaUhRWFlHak9la1k4VmY2NFZ5Y2dSdkQ3cGVyQlJGSFNpMFF0YjFLdUl4dFFPRzR0OENuTzl3SXRDYzFGNkx2dy03TFhBUkVndUtFUG1lZHY2ZkFBUlB0RmU5?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjhfNVV3X1lTTlFLZHdxQ05aZ0FRVzhnRUk0SndMaVZqcHFVcUtwSWlVb0dCeWhrVzNsSlpTWVJjRC1sMHdZOE50bjJwMGhuR3YzcXE4SWVFVlRNb3p5Vnh2Z1RNSFBfTWdfeXhieGRSRTFRaGFEOW1NYkZwYU81RFNNSGI3b3ZMRUJOdWhVQlYxZGRPQUJnWEdiRlZ6dUk0?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T00:06:40.060249+00:00"
+   "updated": "2026-07-13T03:56:31.225215+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2511,11 +2525,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoUTRJVHZiRnhfV01veTI4Umtldi1iQmlMS3RsSXh5RWM3VlNJWHNtOGRlRmg2MGstZVRLQWRIbFVEQjBFa0dEUm1mUVlPcHIxbXpSRmgzRER3STJMT0JtQnhUajZzV2ZBaDF4bQ?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRndvdUhnR1UyMGthUXFJMUo4VWZmREw5VWFqTUlFckVYU1JwV0VCQ05TR1FzRFRIWmdyc2NkVURZNi1ldEZHOUQwZko3enhVNEdLeS1wcVlFZXUzR3ZNUjhjcEY5QXdnRk1SM3ExWGluVWRZVERXZndkZzhFN2hiM01RSDRBZ2loT0FqVTRUWWEySG9xX0N6Q0tYTzRPSFJ5clFXZHhKODF3Q21BUEJEOVNMQTdhdw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-12T15:09:17.924687+00:00"
+   "updated": "2026-07-13T03:56:31.225215+00:00"
   },
   {
    "id": "3b83809e121a",
