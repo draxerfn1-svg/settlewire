@@ -1,6 +1,60 @@
 {
- "generated": "2026-07-13T21:09:22.780568+00:00",
+ "generated": "2026-07-13T23:07:03.671265+00:00",
  "stories": [
+  {
+   "id": "0ce6b17b5a78",
+   "slug": "ninth-circuit-hears-kalshi-tribal-gaming-classification-dispute",
+   "headline": "Ninth Circuit hears Kalshi tribal gaming classification dispute",
+   "lede": "The Ninth Circuit Court of Appeals took up a legal challenge examining whether Kalshi's event contracts constitute tribal gaming activity, in a case with sweeping implications for prediction market regulation.",
+   "body": [
+    "The Ninth Circuit is now weighing arguments in a dispute that centers on whether Kalshi's federally regulated event contracts fall under tribal gaming statutes, according to ReadWrite. The case forces appellate judges to draw a legal line between CFTC-overseen prediction markets and gambling activities governed by the Indian Gaming Regulatory Act.",
+    "Kalshi, which won a landmark CFTC battle in 2024 to offer congressional election contracts, now faces a separate front in its legal war over how its products are classified. A tribal gaming classification could expose Kalshi and similar platforms to an entirely different regulatory regime, one administered outside the CFTC's jurisdiction.",
+    "The Ninth Circuit's geographic reach covers major U.S. financial and tech hubs, meaning a ruling here could set binding precedent across a large swath of the country. Competing platforms including Polymarket and ForecastEx would likely feel downstream effects if the court determines that event contracts overlap with gaming law."
+   ],
+   "why": "A ruling that blurs the line between CFTC event contracts and tribal gaming could freeze market expansion plans and force traders to reprice regulatory risk on positions tied to U.S.-listed prediction platforms. If tribal gaming law applies, operators may need licenses from an entirely separate federal framework, dramatically raising compliance costs and barriers to entry. Prediction-market traders should watch this case as a leading indicator of whether the asset class remains under the CFTC's relatively permissive umbrella.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Ninth Circuit",
+    "CFTC",
+    "Indian Gaming Regulatory Act"
+   ],
+   "primary_source": {
+    "name": "ReadWrite",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTVpLS1sTFFxVGJ4aWk4ODZXV3Jud0pLMWtLemFUREhVUkNwUkRiUmdDTko3d0MySDNsRUVOVU9WX1pCSlZtZVlKTUY2YVZaN2NQZEowX1dFVmY4UHNTcnBIaGJZZGp0ZEtIdU5nc2xVXzI1ZUp2d1RWa1hpZjhfLUpMb21aN1RZVWdrSFU0Qnc2UQ?oc=5"
+   },
+   "source_title": "Ninth Circuit weighs Kalshi tribal gaming dispute",
+   "also": [],
+   "published": "2026-07-13T10:47:12+00:00",
+   "first_seen": "2026-07-13T23:07:03.671265+00:00"
+  },
+  {
+   "id": "eac14749928b",
+   "slug": "gibraltar-launches-world-s-first-dedicated-prediction-markets-regulatory-framewo",
+   "headline": "Gibraltar launches world's first dedicated prediction markets regulatory framework",
+   "lede": "Gibraltar became the first jurisdiction globally to establish a standalone regulatory regime exclusively for prediction markets, creating a bespoke licensing framework separate from existing gambling or financial-services rules.",
+   "body": [
+    "According to SBC News, Gibraltar has enacted what authorities describe as the world's first regulatory regime designed exclusively for prediction markets, distinguishing the territory's approach from jurisdictions that shoehorn event contracts into gambling statutes or derivatives frameworks. The move positions Gibraltar as a potential hub for operators seeking legal clarity.",
+    "The new framework reportedly establishes dedicated licensing categories and conduct standards tailored to prediction-market mechanics \u2014 including continuous trading, crowd-sourced probability pricing, and event-resolution procedures \u2014 rather than adapting legacy rules written for sports books or commodity exchanges. Specific fee structures and capitalization requirements were not publicly detailed in available coverage.",
+    "The development arrives as operators like Kalshi and Polymarket face fragmented oversight globally, with the CFTC asserting jurisdiction in the United States and various EU member states applying inconsistent gambling or MiFID II standards. A purpose-built offshore regime could attract platforms seeking regulatory certainty while U.S. and European frameworks remain unsettled."
+   ],
+   "why": "A dedicated Gibraltar license gives prediction-market operators a credible, named jurisdiction to cite when negotiating with payment processors and institutional liquidity providers \u2014 a concrete commercial advantage. Traders on platforms that relocate or dual-license under Gibraltar rules may see expanded contract offerings previously blocked by U.S. or EU restrictions. Regulation watchers should monitor whether this framework influences CFTC rulemaking by demonstrating that standalone prediction-market oversight is administratively viable.",
+   "category": "Legal",
+   "entities": [
+    "Gibraltar",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "SBC News",
+    "url": "https://sbcnews.co.uk/featurednews/2026/07/13/gibraltar-predictions-markets-regulations/"
+   },
+   "source_title": "Gibraltar makes history with exclusive predictions market regulatory regime",
+   "also": [],
+   "published": "2026-07-13T09:30:58+00:00",
+   "first_seen": "2026-07-13T23:07:03.671265+00:00"
+  },
   {
    "id": "5fb3ede7b560",
    "slug": "polymarket-rocky-referral-code-extended-through-mlb-all-star-game",
@@ -23,9 +77,15 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHdZOUdLVWtfczBCbk9YUXJBSzJ3QnFNMy0zcmc2b3NYZV95cXBsRDcxYUstWWY2ZTQwbzV4eFlxOHBHSlNpUEZmd29EV0xPdGE0NDh4cElSS3ZCNUZVTVROY3I2VnJjT3VxM2UtZGhtS3MxeXplUEFNOHVOT0dzeEMzTi1hN0VlT1J6UFp1c1F1czFnSlJiRXVkRnNweTI0bHBlMXB6bmh2eW1PMGV2YXVB?oc=5"
    },
    "source_title": "Polymarket extends $50 referral code \"ROCKY\" through MLB All-Star Game",
-   "also": [],
+   "also": [
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3FWbnp1VnEzS3BMa0VWMlVnTHVKQnowTXZmS01ua2VFN0REckd3TVMtdDdrVGpYblFFSVZfbXU2YXBGUjdQSXpNTHFBRmE5WThQdjkyUXBZNUJTamczc2NBQmZ2WDZFYWpJMWZ4WmF3VXo2S3g2b3VheWZnSldhSy0teURTYUJJZHZpQVdoY3BwRENvX29OYU5zZTc0ZmRtamxyQktBYXBiYWJta3FWek5YcHhKaHo5eGkycnlMSERTam8?oc=5"
+    }
+   ],
    "published": "2026-07-13T01:03:05+00:00",
-   "first_seen": "2026-07-13T21:09:22.780568+00:00"
+   "first_seen": "2026-07-13T21:09:22.780568+00:00",
+   "updated": "2026-07-13T23:07:03.671265+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -545,11 +605,19 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEE0QWltZjgxN3BWUTA0Z0Q2azBOaEdhU2ZvWnh0Y2dpMzNPcm1DeEp6UTIzajUxLWxtQVU2NkhmbWVWcExtRGNLTXRQVmFKMjFUYUQwcjlyQXBiVkdEdHpFZjdHZUFVY2M3Z2FPNXI4Uk8zTXAxTVdtYWRhVGYwa1F5a0hhN0hMeDFqSy1RYTAyRnRiOTRwUWlvRmtEUDJrb1R6MmFB?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTFfeUs4b3lEWnAzM1ZBU0gxOHRRM3ZDSGU2WGJnOUNaZ1FZSHdfdDE1TXp0TXBnWThhNWs2dVRfU01hblEzZ3pueEFqRm9VT0hRMTZGNEZoS1UxZFpUUk5LQ3kwWmtZTDZnai1IWWhrZS1RV1dndmdUWW9KSWtjMkZHSU90S1VhcTBBQmJYTFBPOEZXTnRmeDlNdnJVYzM2bXI5UkJ5cktOMmNReTdzMTdSYw?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEtRUTV6U3p0VklQWW9VM0F0QWc4X1FKSUdSOWhxSE5KN1l3NjJERFd6MENoWHZ5ekRSeW1yeFpFMUY2NEFLVzhFejhrbktDOHlJUFNRZzdvRlB2ay1qeUg4TFZfR2xtR0p5Ml9hel9wUnF2Rk0yRkFoUHpWSG41WjlJeXFHeDJDdGc5LV9WNkllTFNGZUFJQjhPay1RWGwxRlVNRGFiaFUtcTVvaXRXSzdHSEVqcjBoZTZDRDBTbHdmS05Ya0tYWjg1Vm9ybzQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T21:09:22.780568+00:00"
+   "updated": "2026-07-13T23:07:03.671265+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3980,80 +4048,6 @@
    "also": [],
    "published": "2026-06-29T17:50:15+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "683fd6b49313",
-   "headline": "Kalshi sues Illinois and Ohio to block sports-market regulation",
-   "lede": "Kalshi has filed lawsuits against both Illinois and Ohio, challenging state attempts to regulate or penalize its sports-event prediction contracts.",
-   "body": [
-    "Kalshi is fighting on two state fronts simultaneously. According to Capitol News Illinois, the federally regulated prediction market has sued Illinois over the state's effort to classify its sports-event contracts as sports betting subject to state oversight. Kalshi argues its products are CFTC-regulated event contracts, not wagers under state gambling law.",
-    "On a separate front, DeFi Rate reports that Kalshi is also suing Ohio after the state levied a $5 million fine against the platform, again tied to its sports prediction market offerings. The Ohio action represents one of the largest state-level financial penalties yet directed at a federally licensed prediction market operator.",
-    "The dual lawsuits mark a significant escalation in the jurisdictional conflict between state gambling regulators and CFTC-authorized exchanges. Kalshi has consistently maintained that its federal designation preempts state gaming authority, a legal theory now being tested simultaneously in two separate court systems."
-   ],
-   "why": "These cases could set binding precedent on whether CFTC designation shields prediction markets from state gambling enforcement \u2014 a question every operator in the space is watching. A Kalshi victory would clear the path for nationwide sports contracts without state-by-state licensing; a loss could fragment the market and raise compliance costs dramatically. Traders pricing political or sports contracts on any platform should watch these rulings as a leading indicator of regulatory risk.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Illinois",
-    "Ohio"
-   ],
-   "primary_source": {
-    "name": "Capitol News Illinois",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUE93aGVGSm9aVE9BS1NMOHJiVVY2TVRwYUZ3Zmx0T0RSSXczVXZLX1NVUHNZUE5fSnZ0azY4bHhiWXdyNE5IdVNXOVF4MXVCazJWVG4tMnpYMHNGclUzWTJUYU0xSWRpeExnR3M4V25GdnBGSG9tNGNYN2drb0N3SUhZMnZLTFlFSXdGX1E2bWRHbDk5cE9IMXNUS1pLNl9TTjR2X3JwVGhaXzZaZ2pUUjExUFo?oc=5"
-   },
-   "source_title": "Prediction market Kalshi sues Illinois over its push to regulate sports bets",
-   "also": [
-    {
-     "name": "Capitol City Now",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dwVGNjVE94VHhfdENlVzN4WVRsZElDSHktRHJWaEoxeFoxY1llMHFhWFNrOTdfRG9nZ0p3a2drSk1vbU0yaVBmS1BSNEZwZTFUTnRubFQ3d05aT1lLTzViNTdrYnVEQWZ4MzN1ZHpuMzJlb1hXTG9haFJ3QXVnVFpjYTFVN3ZQYU9jbFVpRG9rX0NCSGNCYUdtRU9fNEtVQmoxQXZ0ZWtiZ3pDMFRHLXJHZWJ0QkU?oc=5"
-    },
-    {
-     "name": "DeFi Rate",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk8xNEVBdEtZdG9MeXk0SmFEamI1T1FaR2RfTDZ0RjIxTWo5dk11azlENDZzR1B0RVBVSFdBb1RjNGZkWWtYa0pMMEItV3ZTczRlRk9TQlFnajJUNEtucThCRjdCTzFtRjQxVjhocFpOLUozYy1HM29TdnZDODNINkEyWndEM1FG?oc=5"
-    },
-    {
-     "name": "KWQC",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWdYenVvLTByeDY2ZzJ2c3JQNTNPLU9GZzAxQWR5cDUtX0dLQlV0WWtQSk9aaHNzX1VaZlp5SUpZUG1EVHZOX2Y1T3ROR3hYaGxkSFl1bDJtRzctNGhpRE1SLWFvQ0ViMDdvT3lqZEVrYl9iVU1RWWRpYjV6LTNyMnFXUy1FVHBGRGh4Z3FBcndHQTNYLUpUTTVjV1VzS0FsdUg1UnpDOHNIZw?oc=5"
-    },
-    {
-     "name": "The Breeze Courier",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREctQXEyMVFpT2ozRHdJbHE5bkw1SF9RaHB2cW1WU19wX29jNnhUNHoxTWlncWxidVM0QjJBaEN6QWE3SGJOT05wbl8yeU43R3FReW56QUJRZVhhOWZFX2RrZ0xMRjQ2VDloOTgxUEpFWnhCOTVtV0lKa3RxRUt2bXhIbmdkeFkyY2RrMThUUWdmM2ZmQTBoa0x6N1FENVM4TllURjYyT21nR1g2QzhoaHRkc280dTM3a0JRcmpMVldqWWh5?oc=5"
-    }
-   ],
-   "published": "2026-06-26T20:34:19+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "19b28b95e01e",
-   "headline": "CFTC Proposes Rules Banning Injury and Prop Bets on Prediction Markets",
-   "lede": "The CFTC has released a formal rulemaking proposal that would prohibit injury-related and proposition-style contracts on regulated prediction market platforms.",
-   "body": [
-    "The Commodity Futures Trading Commission put forward new proposed regulations that would draw clearer boundaries around what kinds of event contracts can legally trade on prediction market platforms, according to ESPN. The proposal specifically targets injury-related outcomes and proposition-style bets, categories the agency appears eager to wall off from the regulated event-contract space.",
-    "The move represents one of the most concrete regulatory actions the CFTC has taken since prediction markets like Kalshi and Polymarket surged in public visibility during the 2024 election cycle. By naming specific contract types it wants excluded, the agency is signaling it intends to actively shape \u2014 not merely oversee \u2014 what these platforms can list, according to ESPN's coverage of the proposal.",
-    "The proposal arrives as multiple platforms are racing to expand their contract offerings into sports and entertainment territory. A formal rule restricting injury props would directly constrain product roadmaps, particularly for operators who have been eyeing NFL and NBA season contracts as a major growth driver following Kalshi's legal victories over the CFTC on election markets."
-   ],
-   "why": "For prediction-market traders, banned contract categories mean reduced liquidity pools and fewer hedging instruments in sports-adjacent markets. Platform operators face compliance redesigns and potential product rollbacks if the rule is finalized as proposed. Regulation watchers should note this as the CFTC shifting from reactive litigation to proactive rulemaking \u2014 a more durable and harder-to-challenge form of oversight.",
-   "category": "Legal",
-   "entities": [
-    "CFTC",
-    "Kalshi",
-    "Polymarket",
-    "ForecastEx"
-   ],
-   "primary_source": {
-    "name": "ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xEaHE3Tmo2S2ZsQm1YM2dpX3c1ZGRrZV8yMDRnN3VZRk5GNldTd1RUZmlNelN6T28tYTlmeTVqU2ZON21pZkE5cFN4a3l0RFhLeVlhUU1rcXVSdDNkeUtEV2hxeFhuNlc5c2RiUVRHWVVkb0l1MlUtR19lZVVWWjBDZWtNeVFRMk1xZ3F5bkRNdHJZWm0zTEUzemQ3MURhQ2t0emVhd1FFdmFtanl5aXdRRWJmUQ?oc=5"
-   },
-   "source_title": "No injuries, no props: CFTC proposes prediction market rules",
-   "also": [
-    {
-     "name": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkNCWkVjUnVvSVZRdVVJU01UekxneUJfZk10RURNUnJfeDNva2V4eGkxb0VZU21zUG5KR0U5TmtEYmZLNTUtWm95WFdOM0ZjRUYzYzJ5ZnlxNDlKZmlWR3BFdFRUWU9iVVFySWdIdUh2emZZcC10SzVfTHN2bVJMWjJZZkdMSlhuSi11QXN5TG5Cb21SRHFPXzJBcXM0SHZCR2k0VzBXSTRXY05zSU9hY0hYNXFpUUow?oc=5"
-    }
-   ],
-   "published": "2026-06-10T07:00:00+00:00",
-   "first_seen": "2026-07-06T19:46:14.006003+00:00"
   }
  ]
 }
