@@ -1,6 +1,38 @@
 {
- "generated": "2026-07-14T16:24:14.836380+00:00",
+ "generated": "2026-07-14T18:13:49.751455+00:00",
  "stories": [
+  {
+   "id": "391d948176c9",
+   "slug": "kalshi-world-cup-odds-now-surface-inside-chatgpt-via-openai",
+   "headline": "Kalshi World Cup odds now surface inside ChatGPT via OpenAI",
+   "lede": "OpenAI has begun displaying Kalshi's prediction-market odds for the FIFA World Cup directly within ChatGPT, giving the regulated event-contract exchange a high-visibility distribution channel for the first time.",
+   "body": [
+    "ChatGPT is now surfacing real-money probability markets from Kalshi when users ask about World Cup outcomes, according to both The New York Times and Cointelegraph. The integration marks the first known instance of a CFTC-regulated prediction market being embedded inside a major AI assistant, exposing Kalshi's event contracts to ChatGPT's hundreds of millions of users.",
+    "Kalshi, which won a landmark legal battle against the CFTC in 2024 to offer political event contracts, has been aggressively expanding its product line into sports. The World Cup \u2014 scheduled for North America in 2026 \u2014 is among its highest-profile sports offerings. Showing live market-implied probabilities inside ChatGPT could drive both brand recognition and new depositors to the platform.",
+    "The move mirrors how financial data providers like Bloomberg or Refinitiv license odds and prices to third-party surfaces, but the AI-chat context is novel for prediction markets. Neither OpenAI nor Kalshi has publicly detailed the commercial terms of the arrangement, according to Cointelegraph."
+   ],
+   "why": "Distribution inside a dominant AI interface could compress Kalshi's customer-acquisition costs dramatically, making this a potential moat that rivals like Polymarket \u2014 operating without CFTC approval \u2014 cannot easily replicate. Traders should watch whether the integration shifts liquidity and open interest toward Kalshi's World Cup contracts as casual users convert to active participants. Regulators may also scrutinize whether AI-surfaced odds constitute advertising subject to CFTC disclosure rules.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "OpenAI",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHNEVm9GSWo0VjdPbHY5bmw5VTE4b1NyN1ZRT01aSkc3dkJGOG42VjltRTFZSWdrLUxuU1E2bXV6NUI2YmpRdXJlMjFZR3ZxaTR4VGdscEdVVy1QcXBBZ1B6VFpKMVc1Xy1MMjg2Y0dMNDZzcC1LTjk3Q18ybE56MDFVMkg1Rmo5LV8teVg0a3U?oc=5"
+   },
+   "source_title": "OpenAI Is Showing Kalshi\u2019s World Cup Odds in ChatGPT",
+   "also": [
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "published": "2026-07-14T03:43:31+00:00",
+   "first_seen": "2026-07-14T18:13:49.751455+00:00"
+  },
   {
    "id": "012e319ac053",
    "slug": "gondor-v1-launches-polymarket-portfolio-borrowing-for-prediction-market-position",
@@ -53,6 +85,32 @@
    "also": [],
    "published": "2026-07-13T16:43:22+00:00",
    "first_seen": "2026-07-14T16:24:14.836380+00:00"
+  },
+  {
+   "id": "801025c3202f",
+   "slug": "kalshi-launches-advanced-trading-terminal-for-event-contracts",
+   "headline": "Kalshi Launches Advanced Trading Terminal for Event Contracts",
+   "lede": "Kalshi introduced a new advanced trading terminal in 2025, giving event-contract traders a more sophisticated interface with enhanced tools for executing and managing positions on its prediction markets platform.",
+   "body": [
+    "Kalshi, the CFTC-regulated prediction markets exchange, rolled out an advanced trading terminal designed to meet the demands of more active and professional traders. The new interface represents a significant upgrade from the platform's standard UI, according to Kalshi News, offering a more feature-rich environment for participants trading event contracts across politics, economics, and other categories.",
+    "The terminal is aimed at traders who require faster execution, deeper market data, and more granular control over their positions. While specific technical specifications were not fully detailed in the coverage, the launch signals Kalshi's continued push to attract sophisticated market participants beyond retail users, a demographic increasingly important as event-contract trading volumes grow.",
+    "The move follows Kalshi's landmark legal victory against the CFTC that cleared the way for it to operate election markets in the United States. With regulatory standing now established, the exchange has accelerated product development, and a professional-grade terminal is a logical next step toward competing with traditional financial infrastructure."
+   ],
+   "why": "A professional trading terminal lowers the barrier for institutional and algorithmic traders to enter prediction markets, which could meaningfully deepen liquidity and tighten spreads on Kalshi's contracts. Thicker order books would make Kalshi more attractive as a price-discovery venue, putting pressure on rivals like Polymarket to match the tooling. Regulators watching event-contract markets may also take note, as more sophisticated participants increase the profile of the asset class.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Kalshi News",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMXlvRFAzeUVXVGRGOTNyWG4xYUFteFhaLUtYWTRZSGt0dzQzd0dyb1JiLVdPazVnZ3lwbkxLRzJ4dzROZG4xMWRLV3dpcllUSkttX3ItYlRwU3NHd08xZ01qYw?oc=5"
+   },
+   "source_title": "Kalshi Launches Advanced Trading Terminal",
+   "also": [],
+   "published": "2026-07-13T15:26:50+00:00",
+   "first_seen": "2026-07-14T18:13:49.751455+00:00"
   },
   {
    "id": "66b303c60e98",
@@ -251,9 +309,15 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMklfZ1ltckJCbXU3dTlYb2VYTWZZOTRjeVBRSHFCXzRVMjVBMXlHRzBual9WcXBuMElodUVyU2lOZXc4RFFFM0Q0LXhZaU5hSGxvTENaM0VqdExtQVRDd2w5a0dfQWNGby1yNXF1U2NSNEpzSkFUQnFwTmx4MGZRYUd6M0VmSlhURV9RdEJnXy1lQUxGTEp4NTA0Wnh6UGl1OGlBZE1DQ19UajZvQkZ4QUFnZnlZZFVKVFhsUGNYcmFKMXpva24tSWFB0gHPAUFVX3lxTE1xYm1TeTVacjZETHo0bU9QQWhpeTJqS3d4XzFiekl2MG05cHpPUXN1NlJOeGN1a296U2dXVG9CNE1lM2lXZG5PNXFNRnVWZVN0VXNsRUpULWRONUt0c1p0aW5ha2RIYWNtVlQxSmVFb25iN0VtTDlEWklFcGROdGFSNTNiWlRIUDVKa1otZ2JHaDg5bnhuU3l0dXdBTFlxQW1pcThoMjVnNnZpdUs1WktiWjhaWDN6Rm5UUEc4WFRHR21DbXZmWG1vdEx1ZlBmSQ?oc=5"
    },
    "source_title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
-   "also": [],
+   "also": [
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS19XUVdkQUxsMVBXbS1ib1VtQ3FwYS16OGM0ZzJmN0xtUHNVRThuWlRIWFNzM0stejNOOXhCZUR4VEZzckR6bGltOGhBaHV3MjMzU3Zjbm0wRC1UcGFnbnBQY1JKY0tBTWRHeXBzSnpfeWxOdTZ3QTdjR05wX0FaWTZYRXZIRkFzdXdyNUhaWnoyS0NONkFvMHp2OGFObHBpY1hpVEU0T0ZRODByaXprbGJWMFI5RkNkakpfUmFrRQ?oc=5"
+    }
+   ],
    "published": "2026-07-13T11:36:00+00:00",
-   "first_seen": "2026-07-14T00:04:55.217403+00:00"
+   "first_seen": "2026-07-14T00:04:55.217403+00:00",
+   "updated": "2026-07-14T18:13:49.751455+00:00"
   },
   {
    "id": "5f30cfbc9c57",
@@ -1001,11 +1065,19 @@
     {
      "name": "Denver Stiffs",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXFhd0dkQUlhdm9GUDhlV0RWNlF1eERTVTMwSG1VRkxJQ0oyNC1YRTFVcDB1b0N4Z00tZ1BrMndOcTA1OV8zUXdzQ2ZJaFp2N2YwVnBUZHlIWkg2eElXQzNIZTR2NnJBZHRSZGJpWlJ3ZG9Ya3RyNGxHTFRzX0VaV3c4eGxvVjVSVDdHUkVHY2pwMkZWaEY5WlVhdTctak1JUE4za29MS0pIVXVsb3UzTzRqcEZQX212?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTy16R2E4RVlTdDB6UUxSNXRPOUJLSTFoeTBqOS1hTU5wMTNmU2tzQXdDUWlxeG1pNWhOOGItZmxJZWJyS2NoYlRKN24wLTNsUlJtWGhhRkdLNnhuV0lMOHBKUXdua2NsTk1OeWoydFZjRlk0OXFrUmtuQ0FQRTVTWUFyMHBfdjNaMTVwUnpFRjlSd1lxUXZfYlJrTQ?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3UtUWlkQWFWUnhaX2dtZDltWnhSdjRwdVVjVjFpRUJRQ1g1MTlYOVo0aVp4OEpqNGsxb01ERXZrVFZFdDVNUXVuX3MzSzZtNndyQ0hBX0JCOEgwVmU5Y0ZDUlAzUmlXMC0xa2t6Y1BVMnV2S0tfdUVXZTBqVXQwVDJENzl2UTFDdVg0cjVGQThNR2pWcHg5dDREZncyZTNXZHhuMmhqTGxnOV8xV3FCalh3?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-14T16:24:14.836380+00:00"
+   "updated": "2026-07-14T18:13:49.751455+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4088,72 +4160,6 @@
    "also": [],
    "published": "2026-07-02T18:30:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
-  },
-  {
-   "id": "2afd359ef379",
-   "headline": "Supreme Court Gets First Filing in Sports Prediction Market Battle",
-   "lede": "A legal dispute over sports-event prediction markets has reached the U.S. Supreme Court, marking the first filing at that level in the fight over whether such contracts are legal.",
-   "body": [
-    "According to DeFi Rate, the case represents a landmark moment for the prediction market industry, as arguments over the legality of sports-event contracts have now escalated to the nation's highest court. The filing signals that lower-court rulings have failed to settle the underlying legal questions definitively.",
-    "The core dispute centers on whether sports prediction markets constitute illegal gambling or regulated financial instruments \u2014 a distinction with enormous consequences for platforms like Kalshi and Polymarket that offer or seek to offer event contracts tied to sports outcomes. The CFTC has previously weighed in on this boundary, but no Supreme Court precedent currently exists.",
-    "The industry has been in regulatory limbo for years, with exchanges lobbying the CFTC for approval to list sports contracts while opponents argue such products blur the line between derivatives markets and sportsbooks. A Supreme Court ruling, or even a decision to hear the case, could reshape the entire regulatory framework governing event contracts in the United States."
-   ],
-   "why": "A Supreme Court decision on sports prediction contracts would set binding precedent affecting every CFTC-regulated event contract platform, potentially opening or permanently closing the sports market vertical. Traders on platforms like Kalshi should watch closely, as legality rulings could freeze or expand available contract types overnight. Regulators and operators globally would also be forced to revisit compliance frameworks if the Court redraws the gambling-versus-derivatives boundary.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "CFTC",
-    "Supreme Court"
-   ],
-   "primary_source": {
-    "name": "DeFi Rate",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVhXS2FMQkpVRnAxcVZRdXlKTFAzZ25CTExGVDBHc1lpcWFONlRCejN3RGxLbnlmbGhVZ1NUZ1NRM2xWVmxkaEZHb1lMbnI1emp4Zm1qNlpXWS14Z0FXckJsWl83MTZtVXZtNXpqVnJfVTRWR2o5MWtEVkpYM19BT0p4d1ZFTWVjVXVUTQ?oc=5"
-   },
-   "source_title": "Sports Prediction Market Fight Gets First Supreme Court Filing",
-   "also": [
-    {
-     "name": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzlPdURYeTl5VnkzUjZrTkJzazBxOG5VQ0gyZUlySVdqRVNSV1VYRGtSeFdpN0FjRG9IaGNsa0JYSXRmWHRSOWZ1a2FlQzh4MUJ5VVVpRElwcTVsYkc1S0NpNmIwdFZwWUFVakdBLWd3VHJPeDFVd0lhd3hiLXZjVWpSZVNCUFplT0RjRFNvbjJ3ZHpDVHBjWk1fNkhxWDRCVG5vT1pyWThqb0tpUktxYzdjSjhzd2syQklUbQ?oc=5"
-    },
-    {
-     "name": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWM0a0dxUjh3MnVWSW5lVjhkcTFwcmpmVnd4OVlpY3FhbDNRM3hBS3pkODlmYnlIQTdCTHNGOFdfTHdfZ3phQlVDWEdyWEJ1dU14WjY0VW0yREEtNzRKM0trclRZcU82OVY2MjJmZVdrUUtVVk05aW5KRE5laWFRTTNpVm5kd1g2OVpDRkpJRlU0NHByZEd6aUI4SQ?oc=5"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUtLMTVzbVlxVVJOUG9zRzF1Uk5UN3FUa0lYQlJ6VUhqQUpkOEstZHFrNVZfUVlXTkJoNDNyU2xvX1dZdzBKWjR4Y05UUHNNbUxucV9QTGZkdHBxQnpoNEtadzk5T0F0cXNMMnZaaElPbkhGamZfWVRacEtfeTd0SnFGZzJFTEkwQUxzNlV5QXBUWEdLZmRPOUwzV0FGd20wODhUS3VhOHFMTmlhUXp5V1Q4RV80V0tHRmVpNWNyOExOXy1xNUVrSW12NEU?oc=5"
-    }
-   ],
-   "published": "2026-07-02T17:45:00+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00",
-   "updated": "2026-07-13T17:20:49.873458+00:00"
-  },
-  {
-   "id": "3ea2ecf0174f",
-   "headline": "New Jersey Takes Kalshi Sports Contract Fight to Supreme Court",
-   "lede": "New Jersey is preparing a Supreme Court petition challenging Kalshi's right to offer sports-event contracts, escalating a legal battle over federal versus state gambling authority.",
-   "body": [
-    "New Jersey is moving to bring its dispute with Kalshi before the U.S. Supreme Court, according to Casino.org. The state is contesting whether Kalshi's CFTC-regulated sports event contracts can legally operate without state gambling oversight, a question that has divided lower courts and regulators.",
-    "The core legal tension centers on whether federal commodities law preempts state gambling statutes when it comes to event contracts on sporting outcomes. Kalshi has argued its products are legitimate CFTC-regulated derivatives, not sports wagers subject to state jurisdiction. New Jersey, home to a robust licensed sports-betting industry, disagrees and sees the contracts as an unlicensed incursion into its regulated market.",
-    "The outcome could reshape the competitive landscape for prediction-market operators nationwide. A Supreme Court ruling favorable to Kalshi would likely open the door for federally regulated event contracts to expand into sports outcomes across all 50 states, bypassing state licensing frameworks that traditional sportsbooks must navigate."
-   ],
-   "why": "A Supreme Court ruling would set binding national precedent on whether CFTC-regulated event contracts can coexist with or supersede state gambling law \u2014 a decision that affects every prediction-market operator eyeing sports contracts. Traders on platforms like Polymarket should watch closely, as the ruling could either accelerate or permanently close U.S. sports event-contract markets. Regulators and legislators would face pressure to redraw the boundary between derivatives law and gambling law regardless of which side prevails.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "New Jersey",
-    "Casino.org"
-   ],
-   "primary_source": {
-    "name": "Casino.org",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjV4cVJqYV8xUURpRmNiRlF6WC11WW54TDRyaFVaY01MdjV0b3Yzc1FmdVFiRU5FNWpiX3U1YktTM1A4cDJnOXg1Vmp2QldYeGdzWEg0UEhIU2N2SjNpT3BmYU1uNVJUZHc1RjNzTGFseG1WRUZOVVlJdHl2RHZKem1PSGlwMWRBdm5ZVGhabkt3ekdPVXF5V2tlRzkyRDBN?oc=5"
-   },
-   "source_title": "New Jersey Preps Supreme Court Petition in Kalshi Sports Betting Fight",
-   "also": [],
-   "published": "2026-07-02T13:53:31+00:00",
-   "first_seen": "2026-07-06T20:58:07.168716+00:00"
   }
  ]
 }
