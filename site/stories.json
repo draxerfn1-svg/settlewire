@@ -1,6 +1,32 @@
 {
- "generated": "2026-07-14T03:28:19.037051+00:00",
+ "generated": "2026-07-14T06:21:05.307414+00:00",
  "stories": [
+  {
+   "id": "ba133688b49b",
+   "slug": "kalshi-pro-trading-terminal-targets-high-volume-prediction-market-users",
+   "headline": "Kalshi Pro Trading Terminal Targets High-Volume Prediction Market Users",
+   "lede": "Kalshi is launching a professional trading terminal designed for its most active prediction market traders, according to a report by qz.com.",
+   "body": [
+    "Kalshi, the CFTC-regulated prediction market exchange, is rolling out a dedicated pro trading terminal aimed at its heaviest-volume users, according to qz.com. The move signals the platform's push to attract sophisticated traders who require more advanced tooling than the standard consumer interface currently offers.",
+    "The terminal represents a significant product expansion for Kalshi, which has positioned itself as the leading regulated event-contracts venue in the United States. Professional-grade interfaces \u2014 featuring faster order execution, deeper market data, and customizable layouts \u2014 are standard in equities and crypto exchanges but have been largely absent from the prediction markets space.",
+    "Kalshi has seen rapid growth following court victories that affirmed its right to offer political and economic event contracts under CFTC oversight. Building infrastructure for pro traders could accelerate liquidity on the platform, a key metric that separates nascent prediction markets from mature financial exchanges."
+   ],
+   "why": "A pro terminal lowers friction for market makers and arbitrageurs, which should tighten spreads and improve price accuracy across Kalshi's event contracts \u2014 directly benefiting retail traders as a second-order effect. For competitors like Polymarket, this raises the bar on product sophistication in the regulated U.S. market. Regulators watching event-contract venues will also note that institutional-grade tooling signals Kalshi's intent to court professional capital, potentially inviting fresh scrutiny of position limits and reporting requirements.",
+   "category": "Tech",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "qz.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEblNXVDBJbVBwcTNqME9WeTJlV1RucEg3dE9UMV84TFNLc1F2ZDF4X0tUdUt6XzN1aGdheERkRjNEVmlwNDZXVWVSLWRZUWNYVEx2OWN3TXg2em9YS2F3QVJQMzRKTnZENDRIQ013aENodWd6RnBr?oc=5"
+   },
+   "source_title": "Kalshi is launching a pro trading terminal for its most active prediction market traders",
+   "also": [],
+   "published": "2026-07-13T12:51:27+00:00",
+   "first_seen": "2026-07-14T06:21:05.307414+00:00"
+  },
   {
    "id": "c52d38128602",
    "slug": "kalshi-secures-30m-investment-from-etf-xovr-in-prediction-market-bet",
@@ -246,6 +272,33 @@
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
    "updated": "2026-07-14T03:28:19.037051+00:00"
+  },
+  {
+   "id": "aa57d70d1811",
+   "slug": "kalshi-wins-right-to-block-michigan-users-by-address-not-geofence",
+   "headline": "Kalshi wins right to block Michigan users by address, not geofence",
+   "lede": "A court ruling allows Kalshi to enforce its Michigan user ban through address-based verification rather than GPS geofencing, a significant compliance method distinction for the prediction-markets platform.",
+   "body": [
+    "According to LegalSportsReport, Kalshi secured a legal determination permitting it to block Michigan-based users via address verification rather than relying on geolocation fencing technology. The distinction matters operationally: address-based blocking is less technically burdensome and less prone to false positives from VPNs or border-area users.",
+    "Michigan has been a contested jurisdiction for Kalshi as the platform navigates a patchwork of state-level restrictions following its CFTC-regulated launch of event contracts. The ruling provides Kalshi a more flexible compliance pathway without requiring the real-time location infrastructure that sportsbooks and daily fantasy operators typically deploy.",
+    "The decision adds to a growing body of case law defining how federally regulated event-contract platforms must satisfy state exclusion requirements. Unlike sports betting operators who face clear state licensing regimes, prediction markets like Kalshi occupy a hybrid federal-state regulatory space that courts are still mapping in real time."
+   ],
+   "why": "This ruling sets a precedent for how other CFTC-regulated prediction-market platforms \u2014 including potential Kalshi competitors \u2014 can structure geographic compliance without expensive geofencing infrastructure. Traders should watch whether Michigan pursues further action or whether this emboldens Kalshi to contest other state restrictions. Regulation watchers will note that address-verification as an acceptable standard could lower the barrier for new event-contract entrants navigating multi-state exclusion orders.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Michigan",
+    "LegalSportsReport"
+   ],
+   "primary_source": {
+    "name": "LegalSportsReport",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXhORVQxXzJ3UVJHaXZEeGwyWU5YUW1tcHpQR0tQR3FfYTc0SV9HWjJRa0VEMDd5ckpuTnZTOUZ4TnRTUVJIRkVHVHZ6NUx0Z0dEWDRJVWVBajRsdl8xZzVSWWRMTVpVS0NIbTRVZXQ4dTFlaDg5Y3p0TnNVd0huTlFBc2RXU2cyeFB4Nkk5cVBhWEJXVUxxNDktX0dyVVlnMVN5ZlpISQ?oc=5"
+   },
+   "source_title": "Kalshi Can Block Michigan Users By Address Instead Of Geofence",
+   "also": [],
+   "published": "2026-07-12T17:38:00+00:00",
+   "first_seen": "2026-07-14T06:21:05.307414+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -773,11 +826,15 @@
     {
      "name": "CBS Sports",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEtRUTV6U3p0VklQWW9VM0F0QWc4X1FKSUdSOWhxSE5KN1l3NjJERFd6MENoWHZ5ekRSeW1yeFpFMUY2NEFLVzhFejhrbktDOHlJUFNRZzdvRlB2ay1qeUg4TFZfR2xtR0p5Ml9hel9wUnF2Rk0yRkFoUHpWSG41WjlJeXFHeDJDdGc5LV9WNkllTFNGZUFJQjhPay1RWGwxRlVNRGFiaFUtcTVvaXRXSzdHSEVqcjBoZTZDRDBTbHdmS05Ya0tYWjg1Vm9ybzQ?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkpDeFhEWXN3ald0MEx2MFBkVEF2b3MxT1VicDh6NS1tSmNtT2VSa2VTbVh2N1FsZGdPclB3dDhPLW1VWFhEcGU1LTBrQ2lweG1veVdPN05OR0tLQk5fOFlkWDV2MXdCa0N6NmNEb2ZsMnhEZUFSbG5Zd2ZBampyY1hrdzh2cHNVUzVib2F1d0NlbEp1SVdkQjhhOUx5RWpfOWk4VnhxdkJzclMxRkptd0h3bjVWQQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-13T23:07:03.671265+00:00"
+   "updated": "2026-07-14T06:21:05.307414+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3999,70 +4056,6 @@
    "source_title": "Kalshi Challenges Illinois Sports Betting Tax as Prediction Market Jurisdiction Fight Escalates",
    "also": [],
    "published": "2026-07-01T18:46:04+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "6e3d4f6a0a64",
-   "headline": "Prediction Markets Reach $24B Monthly Volume as States Push Back",
-   "lede": "Monthly trading volume on prediction markets has surged to $24 billion, triggering a wave of state-level regulatory resistance across the U.S.",
-   "body": [
-    "Prediction markets have exploded in scale, with monthly volume hitting $24 billion according to Forbes, a figure that reflects dramatic mainstream adoption following high-profile political event contracts during the 2024 election cycle. The growth has transformed platforms like Kalshi and Polymarket from niche curiosities into financial infrastructure drawing serious institutional and retail attention.",
-    "The rapid expansion has not gone unnoticed by state regulators. According to Forbes, multiple states are actively pushing back against the spread of these platforms, raising concerns that event contracts on elections, sports, and other outcomes may overlap with gambling laws that states \u2014 not federal agencies \u2014 have historically controlled.",
-    "The tension sits at the heart of a federalism dispute: the CFTC has signaled that federally designated contract markets like Kalshi operate under its jurisdiction, effectively pre-empting state gambling statutes. States disagree, and some are pursuing their own enforcement actions, setting up a legal conflict that could reshape how and where Americans access these markets."
-   ],
-   "why": "For prediction-market traders, state-level crackdowns could restrict access or force geo-blocking in key U.S. markets, fragmenting liquidity. Operators face compliance costs and legal uncertainty that may chill product expansion. Regulation watchers should monitor whether federal pre-emption arguments hold in court, since a ruling favoring states would fundamentally redraw the competitive landscape.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "CFTC",
-    "Forbes"
-   ],
-   "primary_source": {
-    "name": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTdvNkJTUVNIVlpwVTdab0tyOHNST3JpTlVnN2FZbENKaFFIZ3VPNkV2c21YTklrZFlLczhhYlViWXFEQ1M2SS1fQ0VjNXpYOXdWVnoyS3E2dHIwX0tqZ3pfQnZZOFZ5ZGxoMEFycEUteU80RC1TWnhtT0M4Tm0wNV9UNWhFU3ZUdGw1TzRqV3lNTlF6cmVuNjJKcHFqNXE3c3dPaDRfOGNFTmVxa0UxbG1yYlJXXzBjbXc?oc=5"
-   },
-   "source_title": "Prediction Markets Hit $24 Billion A Month. States Are Fighting Back",
-   "also": [],
-   "published": "2026-07-01T12:00:00+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "6a81819f81c9",
-   "headline": "Michigan Judge Halts Kalshi Sports Event Contracts",
-   "lede": "A Michigan federal judge has issued a temporary block on Kalshi's sports-event contracts, dealing a significant legal blow to the prediction market platform.",
-   "body": [
-    "A Michigan judge granted a temporary restraining order halting Kalshi from offering sports-event contracts in what amounts to a direct legal challenge to the platform's expanding sports markets, according to gamingintelligence.com. The ruling puts a pause on contracts tied to sporting outcomes that Kalshi had been operating under its CFTC-regulated framework.",
-    "Kalshi has argued that its event contracts are federally regulated derivatives, not sports wagers subject to state gambling laws \u2014 a legal theory that has been central to its growth strategy. The Michigan action suggests state authorities are willing to contest that argument in court, potentially setting a precedent for how other states treat federally sanctioned event contracts.",
-    "The case is part of a broader national tension between state gambling regulators and CFTC-regulated prediction markets. Several states have pushed back against Kalshi's sports contracts, viewing them as unlicensed sports betting operating under a regulatory loophole. The outcome of this Michigan proceeding could influence how aggressively other states pursue similar injunctions."
-   ],
-   "why": "This temporary block is a critical inflection point for prediction-market traders and operators: if Michigan's restraining order is upheld or expanded, it could fragment Kalshi's user base by geography and force the CFTC into a direct confrontation with state gaming regulators. Operators watching the space should monitor whether other states file copycat actions, which would materially raise compliance costs and restrict contract availability. Traders holding open sports-event positions on Kalshi face potential forced settlement or restricted access depending on how quickly the legal challenge escalates.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Michigan"
-   ],
-   "primary_source": {
-    "name": "gamingintelligence.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOW52REJsU3UteUdOTzFMOFA2eGRST1FZVEdQa3pwbXFPSEpqa1hmM1ZSSUhxbURPOVBLQ1pLMjJ4NU9ZcE5ZZ0xWeWFWN0dFMFFScFBqLWJTWjhJWU1IYnRYazdvUWkwZnBzVXdYRnRPU1dQVE9JTXBjYUlHUU95QmRRZGtKaGNQMkVFUUhZaXNCQlE1ZWVKWWlsdzJqMHhVODVqbVpQNUtocThCbHdPWFotVmhWdw?oc=5"
-   },
-   "source_title": "Michigan Judge temporarily blocks Kalshi\u2019s sports-event contracts",
-   "also": [
-    {
-     "name": "Event Horizon | Dustin Gouker",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZNdE4tZ3ZVNGtLWC1KaUZPbVUtanRKMExGTzVKcGQ1RU82ZFUtS012UTdQYWswNkR5ckM3S28ycW12d0FodEcwMV9INWZ6UndfMWk0YlFYbi10UXdUdmZFVDFmOEpjUUtVWjdac1hqXzJCRVFmSnFSa2YzZFEyTWQxY3huNTFiWDN2NjRSYTY2V3p0?oc=5"
-    },
-    {
-     "name": "Spectrum News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVg5aHZIY0VHQ1Q4a2FLUXdTWW84NkRBTDNpVUZKd2luZjlJN2praTdXbHJIQVNsdklLTkUtZ3VlYll2VHU2RlRrZkFjRXA5NF91VER3YzZaS2RXdnFfTVBrWno0Zl9tYmZ3ZjZ2NlJLcnF5dW1Lc0lVRmVtOE5hZ3U1TjRIMEJYSTBqemVuX3RLM1hCb0xHVnhHNA?oc=5"
-    },
-    {
-     "name": "Casino.org",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFFrUVZUSDA5ckR0T215T19XaS1hWFMwejRmWE04dFVXY3lFWWV2VUlqa1hvMGtJWUROT2ZkcUZYYzRtbC1TcFpYb2pUdGoyNkVrelFVenROUU9yVlZ3RlNwanB1TjZxZWx0VzBtT09WclphV1pBX2FYX2t4ODVTb0NnVXRMQ0FKOXY1ZTVLNzQyZk4yd0s2X0lSbzl5LXN3aGdvdU1vaG5hX3RVZlkwaWZaZ1VUZw?oc=5"
-    }
-   ],
-   "published": "2026-07-01T09:52:30+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
