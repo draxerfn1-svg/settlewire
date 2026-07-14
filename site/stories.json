@@ -1,6 +1,98 @@
 {
- "generated": "2026-07-13T23:07:03.671265+00:00",
+ "generated": "2026-07-14T00:04:55.217403+00:00",
  "stories": [
+  {
+   "id": "11376ae318dd",
+   "slug": "la-therapists-report-rise-in-youth-gambling-tied-to-kalshi",
+   "headline": "LA Therapists Report Rise in Youth Gambling Tied to Kalshi",
+   "lede": "Los Angeles-area therapists are reporting an increase in young patients presenting with gambling problems, and they are pointing to prediction-markets platform Kalshi as a contributing factor.",
+   "body": [
+    "According to LAist, mental health practitioners in the Los Angeles area have begun seeing a notable uptick in younger clients struggling with compulsive wagering behavior, with several therapists specifically naming Kalshi \u2014 the CFTC-regulated prediction-markets exchange \u2014 as the platform most frequently mentioned by affected patients.",
+    "Kalshi, which gained federal regulatory approval to offer event contracts in the U.S., markets its products as financial instruments rather than gambling, a distinction that critics argue makes it more accessible and less stigmatized for younger users who might otherwise avoid traditional sportsbooks or casinos. The platform allows users to bet on outcomes ranging from economic indicators to political elections.",
+    "LAist's report does not include aggregate patient counts or clinical data, but the anecdotal pattern described by multiple therapists suggests that the mainstreaming of prediction markets \u2014 backed by CFTC legitimacy and app-based accessibility \u2014 may be creating behavioral-risk pathways that existing gambling-harm frameworks were not designed to address."
+   ],
+   "why": "Regulatory approval from the CFTC gave Kalshi a 'not gambling' shield that may be blunting public-health warning systems designed to catch problem gamblers early. If harm data accumulates and reaches lawmakers, it could accelerate calls for CFTC to impose participation guardrails \u2014 age verification, exposure limits \u2014 that would directly reshape how event-contract platforms operate. Prediction-market traders should watch whether this narrative gains traction in California, a state with outsized influence on consumer-finance regulation.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "LAist"
+   ],
+   "primary_source": {
+    "name": "LAist",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWxONUVrTjQ2ZzFIbko3MDAta3NUWmlhQ3JBRFNCUDFiRVpmS2hRY05hak1URkg4YXI0Q1Q2b3g0d2owOFVvbFQ0eHg0LXQ4dXF5eXlPSFp5WUhOODQwc1NfZ2ZUOVlSS0pBQmVEX0hYTjRfVDdPNFBzV1JURmZCb1otTzdsX1hiVWl1Y055eVAwU1hKSUhKVWt1ekhydWdtQmtlUE9jS19lajlwem9KUDVnRGI3Zw?oc=5"
+   },
+   "source_title": "LA therapists are seeing more young patients with gambling problems. They blame Kalshi",
+   "also": [],
+   "published": "2026-07-13T12:00:00+00:00",
+   "first_seen": "2026-07-14T00:04:55.217403+00:00"
+  },
+  {
+   "id": "84c25041709b",
+   "slug": "kalshi-pro-launches-multi-market-trading-and-perpetual-futures-for-power-users",
+   "headline": "Kalshi Pro launches multi-market trading and perpetual futures for power users",
+   "lede": "Kalshi launched a new 'Pro' product, reported by CNBC, giving sophisticated users the ability to trade multiple prediction markets simultaneously alongside perpetual futures contracts.",
+   "body": [
+    "Kalshi's new Pro tier marks the platform's most significant product expansion since winning its CFTC legal battle, according to CNBC. The offering bundles simultaneous multi-market trading \u2014 letting users manage positions across several event contracts at once \u2014 with perpetual futures, instruments that have no expiration date and are common in crypto derivatives markets but novel in regulated U.S. event-contract trading.",
+    "Perpetual futures on a CFTC-regulated venue like Kalshi represent a meaningful structural shift for the prediction-markets industry. Traditional event contracts resolve on a fixed date tied to a real-world outcome; perpetuals allow traders to hold leveraged directional exposure indefinitely, more closely mirroring the mechanics of established crypto exchanges such as Binance or Bybit.",
+    "The Pro launch signals Kalshi's intent to compete for the high-volume, sophisticated trader segment currently dominated by offshore crypto-native platforms like Polymarket, which runs on blockchain infrastructure outside direct U.S. jurisdiction. By packaging institutional-grade tools within a regulated wrapper, Kalshi is positioning itself as the compliant alternative for professional event-contract traders."
+   ],
+   "why": "The introduction of perpetual futures on a CFTC-regulated exchange sets a regulatory precedent that could force the commission to clarify margin and position-limit rules for open-ended event contracts \u2014 a major variable for traders pricing regulatory risk. For prediction-market operators, Kalshi Pro raises the competitive bar: platforms without multi-market execution tools may struggle to retain high-frequency traders who generate disproportionate liquidity. Traders on political and economic markets should watch whether perpetual products attract new arbitrage flows that compress spreads on Kalshi's existing binary contracts.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMklfZ1ltckJCbXU3dTlYb2VYTWZZOTRjeVBRSHFCXzRVMjVBMXlHRzBual9WcXBuMElodUVyU2lOZXc4RFFFM0Q0LXhZaU5hSGxvTENaM0VqdExtQVRDd2w5a0dfQWNGby1yNXF1U2NSNEpzSkFUQnFwTmx4MGZRYUd6M0VmSlhURV9RdEJnXy1lQUxGTEp4NTA0Wnh6UGl1OGlBZE1DQ19UajZvQkZ4QUFnZnlZZFVKVFhsUGNYcmFKMXpva24tSWFB0gHPAUFVX3lxTE1xYm1TeTVacjZETHo0bU9QQWhpeTJqS3d4XzFiekl2MG05cHpPUXN1NlJOeGN1a296U2dXVG9CNE1lM2lXZG5PNXFNRnVWZVN0VXNsRUpULWRONUt0c1p0aW5ha2RIYWNtVlQxSmVFb25iN0VtTDlEWklFcGROdGFSNTNiWlRIUDVKa1otZ2JHaDg5bnhuU3l0dXdBTFlxQW1pcThoMjVnNnZpdUs1WktiWjhaWDN6Rm5UUEc4WFRHR21DbXZmWG1vdEx1ZlBmSQ?oc=5"
+   },
+   "source_title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
+   "also": [],
+   "published": "2026-07-13T11:36:00+00:00",
+   "first_seen": "2026-07-14T00:04:55.217403+00:00"
+  },
+  {
+   "id": "5f30cfbc9c57",
+   "slug": "ninth-circuit-grills-kalshi-on-sports-contracts-vs-betting-in-tribal-lands-appea",
+   "headline": "Ninth Circuit grills Kalshi on sports contracts vs. betting in tribal lands appeal",
+   "lede": "A Ninth Circuit panel pressed Kalshi lawyers in oral arguments to explain why its sports event contracts differ legally from sports betting under the Indian Gaming Regulatory Act in a tribal lands appeal.",
+   "body": [
+    "The Ninth Circuit panel challenged Kalshi during oral arguments over whether its sports event contracts constitute illegal sports betting on tribal lands under the Indian Gaming Regulatory Act (IGRA). Judges questioned the company's attorneys on where the legal line falls between a CFTC-regulated event contract and a wager, according to Gambling Insider and Gaming America. The case centers on whether IGRA's tribal exclusivity provisions can block Kalshi from operating in California.",
+    "Kalshi has argued its products are federally regulated futures contracts overseen by the CFTC, not gambling subject to state or tribal jurisdiction. The tribal appellants contend that accepting money on the outcome of a sporting event is functionally identical to sports betting regardless of the regulatory label applied. The Ninth Circuit's questions, according to Focus Gaming News, suggested at least some skepticism toward Kalshi's jurisdictional framing.",
+    "The outcome carries broad implications: a ruling against Kalshi could effectively bar event-contract platforms from operating in states where tribal compacts hold exclusive sports-wagering rights. Kalshi won a landmark CFTC case in 2024 allowing its sports contracts to launch, but tribal IGRA claims represent a separate and potentially overlapping legal front that federal courts have not yet resolved."
+   ],
+   "why": "A ruling that IGRA tribal exclusivity applies to event contracts would create a patchwork of state-level legal exposure for Kalshi and any competitor offering sports-outcome markets in the U.S. Prediction-market traders should watch closely: contracts tied to sports events could face sudden liquidity disruption if courts uphold tribal jurisdiction. Regulatory arbitrage between the CFTC's federal umbrella and state-level IGRA protections is now the central legal fault line for the entire event-contracts industry.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Ninth Circuit",
+    "CFTC",
+    "IGRA"
+   ],
+   "primary_source": {
+    "name": "Gambling Insider",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVpMSFBCR1k2c1otQ2tBcUR2ZUpqcHNzRGpYd05qaGEzWmItdXBIUU9DTUp5bko0bDRtWEx1WU1DZTk2T004aFVLY0pJR2xDMGxpZE1qRllGeFNneVFKeGVuNDdjUTBvM2JPb0djNjNFT1Rxb2Nfczk0V08wTjUtWjlKaXg4NHZUQVlkaHVQMUpxV0dYX2NIeA?oc=5"
+   },
+   "source_title": "Ninth Circuit Presses Kalshi on Sports Betting Comparisons in Tribal Appeal",
+   "also": [
+    {
+     "name": "Focus Gaming News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2VYM09xVnFCNFBEcU9DVXVxV0ZjTFJzSDhzUXg2aUhqTVJRZzM4Z0hicW9pRlNwZjh4TF8zekRMYm1DS0FYcFNZd2lsRGdCWm1RdWlrTEc3QlluR3B6eXdFQzQ4Z0NQWlE3U3JuNUxIVXNsQkliNmMyQjRwVnBvdEpjelFnT0FWYjkxN1ltLTNTVy0wR2FuVUp3?oc=5"
+    },
+    {
+     "name": "Bettors Insider",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXJYbWhnYXB3SFgzMDBzVEkzQjY2UVJXR1kxZ05PSTJnM1BsWUJMMk1idEhfOFRMcHFaV2NucmsyOUkycnp1ZHhKbUhaRllxQkRTY1hwdHpuX0ZreGtweTZLQ2lKMkxGQnd4ZnNQUFFOX3lJbDJmenlaRlpTdk03dUhXLURlMjBadjZ0YmxMWXpIWkpRSktJR3k1WUVEZlQ3aEtjaGdZNGdpQTBrcDBmUEZBWlhSVHl3TFFQUGhEenhrMGVpTG1TV1dSdDBZMkxPY3pMc3lDNlpXNEE?oc=5"
+    },
+    {
+     "name": "Gaming America",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzBWTHVNVnMzYUpnaTVIZ3JHYzN0Rmh5YVdtZGNyY0ZCLV9mNFE3WHVXZTFwYU1nYXhIM0NrU1F1bEg0cVplb2NpSEdpOHdXSS1GaExyM3VZcEgySnhRcHF3RFIzQUIwTVFLVHRYek5LTkVWZjRzWEtfbEM1b0dtTXZabkw3YVFtYzhGSFpiU3NmUUItc2p1ODdGTkNyc3h1cjJ1S0FWdk55UXhYXzRTTDAwR3k5U01lSEtab0NSTGtSakRkTlZ1ZHdnQTU2OHdubll6eA?oc=5"
+    }
+   ],
+   "published": "2026-07-13T10:53:07+00:00",
+   "first_seen": "2026-07-14T00:04:55.217403+00:00"
+  },
   {
    "id": "0ce6b17b5a78",
    "slug": "ninth-circuit-hears-kalshi-tribal-gaming-classification-dispute",
@@ -24,9 +116,15 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTVpLS1sTFFxVGJ4aWk4ODZXV3Jud0pLMWtLemFUREhVUkNwUkRiUmdDTko3d0MySDNsRUVOVU9WX1pCSlZtZVlKTUY2YVZaN2NQZEowX1dFVmY4UHNTcnBIaGJZZGp0ZEtIdU5nc2xVXzI1ZUp2d1RWa1hpZjhfLUpMb21aN1RZVWdrSFU0Qnc2UQ?oc=5"
    },
    "source_title": "Ninth Circuit weighs Kalshi tribal gaming dispute",
-   "also": [],
+   "also": [
+    {
+     "name": "DeFi Rate",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkFNWTRHSUdBYVluUzBfcF9lTVBxczFlOE9lb0Fva1RsNllfNm5VdTFlaTVqUmVNX2htZWJxRzU1allPbm1zS0Nmd2FQN0g1Z2xpaVg4YTNzTnpYUjBqVnY0R2ZxMXdYZ3NZNWs5aVNRcEF5YTMtbm85VUxQUWprUXRtOVhVb3FkNlFuSWtLNjdTMG9Qak1kV2xTVDRKYktyX3c?oc=5"
+    }
+   ],
    "published": "2026-07-13T10:47:12+00:00",
-   "first_seen": "2026-07-13T23:07:03.671265+00:00"
+   "first_seen": "2026-07-13T23:07:03.671265+00:00",
+   "updated": "2026-07-14T00:04:55.217403+00:00"
   },
   {
    "id": "eac14749928b",
@@ -3969,84 +4067,6 @@
    "source_title": "Kalshi ordered to halt operations in Michigan",
    "also": [],
    "published": "2026-07-01T01:55:00+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "f1689d4c2b1f",
-   "headline": "Meta Weighed Kalshi Acquisition Before Building Own Prediction App",
-   "lede": "Meta explored purchasing prediction market exchange Kalshi before ultimately deciding to develop its own in-house prediction markets application, according to NPR.",
-   "body": [
-    "Meta seriously considered acquiring Kalshi, the CFTC-regulated prediction market platform, before pivoting to build a proprietary forecasting product internally, according to NPR. The revelation sheds light on how seriously major tech platforms are evaluating the prediction market space as a viable consumer product category.",
-    "Kalshi, which secured a landmark legal victory allowing it to offer U.S. political event contracts, has become one of the most prominent regulated prediction market venues in the country. A Meta acquisition would have represented a dramatic consolidation, bringing a federally licensed exchange under the roof of one of the world's largest social media companies.",
-    "Meta's eventual decision to build its own app rather than acquire Kalshi suggests the company saw sufficient opportunity to compete from scratch, potentially leveraging its massive user base. The move also signals growing mainstream corporate interest in prediction markets as an engagement and information product beyond niche trading audiences."
-   ],
-   "why": "For prediction-market traders, Meta entering the space \u2014 whether via acquisition or organic build \u2014 could dramatically expand liquidity and user volume across the sector, lifting all boats or intensifying competition. Regulators at the CFTC will likely face new pressure to clarify rules around who can operate event-contract platforms, especially if a social media giant enters. Kalshi's valuation and strategic positioning may also shift as rivals now know it was deemed acquisition-worthy by Meta.",
-   "category": "Deals",
-   "entities": [
-    "Meta",
-    "Kalshi",
-    "CFTC",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "NPR",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnFrS2ZwbmY1Zm9CWlE4UU9Md2Vwc19fS1FnUzNQUDJGVkh5aXQ1WDdSVkFNeXVybnhKZFRWZ0R3VFczZFFxMVdnaEhSb2xRNDFRbzJuY1JnYnY1c1B5azdHWXJVMnUyY1FuTmF4dFhlV0VWcm1mUFVCVDZuRDdwR25aNUNlZHFyV1djdzJrTG5aM1ZiX0FB?oc=5"
-   },
-   "source_title": "Meta considered buying Kalshi before developing its own prediction market app",
-   "also": [],
-   "published": "2026-06-30T20:33:04+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "1431255785f2",
-   "headline": "Bernstein Flags Kalshi and Polymarket as Acquisition Targets",
-   "lede": "Bernstein analysts say the two leading prediction market platforms could attract takeover bids as the sector gains mainstream legitimacy.",
-   "body": [
-    "Wall Street research firm Bernstein has identified Kalshi and Polymarket as potential acquisition targets, according to Yahoo Finance. The note suggests that growing regulatory clarity and surging user interest in event contracts have made both platforms attractive to larger financial or media players looking to enter the space.",
-    "Kalshi, the only CFTC-regulated prediction market in the United States, and Polymarket, which operates via crypto rails and draws heavy international volume, have emerged as the two dominant players in the sector. Bernstein's coverage signals that institutional investors are beginning to view prediction markets as a credible asset class rather than a niche curiosity.",
-    "The analyst note arrives as prediction markets are experiencing unprecedented visibility following high-profile election market activity. Combined trading volumes across both platforms reached billions of dollars during the 2024 U.S. election cycle, demonstrating liquidity depth that could appeal to established exchanges, media companies, or financial data providers eyeing M&A."
-   ],
-   "why": "A takeover of either platform would reshape the competitive landscape overnight, potentially giving a deep-pocketed acquirer regulatory leverage or distribution advantages that smaller rivals cannot match. For traders, consolidation could mean tighter spreads and better liquidity but also risks of market concentration. Regulation watchers should note that any acquisition of CFTC-regulated Kalshi would require close scrutiny of the buyer's fitness under existing event-contract rules.",
-   "category": "Deals",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "Bernstein",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkMxekxxU2k4blVBVjhHaWllbFplcGFkTmc1YWJjbnFOTUNJYm1TOGszYVJ2N2Z0eXJXMnRBQ3VPUXV2NHpacG9zN002NjJqVkVjZHI4NVFETlZ2SHVLTWlIRFdhdjZyalUtWUxMWXQ5QktpRkJyRG05QU9rbUdzOV8xNW5fdzVOaF9LYXBLbWpfQW4yVmZJZEtMbmx2MGRIU1NzdUkwQQ?oc=5"
-   },
-   "source_title": "Kalshi And Polymarket Could Become Takeover Targets, Says Bernstein",
-   "also": [],
-   "published": "2026-06-29T17:53:00+00:00",
-   "first_seen": "2026-07-06T21:36:25.744148+00:00"
-  },
-  {
-   "id": "58f03a9b1c39",
-   "headline": "SEC and CFTC jointly seek public input on event contract regulation",
-   "lede": "The SEC and CFTC have issued a joint request for public comment aimed at clarifying the regulatory boundary between securities and event contracts.",
-   "body": [
-    "According to JD Supra, the SEC and CFTC are jointly soliciting input from market participants and the public to help draw clearer jurisdictional lines around event contracts and other novel derivatives products. The move signals that both agencies recognize the existing regulatory framework may be ill-suited to handle a new generation of financial instruments.",
-    "Event contracts \u2014 wagers on real-world outcomes traded on platforms like Kalshi and Polymarket \u2014 have long existed in a gray zone between commodity futures regulation under the CFTC and securities oversight by the SEC. The joint inquiry suggests regulators are finally willing to formalize which agency governs which product type, a question that has generated years of legal uncertainty.",
-    "The request for comment is a procedural step that typically precedes rulemaking or formal guidance. Industry participants, including prediction market operators and their legal counsel, will have an opportunity to shape the eventual framework, according to JD Supra, making this a rare opening for the sector to influence its own regulatory future."
-   ],
-   "why": "A clearer jurisdictional split between the SEC and CFTC would reduce compliance costs and litigation risk for prediction market operators, potentially accelerating product launches. Traders should watch for any signal that event contracts tied to securities-like outcomes \u2014 such as stock price events \u2014 could shift to SEC oversight, which carries stricter rules. The outcome of this process could also set precedent for how crypto-based prediction markets are classified.",
-   "category": "Legal",
-   "entities": [
-    "SEC",
-    "CFTC",
-    "Kalshi",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "JD Supra",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFd1VDJPUDdrSmdVZWtKZnU1bGxxV09zdmh6LV9MZWJObjZIajNMMUUtZmlPN0p2NnhQT0pjQTR5ZzRwQ3Y4TDIxLTBnWGFRWWRKYTNjaGRSeHRuY0V5cTB6alhOV08tYnNvSzRmMVBwVV9HVlI1Vi1VeTVLSzByZHp3?oc=5"
-   },
-   "source_title": "SEC, CFTC seek input on clarifying regulatory lines for event contracts and other innovative derivatives products",
-   "also": [],
-   "published": "2026-06-29T17:50:15+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
