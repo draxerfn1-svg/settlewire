@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-14T11:40:50.100559+00:00",
+ "generated": "2026-07-14T14:07:59.911545+00:00",
  "stories": [
+  {
+   "id": "66b303c60e98",
+   "slug": "michael-burry-calls-prediction-markets-gambling-regardless-of-framing",
+   "headline": "Michael Burry calls prediction markets gambling, regardless of framing",
+   "lede": "Michael Burry, the investor famous for predicting the 2008 housing collapse, publicly dismissed prediction markets as gambling in name only, according to Business Insider.",
+   "body": [
+    "Burry, whose 2008 subprime mortgage short was immortalized in 'The Big Short,' leveled sharp criticism at prediction markets, arguing that rebranding speculative event contracts does not change their fundamental nature as gambling, according to Business Insider. His comments arrive as platforms like Kalshi and Polymarket are enjoying a high-profile surge in user activity and media attention following the 2024 U.S. election cycle.",
+    "The critique echoes longstanding regulatory skepticism from bodies like the CFTC, which has repeatedly debated whether event contracts serve a legitimate hedging or price-discovery function or simply attract retail speculators. Burry's public rebuke adds a prominent Wall Street voice to that camp, potentially amplifying pressure on platforms seeking broader regulatory acceptance and mainstream credibility.",
+    "Prediction market operators have argued their products generate genuine information value \u2014 aggregating crowd forecasts on elections, economic indicators, and geopolitical events. Burry's framing directly challenges that distinction, positioning the 'market' label as cosmetic rather than structural, a line of argument regulators and legislators have also deployed in past CFTC rulemaking proceedings."
+   ],
+   "why": "A high-credibility critic like Burry gives legislators and regulators a quotable soundbite that could slow CFTC approval processes for new event-contract categories. Traders on platforms like Kalshi should watch for sentiment shifts among institutional participants who may cite reputational risk. Second-order, this could reduce retail inflows if mainstream media amplifies the 'it's just gambling' narrative heading into fresh regulatory review cycles.",
+   "category": "Opinion",
+   "entities": [
+    "Michael Burry",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEMyalNVVHBqcGFWeW02aDBWME9Zelh3Z1hXYllVMnYzeEFVQnBucUZFSG1FdXRyTTlfT0ZWRC0zclhqQjhXekEybzh4ZEYtZm40MlBHMzJldGU0LTFVeGxESjNFR0l1M2ZXYklnRjdsYlhzSDdnbTJUbFN0SHlpQ2xEMFphLXBkcktmYXQ0LWx0MzNJM2tVZThjSF9TS0FYTnUyVjM2VEs2bmJPemxJYVJYNl91V3I3VkRsYjRB?oc=5"
+   },
+   "source_title": "'Gambling no matter what anyone calls it': 'Big Short' investor Michael Burry bashes prediction markets",
+   "also": [],
+   "published": "2026-07-13T15:07:00+00:00",
+   "first_seen": "2026-07-14T14:07:59.911545+00:00"
+  },
   {
    "id": "2dd849296559",
    "slug": "polymarket-opens-michigan-governor-race-odds-to-public-bettors",
@@ -81,10 +108,15 @@
     {
      "name": "InvestmentNews",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTndSS1VxM1hlMU5zU25hbmZlY0NTRUdBbWNMcHNvNkZZV0lhM1JnVTllQzUzSnB3VXlpNXYzck1zM1ozbG9qenBqVTFqMFNxSEFNUmZWTWc0MUFVcy1mWWVGYzVuV2k4S3RmMVlUaXNLMnhwRlRGcGMzMGFnZkRuY0tlRUZxR1N6Y3R4TjN3Q2JEVzg2SDVnS1doQWRFcUFpU0RySG1YQ1VNODJHSUszZHZlRHdZaVNYekNxamROODlOYXRUX0ZLUUpiMUdPZw?oc=5"
+    },
+    {
+     "name": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUhGYXkxcl9EMHBVRlkydWJIQzBxMHpISlEzb0NQS0hfQklpT2lodGhpRTRwUUtDVG5TeWFMR3YzQk1JZmJuN25qdWxEcjRZUnVMQUhULVEzdWNKWGluZjg2SWZnSWRXT1F2bkwtWUo4NkIwWnZuSU5aQkJTYlg3NU1VRlVVYk01Skh4RXd3Q2XSAZYBQVVfeXFMTWRlcmpIM2J3MGc5NGl2QU9WOEhzZXZrdnlLX3BxZC1Va2tsSHU4V1lnSjJLNGFwdXNhbWVfOEVHWWtGWS1NR1U5V3dWeGpFZWJoWHh2d3VEVGxFdXozUzB3VEpKV1NSWHpMWGV3MzRCSWw2RFlLdXBUN3kxNUU0b1BXbURwUWw1TU9DRDRFNzdqaERsRmpB?oc=5"
     }
    ],
    "published": "2026-07-13T12:44:00+00:00",
-   "first_seen": "2026-07-14T03:28:19.037051+00:00"
+   "first_seen": "2026-07-14T03:28:19.037051+00:00",
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "ded13d29ed27",
@@ -446,9 +478,15 @@
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnWmlVR1ltS2drSEJRMjNJVnp3OUxXUEVQZXNUQ0NZdHpCREFjTHp3SVliU1NzOWZpSlBzYXZxQWV1R3hJVUEtaVZWd3FNdlJJdzVBTzdrRlpBN2dOd1FpMGJOYw?oc=5"
    },
    "source_title": "Is Kalshi legit and safe? What new prediction market users should know about the exchange in 2026",
-   "also": [],
+   "also": [
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FNTJFcTdFNFJmUUhwcWZoX3BCYks4bHNUVXBYUXJRWjJndlRxMkdpTFVxVkJRTTdhc01PSXdqVG5tbFM0NnAxVmFvSnZMdnN2WjZwdEhVUEVQN2tiRE9zeUM5Z3ExaUp5LUVHOVF3?oc=5"
+    }
+   ],
    "published": "2026-07-10T19:58:00+00:00",
-   "first_seen": "2026-07-11T21:01:24.282169+00:00"
+   "first_seen": "2026-07-11T21:01:24.282169+00:00",
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "b5833f2557a9",
@@ -481,11 +519,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "Lower Bucks Times",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkU5WWp5UlpIT0dYcVl4N2R4TWxhUHF3ZUpCS1JnMlJzWldKQ2JhOG10bTNVc19WYXpPZE1tR3RzaFlNQVlaTUE5eWwyNnh6ZkhNY08zalBFNW5fd2NrV2xrNTdQaDhPYldRdDBMVm1zQmo4YVFON2hFUUF2cUtZODUwUUdWaTg?oc=5"
     }
    ],
    "published": "2026-07-10T19:34:07+00:00",
    "first_seen": "2026-07-11T19:21:01.787802+00:00",
-   "updated": "2026-07-13T11:25:48.111091+00:00"
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "37cafe6572e2",
@@ -866,11 +908,27 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkpDeFhEWXN3ald0MEx2MFBkVEF2b3MxT1VicDh6NS1tSmNtT2VSa2VTbVh2N1FsZGdPclB3dDhPLW1VWFhEcGU1LTBrQ2lweG1veVdPN05OR0tLQk5fOFlkWDV2MXdCa0N6NmNEb2ZsMnhEZUFSbG5Zd2ZBampyY1hrdzh2cHNVUzVib2F1d0NlbEp1SVdkQjhhOUx5RWpfOWk4VnhxdkJzclMxRkptd0h3bjVWQQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzVSaTNubnpveHQ0VUh0SDBIZUcxVTN3d3VTTjBXT01UQTBGaXJEb24zUElmc3hYcWJBbTdZTnZoa0pWU1pIemFGcVlaSjB6a1N3QU9XWUFZMzUxdkRYQkhNQkEtdkVERVBXNE8xTkYxYTZhOUUxRkZKY0phcVY0R3NZSl9nWTBaZklFM0tOQjd0SmVzSU9BSg?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0RlaUZhNlR1b2Jqb1o3cWo5S1ZvMVQzUzNlTTF2Sm1xX2E2S1ZDUmJYeHZWSkg0U0gxT2JHOFJHeWpZR1QzOWotRDVoZWotT2ZJU2NySkU1WGNkNWNtUFkyTTgtX2t0THFQTWVKSTlpYXhRM2paQmJJam5wQ0FVZ0hYOVRvblhuTkduODgxeTNKdVFqVVFndWY1TUJIZEJXVE55b0d1LXJZczRqamU3cE81T2Z4cmox?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEJYa3cyTVZ4YWg5TFlLYkR5cE5LZEp0eHVoWWpXamRtWnFlU29nOGVhVjZKcE9WM2VVUFdBR1JScVhpa2ZEU0hhQW12Nzl6UXhyaDViVTl3dWsyZDRLT0VpV1h1aEdrQkdwLWt2bmJmQjVIbWtONzVzaU9ic1huSHVSNFNLX2ROLTdGdFY2ZWU1Ry1tNWV2dF9CZFlRY003WFhOZGhSdjh0Nk1NXzI0a3lGaw?oc=5"
+    },
+    {
+     "name": "Action Network",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnI2LUdzNWk2ZDVrWWkxZjV0N0psUWZ0Wk5DbFpGVFpIS1UxSFFYX29JZVBneUV5UVBKSGdwaXZCNzBqWXQxMlJGWWZzTUVJZ0M3Q2lDRDdpQUx2NWUyMW5xVnNTQXFDM1NXRmxmWGhRRFZKazkxVGxIS0tXcml2Ym9QcTVNUV9ZQm5vdnhZdnJZZWpDRmFHWXd5bzYybW9xdlZGMkdhRjJ0aW83ejhtdzNEYXVoS3d1bkRiYVlKS0wwWGxUZlE0N2VmZ0IxQlVR?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-14T06:21:05.307414+00:00"
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3043,11 +3101,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZFazk1eEx3MmFSemlqRzBFUlV6d3ZPWGRZQkJXNHJUWHByRnlEaGVxYUFiYWZfcmhVb3BaZjFUYVdhSEhnYUFzNmt3U2haS21vM0hOZ3hoUW1vS1VMQWdSaDFORXNRWXRpNERrRUVnNDRialFVY0NVNzk5MzBMYjZIajZtYm5PWXF6MmhoMkFmSzMzY09ld1ZIT3B2Mlo0dlRqOEQtd3p3aU0?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTM1aXFGdWt0VmJxanFPYjlsd0hRdkhQQkJYd01DOUFjUjBGTTRLNVZEc3owYVNFRjdobmZ6TlZvWHJhdk1Gb0xxbXR1MERmVC1BcUFIa0Jsc3RmVUdHVnY2NUZrdjVBcEx0ZVp0ZnpzRkVWM3N3YkUxdkxJOWRldExuU05zQkdUdXZsbVQwWjVBdFEwbldHSXloZ0lKVHRmRHZz?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-13T19:43:07.967263+00:00"
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -3080,11 +3142,15 @@
     {
      "name": "Kalshi News",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZUUwOE92cE5lVmoxMUFfN09uSXp0emR3cDNGVERGYzRodXU1RlRPeW9TZ25YeVFKSjg1RXNUYVF0NDAyanFTcF9yc0JhUlNFTTZFTDRpM09FZ3JKNnp4RGtZTEY3Y1V0N3hqREJxUEZxOGs?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGtISmVYLWhMdS0wWnlGdXJ1a1pZMkZnUzdUQW8xakpETWRYb0gwRG9DNG1UVTlDTzlZNG9CNF9Hc01Xa1VOLTQ1VEVXc2tvc1ZmVTF4ZWdPWmNsQm5TSC1TdnVXM2JjZ256cFQ4azdDTi04QlNXSXhLX2pTS19IaE5RQVlieFoxTHdJX08zQ1htREtmQmF1dnN6a0hsV1pwYXlYX0hyVDlBeTdQcnRuRA?oc=5"
     }
    ],
    "published": "2026-07-06T18:19:03+00:00",
    "first_seen": "2026-07-08T07:39:01.455109+00:00",
-   "updated": "2026-07-11T21:01:24.282169+00:00"
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "5146383bcd0a",
@@ -3504,10 +3570,15 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWVwazdPeDVMZGlCRk1kX0xwSFF2V3FRMVhrN193VkNRVUxQMVRUV2V1cW9ENk9SVV9sRmJINVpsUEc0Ylkzem5fVWhreTFtWVpMZDdKeEZaWUZVd2l4RFJVT1lFaTU4cG1UdVBtWndWVW5peHZwRzRhZ0sxeVlmWnc0OTFYTUJQQWpldVpTY21zNWVmdVFYTW82Rl9zMEsw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXY3ZjltWkM0djVXQ0JoQnNxRWNpY0Ffa1JWLTljMEc0ZVk5elR2VVRSOWFtQlFvWUN0WWNfejNEZGxTZWM3bERLblc2dnROeUV5TXpaak9fSE44SE9McTlrZWNhQ3ppdlg5WEd2eUQ5OEdrTGVia3g3UXZfdl9PeHRLQVprLUIybkZsbFBuNGJBWXZSekJSR2k0aWVjcDd3UFE?oc=5"
     }
    ],
    "published": "2026-07-04T12:54:04+00:00",
-   "first_seen": "2026-07-06T20:58:07.168716+00:00"
+   "first_seen": "2026-07-06T20:58:07.168716+00:00",
+   "updated": "2026-07-14T14:07:59.911545+00:00"
   },
   {
    "id": "54ed5d446ca6",
@@ -4044,32 +4115,6 @@
    "source_title": "Most prediction market contracts have low volume, leaving users exposed to volatility and bots",
    "also": [],
    "published": "2026-07-02T12:47:08+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "328c030e8550",
-   "headline": "Cboe Seeks SEC Blessing for Earnings-Based Event Contracts",
-   "lede": "Cboe has formally asked the SEC to approve a new class of event contracts tied to corporate earnings outcomes, expanding the regulated event-contract landscape beyond the CFTC's domain.",
-   "body": [
-    "Cboe Global Markets has filed a request with the Securities and Exchange Commission seeking approval to offer event contracts based on corporate earnings results, according to Casino.org. The move would mark a significant expansion of exchange-traded event contracts into SEC-regulated territory, where earnings data is considered securities-adjacent information.",
-    "The application represents a direct challenge \u2014 or complement \u2014 to the CFTC-regulated event contract space currently dominated by platforms like Kalshi and ForecastEx. By routing earnings-based contracts through the SEC rather than the CFTC, Cboe appears to be carving out a separate regulatory pathway that could sidestep ongoing debates about what qualifies as a commodity-based event contract.",
-    "Earnings event contracts would allow traders to take positions on whether a company beats, meets, or misses analyst forecasts \u2014 essentially turning quarterly reporting season into a tradeable event market. The product would compete with existing prediction-market activity on platforms like Polymarket, where informal markets on corporate outcomes already attract significant volume."
-   ],
-   "why": "If the SEC approves Cboe's application, it would establish a second major regulatory framework for event contracts alongside the CFTC, complicating jurisdiction boundaries and potentially triggering turf disputes between the two agencies. Kalshi and ForecastEx would face a well-capitalized incumbent competitor with established institutional distribution. Traders should watch for whether SEC approval sets a precedent that accelerates or restricts event-contract product development across the industry.",
-   "category": "Legal",
-   "entities": [
-    "Cboe",
-    "SEC",
-    "Kalshi",
-    "ForecastEx"
-   ],
-   "primary_source": {
-    "name": "Casino.org",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0t1dURXc0hjRV8xMEd3WDVpTVdVR2ZSLXVQV0xNUGE3TjJzSkEwLU5zRk1kaU9OSmFMVHlNdnBjLVZWRUVLcWI0VHB6eFo1eTF4d0FMeVM5clhLcV85cFpPbnN3SUwwdGNRM0ZYVUJGX3ZIVm1SQjh2Rk1TeVdwMC13TzdsSWZab3h2b2h1cw?oc=5"
-   },
-   "source_title": "Cboe Asking SEC to Approve Earnings-Based Event Contracts",
-   "also": [],
-   "published": "2026-07-02T12:03:36+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
