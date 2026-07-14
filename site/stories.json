@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-14T06:21:05.307414+00:00",
+ "generated": "2026-07-14T09:14:21.295930+00:00",
  "stories": [
+  {
+   "id": "2dd849296559",
+   "slug": "polymarket-opens-michigan-governor-race-odds-to-public-bettors",
+   "headline": "Polymarket Opens Michigan Governor Race Odds to Public Bettors",
+   "lede": "Polymarket has launched a prediction market on the 2026 Michigan gubernatorial race, allowing traders worldwide to stake positions on which candidate will win the governorship.",
+   "body": [
+    "According to WTVB, Polymarket is now offering event contracts on the Michigan governor's race, extending its U.S. electoral coverage beyond federal offices to include a high-profile state contest. Michigan, a perennial swing state, has drawn national attention ahead of the 2026 cycle as both parties position candidates for the open seat left by term-limited Governor Gretchen Whitmer.",
+    "Polymarket, which processed over $3.5 billion in election-related volume during the 2024 U.S. presidential cycle, has increasingly expanded into down-ballot and state-level races. Adding Michigan signals the platform is broadening its political market catalog, capturing trader interest in competitive gubernatorial contests that historically attract significant independent expenditure and national party resources.",
+    "The Michigan race is considered one of the more competitive gubernatorial contests of the 2026 midterm cycle, making it a natural candidate for liquid prediction-market trading. Early contract pricing on platforms like Polymarket often becomes a reference point for media and campaign strategists assessing race competitiveness."
+   ],
+   "why": "State-level race markets on Polymarket test whether electoral liquidity can scale beyond presidential contests, a key question for the platform's long-term revenue model. Traders should watch early volume and spread data as a signal of whether niche political markets attract meaningful participation. Regulators monitoring Polymarket's CFTC status will also note whether state elections prompt new scrutiny of permissible contract scope.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "CFTC",
+    "Michigan",
+    "Gretchen Whitmer"
+   ],
+   "primary_source": {
+    "name": "WTVB",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVzBjWng2aHR6ZXVoZ0xBenF2aEliWGNGUUNTRmtHTUtfNUg0VEhGRkpQZll0SldkOTdrN3Vna0RBM0VudTFnbEV0WE03UQ?oc=5"
+   },
+   "source_title": "Polymarket predicts Michigan governors race",
+   "also": [],
+   "published": "2026-07-13T12:54:26+00:00",
+   "first_seen": "2026-07-14T09:14:21.295930+00:00"
+  },
   {
    "id": "ba133688b49b",
    "slug": "kalshi-pro-trading-terminal-targets-high-volume-prediction-market-users",
@@ -889,6 +916,33 @@
    "also": [],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00"
+  },
+  {
+   "id": "704478fc965a",
+   "slug": "kalshi-federal-win-fails-to-shield-it-from-state-level-legal-barriers",
+   "headline": "Kalshi federal win fails to shield it from state-level legal barriers",
+   "lede": "A court ruling against Kalshi clarified that federal CFTC approval does not automatically preempt state gambling and licensing laws, leaving the prediction-market platform exposed to a patchwork of state restrictions.",
+   "body": [
+    "According to CryptoSlate, a court ruled against Kalshi on the grounds that holding a federal Commodity Futures Trading Commission designation does not grant immunity from individual state regulations. The decision marks a significant legal setback for the platform, which had argued its federal status should supersede conflicting state-level requirements.",
+    "The ruling highlights a structural tension in U.S. event-contract regulation: federal oversight under the CFTC and state gambling statutes operate on parallel tracks, and courts have declined to let one automatically nullify the other. Kalshi, which launched regulated political and economic event contracts after its 2021 CFTC approval, now faces the prospect of navigating dozens of separate state licensing regimes.",
+    "The decision has broader implications for competitors such as Polymarket and ForecastEx, all of whom operate in a legal environment where federal legitimacy has often been marketed as a proxy for full legal compliance. If states pursue enforcement using this precedent, the cost and complexity of maintaining a nationwide prediction-market business could rise sharply."
+   ],
+   "why": "Prediction-market operators that assumed CFTC designation was a litigation shield must now budget for state-by-state legal exposure, materially raising their compliance costs and operational risk. For traders, this ruling introduces platform-availability uncertainty \u2014 a state crackdown could restrict access to markets mid-contract. Regulation watchers should expect lobbying pressure to build around a federal preemption framework that would settle the jurisdictional ambiguity once and for all.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlREc1RiekdRWk1QU1c2VEljdXNhMmpLOGswWXFzUzlqYjRiQ0VyYm1PbE1Qa0NNUmljMDhIU0dLQVlGZmhxR0xQRThsZy1MdHVjbWNtVWVMZHBIM2lxLVNUdkNtVlZ5YUd5Q3VRVUVyUmVuaVd3dlJuTHpjZnIyYTduUHVUMVVSZnF0Q2dwZGtoTmgyWUc5TUdGaldMa0gwOVhWYkhqRV81eU9OQ0pNbjByZG1FeDl5akppeDVnTQ?oc=5"
+   },
+   "source_title": "Kalshi court loss shows federal approval cannot erase state barriers",
+   "also": [],
+   "published": "2026-07-10T10:41:29+00:00",
+   "first_seen": "2026-07-14T09:14:21.295930+00:00"
   },
   {
    "id": "9ad7a6a26958",
@@ -3078,6 +3132,33 @@
    "first_seen": "2026-07-07T15:48:56.059066+00:00"
   },
   {
+   "id": "05bc9a68d992",
+   "slug": "michigan-court-halts-kalshi-sports-event-contracts",
+   "headline": "Michigan court halts Kalshi sports event contracts",
+   "lede": "A Michigan court issued a ruling sidelining Kalshi's sports prediction markets, delivering a significant legal blow to the federally regulated exchange's expansion into sports event contracts.",
+   "body": [
+    "A Michigan court moved to block Kalshi from operating sports-related prediction markets in the state, according to Axios, marking one of the first successful state-level legal challenges against the New York-based CFTC-regulated exchange. The ruling raises immediate questions about whether other states could mount similar actions against federally authorized event-contract markets.",
+    "Kalshi has positioned its sports markets as legal under federal jurisdiction via its CFTC designation as a designated contract market (DCM), a framework the exchange argues preempts state gambling laws. The Michigan ruling challenges that preemption argument directly, creating a fault line between federal event-contract regulation and state-level gaming authority that courts have not previously resolved at this scale.",
+    "The decision could reverberate across the prediction-market industry, which includes competitors such as Polymarket and ForecastEx, all of which are navigating the unresolved tension between federal financial regulation and state gaming statutes. Kalshi had aggressively expanded into sports contracts following a separate federal court victory in 2024 that cleared its political event markets."
+   ],
+   "why": "This ruling is a critical data point for traders pricing the long-term viability of Kalshi's sports-market volume, since a patchwork of state injunctions could materially fragment liquidity. For regulation watchers, it tests whether CFTC designation genuinely preempts state gambling law \u2014 a question with industry-wide consequences. If the Michigan precedent spreads, operators may face a compliance map as complex as sports-betting licensing, sharply raising barriers to entry.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket",
+    "ForecastEx"
+   ],
+   "primary_source": {
+    "name": "Axios",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeF9fZU5UZWg0QXBMdlRSWElIdzRKNkowTWk3VE1WX0F3VzJ6MWRDeGVqZ2tmam9NVTMyYzByTnlxY0pONWMxYlhqYTlELUJWVll1V1F4OERENGlKSFlteHVJSU9lXzdkMnZyQVBJazkwQzZSU2NhNE9ZaXdXbnF1TDhLNjNnYnFyVjg3c2FuRl8zWTl2?oc=5"
+   },
+   "source_title": "Michigan court sidelines Kalshi sports markets",
+   "also": [],
+   "published": "2026-07-06T13:24:19+00:00",
+   "first_seen": "2026-07-14T09:14:21.295930+00:00"
+  },
+  {
    "id": "1d484074c246",
    "slug": "kalshi-s-media-influence-scrutinized-in-popular-information-expos",
    "headline": "Kalshi's media influence scrutinized in Popular Information expos\u00e9",
@@ -3980,82 +4061,6 @@
    "source_title": "Cboe Asking SEC to Approve Earnings-Based Event Contracts",
    "also": [],
    "published": "2026-07-02T12:03:36+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "8c0ceccfca1a",
-   "slug": "citadel-securities-poaches-polymarket-cto-in-high-profile-hire",
-   "headline": "Citadel Securities Poaches Polymarket CTO in High-Profile Hire",
-   "lede": "Citadel Securities has hired Polymarket's Chief Technology Officer \u2014 a former Citadel employee \u2014 marking a significant talent departure from the leading prediction-markets platform.",
-   "body": [
-    "According to eFinancialCareers, Citadel Securities has recruited the Chief Technology Officer of Polymarket, the crypto-based prediction markets giant, completing what amounts to a homecoming hire: the executive had previously worked at Citadel before joining Polymarket. The move signals intensifying competition for top technical talent between traditional high-frequency trading firms and decentralized prediction-market platforms.",
-    "Polymarket has grown rapidly in recent years, handling hundreds of millions of dollars in trading volume on political, economic, and geopolitical event contracts. Losing a CTO-level executive to a firm of Citadel Securities' scale is a notable setback for organizational continuity, particularly as Polymarket navigates ongoing regulatory scrutiny from U.S. authorities and seeks to expand its legitimacy in American markets.",
-    "Citadel Securities, one of the world's largest market makers, has been quietly expanding its presence in digital-asset and alternative-markets infrastructure. Recruiting a senior leader with hands-on experience building a high-throughput prediction-markets platform could inform Citadel's own event-contract or derivatives ambitions at a moment when the CFTC is actively reshaping the rules around such products."
-   ],
-   "why": "A CTO departure at Polymarket raises immediate questions about technical roadmap continuity ahead of a potentially pivotal U.S. regulatory window for event contracts. For prediction-market traders, leadership instability at the dominant platform is a direct risk factor worth pricing into longer-dated market-health contracts. Citadel Securities acquiring this expertise also hints at incumbent financial players positioning to compete in or influence the event-contract space.",
-   "category": "Deals",
-   "entities": [
-    "Polymarket",
-    "Citadel Securities",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "eFinancialCareers",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzhRdldDdkYyeW0tdTBnMXRacVVFbVJfZS0wZWNzWUdVUm85MXJ1N1dUcjJ0Mnd4UC11RHBFZkd5a3JzWWxTM2ZIUlZIWVlKc3MyZk5WMWp4TVV3SmVBbjhHVTRRUzhtSmN6Z1JzSDZvTTExM0xsbzI3OFVnMjRCRG0ydHpoT1pLbzJ4Uzh5N1k?oc=5"
-   },
-   "source_title": "Citadel Securities hired Polymarket's CTO, formerly of Citadel",
-   "also": [],
-   "published": "2026-07-02T11:38:30+00:00",
-   "first_seen": "2026-07-08T07:39:01.455109+00:00"
-  },
-  {
-   "id": "fcb70cc32e93",
-   "headline": "Large Polymarket Wagers Placed on Putin Losing Power",
-   "lede": "Significant sums have been wagered on Polymarket contracts tied to Russian President Vladimir Putin's political fate, drawing widespread attention.",
-   "body": [
-    "According to NBC News, notable bets have surfaced on Polymarket \u2014 the crypto-based prediction market platform \u2014 centered on whether Vladimir Putin will remain in power or face some form of political downfall. The contracts have attracted attention both for their size and for the geopolitical signal they may carry.",
-    "Polymarket has increasingly become a venue for high-stakes political wagering beyond U.S. elections, with users placing large individual positions on foreign-leader outcomes. The Putin contracts reflect a broader trend of traders using the platform to speculate on low-probability but high-impact geopolitical events, where contract payouts can be substantial if rare scenarios materialize.",
-    "This follows Polymarket's surge in mainstream visibility after the 2024 U.S. presidential election cycle, during which the platform recorded hundreds of millions in trading volume. Political contracts involving foreign heads of state now represent a growing segment, raising questions about the platform's data value as a geopolitical forecasting tool."
-   ],
-   "why": "Large, visible bets on sovereign-leader contracts can move implied probabilities significantly, making these markets both a signal and a target for informed or well-capitalized traders. Regulators and competing platforms will watch whether such contracts attract scrutiny under event-contract rules. For operators, high-profile geopolitical markets drive user acquisition but also increase reputational and compliance risk.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Vladimir Putin",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1nNlR6V2F3eDFVeVZjVnFsYXBfdUIwZ0I5SFZpNjVmTWNTdllHUTgyVWZfUmllOFNOdTc0VUR0LVVsZ3F6NW9hRTR6MUYwTnJOUWVDY1RNaDFWb244V2c4aDhmcUdrR1NiLV85V0J4dHdXSmU3ZXdSY0c0dFpUMDRCQlc1SjJhLV9WOHM0ZlBZMm5waXVHS043T2pYYWM?oc=5"
-   },
-   "source_title": "Big Polymarket bets have been placed on Putin\u2019s downfall",
-   "also": [],
-   "published": "2026-07-02T00:40:00+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "bddc72fd0279",
-   "headline": "Kalshi Sues Illinois Over Sports Betting Tax on Prediction Markets",
-   "lede": "Kalshi is challenging Illinois's application of its sports betting tax to prediction market contracts, escalating a nationwide fight over how event contracts should be regulated.",
-   "body": [
-    "Kalshi has filed a legal challenge against Illinois over the state's attempt to apply its sports betting tax to the company's federally regulated prediction market contracts, according to PYMNTS.com. The dispute centers on whether Illinois has the authority to impose state gambling levies on a product that operates under federal CFTC oversight.",
-    "The case represents a direct collision between state gambling regulators and the federal framework that governs event contracts. Kalshi has consistently argued that its products are commodity contracts, not sports wagers, and therefore fall exclusively under federal jurisdiction \u2014 a position the company is now pressing through litigation in one of the country's largest sports-betting markets.",
-    "The Illinois confrontation is part of a broader pattern: as prediction markets expand into sports outcomes and elections, state gaming authorities have increasingly moved to assert jurisdiction. Similar jurisdictional questions have surfaced in other states, making this case a potential bellwether for whether federal preemption shields CFTC-regulated operators from state-level gambling taxes and licensing demands."
-   ],
-   "why": "A ruling favoring Kalshi would create a strong federal-preemption precedent, directly limiting states' ability to tax or restrict other prediction-market operators like ForecastEx. Conversely, an Illinois victory could force Kalshi and rivals to navigate a patchwork of state tax regimes, significantly raising compliance costs and dampening market liquidity. Traders and operators should watch this case as a leading indicator of whether the prediction-market model scales nationally.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Illinois Gaming Board"
-   ],
-   "primary_source": {
-    "name": "PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkxsMmF1anRjeGEzYXRaVlpjWWNVZDdrU19OQkxfMzhVWkxCTWZBYWE2Z2JucDJ3RkFwNGY3cFd4bWlNQnU4SVpCMDVCUTgza1dRYkZONFF1c1hxUzJSSGc5VmFaQnU1X3ZHSnVEbXMzQTZUYWI0MFRHamFfUUV6NmdXUEsyZ0lIU1Z5ZUliYVNyZER0R2pMcVJsbDhtelZGZGJGVl9JWDZIQXNNckpmNHYyZ3RKNGtqLXlyczI4cm9tRmllZWVTMQ?oc=5"
-   },
-   "source_title": "Kalshi Challenges Illinois Sports Betting Tax as Prediction Market Jurisdiction Fight Escalates",
-   "also": [],
-   "published": "2026-07-01T18:46:04+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
