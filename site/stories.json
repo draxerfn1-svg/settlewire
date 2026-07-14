@@ -1,6 +1,64 @@
 {
- "generated": "2026-07-14T00:04:55.217403+00:00",
+ "generated": "2026-07-14T03:28:19.037051+00:00",
  "stories": [
+  {
+   "id": "c52d38128602",
+   "slug": "kalshi-secures-30m-investment-from-etf-xovr-in-prediction-market-bet",
+   "headline": "Kalshi secures $30M investment from ETF XOVR in prediction market bet",
+   "lede": "ETF issuer XOVR committed $30 million to prediction market exchange Kalshi as a private market investment, expanding its strategy of backing high-growth alternative asset firms.",
+   "body": [
+    "XOVR, the ETF issuer previously known for a $30 million private stake in SpaceX, has now directed an equivalent sum into Kalshi, the CFTC-regulated prediction market exchange, according to PR Newswire and InvestmentNews. The move signals a deliberate pattern by XOVR of targeting pre-IPO or private companies operating at the frontier of financial innovation, using ETF structures to give retail investors indirect exposure.",
+    "Kalshi, which secured CFTC approval to operate event contracts in the United States, has rapidly grown its product suite to include markets on elections, economic indicators, and weather events. The $30 million infusion adds institutional credibility to the platform at a moment when prediction markets are drawing significant mainstream attention following high-profile trading volumes during the 2024 U.S. election cycle.",
+    "XOVR's strategy mirrors a broader trend of asset managers packaging illiquid private stakes into exchange-traded products, allowing everyday investors to participate in sectors previously limited to venture capital. For Kalshi, the capital injection also arrives as competition with rivals like Polymarket intensifies and the regulatory landscape for event contracts continues to evolve under CFTC oversight."
+   ],
+   "why": "A $30 million institutional investment specifically earmarked for Kalshi strengthens the exchange's balance sheet ahead of what could be a pivotal period for CFTC event-contract rulemaking. Prediction-market traders should note that increased capital backing typically accelerates product development, liquidity, and market-maker incentives. For regulation watchers, mainstream ETF involvement lends political legitimacy to the asset class at a time when its legal standing remains an active battleground.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "XOVR",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUlaRVoyRC04SlViajVCU25mTUZhZU5QaDRwWTFVcl85dXp0bVBKek5SNE9Sa2VTN0RTWGt2ZDd5aUhhYWh3X3J5VjlXdnZIWFEzZE1uNjloSmxNX3dOLXRKZkFkTVNYdUlJUnVabFZ3TjVtRjFpajVvUUpZTE9vLWNSVHk4Z005eXJnM0tCekRZOExZd1U4REtxbm1iTkl6TVkycU9nNF9wWUpqa3RwNHFKVmtUZHBfbm5TRVZYcFNGNHVoN05sOA?oc=5"
+   },
+   "source_title": "XOVR Expands Private Market Strategy with $30 Million Investment in Kalshi",
+   "also": [
+    {
+     "name": "InvestmentNews",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTndSS1VxM1hlMU5zU25hbmZlY0NTRUdBbWNMcHNvNkZZV0lhM1JnVTllQzUzSnB3VXlpNXYzck1zM1ozbG9qenBqVTFqMFNxSEFNUmZWTWc0MUFVcy1mWWVGYzVuV2k4S3RmMVlUaXNLMnhwRlRGcGMzMGFnZkRuY0tlRUZxR1N6Y3R4TjN3Q2JEVzg2SDVnS1doQWRFcUFpU0RySG1YQ1VNODJHSUszZHZlRHdZaVNYekNxamROODlOYXRUX0ZLUUpiMUdPZw?oc=5"
+    }
+   ],
+   "published": "2026-07-13T12:44:00+00:00",
+   "first_seen": "2026-07-14T03:28:19.037051+00:00"
+  },
+  {
+   "id": "ded13d29ed27",
+   "slug": "kalshi-pro-launches-multi-market-dashboard-for-active-traders",
+   "headline": "Kalshi Pro Launches Multi-Market Dashboard for Active Traders",
+   "lede": "Kalshi has officially launched Kalshi Pro, a new platform tier designed for high-volume traders who simultaneously manage positions across multiple event-contract markets.",
+   "body": [
+    "Kalshi Pro went live as a dedicated interface built for traders operating at scale across the prediction-market platform's growing catalog of event contracts, according to Bitcoin Foundation's coverage of the launch. The product targets users who find the standard Kalshi interface insufficient for tracking multiple simultaneous positions, offering an upgraded workflow designed around speed and breadth of market access.",
+    "The launch represents Kalshi's clearest move yet toward segmenting its user base between casual participants and professional-grade traders \u2014 a distinction common in traditional financial platforms but relatively novel in the regulated event-contract space. Kalshi is the only CFTC-designated contract market focused primarily on event contracts, giving it a unique regulatory footing that lends credibility to building out a 'pro' tier.",
+    "Specific pricing, feature details, and eligibility criteria for Kalshi Pro were not fully detailed in available coverage, but the product's existence signals Kalshi's intent to court institutional-adjacent users who demand more sophisticated tooling than a retail-oriented interface provides."
+   ],
+   "why": "A professional trading tier at Kalshi could meaningfully deepen liquidity in its event markets by attracting sophisticated market-makers who currently find the platform's tools insufficient \u2014 a second-order boost to price accuracy that prediction-market observers should watch closely. For competing platforms like Polymarket, it raises the stakes on their own UX investments. Regulators may also scrutinize whether 'pro' access tiers create disparate information or execution advantages that require additional oversight under CFTC event-contract rules.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDdYcmNGeEI5aktHaHNPT1FnZWVtdzZiUjFXcGpfWDltWkJIbWxWSzhZR0pRc1ZrOUZzU1J1Y1kwSzZ2VVhqTGVyMld3TzVmdXJlTEpndnNvR29kQ21FN0VyNklickh2dzRZTjBkLUp2bTBOU2lyalV5S2ZMMXVDeVczYnI0QmdoOGtEdGFRRmhHVGNpYUIxN0RxLUUtRFo0OU1rZ2hrWkNWa0ppX3QySUIwUU9mTGZ1Nzc4cg?oc=5"
+   },
+   "source_title": "Kalshi Pro Goes Live for Traders Managing Several Markets at Once",
+   "also": [],
+   "published": "2026-07-13T12:19:12+00:00",
+   "first_seen": "2026-07-14T03:28:19.037051+00:00"
+  },
   {
    "id": "11376ae318dd",
    "slug": "la-therapists-report-rise-in-youth-gambling-tied-to-kalshi",
@@ -179,11 +237,15 @@
     {
      "name": "Syracuse.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3FWbnp1VnEzS3BMa0VWMlVnTHVKQnowTXZmS01ua2VFN0REckd3TVMtdDdrVGpYblFFSVZfbXU2YXBGUjdQSXpNTHFBRmE5WThQdjkyUXBZNUJTamczc2NBQmZ2WDZFYWpJMWZ4WmF3VXo2S3g2b3VheWZnSldhSy0teURTYUJJZHZpQVdoY3BwRENvX29OYU5zZTc0ZmRtamxyQktBYXBiYWJta3FWek5YcHhKaHo5eGkycnlMSERTam8?oc=5"
+    },
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGd4Y1RpZVJCc1lLWFJKZk84Y19nRnR0WHgyMkF4aUs4RXFXSjNpWkU3MnVjY1pERF96aEdOWGIyVFZhZ1J3NkYtclNYY2Utb1hIYzJFTEI5N2FwUm4wMnZGTzZBTjY3RmRUaklpR25TSDBZSnhycm5wOGR1U3J1bXhyN1ZRbGotZHdrLU9KRDB1dnVvZnhZSWNFWm1EZGh3Ti1DQkw5ZDZNSXRzWnktcEhpZklFTkdpMXZpMlB3?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-07-13T23:07:03.671265+00:00"
+   "updated": "2026-07-14T03:28:19.037051+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -4001,72 +4063,6 @@
     }
    ],
    "published": "2026-07-01T09:52:30+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
-  },
-  {
-   "id": "4a0a1b21afb8",
-   "slug": "polymarket-growth-investors-and-how-it-rewrites-prediction-markets",
-   "headline": "Polymarket Growth, Investors, and How It Rewrites Prediction Markets",
-   "lede": "Polymarket, the crypto-based prediction market platform founded in 2020, has expanded into one of the largest event-contract venues globally, attracting major investors and reshaping how users forecast real-world outcomes.",
-   "body": [
-    "According to Encyclopedia Britannica, Polymarket was founded in 2020 and quickly grew into a dominant force in prediction markets, allowing users to trade event contracts on outcomes ranging from elections to scientific discoveries. The platform operates on the Polygon blockchain, enabling low-fee transactions that made participation accessible to a broad retail audience.",
-    "FinTech Magazine notes that Polymarket's model differs from traditional prediction platforms by leaning heavily into cryptocurrency infrastructure, drawing liquidity from decentralized-finance users alongside forecasting enthusiasts. The platform reportedly processed billions of dollars in trading volume during the 2024 U.S. presidential election cycle, cementing its profile as a mainstream forecasting tool.",
-    "Polymarket has attracted backing from prominent venture investors and has navigated a complex U.S. regulatory environment \u2014 the CFTC settled with the company in 2022 over unregistered binary-options offerings. Despite that, the platform continues operating internationally while U.S. users face access restrictions, a tension that defines its current growth phase."
-   ],
-   "why": "Polymarket's scale makes it the de-facto benchmark for prediction-market liquidity, meaning any regulatory shift targeting it would reprice risk across the entire sector. Traders on competing platforms like Kalshi should watch Polymarket volume as a leading indicator of event-contract market sentiment. Its ongoing U.S. access restrictions also keep CFTC event-contract rulemaking squarely in focus for operators seeking domestic legitimacy.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "CFTC",
-    "Kalshi",
-    "Polygon"
-   ],
-   "primary_source": {
-    "name": "Encyclopedia Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Vjg0b0RyaVNzRFZHMVJXOVRPSGw5MTR5Qy1yLTZROVFYZGJkRWxGemlobjN3YlNWNjNydDdVRWN1dVhMcEs0M04xSUJMWFlYZDdPUnVB?oc=5"
-   },
-   "source_title": "Polymarket | Founding, Growth, Investors, & Top Prediction Markets",
-   "also": [
-    {
-     "name": "FinTech Magazine",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2VTbnNfLTh1c1o1QWhsUGx5VmNQOWFkOXAwTXg3bmYzQUNvZkhLdHRQd1NUTWJmdzVzNC0xaWVqa2JJU083di1TaEJieXd3NHdQWVVveFMtdWZORmc5MjZTM0x2dXY0X1pYbS13X1lHNU1rd0RpdENzNGh2UU1NY293QkNZanlIeTNwWUJqNzZBQQ?oc=5"
-    },
-    {
-     "name": "unchainedcrypto.com",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWVTT1ZtN1Bjek1lVWdfRXBqV0tkc09rUmRXQV9hTXZ3aUtael8yUnV6OE1abkVOLUlTaFdRYkE3R080N1Y0d2UxU3JqYU9QU0RrcjhGaEtsMWRyNHZJNVBpNEZqSTdhblVMYy1LcEh3QjNaWHFIN2JyVHM3bGhZR1RJWVgzRmJfcjJLeVg3RmZ5dGxJNTlNYl80aVZhMng4NmtsdUtVSlM5dkpwck00RjBxdTktMkk?oc=5"
-    },
-    {
-     "name": "Crypto Briefing",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmS0ptN2NRM0RjaGR5c05IbEVqQjB3NFRGZzNsSnJVcEpQVXl1RlJwcmpVTmJRdm02ZVlhVl9KY3NjVVVtRV9UNXlzeF91dUhPNGFQVS1PLUx3aFN4RFh4clhvSGpaS1VhTDFTeA?oc=5"
-    }
-   ],
-   "published": "2026-07-01T07:00:00+00:00",
-   "first_seen": "2026-07-07T15:48:56.059066+00:00",
-   "updated": "2026-07-11T17:10:04.839418+00:00"
-  },
-  {
-   "id": "92bbdf6a42f9",
-   "headline": "Michigan Orders Kalshi to Stop Taking Bets in State",
-   "lede": "Michigan regulators have directed prediction-market platform Kalshi to cease operations within the state, marking a fresh legal challenge for the CFTC-regulated exchange.",
-   "body": [
-    "According to WILX, Michigan authorities issued an order requiring Kalshi to halt its operations in the state. The move represents one of the most direct state-level confrontations with Kalshi since the platform secured federal regulatory approval to offer event contracts through the CFTC.",
-    "Kalshi has positioned itself as a federally licensed exchange, arguing that CFTC oversight preempts state gambling laws. Michigan's action suggests state regulators disagree, setting up a potential legal clash over whether federal authorization shields Kalshi from state-by-state enforcement actions.",
-    "The dispute echoes earlier battles Kalshi fought \u2014 and largely won \u2014 against the CFTC itself over election contracts. However, state preemption arguments are legally distinct and less settled terrain, meaning Michigan's order could open the door for other states to pursue similar crackdowns on event-contract platforms."
-   ],
-   "why": "A successful Michigan enforcement action could embolden other states to issue their own halt orders, fragmenting Kalshi's U.S. user base and raising compliance costs significantly. For prediction-market traders, this introduces platform-access risk; for operators, it signals that federal licensure alone may not provide the legal cover they assumed. Regulation watchers should monitor whether Kalshi seeks a federal injunction, which could produce precedent-setting rulings on CFTC preemption of state gambling law.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "CFTC",
-    "Michigan"
-   ],
-   "primary_source": {
-    "name": "WILX",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qRXBLY2JTOUo5anFFSFVVMVBvS0lETV80N1BLRTZtdEFsN0p1a1M2Y09GellVekNXNFFka1FDdHVPWnE0dVh1aUJvaDE5NlA4b3o2aGg2MkZMbi1Kc3QyUnVxcVUtS2tsN3Z6RlU0ZzI5eS1YUnNxVG5YQzTSAZABQVVfeXFMTWx0V2hBV1lIVUhrTHJuRlY4XzgxQWpHSV85NDFLNmVNWXZJdHhQWTNpdVVBN29yYm5kaU1pa09HNkhyX2o1cU1KdTNBR0Z6WDdoU1VjdmNIRkY4c3FTNWI4Z2l2c1V3U0hDMWF4Rm9fMWl3ZTZQaVc4Z3JPeE1FRTc4Vld4cjQybjYtbFRXZHBm?oc=5"
-   },
-   "source_title": "Kalshi ordered to halt operations in Michigan",
-   "also": [],
-   "published": "2026-07-01T01:55:00+00:00",
    "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
