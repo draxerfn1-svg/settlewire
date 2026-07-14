@@ -1,6 +1,86 @@
 {
- "generated": "2026-07-14T18:13:49.751455+00:00",
+ "generated": "2026-07-14T20:20:04.295469+00:00",
  "stories": [
+  {
+   "id": "fa50456e8b3d",
+   "slug": "michigan-extends-kalshi-sports-contract-ban-sets-aug-12-geofence-deadline",
+   "headline": "Michigan extends Kalshi sports contract ban, sets Aug. 12 geofence deadline",
+   "lede": "Michigan regulators have extended their prohibition on Kalshi's sports event contracts and ordered the platform to geofence the state by August 12, giving the company additional time to comply.",
+   "body": [
+    "Michigan's gaming regulators have pushed back the enforcement deadline for Kalshi's sports-related event contracts, requiring the prediction-market platform to implement geofencing technology that blocks Michigan residents from accessing those markets, according to Gambling Insider. The August 12 cutoff represents an extension from an earlier deadline, signaling that regulators are allowing Kalshi time to build out technical compliance infrastructure rather than pursuing immediate punitive action.",
+    "The Michigan Gaming Control Board has been among the most active state regulators scrutinizing Kalshi since the CFTC-regulated platform began offering sports event contracts following a federal court victory that cleared its path to operate nationally. State gambling authorities argue that sports contracts overlap with their jurisdiction, creating a direct clash with federally regulated prediction markets.",
+    "Kalshi has faced a patchwork of state-level resistance despite holding CFTC designation as a designated contract market. Several states have issued cease-and-desist orders or demanded geofencing as a compliance measure, forcing the company to navigate conflicting federal and state authority simultaneously."
+   ],
+   "why": "The Michigan extension signals that state regulators are willing to use deadline pressure as a compliance tool rather than outright bans, a pattern other states may replicate. For prediction-market traders, geofencing creates liquidity fragmentation \u2014 markets with fewer eligible participants see wider spreads and less price efficiency. Regulation watchers should track whether Kalshi's CFTC backing ultimately preempts state authority, a question that remains unresolved and has direct implications for the entire event-contract industry.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Michigan Gaming Control Board",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Gambling Insider",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkpDUUJYWWdYLXRJbi16OUZIakdneTA1ZGpFWGUyY1BXXzBzNzVQWDVHSWR2Z1RmSDNPaFo5NFU0Snh1TVV4VjNDdkU4VG5NQ2JZVHFJYVhIeDlTTjVuWHh3Xy03WXlOS3B6c1pqOFZwUmE4UGRDeTExQzJPMVZpSEUwQ3ctVFQ2dEYxeDVXamZqTnlYTXB3MEtKUy1JdmF6UHM4aGNQaE1uWExRRHNvdl9aOXc?oc=5"
+   },
+   "source_title": "Michigan Extends Kalshi Sports Contract Ban, Gives Company Until Aug. 12 to Geofence State",
+   "also": [],
+   "published": "2026-07-14T09:48:11+00:00",
+   "first_seen": "2026-07-14T20:20:04.295469+00:00"
+  },
+  {
+   "id": "81b627b1b782",
+   "slug": "kalshi-polymarket-face-core-legal-question-gambling-or-finance",
+   "headline": "Kalshi, Polymarket Face Core Legal Question: Gambling or Finance?",
+   "lede": "Bloomberg Law News examines the central regulatory debate over whether US prediction markets like Kalshi and Polymarket constitute legal financial instruments or illegal gambling under American law.",
+   "body": [
+    "The classification question has profound consequences for the industry: if event contracts are deemed financial products, they fall under CFTC oversight and enjoy federal preemption of state gambling laws \u2014 the legal shield Kalshi successfully invoked in its 2024 court victory over the CFTC's own attempt to block election contracts. If classified as gambling, platforms risk prosecution under state statutes and the federal Wire Act.",
+    "Kalshi, which operates as a CFTC-designated contract market, and Polymarket, which serves US users through a decentralized model while facing its own regulatory scrutiny, represent the two dominant poles of the industry. Their differing structures illustrate why regulators and courts have struggled to apply existing legal frameworks consistently to prediction market products.",
+    "The distinction hinges on factors including whether contracts are cash-settled, exchange-traded, and tied to measurable economic events \u2014 criteria the CFTC uses to evaluate event contracts under the Commodity Exchange Act. According to Bloomberg Law News, the ongoing legal ambiguity continues to shape how platforms design products, restrict user access, and lobby for clearer statutory guidance from Congress."
+   ],
+   "why": "Traders on prediction markets face direct platform-access and contract-availability risk depending on how courts and regulators ultimately resolve this classification battle. A ruling favoring the gambling label in any major jurisdiction could trigger immediate withdrawal of products and user funds, repricing risk across open contracts. Operators and investors watching Kalshi's potential IPO trajectory should treat this legal uncertainty as a material variable in any valuation model.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "Bloomberg Law News"
+   ],
+   "primary_source": {
+    "name": "Bloomberg Law News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW80M25lNDFqV1Z6aC0xSE1Tem9JZWdoQ2ZTUW9fdkxtU1cyZ1hDaGpuOTJMd3BQcE9KX2JZcHBDaWZIelREbks4TlVRVGdYeDJvRkpQbkI0YXZIMUh6NlBSR3VOSVNaZ2xRZHNDaGJoRDVRclZkM3ltTkV0N0RoN1UtREhWV0UzY2FVdXB2SFM3N00tTGh0U01Ld1VjWjlQWjdmNlhR?oc=5"
+   },
+   "source_title": "Kalshi, Polymarket: Gambling or Financial Products Under US Law?",
+   "also": [],
+   "published": "2026-07-14T09:00:00+00:00",
+   "first_seen": "2026-07-14T20:20:04.295469+00:00"
+  },
+  {
+   "id": "4b41b91b698b",
+   "slug": "cboe-expands-options-hours-and-prediction-markets-to-diversify-revenue",
+   "headline": "Cboe Expands Options Hours and Prediction Markets to Diversify Revenue",
+   "lede": "Cboe Global Markets is broadening its business into prediction markets and extended options trading hours, according to a Yahoo Finance analysis examining whether these moves redefine the exchange operator's diversification strategy.",
+   "body": [
+    "Cboe Global Markets, the Chicago-based exchange operator behind the VIX volatility index, is actively pushing into prediction markets as part of a wider diversification effort, according to Yahoo Finance. The move positions Cboe alongside dedicated prediction-market platforms such as Kalshi and ForecastEx, raising the competitive stakes in a sector that has drawn intensifying regulatory and investor attention.",
+    "Yahoo Finance framed the expansion as a potential redefinition of Cboe's growth story, pairing prediction-market entry with plans to extend options trading hours \u2014 two structural changes that could meaningfully shift the firm's revenue mix. Cboe already operates ForecastEx, its CFTC-regulated event-contracts subsidiary, giving it a regulated beachhead in the space.",
+    "The prediction-markets segment has attracted mainstream financial players at an accelerating pace following the CFTC's evolving posture on event contracts. Cboe's institutional infrastructure and existing regulatory relationships give ForecastEx advantages over crypto-native competitors, though retail mindshare remains dominated by Polymarket and Kalshi heading into 2025."
+   ],
+   "why": "Cboe's institutional heft entering prediction markets at scale could accelerate CFTC pressure to standardize event-contract rules, creating both opportunity and compliance risk for smaller platforms. Traders tracking Kalshi or ForecastEx market volumes should watch whether Cboe's extended-hours push draws liquidity away from crypto-native venues. A well-capitalized incumbent normalizing event contracts on traditional exchanges raises the floor for the entire sector's legitimacy.",
+   "category": "Trading",
+   "entities": [
+    "Cboe",
+    "ForecastEx",
+    "Kalshi",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeS1nd3VzMUdGNjAxVWtyUVBpWG5RRnlvMHV0N01XRkNsMUpTY0hucWN4Y1haVmktZkN3bUFrc0FqYkxEbWdMd3k4ekpqSjY2QXY2a1B6b3plVTh4NU9VWmdQd09xUjhoejZDZ3RMQnBHY0NqZXBaSHEwQjFOYnVjellabktwY0FRQWdxTWNQR1IwT1A5RC1kWldwVko0Nm8?oc=5"
+   },
+   "source_title": "Does Cboe (CBOE) Expanding Options Hours and Prediction Markets Redefine Its Diversification Story?",
+   "also": [],
+   "published": "2026-07-14T07:12:59+00:00",
+   "first_seen": "2026-07-14T20:20:04.295469+00:00"
+  },
   {
    "id": "391d948176c9",
    "slug": "kalshi-world-cup-odds-now-surface-inside-chatgpt-via-openai",
@@ -28,10 +108,19 @@
     {
      "name": "Cointelegraph",
      "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ09ON2FMLUY1VXRLc0lURlBFWUl0aWFfbjAxRnRGTnNIbjZyMnBMVHFXaFNYbENLZzVBQ0tHMl81ZlFiVkc3b0NHcTVhaXJmbU94VGtaXzRnWjhFR1ZReTYwR1JPeF9IMnNWVzBkSUZlb0h1dC1RekNfc2YzeGo5QXJhTkdMdzNPeUFhOEZhdkFvdHdWY3c?oc=5"
+    },
+    {
+     "name": "DeFi Rate",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzdjNVVXa3Q5MzBPdGZBYXR4c20wVUo1NHlwZnQ4LXhUQWE0X3B5Z0ZEc1BTRkZhei1MV1VFS1VJWGZOWlpVV0Q5YVNCVFdnWG1BM3RSQ3B0WXlDWlBSczVZY01KRmZ4TkQxMmZDNENPSF9MSDdORmpDencwdHpoVFppblNyRVVrY0c4YlVYdnZPTXp0d2VLdE56Q3E?oc=5"
     }
    ],
    "published": "2026-07-14T03:43:31+00:00",
-   "first_seen": "2026-07-14T18:13:49.751455+00:00"
+   "first_seen": "2026-07-14T18:13:49.751455+00:00",
+   "updated": "2026-07-14T20:20:04.295469+00:00"
   },
   {
    "id": "012e319ac053",
@@ -58,6 +147,33 @@
    "also": [],
    "published": "2026-07-13T19:37:49+00:00",
    "first_seen": "2026-07-14T16:24:14.836380+00:00"
+  },
+  {
+   "id": "24fd8242dff3",
+   "slug": "kalshi-home-run-derby-market-opens-with-schwarber-as-frontrunner",
+   "headline": "Kalshi Home Run Derby market opens with Schwarber as frontrunner",
+   "lede": "Kalshi has launched a Home Run Derby prediction market listing Kyle Schwarber as the odds-on favorite to win the 2025 MLB All-Star event.",
+   "body": [
+    "According to Sports Illustrated, Kalshi's Home Run Derby event contract places Kyle Schwarber at the top of the field, making him the market's implied favorite heading into the MLB All-Star weekend competition. The platform's contract allows traders to take positions on which slugger will claim the Derby crown.",
+    "Kalshi has increasingly expanded into sports event contracts following its CFTC legal victory that cleared the way for regulated prediction markets on sporting outcomes in the United States. The Home Run Derby market is one of several baseball-related contracts the platform has introduced for the 2025 MLB season.",
+    "Sports Illustrated highlighted the market as a novel way for fans to engage with the All-Star festivities, noting Schwarber's well-documented power numbers as the basis for his market-leading position. Other competitors in the Derby field are available to trade at longer implied odds on the Kalshi platform."
+   ],
+   "why": "Kalshi's continued rollout of sports event contracts tests how deep retail appetite runs for regulated, non-sportsbook prediction markets on live sporting events \u2014 a key data point for CFTC watchers monitoring the post-ruling landscape. If volume on niche events like the Home Run Derby proves meaningful, it strengthens the commercial case for competitors like Polymarket to seek similar U.S. regulatory clearance. Traders should watch whether Schwarber's favorite status holds or shifts as rosters are confirmed, since liquidity and line movement on early sports markets signal platform health.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Kyle Schwarber",
+    "CFTC",
+    "MLB"
+   ],
+   "primary_source": {
+    "name": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0NYaVo1RU9lLUU3Tkl4SFdfZ3lubXg1U0JtYy1fUFNEOWZRZ1pQUmRTOFJxUmp0UWtFMzBLdFpCMDhUTElVeHF4a3EzdkZ1WmNYTER1M0hCUmZxWXlNbDBwaHJOY0RoeVlsQXpwN2hmMUJhSmJWbVJLR2hsVDFNNk9fbk85RG9hS0d2MmhsVUZaQ2xweXg2ZThQdm01c0ZWMTZaa05ORWRzb09kZXJLTGJwcGR2UEE?oc=5"
+   },
+   "source_title": "Home Run Debry Kalshi Prediciton Market Has Kyle Schwarber on Top",
+   "also": [],
+   "published": "2026-07-13T18:30:00+00:00",
+   "first_seen": "2026-07-14T20:20:04.295469+00:00"
   },
   {
    "id": "c7b807bb5d1f",
@@ -283,9 +399,15 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWxONUVrTjQ2ZzFIbko3MDAta3NUWmlhQ3JBRFNCUDFiRVpmS2hRY05hak1URkg4YXI0Q1Q2b3g0d2owOFVvbFQ0eHg0LXQ4dXF5eXlPSFp5WUhOODQwc1NfZ2ZUOVlSS0pBQmVEX0hYTjRfVDdPNFBzV1JURmZCb1otTzdsX1hiVWl1Y055eVAwU1hKSUhKVWt1ekhydWdtQmtlUE9jS19lajlwem9KUDVnRGI3Zw?oc=5"
    },
    "source_title": "LA therapists are seeing more young patients with gambling problems. They blame Kalshi",
-   "also": [],
+   "also": [
+    {
+     "name": "Newsroom | UCLA",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWIzLVR0NzMtT3E5bWFtcnFId0hmQkRrQkhkdGd0VTRPSURjRTU0czlvN2ktWVd3cmp4MlE5ZjhtWWUzSlVWZm5KMUNfOU4xakVDN01FWkpMclRtRGhjNGo3aUFDUHd6TzhiU2NwTFNtckpoZ0VweWNRbXVxR1dBTUtPeDU1RHRSYldmcHJ6Rzc2X3FiSzItVjFtdkg4cVlQdWZYeGdibUtSOXFubG1YR1M0cFFDQ2lqZ0M5QWNneWRJZi1Lbm94UFBZVnJobzU4YVhxdnZfaUQ0dVk?oc=5"
+    }
+   ],
    "published": "2026-07-13T12:00:00+00:00",
-   "first_seen": "2026-07-14T00:04:55.217403+00:00"
+   "first_seen": "2026-07-14T00:04:55.217403+00:00",
+   "updated": "2026-07-14T20:20:04.295469+00:00"
   },
   {
    "id": "84c25041709b",
@@ -1073,11 +1195,15 @@
     {
      "name": "Sports Betting Dime",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3UtUWlkQWFWUnhaX2dtZDltWnhSdjRwdVVjVjFpRUJRQ1g1MTlYOVo0aVp4OEpqNGsxb01ERXZrVFZFdDVNUXVuX3MzSzZtNndyQ0hBX0JCOEgwVmU5Y0ZDUlAzUmlXMC0xa2t6Y1BVMnV2S0tfdUVXZTBqVXQwVDJENzl2UTFDdVg0cjVGQThNR2pWcHg5dDREZncyZTNXZHhuMmhqTGxnOV8xV3FCalh3?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjB5ZjFmWnJEWUhQNnB6RUYxTXNlZmsyU0Nfc3RfTWdOZWI1d1RTeHcyYklsTzh6WWluOXB0S1NZdVZERktWREJXLTZKSk0zX25ma2RYUTV5VU5MRTVQOGthZ2hxOE5obEZ5RkxtREM5cGU3R2JRd1hUeEhLeW5JdUJGNWp0YTJLTWkwb3dfSEtPTDUwdmxTWWl4NUhFamhWR2ptUEpyV1pnMjhqbGhaNkh1SFlTNU9rdHR4aWlKbGZUVms1?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-14T18:13:49.751455+00:00"
+   "updated": "2026-07-14T20:20:04.295469+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3388,9 +3514,15 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeF9fZU5UZWg0QXBMdlRSWElIdzRKNkowTWk3VE1WX0F3VzJ6MWRDeGVqZ2tmam9NVTMyYzByTnlxY0pONWMxYlhqYTlELUJWVll1V1F4OERENGlKSFlteHVJSU9lXzdkMnZyQVBJazkwQzZSU2NhNE9ZaXdXbnF1TDhLNjNnYnFyVjg3c2FuRl8zWTl2?oc=5"
    },
    "source_title": "Michigan court sidelines Kalshi sports markets",
-   "also": [],
+   "also": [
+    {
+     "name": "FX News Group",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2ZORFlMd184VFF3cGFQYzIxX2VpNTdrdTJINlV1YlRfQ1dvZERIYVppa1RrVmYzclZjNGxBV0s4UU1aeGZHQ1FpMll2SVhfZVZSQ1VyMmY4NmNsdy11OTROdllUUGl4YmdqNVpuWEFSSnZpbnJyQ3Z4cnNNV3BXMF8zaHFYaGNmREc5ODFMQTlIOHFSbUJUOGVBbzdrczZxM2ZIZm1YUEthTkxRc1g4YlRDUFQ1QXQzS1FQOHZpZmRuUHlwVTBMWWNiNEtqLV83Z29oVTd6cWxaWlI1?oc=5"
+    }
+   ],
    "published": "2026-07-06T13:24:19+00:00",
-   "first_seen": "2026-07-14T09:14:21.295930+00:00"
+   "first_seen": "2026-07-14T09:14:21.295930+00:00",
+   "updated": "2026-07-14T20:20:04.295469+00:00"
   },
   {
    "id": "1d484074c246",
@@ -4047,119 +4179,6 @@
    "published": "2026-07-03T07:00:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00",
    "updated": "2026-07-07T22:19:49.064489+00:00"
-  },
-  {
-   "id": "7dc9862c9935",
-   "slug": "polymarket-vs-kalshi-2026-head-to-head-comparison-guide",
-   "headline": "Polymarket vs Kalshi 2026: Head-to-Head Comparison Guide",
-   "lede": "FOX Sports published a direct comparison of Polymarket and Kalshi for prospective prediction-market users in 2026, weighing each platform's key differences across markets, fees, and accessibility.",
-   "body": [
-    "According to FOX Sports, the 2026 comparison piece pits Polymarket \u2014 the crypto-native, blockchain-based platform \u2014 against Kalshi, the CFTC-regulated exchange, as both vie for dominance in the rapidly expanding prediction-market space. The guide targets new and intermediate users deciding where to place event contracts on politics, economics, and sports outcomes.",
-    "Kalshi's core differentiator, per the FOX Sports framing, is its federal regulatory standing as a designated contract market, which offers users legal clarity unavailable on offshore or crypto-dependent platforms. Polymarket, by contrast, attracts users with deeper liquidity pools and a wider variety of global markets, though U.S. residents have historically faced access restrictions tied to its unregulated status.",
-    "The timing of such mainstream sports-media coverage signals that prediction markets are reaching a broader consumer audience beyond finance and crypto circles. With both platforms actively expanding their market offerings into sports and cultural events, head-to-head guides published by outlets like FOX Sports reflect growing public awareness and competitive pressure between the two leading platforms."
-   ],
-   "why": "Mainstream comparative coverage from a sports-media giant like FOX Sports accelerates retail user acquisition for both platforms, directly affecting liquidity and market depth that traders depend on. Kalshi's regulatory moat becomes a sharper marketing advantage when consumer guides explicitly contrast it with Polymarket's ambiguous U.S. legal status. For regulation watchers, the normalization of prediction-market comparisons in sports media may increase pressure on the CFTC to clarify rules governing platforms like Polymarket operating in a gray zone.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Kalshi",
-    "CFTC",
-    "FOX Sports"
-   ],
-   "primary_source": {
-    "name": "FOX Sports",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54X09UczZrMUsxdzFiMjM3WjNNNFZ0SUVQQjNoV2pUaWkzS3Q5RG1pWHhyTE9yUUh0RWNRTmZUcEIzNUFtWW5yUmZhckcwbGRyVTNmdm1hTktZSnVSemw1YWRldlVhaW41N1ZXd0Jac9IBb0FVX3lxTE9vVG1iU0pEOTg3cUFWR19GNXpBdmd1YlBha1RyaG1jbzRGVFRYZkppXzRYN0dXZ1o5eWlXcFJYcmp5cmJXQ2Y2X0Fna0llS3VnTjBhSm4td3Jmc1dSWVRoYkZFMmdoR282N2tMWE1JRQ?oc=5"
-   },
-   "source_title": "Polymarket vs Kalshi: Which Prediction Market Should You Use in 2026?",
-   "also": [],
-   "published": "2026-07-02T19:52:11+00:00",
-   "first_seen": "2026-07-08T10:29:14.993488+00:00"
-  },
-  {
-   "id": "aebd6dd117e7",
-   "headline": "Judge Weighs Minnesota's Bid to Ban Prediction Markets",
-   "lede": "A federal judge is considering whether Minnesota can enforce its ban on prediction markets after Kalshi and Polymarket filed suit to block the state law.",
-   "body": [
-    "A closely watched legal battle over state authority to regulate prediction markets landed before a federal judge, with Kalshi and Polymarket jointly challenging Minnesota's prohibition on event contracts, according to MPR News and Courthouse News. The platforms argue that federal oversight through the CFTC preempts any state-level ban on their products.",
-    "The case centers on whether Minnesota's gambling statutes can be applied to federally regulated event contracts. Kalshi, which won a landmark federal court ruling in 2024 affirming its right to offer political event contracts, and Polymarket are arguing that states cannot impose separate restrictions on markets already operating under federal jurisdiction, according to Courthouse News.",
-    "The outcome carries national implications: several other states have signaled interest in restricting prediction markets, meaning a ruling in Minnesota's favor could trigger a wave of state-level crackdowns, while a win for the platforms could effectively shield them from state interference across the country."
-   ],
-   "why": "A ruling for the platforms would establish a strong federal-preemption firewall, making it far harder for any state to block prediction-market activity and opening the door to broader retail participation. Conversely, a ruling upholding Minnesota's ban could fragment the U.S. market geographically, forcing platforms to implement state-by-state access controls and chilling liquidity. Traders and operators should watch this case as a leading indicator of the regulatory runway for U.S. event contracts.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "CFTC",
-    "Minnesota"
-   ],
-   "primary_source": {
-    "name": "MPR News",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVi1GZ3NUc3R4SkMwSGNyOTVSdW1TbnV4TE84eEZtNlVfWTBfRXBzSUhLY0RCaUdNMkl1SmtFRHUwRjhiaEszaF9QcTB0RjFhT2RwMVhqZVpCV0lqNWVhcnNWUjR6NTQ1Qk12dzlLZEQyaDNTdkljWVRCTW1MdC0wYWtkb0otdTZuU0VKM19lb2sxd0pLSkpkVkx6WFpxYmZwdlJUeUNEcDA2elBVVDZqYUV4UHVNM1NwMUFyWHlJYXh0elVKeVI1cU9uRDI?oc=5"
-   },
-   "source_title": "Nationally watched lawsuit has judge weighing future of Minnesota ban on prediction markets",
-   "also": [
-    {
-     "name": "Courthouse News",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajFOemlMc3pVbXFkSGRVWk1oSDUzLUg3VEYzYzBwV0ZIdmN2VEFpM3RsMHZnRzVTYUZQU1JKT2JBdXRwXzBIUjBGM3plWE1KOGlkZU0wRVZVZnNzd2Z6M0J0b0g3NHM5Q3pxZjk4d1BPN0JJemRoQUwzZElpcnZHVEdpaUpiZWtHTzkxTlNySUhyb01xZDV2eFNNbEtmQzVWSWc?oc=5"
-    }
-   ],
-   "published": "2026-07-02T19:51:00+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
-  },
-  {
-   "id": "50affdff8690",
-   "headline": "Kalshi Suspicious Bets Trigger Spotify Stream Audit on Hit Song",
-   "lede": "Spotify stripped millions of streams from a chart-topping track after unusual betting patterns on Kalshi's prediction markets raised red flags about possible manipulation.",
-   "body": [
-    "Spotify removed a significant volume of streams from a number-one song following suspicious wagering activity detected on Kalshi, the regulated prediction markets platform, according to CBS News. The unusual bets appeared to anticipate the song's chart performance in a way that suggested possible coordination between artificial streaming and market positions.",
-    "Music Business Worldwide reported that the incident highlights an emerging intersection between prediction markets and the music industry, where contracts tied to chart rankings or streaming milestones can create financial incentives to game underlying data. Kalshi hosts event contracts on a wide range of outcomes, including entertainment metrics, making it a potential target for this kind of scheme.",
-    "The episode marks what appears to be the first publicly documented case of a prediction market generating a real-world platform audit in a non-financial industry. Spotify has faced chronic struggles with stream-fraud, but the Kalshi angle introduces a new external signal \u2014 derivatives market anomalies \u2014 as a tool for detecting manipulation."
-   ],
-   "why": "This case establishes a novel precedent: prediction market order flow can now serve as an early-warning signal for fraud on third-party platforms, which could attract regulatory scrutiny toward Kalshi's surveillance and reporting obligations. For traders, it signals that event contracts tied to manipulable data metrics carry elevated invalidation and settlement risk. Operators will likely face pressure from the CFTC to demonstrate robust market-surveillance programs capable of flagging such coordinated schemes.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Spotify",
-    "CFTC",
-    "Music Business Worldwide"
-   ],
-   "primary_source": {
-    "name": "CBS News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU1nQm9mQ0o1ZFVhclBLXzVKS0FqSWtIbXZSNm9VSUstX1EtaXMycDEwN3ZnUlJoLW1GVzZjUHdrZzZJTWoyOUdfSWItMVF5UkxGOHpJQ1hFbmswWEZ4WEtqM2dhc2VDQWtZeEhUb1NIdUZ5bEdfLXpaRktwUEhJazZ4LWRtMDQ?oc=5"
-   },
-   "source_title": "Spotify removes streams of No. 1 song after suspicious Kalshi bets",
-   "also": [
-    {
-     "name": "Music Business Worldwide",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeW11cmFZNC1KdVl0RDhucmc1TXRyVmJQNjVsVTNJWlllZUJlWjVJM05tQVd5MkVicEhOSEs4NGdURXdTU2FrQ2c3dUc1MDhFekRSUTA1T292WjhUZFQ2T0lLbEZYbFNRdlhJOE43bjl0b29VR2JvWUowNW0tMEhISzctVzdMNXJreFRDVkxFRDh1Vm53eUJvczlyaTg4Q1BZNjNTYlNHU1ZCWjFSOVNhbVM0Y0hTVXZfd0IwWWt1aldVU2Zu?oc=5"
-    }
-   ],
-   "published": "2026-07-02T19:46:45+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
-  },
-  {
-   "id": "f7b4adf93262",
-   "headline": "Kalshi Trader's Fraud Tip Forces Spotify to Confirm Stream Manipulation",
-   "lede": "A Kalshi prediction-market participant flagged anomalous streaming data that prompted Spotify to publicly acknowledge a fraud scheme affecting its platform.",
-   "body": [
-    "A trader on Kalshi, the regulated U.S. event-contracts exchange, raised alarms about suspicious activity in streaming numbers that appeared to be influencing the outcome of a music-related prediction market. According to WIRED, Spotify subsequently confirmed that streaming fraud had indeed taken place, validating the trader's concern.",
-    "The episode highlights an unusual dynamic: prediction-market participants, motivated by financial stakes, can act as real-time fraud detectors. Because traders stand to gain or lose money based on accurate outcomes, they have strong incentives to scrutinize underlying data far more aggressively than ordinary consumers or even platform moderators might.",
-    "Kalshi has been expanding its market categories beyond politics and economics into entertainment and media metrics, where third-party data sources like streaming counts become settlement benchmarks. That expansion introduces new data-integrity risks, as fraudulent manipulation of those underlying figures can directly distort contract payouts."
-   ],
-   "why": "For prediction-market operators, this case underscores the urgent need for robust data-source vetting when settling contracts tied to third-party metrics like streaming counts. Traders should factor in manipulation risk when pricing entertainment markets, as settlement disputes could arise if fraud is discovered post-expiry. Regulators watching Kalshi's product expansion may also use this incident to press for clearer rules around data-source reliability in event contracts.",
-   "category": "Trading",
-   "entities": [
-    "Kalshi",
-    "Spotify"
-   ],
-   "primary_source": {
-    "name": "WIRED",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU96emRxTVJKWFdHMDR6emw1WUw0RUp2WFZEQ2g2bl82UDBodXQzLW9fdGtjMXF6ODBwZzAtMFZDbWJobmdLalg2VXE2dFJvaEFMdVBSdF95NVJHMFRHU2ZpY2ZUeVYyQUN1bXJsUU1YZUpSbWxVdlBMWVNDM1ZFckU4QkU5dHlaTmNLSC1mV2kxMWJmZEhzREdmU2g?oc=5"
-   },
-   "source_title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
-   "also": [],
-   "published": "2026-07-02T18:30:00+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
   }
  ]
 }
