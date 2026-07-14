@@ -1,6 +1,59 @@
 {
- "generated": "2026-07-14T14:07:59.911545+00:00",
+ "generated": "2026-07-14T16:24:14.836380+00:00",
  "stories": [
+  {
+   "id": "012e319ac053",
+   "slug": "gondor-v1-launches-polymarket-portfolio-borrowing-for-prediction-market-position",
+   "headline": "Gondor v1 launches Polymarket portfolio borrowing for prediction-market positions",
+   "lede": "Gondor v1, a new DeFi protocol, will allow Polymarket users to use their entire prediction-market portfolio as collateral for loans, unlocking liquidity without forcing position exits.",
+   "body": [
+    "Gondor v1 is set to introduce a borrowing mechanism that treats a Polymarket user's full portfolio of event-contract positions as eligible collateral, according to The Block. This marks a significant departure from typical DeFi lending, where borrowing is secured against spot tokens or LP positions rather than outcome shares on a prediction market.",
+    "The protocol targets active Polymarket traders who may hold significant unrealized value in open positions but lack access to liquid capital while waiting for event resolution. By collateralizing those positions, users could deploy borrowed funds elsewhere without closing their market exposures \u2014 preserving upside on their predictions.",
+    "The move represents an early attempt to build a financial layer on top of prediction-market infrastructure. As platforms like Polymarket have grown in volume \u2014 reaching hundreds of millions in monthly trading \u2014 auxiliary protocols targeting that ecosystem have begun to emerge, signaling broader DeFi integration with event-contract markets."
+   ],
+   "why": "If Gondor gains traction, it could meaningfully increase capital efficiency for professional Polymarket traders, potentially driving higher position sizes and deeper liquidity in contested markets. Regulators watching event contracts may take note of DeFi credit products layered on prediction markets as a new compliance surface. For prediction-market operators, third-party lending protocols could become a competitive differentiator, pushing platforms to open APIs and composability features.",
+   "category": "Tech",
+   "entities": [
+    "Gondor",
+    "Polymarket",
+    "The Block"
+   ],
+   "primary_source": {
+    "name": "The Block",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEJaYnFEalh2cHlUR0wtNjBWTnZUVDNROU8xanh0bGRBVmhDRGZhSlNaWEpOc19ycmt3WXQzeHJNRkNjRTVEMzVmZHJkU1YzZVg4UHVKQ3RnOHFfQ2U2YnBSU0UzNEJtZi1hcHdwZ1hhYkRjbWlPdUFYbWNvME9IZlhfaVRneDItN1VJSGpWeG0tdVlXTGpZMWZoWGREcTQ?oc=5"
+   },
+   "source_title": "Gondor v1 to let users borrow against their entire Polymarket portfolio",
+   "also": [],
+   "published": "2026-07-13T19:37:49+00:00",
+   "first_seen": "2026-07-14T16:24:14.836380+00:00"
+  },
+  {
+   "id": "c7b807bb5d1f",
+   "slug": "polymarket-odds-on-clarity-act-drop-as-trump-pushes-china-urgency",
+   "headline": "Polymarket odds on CLARITY Act drop as Trump pushes China urgency",
+   "lede": "Polymarket contract odds on passage of the CLARITY Act fell sharply even as President Trump publicly pressured Congress with warnings about China competition, signaling trader skepticism about near-term legislative success.",
+   "body": [
+    "Despite a vocal push from the Trump administration framing the CLARITY Act as a critical response to China's technological ambitions, Polymarket traders moved decisively against near-term passage, according to Yahoo Finance. The odds decline suggests the market views White House rhetoric as insufficient to overcome congressional obstacles, regardless of the geopolitical framing attached to the bill.",
+    "The CLARITY Act, which would establish a regulatory framework for digital assets including event contracts, has drawn attention from prediction-market operators like Kalshi and Polymarket because its passage could reshape how such platforms are governed in the United States. A clearer federal framework has been a long-standing demand from the industry.",
+    "Polymarket's crowd-sourced odds function as a real-time referendum on legislative probability, and the drop here reflects accumulated trader judgment that committee timelines, Senate dynamics, or competing priorities make passage within the contract's window unlikely \u2014 regardless of presidential urgency signals."
+   ],
+   "why": "Falling CLARITY Act odds matter directly to prediction-market operators whose regulatory status hinges on the bill's fate \u2014 a prolonged limbo keeps Kalshi and Polymarket in a contested legal environment. Traders arbitraging political contracts should watch whether Trump's China framing shifts Senate vote counts, since any credible momentum could reprice these odds quickly. Regulation watchers should note that market-implied probability is now a live data point that lobbyists and lawmakers themselves may cite in legislative strategy.",
+   "category": "Legal",
+   "entities": [
+    "Polymarket",
+    "Kalshi",
+    "CLARITY Act",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3lpZEZTTUx1b29NZGRfSkhPcnZzeG1rSmV3LVdmVjFtM0RzNnVfdENiUHBfMHByaE10aW11M2tmaFZCSWh2QWJ1WHVhcmx0TXFiSzR5YUlwenU2aGRiSjVHQ1hPNmQyMno2NmUwWS04amtmSkMwNGF3Zm1HZGc4bTJTblBWcXJwc0dyOFMyQTRFUXpYRERNNW14NmFjZGhEWGZoTQ?oc=5"
+   },
+   "source_title": "Polymarket Odds Plummet Despite Trump Pushing CLARITY Act With Urgent China Warning",
+   "also": [],
+   "published": "2026-07-13T16:43:22+00:00",
+   "first_seen": "2026-07-14T16:24:14.836380+00:00"
+  },
   {
    "id": "66b303c60e98",
    "slug": "michael-burry-calls-prediction-markets-gambling-regardless-of-framing",
@@ -24,9 +77,15 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEMyalNVVHBqcGFWeW02aDBWME9Zelh3Z1hXYllVMnYzeEFVQnBucUZFSG1FdXRyTTlfT0ZWRC0zclhqQjhXekEybzh4ZEYtZm40MlBHMzJldGU0LTFVeGxESjNFR0l1M2ZXYklnRjdsYlhzSDdnbTJUbFN0SHlpQ2xEMFphLXBkcktmYXQ0LWx0MzNJM2tVZThjSF9TS0FYTnUyVjM2VEs2bmJPemxJYVJYNl91V3I3VkRsYjRB?oc=5"
    },
    "source_title": "'Gambling no matter what anyone calls it': 'Big Short' investor Michael Burry bashes prediction markets",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    }
+   ],
    "published": "2026-07-13T15:07:00+00:00",
-   "first_seen": "2026-07-14T14:07:59.911545+00:00"
+   "first_seen": "2026-07-14T14:07:59.911545+00:00",
+   "updated": "2026-07-14T16:24:14.836380+00:00"
   },
   {
    "id": "2dd849296559",
@@ -552,9 +611,15 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOR3JERXhqek9ld2RTYW5uaDl3MEZvVl9yQXZfTTZtaUt5QS1VNzNXeng4TVVGeU9teXJodzJHby1CclNyTmpyX2x2eUN1VEFBckVHTTI1cTdzNjdGNWF3b2VIc2MzRTdia0NuSlpEdHdiUkRfRGhRUHlJdEM0RmM5QnlMZ2NFd3dDYnRWVUVNLWNaTXBkVXJULVNlRG9mS2g3bFVpRk9TVzUzVXpvT2JfUVpHTVNzU1BSXzRxaEpuOENBQlU4WEZtdFVjeGJBNVA0Q3dLRDh1NVBZMnhoVklITVdpak5yTFZtMzE4Unh3?oc=5"
    },
    "source_title": "Inside the Prediction Markets: Kalshi Expands Perpetuals as World Cup Trading Hits New Highs",
-   "also": [],
+   "also": [
+    {
+     "name": "Cornerstone Research",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnNZdWpRVzZvUGdSLWFQU1VBTWliZlZ2TEFrcTlteUZhRGY4SGozNU5QYU1QNF9vNk1WcVdYcFA5R3dYSWhYaUJpLXN2eU9TZUhja2c0dzlKRTk3UktxNEIwOTc5TE5IRElRYXNDWnM5bHN5d2x3RTM5VW1JZFRnbjgteDhFMVhENTBiUUpjZWptaE1G?oc=5"
+    }
+   ],
    "published": "2026-07-10T19:05:00+00:00",
-   "first_seen": "2026-07-11T19:21:01.787802+00:00"
+   "first_seen": "2026-07-11T19:21:01.787802+00:00",
+   "updated": "2026-07-14T16:24:14.836380+00:00"
   },
   {
    "id": "1f8ffe182956",
@@ -924,11 +989,23 @@
     {
      "name": "Action Network",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnI2LUdzNWk2ZDVrWWkxZjV0N0psUWZ0Wk5DbFpGVFpIS1UxSFFYX29JZVBneUV5UVBKSGdwaXZCNzBqWXQxMlJGWWZzTUVJZ0M3Q2lDRDdpQUx2NWUyMW5xVnNTQXFDM1NXRmxmWGhRRFZKazkxVGxIS0tXcml2Ym9QcTVNUV9ZQm5vdnhZdnJZZWpDRmFHWXd5bzYybW9xdlZGMkdhRjJ0aW83ejhtdzNEYXVoS3d1bkRiYVlKS0wwWGxUZlE0N2VmZ0IxQlVR?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVBndGl4Wngwck4xYWVBVzB3RGJscFBaZGhlQk4wN1dpcHUzMXlBOWItTE9ralQxMkItSnpCendIZTEyUEJKRWQ4OTRlWkZjb010MEdhT1l0cjVhUjY3ck1xXzI5N25PSm9fU3U1RHYyQy10Q0oydjlpUXZhYVp1YVM5THNCRjVaV2VDWnZubUlYdVdjeVB2eHVZRkZaSkpFM2poajR6ZHhfNzFwLUt4Vkd3Q0traGwyR0IxUVBzQUJPR0h6YlFJYzE2UXo?oc=5"
+    },
+    {
+     "name": "RotoGrinders",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT1ZIaTFNYjRJZkNrc3k0bWo5dmx4clZub25fc3FYd20zMDRXcGJiQlh5YlhmUWptNGd1ZDZfbm54dTZTdXdzelp1aERsMEdablpVbktrSVpkeVpLUGVvUFBqTTJCX0lBQmV5NklDaV9YN2E0U3hOWTNReTdmbHY3RVlvREltR3V2aFlEbFNJVVIzQ2l6bjNNRzBXZ1NtbXg2Z0xtQ2I0ZnpsUi0taFVmd2Z4QVRPUXA3ZFkwNll3TDYtX0RUZW1V?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXFhd0dkQUlhdm9GUDhlV0RWNlF1eERTVTMwSG1VRkxJQ0oyNC1YRTFVcDB1b0N4Z00tZ1BrMndOcTA1OV8zUXdzQ2ZJaFp2N2YwVnBUZHlIWkg2eElXQzNIZTR2NnJBZHRSZGJpWlJ3ZG9Ya3RyNGxHTFRzX0VaV3c4eGxvVjVSVDdHUkVHY2pwMkZWaEY5WlVhdTctak1JUE4za29MS0pIVXVsb3UzTzRqcEZQX212?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
+   "updated": "2026-07-14T16:24:14.836380+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -980,9 +1057,15 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWxJUThXeW5HZXZNVWtUZFNhLW0xVEE0ZVQtQ05UVlZ0VGsxc1R4N3RscTJwbUNoWExFZ2FGNWpDN1lBRmIyX1FDeWpKYTZkdXV0SEFRSUxtUUtDa01VX1BnWVNFU0lhY2NNc1BHVkNYVFRiMTg5QmNGTlR2Z1VWZ0N1U29ySGkyLXVZNkp3dVFvWm9ZVUgxdg?oc=5"
    },
    "source_title": "Kalshi Looks Beyond Prediction Markets With Gold, FX Perps",
-   "also": [],
+   "also": [
+    {
+     "name": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLcEJQSmZNTWwxMUk3dXhhZ1NpYmNhVEtxd0pqb3VwbUNzLXFydDdTalFmUlFJSVVfMnM0SGl1c2ptT0RvV0owWkQwa25FMUhGb3RUcDZXRGloSkY3Mlh3LXJnMUROaWgyWFVoNmFKSnFyNHZ1bHEzZUFiRQ?oc=5"
+    }
+   ],
    "published": "2026-07-10T10:53:38+00:00",
-   "first_seen": "2026-07-10T23:10:18.446241+00:00"
+   "first_seen": "2026-07-10T23:10:18.446241+00:00",
+   "updated": "2026-07-14T16:24:14.836380+00:00"
   },
   {
    "id": "704478fc965a",
@@ -3105,11 +3188,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTM1aXFGdWt0VmJxanFPYjlsd0hRdkhQQkJYd01DOUFjUjBGTTRLNVZEc3owYVNFRjdobmZ6TlZvWHJhdk1Gb0xxbXR1MERmVC1BcUFIa0Jsc3RmVUdHVnY2NUZrdjVBcEx0ZVp0ZnpzRkVWM3N3YkUxdkxJOWRldExuU05zQkdUdXZsbVQwWjVBdFEwbldHSXloZ0lKVHRmRHZz?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTWdhVlhkZ3R4Q09jaVlNMkl2R2p6UlNRSFZSc19oY2M5MjBLRHc4c29VU2hETjZzcHpVTU1NY19Nc2xNU3RncHM1YU5YYnFIOU1zMTh2REU5RDZ0QXkyRFh3bXdZUEZLQ1I4Mw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
+   "updated": "2026-07-14T16:24:14.836380+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4067,55 +4154,6 @@
    "also": [],
    "published": "2026-07-02T13:53:31+00:00",
    "first_seen": "2026-07-06T20:58:07.168716+00:00"
-  },
-  {
-   "id": "f0c87b2b2a91",
-   "headline": "Polymarket Whale Drops $400K on Putin Losing Power by 2026",
-   "lede": "An anonymous Polymarket user has placed a $400,000 wager predicting Russian President Vladimir Putin will lose power before the end of 2026.",
-   "body": [
-    "A mystery bettor on Polymarket has staked $400,000 on a market asking whether Vladimir Putin will no longer hold power in Russia by the close of 2026, according to Forbes. The bet is one of the largest single political wagers seen on the decentralized prediction platform, drawing significant attention to the contract.",
-    "The identity of the trader remains unknown, consistent with Polymarket's pseudonymous, crypto-wallet-based structure. Forbes reported the bet pushes meaningful liquidity into what had been a lower-volume geopolitical market, potentially shifting the contract's implied probability and attracting counter-bettors who believe Putin's grip on power will hold through the deadline.",
-    "Large single-position wagers on geopolitical markets have become a recurring feature on Polymarket, following high-profile election bets during the 2024 U.S. presidential cycle. These outsized positions raise ongoing questions about informed trading, market manipulation, and whether concentrated liquidity accurately reflects crowd-sourced probability or individual conviction."
-   ],
-   "why": "A $400,000 position in a single geopolitical contract tests Polymarket's liquidity depth and price discovery integrity \u2014 traders on the other side must assess whether this whale has genuine intelligence or is simply making a speculative play. For regulators, outsized anonymous bets on foreign-leader removal markets invite scrutiny around market manipulation thresholds. Platform operators should watch whether the odds shift materially, signaling herd-following behavior that could distort the market's informational value.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Vladimir Putin"
-   ],
-   "primary_source": {
-    "name": "Forbes",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmt2VE8xQWllMGN5MkpnQk1FUi1SeHlMQThIRDRVRE5mdDlWc2tGWkU4YkRMNFQtZ3ZHd3diVnlDVDJBNWc0eU5Yb0swQ1hMb1RDOXJBdHNlTFRqQ1ZIMXpoczZOUlp1X1dCQzJ0akhoMG12VmNGSndtYVNoOEMxZU5ybmpxMFNoeTdXSzdpR0tTb21yTV9XaHdfbHJRWnJWSzRVRVJOVWs5ejVla1JNUXBzYTRVTGlYeXVVNXU4UmViaGNuRExIZHVoZlhGZXlMMnc?oc=5"
-   },
-   "source_title": "Mystery Polymarket User Bets $400,000 On Putin Losing Power Before End Of 2026",
-   "also": [],
-   "published": "2026-07-02T13:29:15+00:00",
-   "first_seen": "2026-07-06T20:58:07.168716+00:00"
-  },
-  {
-   "id": "720752e851eb",
-   "headline": "Thin Markets and Bots Plague Most Prediction Contract Listings",
-   "lede": "The vast majority of prediction market contracts trade at low volumes, exposing users to price manipulation, erratic swings, and automated trading exploitation, according to CNBC.",
-   "body": [
-    "Most contracts listed on prediction market platforms see little to no meaningful trading activity, CNBC reports, creating a landscape where a handful of high-profile markets \u2014 presidential elections, major economic indicators \u2014 attract the bulk of liquidity while hundreds of others languish with minimal participation.",
-    "According to CNBC, the thin order books on low-volume contracts leave retail traders vulnerable to sharp price dislocations that may not reflect genuine probability shifts. Bots, which can place and cancel orders rapidly, are able to dominate these illiquid markets in ways that would be harder to sustain on deeper books, effectively setting artificial prices.",
-    "The issue is not unique to any single platform but reflects a structural challenge across the prediction market industry. Platforms like Polymarket and Kalshi have grown rapidly in public profile, yet that visibility has not translated into broad liquidity distribution across their full contract catalogs, leaving the majority of listed events thinly traded."
-   ],
-   "why": "For traders, low-volume contracts carry hidden execution risk \u2014 the spread between bid and ask can dwarf any informational edge, and bot activity can front-run retail orders. For platform operators, the liquidity concentration problem undermines the core utility argument for prediction markets and may invite regulatory scrutiny over whether thinly traded contracts constitute fair markets. Regulators at the CFTC, already watchful over event contract design, could use evidence of bot dominance in illiquid markets to tighten listing standards.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Kalshi",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXB4b0dTZFRxQnRtQ3czLVp3Z0R4bnBOLWdYd0J0Vm1IYjUyNXIwZW9aaG1hRHdoWjc1V0Nlc0hBZ3RkN29ON3JvSVR3ZUJrV29Tb2gzOEh5NnNWa0QwcWhUWVg4b0VSYy1CYmtxSTNtRHZjeWJzdzlWWHlpRVMzUEtuaUV1QkNzakl1Y3FTczRxRUZqZV9B0gGcAUFVX3lxTE1WeHR4N2ZHVzhJRFF1d25acHhINWNPc09zdW9kcTNvNXllUDlkV0MtdjJfMUMyTE9UZTB1dmFqal9oWjFjYXRXT2c1YzNxZF9Wa0pRN1o5Rm9HS00yTVJEMFFsODVOLTNmai1fSV9OWTZBdGk3VXktX3o1MGV1NWxiX2xUVUM2SndyUlRJOWtIeE12WlFaRlNSbTBPUg?oc=5"
-   },
-   "source_title": "Most prediction market contracts have low volume, leaving users exposed to volatility and bots",
-   "also": [],
-   "published": "2026-07-02T12:47:08+00:00",
-   "first_seen": "2026-07-06T20:02:17.529920+00:00"
   }
  ]
 }
