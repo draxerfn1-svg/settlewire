@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-15T11:44:16.723906+00:00",
+ "generated": "2026-07-15T14:04:11.714106+00:00",
  "stories": [
+  {
+   "id": "ca1d8c616fa4",
+   "slug": "chatgpt-integrates-kalshi-market-data-as-live-cited-source",
+   "headline": "ChatGPT integrates Kalshi market data as live cited source",
+   "lede": "OpenAI's ChatGPT began citing Kalshi prediction-market data as a named source in responses, giving the platform direct visibility inside the world's most-used AI assistant.",
+   "body": [
+    "ChatGPT is now surfacing Kalshi contract prices and probabilities as attributed data points within its answers, according to The Verge. The integration means users asking about election odds, economic outcomes, or other event probabilities may receive Kalshi-sourced figures directly inside a ChatGPT response, complete with a citation back to the platform.",
+    "Kalshi, the CFTC-regulated event-contract exchange, has been aggressively expanding its data distribution since winning its legal battle to offer election markets in 2024. Appearing inside ChatGPT \u2014 which commands hundreds of millions of users \u2014 represents a significant step beyond traditional financial data terminals and news aggregators as a distribution channel.",
+    "The move mirrors a broader trend of prediction-market platforms seeking mainstream legitimacy through technology integrations. Polymarket data has previously appeared in AI-adjacent tools and search features, intensifying the race among regulated and unregulated venues to become the canonical probability layer cited by AI systems."
+   ],
+   "why": "AI citation is fast becoming a new form of market authority \u2014 if ChatGPT defaults to Kalshi probabilities, traders on rival platforms face a reflexivity problem where AI-amplified Kalshi prices may anchor public expectations. For regulation watchers, this raises questions about whether AI-distributed event-contract data triggers new disclosure or registration obligations. Prediction-market operators without an AI distribution deal now have a concrete competitive disadvantage to price in.",
+   "category": "Deals",
+   "entities": [
+    "Kalshi",
+    "OpenAI",
+    "ChatGPT",
+    "Polymarket"
+   ],
+   "primary_source": {
+    "name": "The Verge",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTk90QTYwUmF6d1ZaTWFZNE5SQWFfZ3AtWm56X0ZlbmFMWDB0eTg4VVNENTVvcUtNZGN0VnNIRTZ5RFUtSTcxek5jbC1GXzRMSFZpVVpCaXAwMExYT0xXYXdCYUhBbHg3Q2FGenQ3WG52eGFvY3VHdVdn?oc=5"
+   },
+   "source_title": "ChatGPT is now citing Kalshi data.",
+   "also": [],
+   "published": "2026-07-14T16:19:11+00:00",
+   "first_seen": "2026-07-15T14:04:11.714106+00:00"
+  },
   {
    "id": "51868f9a1ed9",
    "slug": "kalshi-launches-ai-compute-forward-curves-targeting-tech-economy-traders",
@@ -76,9 +103,15 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KdDdPVXNiRWpsa2VyYTZVNHF5TFBRY2pfQ0JMaDFrMndjbW53OGlTU1QtZVNoRzZKQ1p1aG9INmxpMV83amxoaFlWcnNzMFNzY2RfMm9EbXJOV0NBODJOaE1pMGtwVU1ubzhfSUFzVnF5Y1JwVmVn?oc=5"
    },
    "source_title": "Examining Customer Protections and Market Integrity in Sports Event Prediction Markets",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    }
+   ],
    "published": "2026-07-14T13:46:05+00:00",
-   "first_seen": "2026-07-15T11:44:16.723906+00:00"
+   "first_seen": "2026-07-15T11:44:16.723906+00:00",
+   "updated": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -119,11 +152,23 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU1jbEprYk9UNHlaUlJoOUtqWjRGVTJBandJMUtHRnh0MGxaU0lIMUdEZm9TMUdTTm1fX05PR3Rva0xxT1VXbWFDUGlwUXppbmowclE3WngtN205Zjh5R19HTFZXV080ZEVrQ0lZODJYdmIzMXlGOG9ENXl5cnl5SHBDaGRFWlFHTXRVR1ZxS01LOUppNEN0ZE5sVkx2VVZ4TDhaeDEyT0llOWNYLWpFU0Z3RXgySnFoUHdzeg?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0hyZnYzcmVza3FydW16RUxKNDBGU0ZTY3JTWmw2OS1VeTNoMGNWTDFIWi1ERmdIQUlucm1heXZuYnNNRjRxQlVuY3EtdXRkcjlCdTNhVXV2TXVwa21nazBEYUdyS3cwNXEwWmw4MzlzdXpyTHNrRXE2WWZ5ZHF0R2hBQ1g4a3JMZnlNTnRhR25CQUhRZ0o0RUdZYXpWUnZiV1FYa25WNA?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVl9Mbk40b1JGa0R5emFyWmpsNUx6U0VCeHlMNjBvVTV6WUMzWGYyQ0ZBTmMxampvelptUjctS202WVMwb0VvQ0FiQnpVVHZKTExuMlZVd3o3WS1mZFkyc09SRmk1YUdsV2NkSzg0WkVhdEtNdkd4cVpZSjA2TjNMZndUUVo0S2Zlc3ZqUU1TaURCRGoxc0tpVWQyZm9samJZeU9IdW1fNi10TjZ6LUowblFFMkFveUdnTTQ1Qk9tMA?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjZuSFhOTW9RNGxVZlRBeWkwLUJYUmRRYi0tSE1rYUtqYmxySWo5U2VNU242WHdnNzZjMHJYc1FKTDc1YmZ0dzNfTk94VkEzYlgwdnFxTEpfd20yQW8zWmxya0xZWEpySkp6VEpLTTZ1OENfc1dzam5GU21QMExuRDBQV2dweFBWQ0RxX2tKZHZ4aVFlbTVBWDVrNkpfcmtqbGVQa0xtaWkzZVpC?oc=5"
     }
    ],
    "published": "2026-07-14T13:45:00+00:00",
    "first_seen": "2026-07-15T09:19:11.371834+00:00",
-   "updated": "2026-07-15T11:44:16.723906+00:00"
+   "updated": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "4dad88dfb4af",
@@ -481,6 +526,32 @@
    "also": [],
    "published": "2026-07-13T18:30:00+00:00",
    "first_seen": "2026-07-14T20:20:04.295469+00:00"
+  },
+  {
+   "id": "85bb857ceecb",
+   "slug": "kalshi-market-favors-england-over-argentina-in-knockout-clash",
+   "headline": "Kalshi market favors England over Argentina in knockout clash",
+   "lede": "A Kalshi prediction market on the England vs. Argentina match is pricing England as the favorite to advance, according to Sports Illustrated.",
+   "body": [
+    "Sports Illustrated highlighted a Kalshi event contract tracking which team advances from the England vs. Argentina matchup, with market sentiment tilting toward England. Kalshi, the CFTC-regulated prediction market exchange, has expanded aggressively into sports event contracts since winning its legal battle to offer such products in the United States.",
+    "The coverage underscores how mainstream sports media is increasingly treating prediction-market pricing as a legitimate signal of expected outcomes, similar to how Vegas odds have long been cited. Kalshi's sports contracts allow U.S. users to trade on binary outcomes \u2014 team A advances or team B advances \u2014 creating real-money crowd forecasts.",
+    "The Sports Illustrated mention reflects a broader media trend of embedding Kalshi and Polymarket probabilities directly into sports previews and game-day coverage, giving the platforms earned media exposure and driving user acquisition without paid advertising."
+   ],
+   "why": "Sports Illustrated's editorial decision to feature Kalshi market odds signals that regulated prediction markets are reaching mainstream credibility as a forecasting tool alongside traditional sportsbooks. For traders, growing media attention can create short-term liquidity spikes and sharper pricing as casual participants enter high-profile event contracts. Regulators watching CFTC-approved sports contracts will note this as evidence of real public engagement with the product category.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "Sports Illustrated",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Sports Illustrated",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3NEelVDNkxIWUlTTkdFZG5odjZpNXQ0Zml4azJTbzhTZThJMTEtRTByZXc3bFItMmdUM3hhd1c3UFJBVmZnUmNkX1ZMQlNsRlVxdUhCUVMyZ01LbzR4ZXN5eTBMbFlibzg4YVpZV3FyekF0MnJVRlYydHlGWnBVWmFMbmR1T1U0em0xN0VkbWI4bGdzRi1IZy1rdjBvMVNxYUlMV3d3LV8tZHRHMlJ4VW93bE5mcjU5SGc?oc=5"
+   },
+   "source_title": "England vs. Argentina Kalshi Prediction Market Says England Advances",
+   "also": [],
+   "published": "2026-07-13T17:15:00+00:00",
+   "first_seen": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "c7b807bb5d1f",
@@ -1559,11 +1630,23 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNS1HOXRhWTh1OUhIQ3YzbGlIM3RQOGFhU0VSaTBsLUxBSlZhc01kSnVpdlJfOFV4dUVSM3RLNUg0bGVrSUtzdF9PTjdPdXMyeUZRTWppWDNFeEtvaThnNUswT254QzJzWmdwQk5pQk5QSUdZY1gyekpFeVA2MjdEOEpULUw3Q2tsZjF1bXdvNWlya3dCNVBkajBoWkdHZS1CLXprakIwX2dZS3J2ZTUtSGhqR2xvVVNBMkFvZUlB?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU25LRWlycTFqYjlBVC1yNXpuelcta2xBdmN2MWo0WHpDU3l0R1lzekdvemVobW9sQkhseTN0UnlHU2RXcFVONXJURkZNcEY2U081cW1SSDlZSm9wUm5ROS0wOW1OMDdWcEVUbDhZNEZRYjVkcGhnZV82QnZIdV9ycy04bmFPOFM0RFNMMjVmV1pWRTd5TmZNbA?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0hjcVZqM18xUGh5TGdjaHN6Sm5GS2g2R040Qm9pa2hESWZXcmxZaEtwdTh5eldDdnl3ajNUSDZwWXg0SmhrV2hBVE5JM25obUFRcmFDOVFvOS1YeTBBcE1LbWo2ZXdpM0hnOXpEM3JqOHJqU1dxYU1zZU9acGE3allzdmJxUDBFS2JJMXZGRExUV0VuRGxyNjd0WmtfU3ZNSWRjSmFtUEZhaHd5eWpsV2xqSDFkVDg4VE9xZHZB?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE9ac2RJV0taWTZYWC10SDRnY3NHTkFqQWRVVXJqaExvb0ZCX09HcUtpTjh6SkdkQWNEclpGVXdqaWNMZjZDOHQyMnZVVGlzc3o1WWRwdW54QUxhNXROYW9EcTN2aENhQjAzLWdscVhxXzdYSV9MclhqeHBoelhfa2tFYzhGY2FvTXBtVmQtY05vbU1OR0JZZGpSTG56QlpUNG9lRXA3bk44QS1SR3F0TGhQdw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-15T09:19:11.371834+00:00"
+   "updated": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2504,9 +2587,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmpFRHQxamJMbk1Vcjdvb1lSSjRqc2paMUpsMHc1aEVsQjRtZDJWLVg2OWhYYnBGSHVnT1ZLa2ZzcjZsQV9BODAzTFFXS2liOV9iV3lZWTVGSWFQNTN0Y1F5dEdSbGZsZ3kzYU9ZTFBNbm5jZndkdnRtSDNqVWo0MFFEX01tel8taGJiZFhRd3RSUS0xT1VGd0VKcFdxX1RBRTd0T1BSWEtOZWs?oc=5"
    },
    "source_title": "Google Bans Prediction Market Transactions Amid Backlash",
-   "also": [],
+   "also": [
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm05Z0lpRkRYWlJpdUdIQzZHT1ZnYS1QWmNNOU15OVQ0cWNHS0RtQ1dhN1FBNHE4NEJMa0s2eGVJODBUYzVMQU55M1JpdGQwd3ltNF9UQ0k0UVZ2azhydnkyUFFWbnZuN2I5ZGJfbGJJS3FDVGhCQTB0blRxN2lKWkFnbXRtSUk4WjlvSUo2a3oyU21wTnhnczg0X01ydEEzQzlXRXU5UWQ?oc=5"
+    }
+   ],
    "published": "2026-07-08T18:12:00+00:00",
-   "first_seen": "2026-07-09T16:08:11.687335+00:00"
+   "first_seen": "2026-07-09T16:08:11.687335+00:00",
+   "updated": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "5a84abf98c76",
@@ -3750,11 +3839,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTWdhVlhkZ3R4Q09jaVlNMkl2R2p6UlNRSFZSc19oY2M5MjBLRHc4c29VU2hETjZzcHpVTU1NY19Nc2xNU3RncHM1YU5YYnFIOU1zMTh2REU5RDZ0QXkyRFh3bXdZUEZLQ1I4Mw?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEJXNm9IV0taeE1qMUJCMVctM0hPcGVfOWFmMDdfdXNmdVhDNkVaVWZwUE0zVnROLV9VRUNVaG1FOFRrS2Z3Z1VWMEs1SzNUeTlKVXRzSi1pYVllV19Zd09YWll1SHNtVUZpZnpMN3lGcURmMGhXYUFUdEJFMFd6UDBoOVRJOV9md3pLdWpTWHZoZVhvNDRtWHhIa0t0bmZLUzVYLUpjMFBlSkVwZUdhbnFn?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-14T16:24:14.836380+00:00"
+   "updated": "2026-07-15T14:04:11.714106+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4150,86 +4243,6 @@
    "also": [],
    "published": "2026-07-05T11:00:00+00:00",
    "first_seen": "2026-07-06T21:36:25.744148+00:00"
-  },
-  {
-   "id": "9f2158e700d5",
-   "headline": "Kalshi June Volume Hits $9.4B Record as World Cup Drives Surge",
-   "lede": "Kalshi posted its highest-ever monthly trading volume in June at nearly $9.4 billion, with the expanded 48-team FIFA World Cup serving as the primary catalyst.",
-   "body": [
-    "According to Cointelegraph, citing DefiLlama data, Kalshi's June volume of roughly $9.4 billion represented a dramatic jump from approximately $5.3 billion in May. Polymarket International also gained ground, rising from around $3.5 billion in May to approximately $4.3 billion in June. CNBC reported the World Cup became the single biggest driver of prediction market trading activity during the month.",
-    "The 2026 FIFA World Cup, which began June 11, is the first edition to feature 48 national teams rather than 32, creating a larger slate of matchups for traders to wager on. Knockout-round contests have drawn the heaviest activity: Canada's Round of 16 clash with Morocco alone generated over $48 million on Kalshi and more than $26.8 million on Polymarket, per Cointelegraph. The US team's advancement market pulled in over $2.1 million on Kalshi.",
-    "The record volumes arrive amid mounting legal pressure, according to Cointelegraph, with nearly a dozen US states having moved against prediction market operators by March, some attempting to classify the platforms under existing gambling frameworks or state tax regimes. The regulatory tension underscores how rapidly the sector's commercial scale is outpacing its legal clarity."
-   ],
-   "why": "Record volumes strengthen Kalshi's and Polymarket's negotiating positions with regulators, making outright bans politically harder as user bases and tax-revenue arguments grow. Traders should watch whether knockout-round liquidity depth translates into tighter spreads on future sports contracts. State-level legal actions could fragment market access geographically, creating arbitrage opportunities or dead zones depending on jurisdiction.",
-   "category": "Trading",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "FIFA World Cup",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "Cointelegraph",
-    "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-   },
-   "source_title": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets",
-   "also": [
-    {
-     "name": "PokerStrategy.com",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW1WSlhYUERWMVJLQnhjdnNmUE1IcHFOenNXMUZyb2doOS1QZTFuUWlHTmY4ck5CdFRnVkQ1MXBqUkpkVVhfUHg3ZnpqZE5fbmxhX3BSeS1DdUVHcGFkYlk0dEhBbzRPcXdCUkxFS2JiTTNtLW5nNndWSzNhSFA4djBfR0ZkOVlUY2U1ZWhzME90Vm9EX3MxSlhETUNxUzVXZGdIU3RnenE?oc=5"
-    },
-    {
-     "name": "Elite Sports NY",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1haS1DZXFRWUdFZGRUSzluM3Z0bk9SWmpnOXIzM1lNd3FjckpJSnBFNXlBVDVfZjFMUDR5NkFVVUpfMWdCVjVfYWRtV2dPWmFlejFyTTZSalROa0pmSEF2MlZfWTlrTHRvTmEtblVNdVIxMkZMYlY3WHZmZw?oc=5"
-    },
-    {
-     "name": "Channel 3000",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGo5NU1sWDF5VTVNb2dXbkZFVHMwbkRIYTBBTjdnNjJqS1FDSE9kUUdmVngtS0NaV1lmdzhlTFFHX0dKVGF4dmlOcGRMb2VEZElvYTJjN3BmMVdOUnlFejNTYkV1YUpRNGZPcDBnYUpoTHRIN2NZWS1GeHZDakVUb0dtdVltSHFKV3hVbkpWSDNpY0JiQXlPN0ppZ3ZRdEhOeFp1VDRtVGdQZ1VCWVJ0V3U4UXQzcFBJRExJ?oc=5"
-    },
-    {
-     "name": "Elite Sports NY",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LcDJLOHRicXJ3T0xJeGJLQ3VQQnpPdkFaYWFqWjdsNm1oOHpoUHFYdUJRcURvbjZyVWVhOEMtcUJ4dlNaNXZYemp6OU5uRXczYmhvWmdpWW9jX3M4bDh5Yjl2TWNKQVllZ1RYcjhNZ0VtazhTR3Uxa2wzWQ?oc=5"
-    }
-   ],
-   "published": "2026-07-04T16:50:00+00:00",
-   "first_seen": "2026-07-06T21:36:25.744148+00:00",
-   "updated": "2026-07-07T15:48:56.059066+00:00"
-  },
-  {
-   "id": "649de8bfe59f",
-   "headline": "World Cup Betting Pushes Prediction Market Volumes to All-Time Highs",
-   "lede": "The FIFA World Cup has triggered record-breaking trading volumes across major prediction market platforms, marking a new milestone for the industry.",
-   "body": [
-    "The World Cup has become a catalyst for unprecedented activity on prediction market platforms, with volumes surging to all-time highs according to both CNBC and Yahoo Finance. The tournament's global appeal has drawn a wave of new and returning traders placing event contracts on match outcomes, tournament winners, and related geopolitical and sports storylines.",
-    "While exact platform-by-platform figures were not available from the primary source material, CNBC and Yahoo Finance both characterized the volume increases as record-setting. The spike underscores how major international sporting events can function as on-ramps for mainstream users to engage with event-contract trading for the first time.",
-    "The surge mirrors patterns seen during previous high-profile events such as U.S. presidential elections, which similarly drove sharp volume increases on platforms like Polymarket and Kalshi. Industry observers note that sports-driven traffic often has a stickiness effect, with new users continuing to trade on political and economic contracts after their initial sports-focused entry point."
-   ],
-   "why": "Record volume events stress-test platform infrastructure and liquidity mechanisms, giving operators critical data on scaling limits. For regulators like the CFTC, a sports-driven volume spike on regulated venues such as Kalshi could accelerate scrutiny of event-contract scope. Traders should watch for widening spreads and potential liquidity gaps on smaller markets during peak tournament periods.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Kalshi",
-    "CFTC",
-    "FIFA World Cup"
-   ],
-   "primary_source": {
-    "name": "CNBC",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ01NRTg4c09GQlNweFNHbWI2dWRHMEZKV0RSZ0k2X25MdkVLYlRxcWNtTnhScnFVZWxuNG1yTDNMc2MyTFNrVzNWd2RxSW1Md1psYWUxTFBkeUlpYUZXNE1zSi1hNUJfS3BKNTJWSXU2bnNvZGFDaGJwOHlHdjJRWXZDOVVrYXpxeWtRLWY4dGFpMW_SAZgBQVVfeXFMT3hPbzVLMm5GTnFsdEYwZTk3MjNfb00wNmRINjViS1Bwd1hZNDNwU0dSc3YzVEJOQUo3MUdKeWdkTmI1YktSV1ZFNUdBWjZVV25tS2l4US1tLXF4a2dCSkRZbmFsck9yTFFLMGctYndVZ3dpNldEaTR6em5qMWxJOTc0eGhINVJoUVA5eUwxWkMtSWtiSXFiam4?oc=5"
-   },
-   "source_title": "The World Cup sends prediction market volumes soaring to record highs",
-   "also": [
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWVwazdPeDVMZGlCRk1kX0xwSFF2V3FRMVhrN193VkNRVUxQMVRUV2V1cW9ENk9SVV9sRmJINVpsUEc0Ylkzem5fVWhreTFtWVpMZDdKeEZaWUZVd2l4RFJVT1lFaTU4cG1UdVBtWndWVW5peHZwRzRhZ0sxeVlmWnc0OTFYTUJQQWpldVpTY21zNWVmdVFYTW82Rl9zMEsw?oc=5"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXY3ZjltWkM0djVXQ0JoQnNxRWNpY0Ffa1JWLTljMEc0ZVk5elR2VVRSOWFtQlFvWUN0WWNfejNEZGxTZWM3bERLblc2dnROeUV5TXpaak9fSE44SE9McTlrZWNhQ3ppdlg5WEd2eUQ5OEdrTGVia3g3UXZfdl9PeHRLQVprLUIybkZsbFBuNGJBWXZSekJSR2k0aWVjcDd3UFE?oc=5"
-    }
-   ],
-   "published": "2026-07-04T12:54:04+00:00",
-   "first_seen": "2026-07-06T20:58:07.168716+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
   }
  ]
 }
