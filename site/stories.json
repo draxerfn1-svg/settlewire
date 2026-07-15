@@ -1,6 +1,42 @@
 {
- "generated": "2026-07-15T06:24:37.945081+00:00",
+ "generated": "2026-07-15T09:19:11.371834+00:00",
  "stories": [
+  {
+   "id": "005a8d5e0c0a",
+   "slug": "polymarket-50-invite-code-promotions-target-mlb-all-star-world-cup-markets",
+   "headline": "Polymarket $50 Invite-Code Promotions Target MLB All-Star, World Cup Markets",
+   "lede": "Polymarket is offering $50 bonuses via invite codes including \"CUSE\" and \"SBWIRE\" to new users in New York, Pennsylvania, and Texas ahead of the MLB All-Star Game and World Cup Semifinal on July 14.",
+   "body": [
+    "Polymarket is running geo-targeted bonus promotions in at least three U.S. states \u2014 New York, Pennsylvania, and Texas \u2014 timed to two high-profile July events: the MLB All-Star Game and the FIFA World Cup Semifinal. New users who enter codes such as \"CUSE\" or \"SBWIRE\" at sign-up receive a $50 credit, according to coverage from Syracuse.com and Golfweek.",
+    "The promotions appear coordinated around July 14, the date of both marquee events, suggesting Polymarket is deliberately stacking its marketing calendar around peak sports-news moments. Invite-code campaigns of this kind are a standard customer-acquisition tool in prediction markets, designed to convert casual sports fans into active traders on outcome contracts.",
+    "Polymarket has been expanding its U.S. user base aggressively following regulatory shifts that have given event-contract platforms more room to operate domestically. Targeting specific states with localized codes indicates the platform is running segmented campaigns, possibly calibrated to regional sports fanbases or differing state-level promotional rules."
+   ],
+   "why": "Invite-code acquisition pushes ahead of major sporting events signal that Polymarket is betting heavily on sports-driven onboarding as a growth vector, which could move liquidity and open interest data that traders track as sentiment indicators. Rival platforms like Kalshi will face pressure to match promotional spending, raising customer-acquisition costs across the sector. Regulators watching event-contract marketing practices in restricted states should note the explicit state-level targeting embedded in these campaigns.",
+   "category": "Trading",
+   "entities": [
+    "Polymarket",
+    "MLB All-Star Game",
+    "FIFA World Cup",
+    "Kalshi"
+   ],
+   "primary_source": {
+    "name": "Syracuse.com",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaE9xT2tvaXJyY3FFakxnQ2JUNDNyVXZFVmlCTzlIX0txVnBGa09tdlQ3QjlzaUpWUmVuUVQtbGRTYXc2OVM3TEZPWTFTZG5jNkN5RlFOaGZ2M2ZlREhNbUJsRUFlNkxGd0h3dDNfZXN3ZXpKdldRZWVYWnlvWHlzRFJnTXlMNlRqM0kzSl85akZyZk50WGhieEpSZXRiXzhhZUZNMHVTNnNIQ1pNcFBvaFpWblJGVTEwdG5hdnpkem43LTNsSlVrenpGX1VaMU9TeXE4U3RfNEpldw?oc=5"
+   },
+   "source_title": "Polymarket updates $50 invite code \u201cCUSE\u201d in NY, PA and TX for World Cup Semifinal, MLB All-Star Game",
+   "also": [
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRlMzWWNlazVoSm5Qc2VHcmNTQVNjejRwM1dpVE9SYkFLU3Iwa3A2YWpKZlhlcEJXbFkxTk5MbXdfTmVlSk5HbTFiSHhNcWZ5RTFta0lJTjhBSEhaeGdidUFHOWhYMk03Tmw1d3NlX1JPMXV6dWlBMVN4aktiLVlpUE02S0ZTd0p1Qmd5TWdsb1dwR3R3Nm5HdGdYenJRY1BkX1FGUzhKQmVGVHdweFlmWmo2UGJKU3E5cE9vaV9mWlI?oc=5"
+    },
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGhXekdrQVhCcjB6MVJKLTN0d3VrZnRqbWFIal9tb0UyWkVKYUxtbzZhNGE3QVR4U2duR0x0a2xtbURYYlZUQzBXT3VFZzZ2YmhMSUVSVlVSTUVDc21JdUNpbVppd3VyVGhtdEpiYnJ0SkhrdGJORjZiaFpHN2V3UlhYSWVOZFJxRUZjQWMwYTZxNy1rN3VfcFNtdE5nUTBXQzkxWWhqWXE0ank1YjRqZ19NUTF2eGJzOHJFZHJR?oc=5"
+    }
+   ],
+   "published": "2026-07-14T13:45:00+00:00",
+   "first_seen": "2026-07-15T09:19:11.371834+00:00"
+  },
   {
    "id": "4dad88dfb4af",
    "slug": "malta-eyes-prediction-markets-regulatory-framework-after-crypto-playbook",
@@ -24,9 +60,15 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmkyMjVRcFBETGwxWHpYMEFpNDBMLXhQanozWDhTSzIwM0lvTGNtTXpIZUg4Mm1oOWVrOGRBS01kQks0QzBud3N5d090NUt3UW1fUGtxSWFyRUxSbEEwbWpnem9fRTBWMHdCbnlqbXRISW9remlURjZpc19sbWFHRi1vZ2JjMDFWbGZMU1BmVVFsTFV0UEozVzRITnVwTWVhZ2VPb3kwUHdhVjFxTVN3U3Z3?oc=5"
    },
    "source_title": "Malta Tried This with Crypto. Now It\u2019s Trying Again with Prediction Markets",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    }
+   ],
    "published": "2026-07-14T12:00:00+00:00",
-   "first_seen": "2026-07-15T06:24:37.945081+00:00"
+   "first_seen": "2026-07-15T06:24:37.945081+00:00",
+   "updated": "2026-07-15T09:19:11.371834+00:00"
   },
   {
    "id": "3bf045bf3fe1",
@@ -1421,11 +1463,15 @@
     {
      "name": "Yahoo Sports",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2xSWl91dEpuWEtSRFhrZ0FnUFd1TkQ3TG1uZWRLWndVRmNvUGVFcmQ2eThNRlhtX0pETnF1U2hmbmNHZktxV29LeUdGZk5ScjM5Qk9pNGE2Q2cwUDRYZ3EzMjZTbEZydnhqcmRYSGNta256VXlKUXBOYUNnUUl1N1pDTWViMzg?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNS1HOXRhWTh1OUhIQ3YzbGlIM3RQOGFhU0VSaTBsLUxBSlZhc01kSnVpdlJfOFV4dUVSM3RLNUg0bGVrSUtzdF9PTjdPdXMyeUZRTWppWDNFeEtvaThnNUswT254QzJzWmdwQk5pQk5QSUdZY1gyekpFeVA2MjdEOEpULUw3Q2tsZjF1bXdvNWlya3dCNVBkajBoWkdHZS1CLXprakIwX2dZS3J2ZTUtSGhqR2xvVVNBMkFvZUlB?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-15T03:25:57.806009+00:00"
+   "updated": "2026-07-15T09:19:11.371834+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4176,50 +4222,6 @@
    ],
    "published": "2026-07-03T22:25:27+00:00",
    "first_seen": "2026-07-07T12:07:28.126351+00:00"
-  },
-  {
-   "id": "6311546cb256",
-   "headline": "Michigan Daily: Prediction Markets Deserve Recognition as Public Good",
-   "lede": "The Michigan Daily published an opinion piece arguing that prediction markets generate genuine social value beyond speculation.",
-   "body": [
-    "The Michigan Daily ran an opinion column making the case that prediction markets serve a broader societal function, positioning them not merely as gambling instruments but as tools for aggregating dispersed information into actionable forecasts. The piece comes amid a period of heightened mainstream attention to platforms like Kalshi and Polymarket.",
-    "According to The Michigan Daily, the information-discovery function of prediction markets can benefit policymakers, researchers, and the public by surfacing crowd wisdom on outcomes ranging from elections to economic indicators. The argument mirrors longstanding academic defenses of market-based forecasting that predate the current retail boom.",
-    "The opinion lands as the CFTC continues to weigh the regulatory boundaries of event contracts in the United States, and as platforms like Kalshi push for expanded contract offerings. Student and campus media engaging with the topic signals growing mainstream normalization of prediction markets as a legitimate financial and epistemic instrument."
-   ],
-   "why": "Campus opinion pieces rarely move markets, but this one reflects a broader normalization trend that matters for regulatory sentiment \u2014 regulators and legislators are sensitive to public perception of prediction markets as gambling versus public goods. A sustained positive framing in mainstream and academic media could ease political resistance to CFTC approval of new contract categories. Operators tracking legitimacy risk should note the shift in narrative outside financial media.",
-   "category": "Opinion",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "CFTC",
-    "The Michigan Daily"
-   ],
-   "primary_source": {
-    "name": "The Michigan Daily",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUJmOWtlS3pDM0kwbzBVT0l2RGRGaDY0Y0VfbnR0MFkxQlpEYXVRTG94RWRUOHEwbDF1YlIwNzE2UDdGX2xiQ0NiandkLTR4Z2NLY3FPbVlNT3A2enE4MUJKVFgwZEVSUTNoaTM5OFpiSThxOGhEUmVNSmcwbEtIMmktMWdXRTg0?oc=5"
-   },
-   "source_title": "Prediction markets can be a force for good",
-   "also": [
-    {
-     "name": "SailGP",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJQjY5UWlZQ2xpVURDTmNHLTcyMWM1MFhDdl94T2NJcXJoWnNLQ3FGZGx1cmUwYjZ6MGhSem03ODZjTWhvYklvcWd5WWtCR1J3dlQzcFdnUGcyWElG?oc=5"
-    },
-    {
-     "name": "Law.com",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUVlbFlWbk8wd2E5UG9xU1BoUGtVZmxtMkNtXzBuTTJNdVdlZWNvMllHTkVkN2lfWmdwZ2tGZTZGb21tTThLVlFfYzV6ZXNIT0tJMThfQm40amp6SVYxSGdpSTJ1a0F2LXdZQVE4R3B6Qzh2c28wS2xmWmlPbGxQWlhLNEhGSmotaUsxSjdB?oc=5"
-    },
-    {
-     "name": "Semafor",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGJ3TFpyQzJFaktVcktaVjVmQ01rSEdFN2ZFTGN1YmpiUVp2UUZVS083cHV5SXZ5Z0xPY0RWS0NndlUwQjIzcFhTaEhmUGZjbmNrMGI3bjVuYW5ydWFZemg5NXdQcklhMUxkUENLSmdfRFpoZGxzTy1objRJN0otb1Q0NmdGVFU?oc=5"
-    },
-    {
-     "name": "The Block",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQkxtWURNVWF1UWhLUEpTOWNUUDd1R29FWFg1UFBRLTIzaDE1UXp3VEx5RVhhdGF5WEFiYU82WVdQd1B1dndqVjRCZXl4RmlrQWRUUUFhV3JaUXBoTGxrNmY0ZkVaRjJTLWxkanBldUo3TktxSzJNMg?oc=5"
-    }
-   ],
-   "published": "2026-07-03T20:54:19+00:00",
-   "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-07-13T11:25:48.111091+00:00"
   }
  ]
 }
