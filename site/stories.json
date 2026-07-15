@@ -1,6 +1,33 @@
 {
- "generated": "2026-07-15T03:25:57.806009+00:00",
+ "generated": "2026-07-15T06:24:37.945081+00:00",
  "stories": [
+  {
+   "id": "4dad88dfb4af",
+   "slug": "malta-eyes-prediction-markets-regulatory-framework-after-crypto-playbook",
+   "headline": "Malta Eyes Prediction Markets Regulatory Framework After Crypto Playbook",
+   "lede": "Malta is pursuing a formal regulatory framework for prediction markets, applying lessons from its earlier cryptocurrency licensing push to attract prediction-market operators to the jurisdiction.",
+   "body": [
+    "According to Finance Magnates, Malta is drawing on its experience establishing crypto regulation under the Virtual Financial Assets Act to craft rules specifically targeting prediction markets. The island nation became known as 'Blockchain Island' after aggressively courting crypto firms around 2018, and officials are now signaling a similar ambition for event-contract platforms.",
+    "Malta's approach would position it as a European hub for prediction-market operators seeking regulatory clarity \u2014 a scarce commodity globally, given that the CFTC in the United States continues to litigate boundaries around platforms like Kalshi and Polymarket. A defined Maltese license could offer operators a compliant base to serve EU users under MiCA-adjacent structures.",
+    "The timing matters: prediction markets saw explosive volume growth through 2024's election cycle, and platforms are actively scouting jurisdictions. Finance Magnates notes that Malta's MGA and MFSA are the likely regulatory bodies involved, though a formal framework has not yet been published."
+   ],
+   "why": "A recognized EU jurisdiction entering this space would give prediction-market operators a credible offshore-but-regulated option, reducing dependence on CFTC approval and potentially accelerating global expansion. Traders on platforms like Polymarket \u2014 currently operating in a legal grey zone for U.S. users \u2014 would gain access to legitimized venues. Regulation watchers should track whether Malta's framework influences CFTC thinking on event contracts, as international competition has historically pressured U.S. regulators to act.",
+   "category": "Legal",
+   "entities": [
+    "Malta",
+    "Kalshi",
+    "Polymarket",
+    "CFTC"
+   ],
+   "primary_source": {
+    "name": "Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmkyMjVRcFBETGwxWHpYMEFpNDBMLXhQanozWDhTSzIwM0lvTGNtTXpIZUg4Mm1oOWVrOGRBS01kQks0QzBud3N5d090NUt3UW1fUGtxSWFyRUxSbEEwbWpnem9fRTBWMHdCbnlqbXRISW9remlURjZpc19sbWFHRi1vZ2JjMDFWbGZMU1BmVVFsTFV0UEozVzRITnVwTWVhZ2VPb3kwUHdhVjFxTVN3U3Z3?oc=5"
+   },
+   "source_title": "Malta Tried This with Crypto. Now It\u2019s Trying Again with Prediction Markets",
+   "also": [],
+   "published": "2026-07-14T12:00:00+00:00",
+   "first_seen": "2026-07-15T06:24:37.945081+00:00"
+  },
   {
    "id": "3bf045bf3fe1",
    "slug": "rothera-picks-adaptive-to-build-cftc-regulated-event-contracts-exchange",
@@ -4193,32 +4220,6 @@
    "published": "2026-07-03T20:54:19+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
    "updated": "2026-07-13T11:25:48.111091+00:00"
-  },
-  {
-   "id": "b7f72becd4ef",
-   "headline": "Spotify Nukes 500K Streams Tied to Prediction Market Manipulation",
-   "lede": "Spotify removed roughly 500,000 streams from a popular track after suspecting users gamed the platform to influence Kalshi and Polymarket event contracts.",
-   "body": [
-    "According to Mashable, Spotify deleted approximately 500,000 streams from a well-known song after the company identified unusual streaming activity believed to be coordinated by prediction market participants. The suspected motive was to artificially move stream-count metrics that served as settlement data for event contracts on Kalshi and Polymarket.",
-    "The incident represents a novel form of market manipulation in which traders targeted a real-world data source \u2014 a music streaming platform \u2014 rather than the prediction market itself. By inflating or deflating stream counts, bad actors could potentially push a contract's outcome in their favor before the settlement deadline, according to Mashable's reporting.",
-    "Prediction markets that settle on measurable real-world figures, such as chart positions or streaming numbers, are increasingly attractive targets because the underlying data can sometimes be influenced more cheaply than the contract's total open interest. This episode highlights a structural vulnerability that operators have not yet fully addressed through contract design or surveillance."
-   ],
-   "why": "For traders, this signals that contracts tied to manipulable third-party data carry hidden counterparty-style risk \u2014 winning positions can be invalidated if the platform voids underlying data. Operators like Kalshi and Polymarket may face pressure to redesign settlement oracles or avoid data sources vulnerable to gaming. Regulators watching CFTC event-contract oversight will likely cite this as evidence that manipulation surveillance must extend beyond the markets themselves to the raw data pipelines they rely on.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Polymarket",
-    "Spotify",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "Mashable",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY01TeXVjakFTakNUdVpVbWZNV21yWU5GVTRkbWFPUmtfMXlINXhDck1ITDdHcGJjNUwtVWNPM0dxQU5pZXpHWTNTY29WOUo1Y01nOU00Qm02bXhmclRKeGFtUS1RMDgyZU9RQU9QeXUtbHBaOFRnSmplU3lFOVlBOUhBMng3MGJlVVJTeHVSYldQRzR3eFRBREdB?oc=5"
-   },
-   "source_title": "Spotify deletes 500K streams of popular song for suspected Kalshi, Polymarket user manipulation",
-   "also": [],
-   "published": "2026-07-03T19:10:12+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
   }
  ]
 }
