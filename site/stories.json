@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T15:44:56.887950+00:00",
+ "generated": "2026-07-15T17:34:10.376293+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -168,11 +168,19 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWVEMktEbDd5c2EzdzlfSW5NWkpTelRCUXd3YmdKMGdwNWp0ZmFHQ00yLTl6dFZGYV9rRHlfUjE2Nkw2WkoxWjNPMUMyY2pXRDNsU2U3bXlvcGRPcjhLUldGN29UOEhmSTBPM215SDVXbDlCRWFFTDhpUktIWE9GSmptcGdVdEhCaDVJVEp6UDBWdWMxWEdMWXlFVjM3S3VxMC1MWkRJQkZDSHJXQTVXZmtCb3FRam1TNGtoVQ?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkhLYURFcDB5UmVaUnVzUGY3MktYSnp2OVFkd1o4Q0dZUzRWSVkyRXNPcnVEdzVUR19aQndOR0FPTHZnalBCdDBWOU93ZnZ6Uzkwa3U5eWtVTUZKbkZ2QXRJdmhsLUFTM0JRS2IzS3ItbFNIY09mLVdTb3VqTlRLVWdQLVdpeGFkZGpnNVlkcTBwWHYtQzQxbWhuYVRGenByQ0FRQVpSX3k5a1pEVVpUdjFkSE1vOEIwSEc2dXF2Skd6UFg4REdGTjhB?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUJHWExUOHZSSzF0czBEc1pkWFcwaURGWUM2Z3JSNnhobVU2WEFsZnBfZG5KVndKN2RJUDhJdDc2cXJ6YVBsMm1lRGhiZVNjZGNxblVVV3JLN0FUSlVWOWVtWlVtb1hubXNzR0dFMmdDOWJDcTB6QU9aTmNWZF94UnhiTzM5d2VSaXBHbV9NckkzekJoNjJDRnBIbXRGU25mNUxXbEJVQXc3SzR4NFRLSWl5OGlXZGM5cnlTQkhxblE4WF9Ydmxvcmt3?oc=5"
     }
    ],
    "published": "2026-07-14T13:45:00+00:00",
    "first_seen": "2026-07-15T09:19:11.371834+00:00",
-   "updated": "2026-07-15T15:44:56.887950+00:00"
+   "updated": "2026-07-15T17:34:10.376293+00:00"
   },
   {
    "id": "4dad88dfb4af",
@@ -269,11 +277,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckVGQzFGNkkwQWhJOTFCSXp1Y2p6LXVYcnFCUFhPbnJxU2ZMSGd1M0hMVHRPNmRiNWY5RzV2QVV6bDdMUzA1bkNUWTVONVNsZWNvcEVFeXRuZ1dMVnlqQ1dXYWxjbmN5NjByLWZzZGlhdEUzUmFHYm9wMTF0eEJZcHpFYWJSUzBjcWxmS2dR0gGTAUFVX3lxTE82bWRlWlAzcEZ6YWtSeUVXSk1nbGxDOUFCa0I2R2d2LUVqa3B1Q3UxRVhIUlhrUEl2VnFIVnQyR0k3MldMZ3RKbVhDdkxZd0dzY0VuQU1DcWd6dDN2UVprZlJscDBKSjJqVHRWX3dQcWhocVRVRm1OeWJRekVhSXlsa1lFMHowNWM0RjkwZ0ExdjFJOA?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-15T00:01:27.827056+00:00"
+   "updated": "2026-07-15T17:34:10.376293+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -1666,11 +1678,23 @@
     {
      "name": "WTOP",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2V2Qm82bnVFVXNNcENSaUZFdk55Y1FoV1REa0pPaUl5VWdIQVpmOURMa2FqVGk1NGs0OGdFMTlHM2VYZ3h6R3ljX2ZIR2R4UU4tV0txZEZDczZlUHRNTmRJOHVNWjJXMG5jcS1yNGhQMFdHMVBlTjljLW1hVmVKdkVJUWhoNllHbC1yNXFQM3FVR1hqdlNlWnVrME4wT3l0a2JRTGpxbnAyNXlaVjlrUlBVQVk3R2JxaHZB?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnRjX1M4bVl1U0ZKcWxhTVoyVUxJVjFLblNSWFU1SUdSa3hZM25QcGRVaG4ycXZCaEpmQlZ4OVktd2w5X0w4aFliUDZua2oxellUcVRvMkZ0elYzNXlUQkp6UWFPczVkSUt5T29rd2dYVjgtQ3Z5THozeHVIbmJGZEk2MTJhcTdmbFJRWl91NmxtcUhpc0dKbHVKUQ?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEQzemhuNXVacmFGTHd0UEgydTl4cG5vNHRRUmxNbC0zc1BZeGZnWnQ4SU1wWkVnbEpvZFhfcTJCazhaRHBxblRUYmFqblo4bzN5dkR5X0QzNkhDbDRERUQzVkZ6d3B6cjBEVHlaR1Z3MGhSNjhnNjh3aUJBUTd4WDVBTTYwcDVVYUlNbXp5Y0UzbnJ6V0pGT1lQODhRaGE4X3JQVExxeWdId2h5YnBHMWRSc0VZY1I5X1FXNGtPQzkzX1QtV2c?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXJlVHg1SWpoa01IMlFWWG5ELUdCVW9BNkhvTU9wdTB6emtEZ1d3TXE4MXFJNUEyWGVoWnd3eWp3cHVIVFJsajE2Y180Q0JqdnF6N1dhWkM3RzJmVWU1WjZYeG01NXlhT1lrcGFXQUFsOUh6UFF4YThfd0JBZjNGQm5JSWV3Y1pLdDVjelhMQTJoVmNyWTNhRHhFQ1dud1d0b0tmb2lhU1pic29lRlAxYzFTZXBUNnFtRWdJ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-15T15:44:56.887950+00:00"
+   "updated": "2026-07-15T17:34:10.376293+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3074,11 +3098,15 @@
     {
      "name": "Bettors Insider",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEJ1cXRPdWhGcnU5TS1qUzNwWVhQOW0xTjlPRTdFZFRIdEpEVkc2blBWcHhnSFBXb085LU9VTFQxOUpRRzVrS2t5YmI4TDVoZjYydWEwdnpPa196ZkhhcVZma2JUTDFNZGxQYXA2UTZ2TlNIcmlZM3FxbjVuaERETS10UzJPSWl6QmExa1F3NDlDN01hemp1cGpxeHZmMlpjOUZBcXBUZ004UkpQdG93alA0N0hIZWtNbi1kM3BMU2NIdXloZkZPd29DOV9NZHRQR0VBUDVFSzNXWkRo?oc=5"
+    },
+    {
+     "name": "egr.global",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTNTMENHUXhxT3l1NUlHSDlrclJuZmYtMlhDRkRSellXVDN4RVNMS08xd0hjaEFNeTc3Q3VFaHlEVHdlVzhvY25GdWQyWFpzRGt2OFI1VS1YbFdqQ2FVb2RINWNjYzY3ci02ODhwOWZtdTU1QkhXZENYbTlBWEFKdkdsTENxTnYyMWhkT3lzTXRyc1J3dFd5WFFLREhEaWVscjZWZHNnakZfb1lmak1zLVJPYw?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-07-13T19:43:07.967263+00:00"
+   "updated": "2026-07-15T17:34:10.376293+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -3999,11 +4027,15 @@
     {
      "name": "FX News Group",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2ZORFlMd184VFF3cGFQYzIxX2VpNTdrdTJINlV1YlRfQ1dvZERIYVppa1RrVmYzclZjNGxBV0s4UU1aeGZHQ1FpMll2SVhfZVZSQ1VyMmY4NmNsdy11OTROdllUUGl4YmdqNVpuWEFSSnZpbnJyQ3Z4cnNNV3BXMF8zaHFYaGNmREc5ODFMQTlIOHFSbUJUOGVBbzdrczZxM2ZIZm1YUEthTkxRc1g4YlRDUFQ1QXQzS1FQOHZpZmRuUHlwVTBMWWNiNEtqLV83Z29oVTd6cWxaWlI1?oc=5"
+    },
+    {
+     "name": "FishDuck",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGNXMXp2RlpIdTUyRVFhR3piLXhiNDFSVFB5Mm5wVHlHdV9CWHlJYmJQcjhtNHFRbHFyMmJZRi1wYVRKcjhPbmpBeVZMdWhORGs3OVlOcVlNTkd6UGd2ZVoyb2tESGRRaWlzaXhYNUV0dGRVdkZtUmhGQTdWSVpUTG1XeGdlWFQtSi1YRkdwZWFhTmNjdnhEeFg3cERSN0F1UDcybjFGdGlLOG83ZDJj?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-07-14T20:20:04.295469+00:00"
+   "updated": "2026-07-15T17:34:10.376293+00:00"
   },
   {
    "id": "1d484074c246",
