@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T00:01:27.827056+00:00",
+ "generated": "2026-07-15T03:25:57.806009+00:00",
  "stories": [
   {
    "id": "3bf045bf3fe1",
@@ -100,10 +100,46 @@
     {
      "name": "CoinDesk",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUVQYnVBTktZUzNfdVpjZXIzT3RDSGVFa0VTT3RaaDZ2SHpRTEdDX2Vfb3dJdjg0SE5ySzFuTnlYcWpFUDFoY3NlNm1DRjJvVndWTVpXZi1DWTdGSWFiQXNoVXlFbkROV3lrYTVvOFZ2V2V6d0hOelJacGNWeXAzNWVFaEp1bzR3WjZ6NjNJNWxWT0tr?oc=5"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC0wbkhTd2FFVVV1QUQ2TGFGU3llR2ZlNHhKLWgzWTNSandaNm9JNUVyenB4elZCc2M5TW5ZNVd2MVo1NFQ4cklxZ01STnEtY1Ywblh6bnpHaGlyaDdfaGdhZGxuc0tFMnNFRVRhNFA0VU1WcXE0ODhSSXFoSDg0cElfZDJfQ0JYUDZuS3hvanVZb3d6WHNyQ2Zlaw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
-   "first_seen": "2026-07-14T22:08:39.383910+00:00"
+   "first_seen": "2026-07-14T22:08:39.383910+00:00",
+   "updated": "2026-07-15T03:25:57.806009+00:00"
+  },
+  {
+   "id": "3ca8d01946ef",
+   "slug": "polymarket-signs-crypto-partnership-ahead-of-world-cup-semifinals",
+   "headline": "Polymarket Signs Crypto Partnership Ahead of World Cup Semifinals",
+   "lede": "Polymarket announced a partnership with an unnamed crypto firm timed to the FIFA World Cup semifinals, while simultaneously running a $50 promotional offer for new users via code \"OREGON\".",
+   "body": [
+    "Polymarket is leveraging the high-traffic World Cup semifinal window to expand its brand footprint, partnering with a crypto firm according to Bloomberg.com, though specific financial terms of the deal were not disclosed in available coverage. The timing signals an intentional push to capture sports-driven prediction-market volume during one of the calendar's most-watched events.",
+    "Separately, OregonLive.com reported that Polymarket updated its $50 promo code \"OREGON\" to cover both World Cup semifinal markets and MLB All-Star Game contracts. Promotional codes tied to specific sporting events are a relatively new customer-acquisition tactic for the platform, suggesting Polymarket is competing aggressively for bettors already familiar with sports wagering.",
+    "The dual announcements \u2014 a crypto-sector partnership and a direct-to-consumer promo code \u2014 reflect Polymarket's broader strategy of growing liquidity and user base simultaneously. Prediction-market platforms depend heavily on market depth, and major sporting events historically produce sharp spikes in contract volume that can attract longer-term active traders."
+   ],
+   "why": "A crypto-firm partnership could bring institutional liquidity or on-ramp infrastructure to Polymarket at a moment when sports-event contracts are its highest-visibility product. Traders should watch whether the partnership translates into tighter spreads or new contract categories in the weeks following the tournament. Regulators tracking event-contract marketing \u2014 particularly the Oregon-branded promo \u2014 may scrutinize whether such geo-coded promotions imply jurisdictional targeting.",
+   "category": "Deals",
+   "entities": [
+    "Polymarket",
+    "FIFA World Cup",
+    "MLB All-Star Game"
+   ],
+   "primary_source": {
+    "name": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTZtc1dNYWdwUjVITUFqeGU0aEFQZWpFMjlWYjFhNnA0X2VZdlM0ZE5HOGZJdHN3OV9sMWJUM3lITFotZFNMZWE5UkIteFV0YTV1eUhnWkRoMklCcXNrSnVLSm5OWlhwcVB3ZVp1Qkg2bTh1MHhWWkFzMlRYR1RxNkhSdTEzaFNpbTExR05ScFZZamRiSDNnZkZEMEo5ckJIcW9EaWZ2YjN2N245V3pZa0NsRzM1dw?oc=5"
+   },
+   "source_title": "Polymarket Partners With Crypto Firm During World Cup Semifinals",
+   "also": [
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0I3QVVTYUhsTXAtSEFHbGJkSmZTbFRUbVcwT0NSS2tVd214dHVEb0F4SXplZ2ZScjh3a096MVBaVHdlZDd4Sjk2TFJvOUV3bjlIcFFnZXBEQUd2X0d1M2JtaGc4WGxFX0wxZzZlZnJPZkpPVVdLRXJHWnJqUGJGZVVBR1h4N0JWaWZRbE1Ycng4VUR2bEVnSm9JZmt3VEp1bWo5SkFIZ3dpNnNMT1pIbkVrN0NwMXRnWmc1b1hHR3puUzVsQjVKeA?oc=5"
+    }
+   ],
+   "published": "2026-07-14T10:00:00+00:00",
+   "first_seen": "2026-07-15T03:25:57.806009+00:00"
   },
   {
    "id": "fa50456e8b3d",
@@ -700,11 +736,15 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUZMUWw2eGExSGxpOVBGcVJFc3JKcm1mM3lrZ1ZJSktIN0swQjVDX01fR3BvUTJnZ29JbnVhTWNtQlpEUzU4WWE4aDdVRDZLa0Uwa3NHeEk1VEs4R3FENWZTSXhieXNJWjA1VFA2ZFptZHR0TEJNVWNGM2J2aEU1al8zOG1aQjU5NlVHSTZlVl9SdFQ2NnRoWDlxT1MzcUpMOHVKMTBOYUQtUVVmZG1KWkN2MXlTeDZHaWc3enIwblQ?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU1jbEprYk9UNHlaUlJoOUtqWjRGVTJBandJMUtHRnh0MGxaU0lIMUdEZm9TMUdTTm1fX05PR3Rva0xxT1VXbWFDUGlwUXppbmowclE3WngtN205Zjh5R19HTFZXV080ZEVrQ0lZODJYdmIzMXlGOG9ENXl5cnl5SHBDaGRFWlFHTXRVR1ZxS01LOUppNEN0ZE5sVkx2VVZ4TDhaeDEyT0llOWNYLWpFU0Z3RXgySnFoUHdzeg?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-07-15T00:01:27.827056+00:00"
+   "updated": "2026-07-15T03:25:57.806009+00:00"
   },
   {
    "id": "aa57d70d1811",
@@ -1350,11 +1390,15 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFFhZDZ4aTlwemFTZmFSRFY3Qlc2d3FhQ2FQM2QzcExrRzQtYUhCb2R1aHV5QWFlcWRqY1F2ekczS3pONV9uRERUc1FvWF9XRHhxa0d3UjBlb1ZVRkpBaExqaXhaaF9MV3JTREdIcTdFSHBUdVFkZExmS2pFb28wa1MyY3VkWXNTMi1NUWNEeFhRRUxNSFlscmhPekJtX3pIUFdYeTNmTEhDTkNSekFKZ2w3MjM1TWNN?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2xSWl91dEpuWEtSRFhrZ0FnUFd1TkQ3TG1uZWRLWndVRmNvUGVFcmQ2eThNRlhtX0pETnF1U2hmbmNHZktxV29LeUdGZk5ScjM5Qk9pNGE2Q2cwUDRYZ3EzMjZTbEZydnhqcmRYSGNta256VXlKUXBOYUNnUUl1N1pDTWViMzg?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-14T22:08:39.383910+00:00"
+   "updated": "2026-07-15T03:25:57.806009+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4174,36 +4218,6 @@
    "source_title": "Spotify deletes 500K streams of popular song for suspected Kalshi, Polymarket user manipulation",
    "also": [],
    "published": "2026-07-03T19:10:12+00:00",
-   "first_seen": "2026-07-06T20:48:28.064595+00:00"
-  },
-  {
-   "id": "512de087102b",
-   "headline": "Unusual Polymarket Bets Spark Speculation on Putin Political Future",
-   "lede": "Large, lopsided wagers on a Polymarket contract about Vladimir Putin's hold on power have raised eyebrows among traders and political observers alike.",
-   "body": [
-    "According to Futurism, a pattern of unusually timed or sized bets on Polymarket concerning Putin's political fate has prompted speculation that someone with insider knowledge may be trading on the outcome. The activity caught attention because the positions appeared to diverge sharply from the prevailing market consensus.",
-    "Prediction markets like Polymarket allow anyone globally to stake cryptocurrency on real-world outcomes, meaning trades are pseudonymous and difficult to trace. When large, directional bets move a contract's implied probability significantly, it naturally invites questions about whether the traders possess non-public information \u2014 a dynamic that has surfaced repeatedly on the platform around geopolitical events.",
-    "The episode echoes past controversies on Polymarket, including scrutiny over trading patterns ahead of U.S. election results. Because these platforms operate outside traditional securities frameworks, there is no formal insider-trading prohibition, but such incidents intensify regulatory debate about whether event contracts on political outcomes warrant stricter oversight."
-   ],
-   "why": "For active traders, anomalous positioning on geopolitical contracts can serve as a signal worth monitoring, though it also raises the risk of being on the wrong side of a manipulation attempt. For regulators and CFTC watchers, incidents like this add ammunition to arguments that political event contracts need transparency rules akin to financial markets. Platform operators face reputational pressure to address how pseudonymous large traders can distort price discovery.",
-   "category": "Trading",
-   "entities": [
-    "Polymarket",
-    "Vladimir Putin",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "Futurism",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZUxqaDZhQ2dfY2pvTW1ONk9yMkVNckpXM3hOTU5RbkJIWnU4M2pRZXBNTjZHVGFFUEdpc3lYcVBpeGRzcFpLU2NDNGl6TEc0SXlFeXljNVlWNzZ4cWxrcU94d3pkWnJHbXVUZ3d2aFU?oc=5"
-   },
-   "source_title": "Does Someone on Polymarket Know That Putin Is Going Down?",
-   "also": [
-    {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHU3cWV4Q0M2ejlxcjBlbmktcXZ4WWxYdk1zYW5PZVMzUFRNOWJGemZXX3pPYXR0dDRnd2lKTWxQZUZkZUJjU3NfWGRZd0pUZ3o0RGd1TnlZMzF6UldzWjBrLU0zckJWV0lkUTd5Wnk4Vm55WDNzUDU2YjFEbjUwVG15X05zbzYxeDJvNGZWVVdmbzk0Nm1yTnJn?oc=5"
-    }
-   ],
-   "published": "2026-07-03T17:01:00+00:00",
    "first_seen": "2026-07-06T20:48:28.064595+00:00"
   }
  ]
