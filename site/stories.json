@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T14:04:11.714106+00:00",
+ "generated": "2026-07-15T15:44:56.887950+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -164,11 +164,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjZuSFhOTW9RNGxVZlRBeWkwLUJYUmRRYi0tSE1rYUtqYmxySWo5U2VNU242WHdnNzZjMHJYc1FKTDc1YmZ0dzNfTk94VkEzYlgwdnFxTEpfd20yQW8zWmxya0xZWEpySkp6VEpLTTZ1OENfc1dzam5GU21QMExuRDBQV2dweFBWQ0RxX2tKZHZ4aVFlbTVBWDVrNkpfcmtqbGVQa0xtaWkzZVpC?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWVEMktEbDd5c2EzdzlfSW5NWkpTelRCUXd3YmdKMGdwNWp0ZmFHQ00yLTl6dFZGYV9rRHlfUjE2Nkw2WkoxWjNPMUMyY2pXRDNsU2U3bXlvcGRPcjhLUldGN29UOEhmSTBPM215SDVXbDlCRWFFTDhpUktIWE9GSmptcGdVdEhCaDVJVEp6UDBWdWMxWEdMWXlFVjM3S3VxMC1MWkRJQkZDSHJXQTVXZmtCb3FRam1TNGtoVQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:45:00+00:00",
    "first_seen": "2026-07-15T09:19:11.371834+00:00",
-   "updated": "2026-07-15T14:04:11.714106+00:00"
+   "updated": "2026-07-15T15:44:56.887950+00:00"
   },
   {
    "id": "4dad88dfb4af",
@@ -1642,11 +1646,31 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE9ac2RJV0taWTZYWC10SDRnY3NHTkFqQWRVVXJqaExvb0ZCX09HcUtpTjh6SkdkQWNEclpGVXdqaWNMZjZDOHQyMnZVVGlzc3o1WWRwdW54QUxhNXROYW9EcTN2aENhQjAzLWdscVhxXzdYSV9MclhqeHBoelhfa2tFYzhGY2FvTXBtVmQtY05vbU1OR0JZZGpSTG56QlpUNG9lRXA3bk44QS1SR3F0TGhQdw?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1ZIcVdOcDRmUDM1LWZzbzR4aFp3bVM5endiUXo1bjItQzdWQUt4anRCRzVaM3MtRThreWVYNzQwRlQzMkxHRnd6MjdIcmQwTnpfVU5BTlJaWnQzUm9ZS2pDejU1QkE5Zk5mSG1zbkszeUlUOGJnSHFfTy1aYi1HWlJjRUVZWEhncWFVcEdaUGRpSFZJQlhGOVJ0ZmRDeTB5RzctTlRVZEo?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT3drakJLbU1vT0VGWU5Ud0F6M3ctRHVyWTRfemxIVHlwNnJMX1h0VGNVVkdHWFlsaVNONjNYT1VUMjBmZGhNZ1FHWG44RXp2MHdKcHZ2S094Y3AyM1cwY0FMd3VxdW5ObW80OXlXdnZfWXNEejRGbGNlRVFuTE5pSFNsaF9kQWo1eGFvLUVOQkR0bTA1U0xGZGh4b3hQdTRoeWsxTEtoQXcyWnpiNGRTdm11dVlEcGZ1cmY2VFphNWY2TUxNZHlCTE84SGpKRHpZd0xTVWt3?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjRCdVl6cXBSSGNoNmlBa0pPdThXUzhRck4zYmRoaks2ZWFIWXJoSzNFRG9OOXBwVWRzZ1Nnc1M5a1ZzUWJKNjdoWmdVZkwtTGY2dXZOQzEtRXg1bmp6WjhzYXNHV0FEOXZkb2hxMFdVdUY5OTVOdWdmTDdLMmNlLTNya3pfTHc?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd19JcGtJUml3YkhkQUdXTVRDYzFDb1ZsSnhVS1NNM2I0cFQ4OTBxUnhEc0N4UjZvWWJWNUx6bVFhamx1VjVzNlJWS290aUNXVHo2YmZYUk5NR19QVVVPOTJqWW9XMk9aZk1yZTRrODhsRjBUNE9xSW83M0FPVmgxd0o4TnRLRVlPSGlTNmo4LW01UjlkZENxS2tZYXlkZjlSR2R1c0tWTklYQWF3bnJRaWlaOFR2QU8tMlViUFBNZk9MUFdSUWp1TTNwaEN1OVpl?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2V2Qm82bnVFVXNNcENSaUZFdk55Y1FoV1REa0pPaUl5VWdIQVpmOURMa2FqVGk1NGs0OGdFMTlHM2VYZ3h6R3ljX2ZIR2R4UU4tV0txZEZDczZlUHRNTmRJOHVNWjJXMG5jcS1yNGhQMFdHMVBlTjljLW1hVmVKdkVJUWhoNllHbC1yNXFQM3FVR1hqdlNlWnVrME4wT3l0a2JRTGpxbnAyNXlaVjlrUlBVQVk3R2JxaHZB?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-15T14:04:11.714106+00:00"
+   "updated": "2026-07-15T15:44:56.887950+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3843,11 +3867,15 @@
     {
      "name": "Sportsbook Wire",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEJXNm9IV0taeE1qMUJCMVctM0hPcGVfOWFmMDdfdXNmdVhDNkVaVWZwUE0zVnROLV9VRUNVaG1FOFRrS2Z3Z1VWMEs1SzNUeTlKVXRzSi1pYVllV19Zd09YWll1SHNtVUZpZnpMN3lGcURmMGhXYUFUdEJFMFd6UDBoOVRJOV9md3pLdWpTWHZoZVhvNDRtWHhIa0t0bmZLUzVYLUpjMFBlSkVwZUdhbnFn?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZDc3WFhZNEdJWG5La3p2eFRzU0xCNjRYamRwdDhYT25qSnlfdDlMNWVLRTA2MjJzVWRvWXRXLWUwV0gyWWpMaWpGMTZFVDZkYzJ1SVkweGczYXgwbWZIaExNZmtqWE85ZnlVTQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-15T14:04:11.714106+00:00"
+   "updated": "2026-07-15T15:44:56.887950+00:00"
   },
   {
    "id": "3b83809e121a",
