@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T17:34:10.376293+00:00",
+ "generated": "2026-07-15T19:32:44.050050+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1690,11 +1690,27 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXJlVHg1SWpoa01IMlFWWG5ELUdCVW9BNkhvTU9wdTB6emtEZ1d3TXE4MXFJNUEyWGVoWnd3eWp3cHVIVFJsajE2Y180Q0JqdnF6N1dhWkM3RzJmVWU1WjZYeG01NXlhT1lrcGFXQUFsOUh6UFF4YThfd0JBZjNGQm5JSWV3Y1pLdDVjelhMQTJoVmNyWTNhRHhFQ1dud1d0b0tmb2lhU1pic29lRlAxYzFTZXBUNnFtRWdJ?oc=5"
+    },
+    {
+     "name": "Mile High Sports",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVndsQXNNTDFSdXdKR3VEckxNVExMMGE4ZlUzazRSdmRLWFg3cnM2Q1ZFZlJjNWZaNFB1ZkVQbGlETlFaalNmMkpCOEk4eWtoUFFvNnR4Z1owdTZXdUdDTU5oUVltcDJCNENDVFZacDBHNU1xdmp4cmNKT0xuQm9scW5PNmowVm1ud1HSAY8BQVVfeXFMTjRhbWhIcGQtV0IxQVJYbUxNaHJCY0NlZGlRX3VGbWRNNW5hemlveThYZW1tTWJIQXQxcnZVQ08zTS1PT2E5MlJVN1prcmFoWE00N2RmZ2hRQUpTSEJkVXROdlNDZE5FTDR6ZzdyYTFfQnAtaXh5bV9GM1ViMFZnQjZlNHJrdGdhdFhtN2ViTjA?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWxiVnh4SnRGQWZTNDI3bUtnUDl0NFFGODJVVjVHMTNKQVBmY3BYY2hUaGh4aWZGVG9fTDM5Ynh0RExTOHF4XzhmN2pyWkNIWHdQM0ZJTkE1RzRtTzUxNEhYZnlNaTB3QUJoR2wxSVUxRVdNdUtvcFBVOTRxNmJUeURmYldnb0Z3TW96SExfYmJVdWd3aWYzVUw0dFVFWjJPZlZBbEk3RDF1RkNxR0ZPb0ticW5vV1VKQzNQNXNHa18tTVYySWY3Y3ZnUHQycEE5ZG9zODJ3?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkxFd3IxeWtqQWRRazZfOVJmYUg5cnpndFlaSmsxUUhjcTM1c19fUnNIb0xlWnMtVU5jUWpKS184SDlJTThWY3V5aXloSmFUOEtKVGptSjVGUU9qNmhlMVVjdEdFenFvMU5mNURlRF9YY2Z0STV2TFpjdUNfeVZ1WV9RWXptTm96WnB6SEJodE51RGlYNHdWZkRIYTMwVGpkeW9LTW1CY2s4M0Nq?oc=5"
+    },
+    {
+     "name": "Russell Street Report",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczhMUktOYXhGbFVFSllkM21qX1pkVkJERkw3QVlta29iUW9vQkNaYXI0TERlNHE3QTM5bzlOVGpSR29RUmpfN1FRRzhQNm5QVGRqUGk2SGVGWUhYcndMdTg5N3RKa2F6ZU9WcXlrTWtZbGlZYXNWTm5UbXlCS2dRcXgtNVAwZ0lOVHB2LVNJQXRlLUh3NHdoeGE0bndFTHptVTRORGVJUUI1QTVLc1A0NUh4OXJxalh3MDkzbjk5cEtLcmN0RFFieHRSWUJ6cGR4ZEY1TXhB?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-15T17:34:10.376293+00:00"
+   "updated": "2026-07-15T19:32:44.050050+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3899,11 +3915,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZDc3WFhZNEdJWG5La3p2eFRzU0xCNjRYamRwdDhYT25qSnlfdDlMNWVLRTA2MjJzVWRvWXRXLWUwV0gyWWpMaWpGMTZFVDZkYzJ1SVkweGczYXgwbWZIaExNZmtqWE85ZnlVTQ?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDlja2ZHelQzY2RlQnhwM2xNVmNueGVSUXl3S2VBU09aM09BbTBOeWNTRzJueWw0UEM0RGNqcEZCMjNSZmxOYnotdHliR2h3TElLNDg5azhPNGVPWHRGSlNzYWpIQ1otUWZwWDR2YzNqRTNGSjM5eDUzb2Y0QjhnV1N6U1IxZVBkM3d2NFNXaGNmdTBWdmkxUmpNTVNrWkVLQlhZ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-15T15:44:56.887950+00:00"
+   "updated": "2026-07-15T19:32:44.050050+00:00"
   },
   {
    "id": "3b83809e121a",
