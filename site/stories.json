@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T22:08:39.383910+00:00",
+ "generated": "2026-07-15T00:01:27.827056+00:00",
  "stories": [
   {
    "id": "3bf045bf3fe1",
@@ -59,10 +59,15 @@
     {
      "name": "Crypto Briefing",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWhQbDZwVGJrdVpfM2U2cEdYdXFSX2tPU0hKMlpOMXZzTHh2b19QN21CNWZPOHpSejFBUUxhanZnelpvelg3N2owakRodHVZQjZFQWlneFJoS3FwdW9sQTN3LUdJbzNIeGxLb2t3WDlFYVV4RHRta09zSXY3c0Jtc1puMmlpTDZhTEZKVw?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
-   "first_seen": "2026-07-14T22:08:39.383910+00:00"
+   "first_seen": "2026-07-14T22:08:39.383910+00:00",
+   "updated": "2026-07-15T00:01:27.827056+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -415,9 +420,15 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEblNXVDBJbVBwcTNqME9WeTJlV1RucEg3dE9UMV84TFNLc1F2ZDF4X0tUdUt6XzN1aGdheERkRjNEVmlwNDZXVWVSLWRZUWNYVEx2OWN3TXg2em9YS2F3QVJQMzRKTnZENDRIQ013aENodWd6RnBr?oc=5"
    },
    "source_title": "Kalshi is launching a pro trading terminal for its most active prediction market traders",
-   "also": [],
+   "also": [
+    {
+     "name": "Forex Factory",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWZOcDFkUFNVLWE4aVdMOEFJR01TMFNBd0xadExzRmxGSldwWW5hWkszblBlbGtRQVROYWJ5SzU5eHVCcVRhSERRTlBOZDg2alh0RElYaGVvNXJoUHdMbFNpR1JsbW4zb2lrTk1GVjZ4SjFXX3RuUDQ0a0NZdnpELVltSGdTZWU4dEpVMDlPRjI5YngyY0k1WkdhLVlnNTdmZXFKaEJZemJGOERl0gGyAUFVX3lxTE90dHVHUHpCTlNEZGNjQThYa1IxLUxsTS1ELWk2NGFJUzF6QTZick44TUdGQk9qOWFuZnNkbW1DWEQ4NjJjLWxNNU93M0hWWlFxc3hQaHZSdTJ0WTV1dDlfQTZIMnNyRVRRd3lwVWR4NWMyQ1c4NVRveUIzYTBJclFwbmdFYS16S2FOcWNtRkNLSkhzTndvV1NuclNIeHlnc2EydDJXeUVYZXhpRXRFcU9ETHc?oc=5"
+    }
+   ],
    "published": "2026-07-13T12:51:27+00:00",
-   "first_seen": "2026-07-14T06:21:05.307414+00:00"
+   "first_seen": "2026-07-14T06:21:05.307414+00:00",
+   "updated": "2026-07-15T00:01:27.827056+00:00"
   },
   {
    "id": "c52d38128602",
@@ -685,11 +696,15 @@
     {
      "name": "Syracuse.com",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGd4Y1RpZVJCc1lLWFJKZk84Y19nRnR0WHgyMkF4aUs4RXFXSjNpWkU3MnVjY1pERF96aEdOWGIyVFZhZ1J3NkYtclNYY2Utb1hIYzJFTEI5N2FwUm4wMnZGTzZBTjY3RmRUaklpR25TSDBZSnhycm5wOGR1U3J1bXhyN1ZRbGotZHdrLU9KRDB1dnVvZnhZSWNFWm1EZGh3Ti1DQkw5ZDZNSXRzWnktcEhpZklFTkdpMXZpMlB3?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUZMUWw2eGExSGxpOVBGcVJFc3JKcm1mM3lrZ1ZJSktIN0swQjVDX01fR3BvUTJnZ29JbnVhTWNtQlpEUzU4WWE4aDdVRDZLa0Uwa3NHeEk1VEs4R3FENWZTSXhieXNJWjA1VFA2ZFptZHR0TEJNVWNGM2J2aEU1al8zOG1aQjU5NlVHSTZlVl9SdFQ2NnRoWDlxT1MzcUpMOHVKMTBOYUQtUVVmZG1KWkN2MXlTeDZHaWc3enIwblQ?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-07-14T03:28:19.037051+00:00"
+   "updated": "2026-07-15T00:01:27.827056+00:00"
   },
   {
    "id": "aa57d70d1811",
