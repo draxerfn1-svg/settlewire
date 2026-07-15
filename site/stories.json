@@ -1,6 +1,85 @@
 {
- "generated": "2026-07-15T09:19:11.371834+00:00",
+ "generated": "2026-07-15T11:44:16.723906+00:00",
  "stories": [
+  {
+   "id": "51868f9a1ed9",
+   "slug": "kalshi-launches-ai-compute-forward-curves-targeting-tech-economy-traders",
+   "headline": "Kalshi launches AI compute forward curves, targeting tech economy traders",
+   "lede": "Kalshi announced the launch of Compute Forward Curves on its exchange, creating the first regulated event-contract market tied to AI infrastructure pricing and future compute costs.",
+   "body": [
+    "Kalshi, the CFTC-regulated prediction market exchange, introduced Compute Forward Curves \u2014 a new class of contracts allowing traders to take positions on the future cost of AI compute resources. The product positions Kalshi explicitly as 'the exchange for the AI economy,' according to the Business Wire announcement, marking a significant product expansion beyond political and macro event contracts.",
+    "Forward curves are standard instruments in commodity markets \u2014 oil, natural gas, electricity \u2014 letting participants hedge or speculate on future prices across delivery dates. By applying that structure to AI compute, Kalshi is essentially treating GPU time and cloud inference capacity as a tradeable commodity with a term structure, a framing that has no direct precedent on a CFTC-regulated venue.",
+    "The move comes as AI infrastructure spending has become one of the most closely watched variables in global tech markets, with hyperscalers committing hundreds of billions in capex. Kalshi's contracts would let traders express views on whether compute costs rise or fall over specific time horizons, adding a new dimension to event-contract utility beyond binary political outcomes."
+   ],
+   "why": "Compute Forward Curves could attract an entirely new class of institutional users \u2014 AI firms, cloud brokers, and tech hedge funds \u2014 who have no current regulated venue to hedge infrastructure cost exposure. If CFTC implicitly accepts these contracts without challenge, it sets a precedent that dramatically expands the definition of a permissible event contract. Prediction-market operators watching Kalshi's regulatory runway should treat this launch as a stress test of how broadly the CFTC will interpret its event-contract authority.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Compute Forward Curves"
+   ],
+   "primary_source": {
+    "name": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmNiQ0hTWldsTXQtY1VfdWUzQVphUUhUQkZlQlB6elEwVEVNWm12QzJidVlvaUhIOUVDYmpBZUxoT1RRY0trRE5PVGZod3dJV3pXM1FZbWtkSkxzNzFKak5qcGYwNmNUUHVNSUFyZ2V5QWc2bU1nOWEtLUpMVm4wWUp3bzVGTlZkSzBhT09lS2lUU1dpTUZhdWZoNGxWc3BPV0dPMG4zYXotYlFVcXFhYlo5VXdWbWhRSmVQRUpMOVJ3NUlrdGRXZ0VhREVjQ01LZ2ZR?oc=5"
+   },
+   "source_title": "Kalshi Announces Compute Forward Curves, Becoming the Exchange for the AI Economy",
+   "also": [],
+   "published": "2026-07-14T15:00:00+00:00",
+   "first_seen": "2026-07-15T11:44:16.723906+00:00"
+  },
+  {
+   "id": "e992b2fe9804",
+   "slug": "kalshi-develops-event-contracts-tied-to-ai-computing-power-markets",
+   "headline": "Kalshi develops event contracts tied to AI computing power markets",
+   "lede": "Kalshi is expanding its prediction-market offerings to include contracts linked to AI computing power, ramping up efforts to build a new asset class around GPU and cloud capacity pricing.",
+   "body": [
+    "Kalshi, the CFTC-regulated prediction market exchange, is pushing into artificial intelligence infrastructure by developing markets tied to AI computing power, according to Bloomberg.com. The move represents a significant product expansion beyond the political and economic event contracts that originally defined the platform.",
+    "AI computing capacity \u2014 particularly GPU time sold through cloud providers \u2014 has become a volatile, high-demand commodity as model training costs surge. By structuring event contracts around pricing benchmarks or availability thresholds for this compute, Kalshi would give traders a regulated venue to express directional views on the AI infrastructure economy, Bloomberg.com reported.",
+    "The timing aligns with broader Wall Street interest in AI infrastructure as an investable theme. Kalshi's regulated status under the CFTC gives it a structural advantage over unregulated venues in offering institutional-grade contracts, potentially attracting hedgers such as AI startups and cloud buyers alongside speculative traders."
+   ],
+   "why": "A liquid compute-power prediction market could become a genuine price-discovery tool for AI infrastructure costs, creating second-order demand from enterprises seeking to hedge GPU procurement expenses. For prediction-market traders, new non-political contract categories reduce correlated risk across a portfolio. Regulators will be watching closely to see whether CFTC event-contract rules stretch cleanly to commodity-adjacent AI benchmarks without requiring new rulemaking.",
+   "category": "Trading",
+   "entities": [
+    "Kalshi",
+    "CFTC",
+    "Bloomberg.com"
+   ],
+   "primary_source": {
+    "name": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenNlNlI5MzVNYll6RUhadmRIMXA0aWVleS1vWGhLMVBVQ3RmbFVXdDFQRV94dmVtcEJ5VmdpOW1ab2JBbl8xZVktcFZWNE9UYU5tVTBrU2RsMGtOQkk5Y0tWX3Q2VXpTekJvd21UU2NCSTVQOERlYW1IekVKSG9RNlExWE5lc2tGVTNkRk5tU3lHUXVGdUw0RzJ2SndoUV9iSkVNM2NnSWI3RnVKajVXVXgwRQ?oc=5"
+   },
+   "source_title": "Kalshi Ramps Up Effort to Build Markets for AI Computing Power",
+   "also": [],
+   "published": "2026-07-14T14:01:09+00:00",
+   "first_seen": "2026-07-15T11:44:16.723906+00:00"
+  },
+  {
+   "id": "92743912c278",
+   "slug": "house-agriculture-committee-examines-consumer-protections-in-sports-prediction-m",
+   "headline": "House Agriculture Committee examines consumer protections in sports prediction markets",
+   "lede": "The House Committee on Agriculture convened a formal hearing to scrutinize customer safeguards and market integrity standards specifically within sports event prediction markets, marking Congress's most direct legislative focus yet on the sector.",
+   "body": [
+    "The House Committee on Agriculture, which holds jurisdiction over the Commodity Futures Trading Commission, held a dedicated hearing titled 'Examining Customer Protections and Market Integrity in Sports Event Prediction Markets.' The session signals growing congressional attention toward platforms like Kalshi and Polymarket that have expanded into sports event contracts following regulatory and legal battles with the CFTC.",
+    "The hearing arrives as the prediction markets industry has seen rapid growth in sports-linked event contracts. Kalshi won a landmark federal court ruling in 2024 allowing it to list election contracts, and subsequently moved aggressively into sports markets. Competitors including Polymarket and ForecastEx have similarly expanded their event-contract offerings, drawing scrutiny from both regulators and now lawmakers over how customer funds and market data are handled.",
+    "The Agriculture Committee oversees the CFTC, the primary federal regulator for designated contract markets that list event contracts. A congressional hearing of this nature can precede formal legislation, oversight letters to the CFTC, or requests for rulemaking \u2014 each of which could materially reshape compliance obligations for operators currently listing sports-related event contracts."
+   ],
+   "why": "A formal House committee hearing on sports prediction market integrity is the clearest signal yet that Congress may legislate or pressure the CFTC to tighten rules, creating regulatory-uncertainty risk that traders should price into platform-specific positions. Operators currently listing sports event contracts face potential new customer-protection mandates \u2014 margin requirements, disclosure rules, or outright contract restrictions \u2014 that could compress liquidity. Prediction-market traders should watch for committee testimony transcripts and any draft legislative language as leading indicators of the regulatory direction.",
+   "category": "Legal",
+   "entities": [
+    "Kalshi",
+    "Polymarket",
+    "CFTC",
+    "House Committee on Agriculture"
+   ],
+   "primary_source": {
+    "name": "House Committee on Agriculture (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KdDdPVXNiRWpsa2VyYTZVNHF5TFBRY2pfQ0JMaDFrMndjbW53OGlTU1QtZVNoRzZKQ1p1aG9INmxpMV83amxoaFlWcnNzMFNzY2RfMm9EbXJOV0NBODJOaE1pMGtwVU1ubzhfSUFzVnF5Y1JwVmVn?oc=5"
+   },
+   "source_title": "Examining Customer Protections and Market Integrity in Sports Event Prediction Markets",
+   "also": [],
+   "published": "2026-07-14T13:46:05+00:00",
+   "first_seen": "2026-07-15T11:44:16.723906+00:00"
+  },
   {
    "id": "005a8d5e0c0a",
    "slug": "polymarket-50-invite-code-promotions-target-mlb-all-star-world-cup-markets",
@@ -32,10 +111,19 @@
     {
      "name": "Syracuse.com",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGhXekdrQVhCcjB6MVJKLTN0d3VrZnRqbWFIal9tb0UyWkVKYUxtbzZhNGE3QVR4U2duR0x0a2xtbURYYlZUQzBXT3VFZzZ2YmhMSUVSVlVSTUVDc21JdUNpbVppd3VyVGhtdEpiYnJ0SkhrdGJORjZiaFpHN2V3UlhYSWVOZFJxRUZjQWMwYTZxNy1rN3VfcFNtdE5nUTBXQzkxWWhqWXE0ank1YjRqZ19NUTF2eGJzOHJFZHJR?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVG94MXBhOGplWnkwU3REWm84cTUzUzhzRUwxWlZfN1JhMWVDdDhXaUZsV3ViTG9TQ09uU003a3NtYVBtUnVCLVNRNnFncFUzWXF5Q3JFWGRQbElEc1R5eFNBNFV4VndDZjNfM1RXRjNjcG00UXVQVG00MVhhTi05aFJwdVFJM2IzX1ViTFM2TXBqbWFXWHhjZkZsemJHTEtuY1NFUXFFbUJLM3QwS2tXc0F6bG1IcUdPSWN5Zg?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU1jbEprYk9UNHlaUlJoOUtqWjRGVTJBandJMUtHRnh0MGxaU0lIMUdEZm9TMUdTTm1fX05PR3Rva0xxT1VXbWFDUGlwUXppbmowclE3WngtN205Zjh5R19HTFZXV080ZEVrQ0lZODJYdmIzMXlGOG9ENXl5cnl5SHBDaGRFWlFHTXRVR1ZxS01LOUppNEN0ZE5sVkx2VVZ4TDhaeDEyT0llOWNYLWpFU0Z3RXgySnFoUHdzeg?oc=5"
     }
    ],
    "published": "2026-07-14T13:45:00+00:00",
-   "first_seen": "2026-07-15T09:19:11.371834+00:00"
+   "first_seen": "2026-07-15T09:19:11.371834+00:00",
+   "updated": "2026-07-15T11:44:16.723906+00:00"
   },
   {
    "id": "4dad88dfb4af",
@@ -173,11 +261,15 @@
     {
      "name": "Yahoo Finance UK",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC0wbkhTd2FFVVV1QUQ2TGFGU3llR2ZlNHhKLWgzWTNSandaNm9JNUVyenB4elZCc2M5TW5ZNVd2MVo1NFQ4cklxZ01STnEtY1Ywblh6bnpHaGlyaDdfaGdhZGxuc0tFMnNFRVRhNFA0VU1WcXE0ODhSSXFoSDg0cElfZDJfQ0JYUDZuS3hvanVZb3d6WHNyQ2Zlaw?oc=5"
+    },
+    {
+     "name": "CoinGeek",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXd5YmdTaEFWX3Fyb0YwV0tTVUllZHhkWGdJQjlRUDVhMmxpS254dU5ISmgxOENSYlNYeUd6VEVpbGJ2QWlIUWtJMHo4Sk8wcXdSWllYR2I0MlpsMGViRDhQa3dyT284TklpZy00SkJJLWRDVlk3Wi1OQjZCSXpmeXkzSVZFRDFJV2JZXzBMNA?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-15T03:25:57.806009+00:00"
+   "updated": "2026-07-15T11:44:16.723906+00:00"
   },
   {
    "id": "3ca8d01946ef",
@@ -4138,90 +4230,6 @@
    "published": "2026-07-04T12:54:04+00:00",
    "first_seen": "2026-07-06T20:58:07.168716+00:00",
    "updated": "2026-07-14T14:07:59.911545+00:00"
-  },
-  {
-   "id": "54ed5d446ca6",
-   "headline": "Prediction Markets Boom Raises Questions About Regulatory Durability",
-   "lede": "A surge in prediction market activity has prompted fresh scrutiny over whether the industry's rapid growth can survive tightening regulatory pressure.",
-   "body": [
-    "According to The Times, prediction markets have experienced a dramatic expansion in volume and user participation, drawing mainstream attention to platforms that allow participants to bet on real-world outcomes ranging from elections to economic indicators. The growth has transformed what was once a niche financial curiosity into a significant and widely-discussed sector.",
-    "The Times highlights that the boom has not gone unnoticed by regulators and policymakers, who are weighing whether existing frameworks adequately govern these products. Platforms like Polymarket and Kalshi have already faced legal scrutiny from U.S. authorities, and the article suggests that increased visibility may accelerate further regulatory intervention rather than legitimize the space.",
-    "The piece frames the industry's current moment as precarious \u2014 strong user demand and forecasting utility on one side, and unresolved questions about consumer protection, market manipulation, and jurisdictional oversight on the other. How regulators, particularly the CFTC, respond in the near term could determine whether the current growth trajectory continues or stalls."
-   ],
-   "why": "For prediction-market traders and operators, regulatory risk is now the dominant variable \u2014 platforms riding high on volume could face sudden operational constraints if the CFTC moves to restrict event contracts. Operators should monitor CFTC rulemaking closely, as any new guidance could reshape product offerings overnight. Traders pricing political or macro events should also factor in the possibility that liquidity dries up if major platforms face enforcement actions.",
-   "category": "Legal",
-   "entities": [
-    "Polymarket",
-    "Kalshi",
-    "CFTC",
-    "The Times"
-   ],
-   "primary_source": {
-    "name": "The Times",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzZXNURaaXN1WFVNbVlTRlVGM0dqcGRPbFMycDR1NDU4ckttR1YteGdtd1hQYXNhREZhdEFfU183VlRWNXBucS1UdkU4SDFkZjZkUHh0MWdMZF9IZmNNWHAzbjBoZ1RscG83bmthYmxKT2lEUDl6dGdDMjc5RkpMQ3gxVEpqc1ZYZWdDY01qTG5FNm9SR0dTb0lpZEs3b2NYLWlueW5qc3RpMFVK?oc=5"
-   },
-   "source_title": "Prediction markets are booming. But is the party about to stop?",
-   "also": [],
-   "published": "2026-07-04T11:00:00+00:00",
-   "first_seen": "2026-07-06T21:36:25.744148+00:00"
-  },
-  {
-   "id": "bc87fc572e10",
-   "headline": "Michigan's Legal Fight Against Kalshi Reaches New Turning Point",
-   "lede": "Michigan's ongoing regulatory dispute with prediction-market operator Kalshi has entered a new phase, continuing a clash over whether the platform's event contracts fall under state sports-betting law.",
-   "body": [
-    "According to WZZM13.com, Michigan's legal confrontation with Kalshi has taken another significant turn, extending a dispute that centers on the state's attempt to classify Kalshi's sports-related event contracts as regulated sports betting subject to state oversight.",
-    "Kalshi, which holds federal authorization from the CFTC to offer event contracts, has argued that federal jurisdiction preempts state-level regulation \u2014 a position it has successfully advanced in other venues. Michigan regulators, however, contend that contracts tied to sports outcomes fall squarely within the state's gaming authority.",
-    "The case is part of a broader national pattern in which state gaming regulators have moved to assert authority over CFTC-regulated prediction markets, even as platforms like Kalshi and Polymarket expand their sports-event contract offerings to retail users across the country."
-   ],
-   "why": "This case is a bellwether for how aggressively states will contest CFTC preemption arguments \u2014 a legal theory that underpins Kalshi's entire state-by-state expansion strategy. A ruling against Kalshi in Michigan could embolden other states to pursue similar actions, fragmenting the market. Conversely, a federal preemption win would clear a significant legal runway for event-contract platforms nationwide.",
-   "category": "Legal",
-   "entities": [
-    "Kalshi",
-    "Michigan",
-    "CFTC",
-    "Polymarket"
-   ],
-   "primary_source": {
-    "name": "WZZM13.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlhHMTF5MFN6YnY3OXdqUWdmWnRmSXM0RVpfRW83ajVfNnlFMmlTNUFza1hmYkZ6bUNsM3NCNlZpZWJHRDBGcldYam80cjlNTWV2bnhaNTREcmJaem11TFUycWJ3X181aWJhSlNjWUVId2RGWkpaUndjeklqOVpveDRKcTk2M2dUSDBpWUNNQWo0QVozOE5Ddk1UaUpKdG9VVnJsU1VJN0NVNWJOUGNVQWtJamFEbW9DNnFaVC1Pa1VlSkxRM3IyWmNPdzRObWV6TGt0S0ZkZDBKY0xMaEE3bFFMay11U2lZYm14Y0tDU2s?oc=5"
-   },
-   "source_title": "Michigan's legal battle with sports betting platform Kalshi takes another turn",
-   "also": [],
-   "published": "2026-07-03T23:10:00+00:00",
-   "first_seen": "2026-07-06T20:58:07.168716+00:00"
-  },
-  {
-   "id": "485169454baa",
-   "slug": "eu-classifies-event-contracts-as-binary-options-triggering-strict-rules",
-   "headline": "EU Classifies Event Contracts as Binary Options, Triggering Strict Rules",
-   "lede": "European regulators have formally classified event contracts as binary options under EU law, subjecting prediction-market platforms to the bloc's strict binary-options regulatory framework.",
-   "body": [
-    "The European Union's classification of event contracts as binary options immediately brings platforms like Polymarket and Kalshi \u2014 should they operate in the EU \u2014 under MiFID II and ESMA's existing binary-options rules, which have effectively banned retail binary-options products in Europe since 2018. The designation was reported by TradingView in its weekly wrap coverage.",
-    "ESMA's 2018 binary-options retail ban was introduced after regulators identified widespread mis-selling and investor harm. By slotting event contracts into that same legal category, EU authorities are signaling that prediction-market products offering fixed yes/no payouts share enough structural similarity with traditional binary options to warrant identical oversight \u2014 a finding that could freeze expansion by US-based platforms into European markets.",
-    "The regulatory move arrives as Kalshi and Polymarket are both scaling aggressively following US legal wins. Any EU market-entry strategy must now account for either obtaining a full MiFID II license and navigating the retail ban, or restructuring contracts so they fall outside the binary-options definition \u2014 both costly paths."
-   ],
-   "why": "Prediction-market operators eyeing European expansion now face the same regulatory wall that killed retail binary-options brokers in the EU, making near-term EU launches by Kalshi or Polymarket far less likely. Traders should watch whether platforms attempt to reframe contract structures to avoid the binary-options label, as product design pivots could affect liquidity and payout mechanics. Regulation watchers should note this as a precedent that could influence how other jurisdictions \u2014 Canada, Australia, UK \u2014 choose to classify event contracts going forward.",
-   "category": "Legal",
-   "entities": [
-    "Polymarket",
-    "Kalshi",
-    "ESMA",
-    "CFTC"
-   ],
-   "primary_source": {
-    "name": "TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3poUERBT3hZemdOQ3laLVVDVWFpOTJ4d0pmNDZVN2ZoYlpqM3JFTkoxYmV0VGhGWWdWc0lnOS1GcXRVX1dhcDlTR092V1BSeUZrdDZNUHluTXdlZ3VDODJqV2RIc3R0Wm5sVmtZTTYtRjFOTE1RUlhNaGxqMERTUmVjNE1ldmctZGFnUWlwaUFpOUFmQzNJQWxBSDg2bWlYN0lhT1JjYVNNYjc0Rmh6SVhrRnRqSzA0cVZCcnd4VFJwdW1JSWdWUFk3TC12TG5fM2xQelF6XzF1QjgwdFE?oc=5"
-   },
-   "source_title": "Weekly Wrap: Event Contracts Are Binary Options in the EU; cTrader\u2019s US Prop Exit",
-   "also": [
-    {
-     "name": "TradingView",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM2ZRLXpQejR6dHptRkNHbWllUVYwUFJjYkh3M0g0XzBFR3hmUTA4c0tXcTdMWV9VRndhYTBMeXN1RDBpbHNPU1BkTWg5ZnNkYkdWTy1aLTV5MVhpaFduc1pIMHp5UjhuVjFiT0QwMFhuRF9IeEx0N29ONkVzdGh4MmU0dW5OeWk3d2FuaUI1d1NlakJzSDZ4VUJfMURiaGlORDBIVGtFX2hiOTBuTVhBbTdaSVBhVkNqRDBFWXdBQ2x5MjIyQVd2QzNpcTVjakhUQTlXZTNPaDZTVDVV?oc=5"
-    }
-   ],
-   "published": "2026-07-03T22:25:27+00:00",
-   "first_seen": "2026-07-07T12:07:28.126351+00:00"
   }
  ]
 }
