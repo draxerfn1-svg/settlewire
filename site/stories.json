@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T16:37:36.138880+00:00",
+ "generated": "2026-07-16T18:15:57.117845+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -107,11 +107,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "Legis1",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tTnVRY3Q0NXJEMHdYeUNRejNMMHJGaEY5Y2JnTUJxT08yaUcxY2NfQ01HdF8wZl9RTmdNM2Y5SWoweHdVNjVHc3RLMnJFR1FkS0VhQjBoSWxQYVBtZ0xyVmw1MUQ3SHdwaUpvd19iVHRDWnlzY1IwSGpTNUZ2Zw?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-07-15T14:04:11.714106+00:00"
+   "updated": "2026-07-16T18:15:57.117845+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1764,11 +1768,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDE1aUFYSHVHUGtfMEFMajk2TnlRelhxQVNmWExOc2RKbWlBZS05eWxuamVuTE4tQ3NremVRU0piS2tfNE1hU01mSVRzMy04TDZrdkVqOVd2VUNMRjdiMkY1SjVlYkRteUZ6MXNmcUFZSmd3MGdPTG4xcXJ2Nlo2R3NtSnJJeW9qVTBDSXdYaUVRc0NMY0tkckNuYw?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazBKX0g1VWdubXBta0RZXzljakFZYlhDSzVfWS14NjFHekVPakpYb2Vpd1ZzQ1pTN01zbXAyZVAwZWlzZDg2N2w4V3pfclQ0VXZNQnF5MmFzX25hUW9VcExwMnJua1JsQTFkZ0NJN3FqZDE4NWdOR09uRW5pZ05FVFhDWE9sWVJUaXYxeGZuUlhIRHFDVkkzZ3docDNBYnZRNV9pZjQ3amI4UkxJN3R0eVNn?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-16T16:37:36.138880+00:00"
+   "updated": "2026-07-16T18:15:57.117845+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2332,11 +2340,15 @@
     {
      "name": "AZ Family",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5CNkhScW9UblhJZEU5cTN6SlZ3cUVENmJhdHhVV0pRLUZvQXNFS1BKT1Z6clNOX2pIbzRLbm5aQWFVT0c1cUNieV96TFF2WW9vQ1dXdUF1NXNSaTNLejY4TnVMUm5ZVy15WE1FM2tYT0ZtU1N3eFYydUMtbVRZR1FkNzc4OVFzVnE5UXRJNW5pT1NHdVZkVm11WEJoV1J3dDQwRdIBuAFBVV95cUxORWZDWElwN0Frck1DbEc1VFgzVzlQVkI5UVpNQ0tRVzg5Z212OUNoWldNQjZHaHVsUGdxTERTendwNFE1ekxLenVPMWdMa0ZvZHlKbVBpTWJ6c29yTU9oWmdGbTJRM0FkcHpzRkFPZHJha0g0YWZWTEE4XzRraGJucHBRbW5XSXk4cUFSc2E1OTF3N1BMRkxPakVseF9kMWNSUW9qdWlKV3dieDNDRlVFaWdMX1BkWUFz?oc=5"
+    },
+    {
+     "name": "Route Fifty",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVjJQR2Z5QXBmNllFbVB1Y1R3U0l3LU41THpsVmZUQjRMcGZrYkRBMEVNdXR0VWI4WTZTaDlPNzVONWZ3czRFN1A1WmpWY2tzeWVvUjJZYzFjMnp6ODdNcHRBenZiWWgyWFFQVWxPb1VHY290UXhTcmkxN19IMlpCLVp6UDV2TDI0QlhZOERjX2ExSldZU25kY3p3c0pva0tVX3BPQTNsSXBvcTVCNkhMVV85eG15RkVmYkNyRGhRcnBOejhCT0NaYUE1NE9RTXUtWFpGUg?oc=5"
     }
    ],
    "published": "2026-07-09T17:35:30+00:00",
    "first_seen": "2026-07-10T12:07:30.143112+00:00",
-   "updated": "2026-07-10T15:38:51.763323+00:00"
+   "updated": "2026-07-16T18:15:57.117845+00:00"
   },
   {
    "id": "44539d636c53",
