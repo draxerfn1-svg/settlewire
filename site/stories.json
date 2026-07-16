@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T11:50:07.334256+00:00",
+ "generated": "2026-07-16T14:15:51.707030+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1732,11 +1732,27 @@
     {
      "name": "CBS Sports",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0doelB4dWlLb195UERQam5sekVSZjlfTDBMWmFxRGExeGVyVVB3MDgwS2FfY1BFMWF6MG5xbHFaY2Z1aHl0V1QxOU9wSW5haUh3Z3dnUktkWWJqZUdESU5PWnhESmhzZjFSRkJIb21qN3hxNkgyTlVSaVc0YV8zdlVtcVBuc21VUklvakFtY2U5MjZZQjRLQ3ZEaEFGMlBVWlFJZm1SS0l4cmN0ellMek5QaTN0MFVkZkZleTJjWXpMaDBGbjdCNW1lWnpaeGxkVmRVTjhhczVJVkVy?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHlObUFqNktmU3R6VVphcHhIOElULVI4NllkU1o1Tl9UMTdaU1ZXVURBZkhHQ0tQU3BzcFJvUjRSeEVqUHZLN2gxc1BaRWVyNHd5QkdmUWVDcXJFc3V5ZEs3X3dFRk1qVnpTb1VneVNKUnZEY2pyWURjV3dDdFVDVVpFelZESUdUc2xpYmNDZVg5MjYxR3JlbA?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmpxakN2Tm1aeUYwYnBDT3VhclFKMDYwaTZFVjBYbFdCVk5kWHhoelh2MVdiMlRmQ3ozSDFIQ1J0WXhBMlBmRkctY2N5dmVvX1FRQ3IwNzVfYlhfRkVob0tpREtwT2RGSDBHMncyLWRZNXZLMmZTdkJXS0RMOTZTM2Z0UlVqemlaU0dFczRvZVRSZjhuQlc4ekZtazVkaW1qNElPcDhB?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVpEUjg0ZWg1LUFRbjBfRk5STngtYzd3V0dQQ2lDcm9ORk1Od0JYRHFKNE00Ri05bVpDNklCcW13U29wVDhESkJhM1lUZGx6bHRReFdULTgtUE5kZlZaNjVOSUg5QXVyVGh4OWFCc3pDX0FDYmFNZ3ZUSHY3Unh4aHdhZXJ0WkFJd3NKSzc5aERrZEh3WUpKOWZQLVBxSllnMy03aTJwTDRUQzhLMjJ3dUNoaw?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMWJGYVBRNTVaRVViWEpKVkxHMGpMalNVSzFnZkFPMjM3RUd4NUVtLW50WDlEOWlaNksyMm1aLXd1SXE4cnZpVXJFOHdDQnVYcEdlZUI0dHA3UEV3NjlZOXFvOXJ2ZG9PWDJzalRfNGRlLUFuTkV1WEtzVlp6MERJVUlnTnlyN1lGLUxBdXNPTkJCV2Jobk1hcEkyTnlCTTQzZ3hKTDNpZzhndW1MU0VxY3RzZTd0MFhsTllxZVJFSGU0WGJLY2NjTjVEV3gyYUF1ZWlGcQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-16T06:28:07.419635+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -1792,11 +1808,15 @@
     {
      "name": "Crypto Briefing",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLcEJQSmZNTWwxMUk3dXhhZ1NpYmNhVEtxd0pqb3VwbUNzLXFydDdTalFmUlFJSVVfMnM0SGl1c2ptT0RvV0owWkQwa25FMUhGb3RUcDZXRGloSkY3Mlh3LXJnMUROaWgyWFVoNmFKSnFyNHZ1bHEzZUFiRQ?oc=5"
+    },
+    {
+     "name": "Kalshi News",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-07-14T16:24:14.836380+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "704478fc965a",
@@ -2151,11 +2171,15 @@
     {
      "name": "The Times",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWlKamhnV1ExeVVXWVhUX3lvUVN4V0VhUlk4ZmhXWnBCeUxRaEF1V0RSWXZ2Rk1GNUs1YTNtRGJ0Rm9mZUdqRUJ1bzBzdHlMaFhZRjNiSW1qMlpUczlidVZqTDZIeVNtc29wNHF3bG5KVmtCNTB5ck82ZzdFMlRFaXIxQVJ1aEo3SXppekpJVWhncDRvOWpfOVU4SUZjR29jMTdwSFotR1pael9pZ2lNZDZvUGl4WFFhNU1aUUR3?oc=5"
+    },
+    {
+     "name": "State Affairs",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaF9nSjhhb0Nha1ZKa2wwMllhSVhHYmJvOUFhbUFBaUxjNnFRLXR6UG45U3Rla1lZZS1pX2xSbHR3MzVReWtDS0hJM2NqQUJwS3R1YnhsVkdIa0VnaGJUVV85VlZNWTNLTExXa0k0cWFBdHdlYlVKU296X3RCbTR4LWpsYWVxa3lYYzM4LTlJb0FnaGs?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-07-10T19:47:30.401982+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "5f8facee2c9f",
@@ -2740,11 +2764,15 @@
     {
      "name": "Vanity Fair",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Cb2UzeWdyUHZwV1Z4MkFxX3h0R2paWFFIdjJJQkI0SHpJWlNoNDNtaGZMOUNoeThKRVQyUHgyUlVuYjVvX05kUTNfbzBCZlY3b21EUG1aYTlLNzVvY0JmWWZnNUo4ZV9HQ0kzTFRuRWI?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUy1qYTk2T2lHNnpOdkpId0VHS21wQ0EtR3FVTjNDYXp4MGFyaVUxWGVENm5UODVNc3lUQXNXbFRlMWpDRnNVLWpNd29qdmZ1S1NmNk5VUV9WTlpZdzhLQVM1NjZKaVUxT3paQktRbEJCNWhrSjVFT0h2QVJmUEdmSzF6NmlOSDFGMkxYRXYwN3ctalZXTTRLQ0Z4ZGxPLWY5TlVINkUwQU1ZSnpITzkxV3hGcGRPUQ?oc=5"
     }
    ],
    "published": "2026-07-08T16:48:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-07-13T21:09:22.780568+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "9c624e950b31",
@@ -3949,11 +3977,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDlja2ZHelQzY2RlQnhwM2xNVmNueGVSUXl3S2VBU09aM09BbTBOeWNTRzJueWw0UEM0RGNqcEZCMjNSZmxOYnotdHliR2h3TElLNDg5azhPNGVPWHRGSlNzYWpIQ1otUWZwWDR2YzNqRTNGSjM5eDUzb2Y0QjhnV1N6U1IxZVBkM3d2NFNXaGNmdTBWdmkxUmpNTVNrWkVLQlhZ?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1oyZVplcl9XUFd2d3kyTGVvZHFyMnNteWs5Wkc4VmRYQmI2TF82RjRIMkVRVDhsZjZrX0dLWFhDZGxSb21vcHNIM2pKSnFGUlZPbXhHZWxsVFJfN3ZpUVVLREtBMEdrM2M2MlJ5eW1jaVVXZHBJa196R21Oa1R4OU83VVVGOEJSNnVnZGszczJnaWxHbDJrYTlNMmEyMDFmTExRVjBNanZXZTRVVnFoZF93?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-15T19:32:44.050050+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4081,11 +4113,15 @@
     {
      "name": "FishDuck",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGNXMXp2RlpIdTUyRVFhR3piLXhiNDFSVFB5Mm5wVHlHdV9CWHlJYmJQcjhtNHFRbHFyMmJZRi1wYVRKcjhPbmpBeVZMdWhORGs3OVlOcVlNTkd6UGd2ZVoyb2tESGRRaWlzaXhYNUV0dGRVdkZtUmhGQTdWSVpUTG1XeGdlWFQtSi1YRkdwZWFhTmNjdnhEeFg3cERSN0F1UDcybjFGdGlLOG83ZDJj?oc=5"
+    },
+    {
+     "name": "sigma.world",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEx0WDZKQTVZdWxhRFpBaldZLXI1NXpxRm9fSFBrRFhiTm1PZS1fZmdpNHA4X3JhMUwtWDNVWU4tdk9mVTRRaDFEVFBlMnJyS1dWU0k4X05xSEJJMUFVdV96TzFCaHFUWTJMU3ZNX2xpR29iM01ZS1pFM1d3Mnh1RTRySGZ6c0g0MlE?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-07-15T17:34:10.376293+00:00"
+   "updated": "2026-07-16T14:15:51.707030+00:00"
   },
   {
    "id": "1d484074c246",
