@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T06:28:07.419635+00:00",
+ "generated": "2026-07-16T09:22:50.505157+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -385,9 +385,15 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkpDUUJYWWdYLXRJbi16OUZIakdneTA1ZGpFWGUyY1BXXzBzNzVQWDVHSWR2Z1RmSDNPaFo5NFU0Snh1TVV4VjNDdkU4VG5NQ2JZVHFJYVhIeDlTTjVuWHh3Xy03WXlOS3B6c1pqOFZwUmE4UGRDeTExQzJPMVZpSEUwQ3ctVFQ2dEYxeDVXamZqTnlYTXB3MEtKUy1JdmF6UHM4aGNQaE1uWExRRHNvdl9aOXc?oc=5"
    },
    "source_title": "Michigan Extends Kalshi Sports Contract Ban, Gives Company Until Aug. 12 to Geofence State",
-   "also": [],
+   "also": [
+    {
+     "name": "AffPapa",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSclQzTDhKdlBBX2VJM2Q3QThRVkhDOWpDUDEwcXJncUVDUmVOQTFkRDFKWFAtQ2lzX0l2V0c4QlVOLXlHUVNDVXh5LTl6RUNNMlNNVnYwaGRLWDZDTEdUVlNScWIyREJzM1RBTG1GQ1Y3VDdta2FEbUN3?oc=5"
+    }
+   ],
    "published": "2026-07-14T09:48:11+00:00",
-   "first_seen": "2026-07-14T20:20:04.295469+00:00"
+   "first_seen": "2026-07-14T20:20:04.295469+00:00",
+   "updated": "2026-07-16T09:22:50.505157+00:00"
   },
   {
    "id": "81b627b1b782",
@@ -4104,9 +4110,15 @@
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVmlKYnVXTk9kSzYzcUVtRTUtVVh1QnNNVjhRcS1wT3JoTldvdThUVHNIb0RmMnQyTUU1UTViUE50bkYtZVNLTlU0SGNrOEM3c0FiamFnYXlFdWsxb2cw?oc=5"
    },
    "source_title": "How Kalshi infects the news",
-   "also": [],
+   "also": [
+    {
+     "name": "Lower Bucks Times",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WHRUZVJuTjc5b2dhX3lLYVhtNExSSVBWczBUR1c2UWgxb2owd1hDSGdaVWxtNGlwekswRXdHZzlBQmpoaHhRZzk1b0N3QkZ1Tjh2Sy1IVjFkS3NSRDVLeHdPWFA1VHFfTmthc3hDdE9XUmlxRHlkSVplckxyOVU?oc=5"
+    }
+   ],
    "published": "2026-07-06T10:31:03+00:00",
-   "first_seen": "2026-07-07T15:48:56.059066+00:00"
+   "first_seen": "2026-07-07T15:48:56.059066+00:00",
+   "updated": "2026-07-16T09:22:50.505157+00:00"
   },
   {
    "id": "71ccb8c70c9a",
