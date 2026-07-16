@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T20:08:46.193569+00:00",
+ "generated": "2026-07-16T22:12:35.635771+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1784,11 +1784,23 @@
     {
      "name": "WTOP",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazBKX0g1VWdubXBta0RZXzljakFZYlhDSzVfWS14NjFHekVPakpYb2Vpd1ZzQ1pTN01zbXAyZVAwZWlzZDg2N2w4V3pfclQ0VXZNQnF5MmFzX25hUW9VcExwMnJua1JsQTFkZ0NJN3FqZDE4NWdOR09uRW5pZ05FVFhDWE9sWVJUaXYxeGZuUlhIRHFDVkkzZ3docDNBYnZRNV9pZjQ3amI4UkxJN3R0eVNn?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORV8ybWIxbXYyc2NqbTN0RXNQQ0h0eHZKdjFwWktJMC13OGJ4Xy15U3lUUmg5NGhGeFpqTVpqdFpBUGdVSVFld0xFb1ZROGxfb2l2TE1fWFZPOW9uaThtNkM5eTh4R3pMVzBOamJ3QS1NNnhXVUdqRFdWV1NxNzE2a3d2c3pRZFRRdGNTZ2Y3ZmRmajFzLUZjNzFSRjBkdC1MUGg1VnJmN2VFMnhlOXc?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdLRmpjcnM0LXJ4TG5oUjdTLXY2YWJoeXdwbm5XSG5OTW9kcGR0cGRITWZaSFJnWlkyYThNV1BWTWo0STI0TTludGxRS3R1OHV6VlVubDZ3YXNwdWZYSHV3TTVIUTZpRTFIU1A0aVZWTnQ0Z1dhUTdrUTF0VU4zdk5Ndk9zZGdMZGI0aVMxa2pVeXd5MVFtTGdKcXYzQ2RLaFM3RDNn?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXFiWkpUQkdTRDhRMDFhd0lSYUpTTC1vZ1pWLVNzQXVxX3hQYndIeGFPSUd1b1l6MU9fakk4OEszNU5pZVMwQ0VhaXBzNGd6VzJQMHFxUWdxel9SaFE0NElWMTdqZHBPZWJzcDhqeTZxUHFQQlZ4Wlh0TER6QkFNdW5aRFpUNmlWZzgzb0hRTWFsX055ZzFWN0F5b01QMk1JbkR5Nk9lYm5obkJHOENXdkozVTdwUXJteG9sZmRBMXlRZlFTVnhIZUdseXFISWpJOTBDLQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-16T18:15:57.117845+00:00"
+   "updated": "2026-07-16T22:12:35.635771+00:00"
   },
   {
    "id": "0741dc215b0c",
