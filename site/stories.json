@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T14:15:51.707030+00:00",
+ "generated": "2026-07-16T16:37:36.138880+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1748,11 +1748,27 @@
     {
      "name": "CBS Sports",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMWJGYVBRNTVaRVViWEpKVkxHMGpMalNVSzFnZkFPMjM3RUd4NUVtLW50WDlEOWlaNksyMm1aLXd1SXE4cnZpVXJFOHdDQnVYcEdlZUI0dHA3UEV3NjlZOXFvOXJ2ZG9PWDJzalRfNGRlLUFuTkV1WEtzVlp6MERJVUlnTnlyN1lGLUxBdXNPTkJCV2Jobk1hcEkyTnlCTTQzZ3hKTDNpZzhndW1MU0VxY3RzZTd0MFhsTllxZVJFSGU0WGJLY2NjTjVEV3gyYUF1ZWlGcQ?oc=5"
+    },
+    {
+     "name": "MLive.com",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvclVEcExXUFVnVjVHUUhYMGswclFkcGJ1bFlITWprNy1QcHl0b1hpMTI0b3FBOFBibVhWbTFfNmcwOFRmaGJMUF9CYXY5WFVsUjhjS1VqU2J1UldRMU1fdkREVEg1OVN3LUw4?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeVVTQlVyTXpROWM1WXVobEFKeHlodnVqVWR5eDhkaDRfS2lYNVU3dU13cXgwd0ZDaGpkYUlKYzRUQXdjeWtSTVVUSEhRWlh1cXp5a0p4VE5BMmxrY2U5akVaVGZ5YXktMWN4Mzdtdng2RmliZV9KdXVDZ2ZsQmprUm9iQ3ZEemJHU3RIc0QyaURSX0gzd2xOc0VYTWVpeWlGampFYnJ5TXVIdEV2dmdwZVhMSFBRTFJpTkdPRzdTa3NxeUFIQVdYQVhWSWMzTlVkVXdCZndlbXQ?oc=5"
+    },
+    {
+     "name": "Russell Street Report",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzNHcDJrX3JLWDUxbTQ1c1FhdC0wVlgxRFpBVFhJMVc1SGFENERUWDBtTWwyNzNDTEtpRFlmVnBZcnhaMThhRlk2SFowN1EwU01Vd1U2QVhUMXVYQzZBcXNXenBCS3JOalpuNE5CS25EYUVTOXVockFTZFh6ZVN5QldwRGM3YXRXUkhIRzJ3SHpTdmxnNUxyeGppS1pJa2ZaYktiZE9yNUpRdWhBNzVucXRGcw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDE1aUFYSHVHUGtfMEFMajk2TnlRelhxQVNmWExOc2RKbWlBZS05eWxuamVuTE4tQ3NremVRU0piS2tfNE1hU01mSVRzMy04TDZrdkVqOVd2VUNMRjdiMkY1SjVlYkRteUZ6MXNmcUFZSmd3MGdPTG4xcXJ2Nlo2R3NtSnJJeW9qVTBDSXdYaUVRc0NMY0tkckNuYw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-16T14:15:51.707030+00:00"
+   "updated": "2026-07-16T16:37:36.138880+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3981,11 +3997,15 @@
     {
      "name": "Sportsbook Wire",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1oyZVplcl9XUFd2d3kyTGVvZHFyMnNteWs5Wkc4VmRYQmI2TF82RjRIMkVRVDhsZjZrX0dLWFhDZGxSb21vcHNIM2pKSnFGUlZPbXhHZWxsVFJfN3ZpUVVLREtBMEdrM2M2MlJ5eW1jaVVXZHBJa196R21Oa1R4OU83VVVGOEJSNnVnZGszczJnaWxHbDJrYTlNMmEyMDFmTExRVjBNanZXZTRVVnFoZF93?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeV9lQjZUeVFtWlExLTg4WmF1U0pXWXNWaHlrd2VVckJjUnVCSGhKQ3lKcW5heGRkVVBxalJNS0Q3b205Z1pLQmNuOGJXSGRQRHNTeVVlRXR3al9La0NBY2dPOXZhdm8wc2JNeA?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-16T14:15:51.707030+00:00"
+   "updated": "2026-07-16T16:37:36.138880+00:00"
   },
   {
    "id": "3b83809e121a",
