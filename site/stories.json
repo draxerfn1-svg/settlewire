@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T20:13:05.814788+00:00",
+ "generated": "2026-07-17T22:02:32.309242+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1105,11 +1105,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "FishDuck",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGJIZ05mRW5UUzVOT001Mi1qVkh4cTFXUDBwTk9UdTFUa0xlN0FxMl9SdGtzYk11cWpOS2hpQmRrOXVuanRwaW9uYmVqd0hZY3JEaFNpSUQzZEQxQ25uVDh5YlcwbTJtWmhINXFkSjc5WHhwd0Z2RG5MQUpUaVJZMFNXU3hxRHJuWlo2SV9IWkpsenFqeUdBRXFacXNXaE5qQlhtdA?oc=5"
     }
    ],
    "published": "2026-07-12T11:10:14+00:00",
    "first_seen": "2026-07-13T19:43:07.967263+00:00",
-   "updated": "2026-07-13T21:09:22.780568+00:00"
+   "updated": "2026-07-17T22:02:32.309242+00:00"
   },
   {
    "id": "0540b11c6e23",
@@ -1868,11 +1872,19 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmxUd0ZDbDlBNkROdFhxWWc2S0JuVTJRY09lRHhtMnpTNmFuM1I1ZkhPTUt1bGV1VGdEa1BrenoxN21LMlVKNnN6Qk5fWndjRzBmamQ5SS13QUF0MEwza2VjbjMtbTJiYnVhMV9Gd0JUc2QtZmR3N2JrSzd1aXJkbU9hUmNTaGNucWN1LVUtMFY3VzJMb1I5NkZLbmUtWkU0bVEyMS1RNXRfWDhhVnhNbXI3NVc1OFVa?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDZzMUNaZGpnNzRYM2Z3R0cwVm9UZ1NVQlFfcjg4Nk1kQ1JHYWdOVTFKWDNCdXRBZWdxMWZhMzU3WHZuTnE3TXBEalFvU1U2M2h3MURiMktMeFJXTS0tZ2lDTlBoU3B6anZDbURxakxfNWQ0S3VIR2NiYWh3LUhhelozbnV0MF90SHphNnZVUDkxc3J1emxzVldXazdEMVBsNFU5LUFR?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWp3QkhGRFRFMFJ0N1FrbzRvNGFpeWo5VS1NQnRBSm9KT3d1ZkppOHdQNVRlemU0QjFQTnZrQU5jYnpJNG15akFKQkdzY2d2UU1kRkM0WC1JNHE2NFNyS1Y4WWQ4WHhwb0ptNHF5MGNGcVcxcXVqcU90VmVwaXlyRl95OWYwR3d4bHBnLUllekhEUU5GVDF3bXlONnlkdUp5ejhPZzZlS2pGcXlPUnZxTG1wMjJ5ai1ORG1oRkVpSUJQUDQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-17T20:13:05.814788+00:00"
+   "updated": "2026-07-17T22:02:32.309242+00:00"
   },
   {
    "id": "0741dc215b0c",
