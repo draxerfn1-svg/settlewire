@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T14:50:40.865006+00:00",
+ "generated": "2026-07-17T16:22:54.224585+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1836,11 +1836,15 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVk1IRXVSeHIxYVNMYXMxZzRUQzc4VzFxQkFMVDBpaDBrRl9OMFRsTFhISjBUQjNnMWc4Z09qclNES1NCMWhKb096S1VGU2t4cGdOTDNoWEwtTFRYWEJHY1dZZGhJaXJGM0ZHV1FlUGN5d1ZyNFFVV1pDc3pTUTZLUTBDcXRkOG9ldnR5YzAzVGM2ZFNoYWNkZ1BnekxJaGdnNG1aSVQ0LW5BVGdlenhTR1VFS1dfZlA3dzI0?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkllVS1XU2lMSjVNVzRCdlZ1MHFtVXJSaUJSR2hWb1dYblBYZGRqa3VNM0hmaHQ3Q2swcExmelU4cmJkdlBEOTBxUFdXWVVkM2ZHLTVvWHJ2bzdpR1BiaXlUOWMtbW5PVlNTcHA1MGJOMHJxeW9xNVdGQy1qYldQQndfdF9neWlnYTNXV21NeVRCT1FjWmR5SWdYc1dDa25rblNMWExfVzNFdjNtRmM0czJGOTV2ejdBUFhJaUF4dTIyczQwZlRv?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-17T14:50:40.865006+00:00"
+   "updated": "2026-07-17T16:22:54.224585+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4085,11 +4089,15 @@
     {
      "name": "Sportsbook Wire",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnFvbko1aE1OeUdDazJrZURMREVvRnM1REttRUdTTkl3SkdidG1NbU1XNGRVenFOQi1PTEZyaV85TGZNRUowTGx4QXVkMzgxYThIM1VQQnZXQ252QUc5a04xWF9ORU5MUDZudUpJUFRER0Y4UWFJVHVCdk8tYUZ5VHlSLVJtVGFNQl9oQnF5dWpqalVDYk5CTlM5bXZCMVV5Q0tQYjV0RDd1bmpuRnlQS0ln?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9heHU2TEI2Um0tbDJNS29XN3ZJT1VVVVhVVzVxcVdCc09JUTVSM2RDQTBsRGFHMGRoNzFsWWd3QUxlRl9zV2ViWG1zUUVqMUFITGtWNVY3VzIyTWdJTjBGNldZd3A4cnZWVGxqWQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-17T14:50:40.865006+00:00"
+   "updated": "2026-07-17T16:22:54.224585+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4221,11 +4229,19 @@
     {
      "name": "sigma.world",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEx0WDZKQTVZdWxhRFpBaldZLXI1NXpxRm9fSFBrRFhiTm1PZS1fZmdpNHA4X3JhMUwtWDNVWU4tdk9mVTRRaDFEVFBlMnJyS1dWU0k4X05xSEJJMUFVdV96TzFCaHFUWTJMU3ZNX2xpR29iM01ZS1pFM1d3Mnh1RTRySGZ6c0g0MlE?oc=5"
+    },
+    {
+     "name": "KTEN",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZzJkRmtQQnFRdVBUUi1qZ1ZQY2FIZ1J2MnNoa285bEgwN3o0b1BNZ19xMnJ2RGVheVBsS0Q5Y2FVSk5pMkduMWcyX0hOLWxxZWtyMFJjYlBsR2NfUGIwV19sZFdMa0QtVy0wY3VyLVJKRW9hSG9FeEVBRUhmMFBQUGJudGdJaUtyQnE3ZksyYnpKbDJXdm1vay0tcHR6d0VnUnJVWG1SLWFMNlRxWHVMVnltZVhXTWgzVUFrbkZMeG12TkZ5OUFIcFIzNkE4VkhURVVDSWR1bXFfM1NiTGtuV1JJamcxSmU3ZHdpSGs5UVQtVjlnb1ZqaExBbnphTzMwTk1Jd2hNdGp6Rnc?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkFqeW16eUZfYTF0ZmVlSndieVRSNUYyN1hIdV9xcTJjTDFGZTJGNEF4MDh4V3pZZFRfT3IwV2J5V0pmajFvaGdWZnJQdWVWbTFzbGs4RDh4bW92SnJWQVZVMVJBTVpWWFE1d080OC05TUVEdmtXTnZrZk5ndzM0X1EyaFlXTkE?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-07-16T14:15:51.707030+00:00"
+   "updated": "2026-07-17T16:22:54.224585+00:00"
   },
   {
    "id": "1d484074c246",
