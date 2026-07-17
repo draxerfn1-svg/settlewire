@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T07:26:31.910399+00:00",
+ "generated": "2026-07-17T10:08:02.909623+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4476,9 +4476,15 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sOW9yc3E4VGZkMWpEc3pncHVJMGV0WUVKWjFiTEFGNTBKQkc0c3RFWnVZbm5rNTlwbUhvT1hRLTJ1RTFJTlRQbU1kLUI0Tjl2cmF6NV8tVXZodzRCUkViNENEdW0xbUNQZ2lyNDZ0cEtMOHI3VUNB?oc=5"
    },
    "source_title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
-   "also": [],
+   "also": [
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JXX1NqQ3hUeTN5QVFRZS1SZFdmY2NhT0ZBc1MxYTJhWmNkYUdjVTU3V2Y3MkZTUVdsUmt6QUMtX2JiNzd3OUJ2ZDNfSGFsSUpkTGVwZGZiQTJKQ0xLSkhURE5TVFQ0bGt4bUc3NkNmOHBZVC1kcGdBems3clFjNlBXOUQzMGp2Qk5xR1laRHQ1bkhHeFZMdDRETQ?oc=5"
+    }
+   ],
    "published": "2026-07-05T11:00:00+00:00",
-   "first_seen": "2026-07-06T21:36:25.744148+00:00"
+   "first_seen": "2026-07-06T21:36:25.744148+00:00",
+   "updated": "2026-07-17T10:08:02.909623+00:00"
   }
  ]
 }
