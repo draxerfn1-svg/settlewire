@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T10:08:02.909623+00:00",
+ "generated": "2026-07-17T12:18:35.707556+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4480,11 +4480,27 @@
     {
      "name": "CNN",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JXX1NqQ3hUeTN5QVFRZS1SZFdmY2NhT0ZBc1MxYTJhWmNkYUdjVTU3V2Y3MkZTUVdsUmt6QUMtX2JiNzd3OUJ2ZDNfSGFsSUpkTGVwZGZiQTJKQ0xLSkhURE5TVFQ0bGt4bUc3NkNmOHBZVC1kcGdBems3clFjNlBXOUQzMGp2Qk5xR1laRHQ1bkhHeFZMdDRETQ?oc=5"
+    },
+    {
+     "name": "WLKY",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGVsQUsxRDVFUk04ampCeHhGeDM1enJvMTJYWVR1MzJvTHprVzZ5SE03eW83bmF2QWNZWXExZGVxU05QRDlydXg1Z05rVTlqWTB6LU1jQnBSQk9uNmxHMk4xLVJkREMxYWZ1Y0RHT3JlSE42RGgxY2RRZGFrdHVMNjRLTUs?oc=5"
+    },
+    {
+     "name": "WLWT",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOejJSTV9hckNmZGRrcko2OWp3ZGRsVDgzXzRZVk1qR1NILUZHV2dfZV95ZGEyWnN6WGtmRVZvQUxnMHVzMEZpMlpGQVVEemhlbktkRnJpRC1RZkRETGtKQUt2Um9yRFIzZUxKYW9IYW5rdmJwV1VVUXNlVjlOcHhiM1hNOWpQZw?oc=5"
+    },
+    {
+     "name": "WAPT",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdE05UUxfWDBGQWJEcTJhc3BFTU1aSVlmaHhqby02aVZFWU91LUhjeW1BcHhuWEtjcnZCLUV1b1lFZXFGcTBGdnNGMm5MeDhOTXJWVG1UQTBWZUJLTVQ2OWpsLWVIcnp6VzBvcXBXZzU0c1ZORGh4dnpGZmFIeXhjN05KbzlSQQ?oc=5"
+    },
+    {
+     "name": "WPTZ",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjhwdHEzcTQ3M2hydWl3a1prTXhvVnowZVFWcVNkN1VSYzItVVNhbjNZNi1MOTFaeS02OEdXdlNqcWx3aTFiSGNhaWl4TzBaTDdZb2tJdzA1ZkZhU0tIUURHdVZXX01FcHNXZ0RoVUJPSXUwZFZucGxOVnh6cnBNNm5iZFk?oc=5"
     }
    ],
    "published": "2026-07-05T11:00:00+00:00",
    "first_seen": "2026-07-06T21:36:25.744148+00:00",
-   "updated": "2026-07-17T10:08:02.909623+00:00"
+   "updated": "2026-07-17T12:18:35.707556+00:00"
   }
  ]
 }
