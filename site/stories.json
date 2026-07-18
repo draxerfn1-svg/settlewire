@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T06:14:29.218296+00:00",
+ "generated": "2026-07-18T08:56:06.673762+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1948,11 +1948,15 @@
     {
      "name": "Kalshi News",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5"
+    },
+    {
+     "name": "Built In",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bXNEUWJSTmpPWDEtTHdmWlJxdy1HR3dFUngxdzNZWE1wWjhidEVTSzNtdHBxdDF3RzA3WllfVjlFNTBXTzFRTUxHTkFzTW5rMmlzRGRn?oc=5"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-07-16T14:15:51.707030+00:00"
+   "updated": "2026-07-18T08:56:06.673762+00:00"
   },
   {
    "id": "704478fc965a",
