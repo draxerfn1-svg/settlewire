@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T21:01:52.708529+00:00",
+ "generated": "2026-07-18T22:01:53.602001+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1944,11 +1944,23 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHFjYk52X25EQU0yNGFjc3BoRkh3WDR1MDFhN2dEZUhVYVphdllmZXhFMWZlXy1UWkZzc2NXMFVvbWg3Vy04MENRUHFXWGNvdGNnekF5NlkwcXl4aUtyaXhidUF3OTVqZFkxZ21fWTdKS0VxMjZQSTZyY0o5b05RTm1nMFQtanl4VGxJNGsyWlZucWNhZlc2QjlHUFQ2N2pQZ0hIcTh3?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQXF1NERmUEZyWTRnQjU4RDJxVktHR1dNUzBkaHZlSGZpTGphMVdCTkppTkZ2UHI4TG5Tc1lsTnRLalFUemkxS044VnRJNU5HYmMtbUpFellmaTVianQ2TEp3dWJ0US1keVhfZnc1UjF1alY1Y09lRnlnblVzR21NZ29KXzNjUzhHeUl2Tll2X2l4bk1KYTcxMWFBVDE4VEY0YW0tbTg5d2dRSkVxS2NsbE1seVUxQkFfUlF0aHBaVjhVYjlueHhSWFoybHMwelgzbmwwR01sUEczcHZZZXRzdU5WSzI?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlp2dlNFdllqYnN2a1RoWWhURHV3OGtpSHFMT1lQS3dubXFWamJaaDBGRXI3QmgyUVdLbmZqNjF3UU5TejRtcEo1TlVfU3kzOEpmNHEteG03TDBaNHZZZFJzZmxHQVRvYzZvMF9SdlpIMEZJVlF6SWRkYjZFZlVTQm90WndhQkVhTEFFVjNCOERCVlMxTTR5RTlQaXdFUGxJOE5xZk9YUU5pRmFVTkk2dXRHZ1NMVThobjhwRGtYOVNYV19vTFdoWGxIVlFJdFZNLW9BTjFn?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaXN3RDBveDltU25zZU1fWkliQTV5VGktRWpkTTg2cUYyQmNIdy00QlhnNTlfdHZ1aHBIcXRzTkljZWZGYjVMZ2JXUk5pT20zdWg2R2hPRW94cFJ3Wi1XcjdQc0ZGZXFFMXZhSXRINzZReXhfbWhVcTN4UllxVS01Um9zalQwUXpRaVN5Zlg4aF9ZTGVLMlRyVThiS0dTQndnMVpLenFGeTVCN0xnQi16Z2tBSkFoU3pYYlRfV0YwaC1OeUQ0bmFQa3lnZXJDUFJqM21jTTlqQzMtNmFaQ0Qw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-18T21:01:52.708529+00:00"
+   "updated": "2026-07-18T22:01:53.602001+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4266,11 +4278,15 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGtISmVYLWhMdS0wWnlGdXJ1a1pZMkZnUzdUQW8xakpETWRYb0gwRG9DNG1UVTlDTzlZNG9CNF9Hc01Xa1VOLTQ1VEVXc2tvc1ZmVTF4ZWdPWmNsQm5TSC1TdnVXM2JjZ256cFQ4azdDTi04QlNXSXhLX2pTS19IaE5RQVlieFoxTHdJX08zQ1htREtmQmF1dnN6a0hsV1pwYXlYX0hyVDlBeTdQcnRuRA?oc=5"
+    },
+    {
+     "name": "Kalshi News",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWlBFT3ZwUHB2Q0Z5dXNkT3JkcFFSdmI3dHNIT2ZxcFVnZHd4QzhWaF9obGdRaXhlWWZ2Q3VsRUM0UmlsNE5ONEJaX3hfd3BLaEVVRk5YeVZQUWxGRExBT3IweG9ZMW8wbUl2TU5MVzhpX1hkVU01U01n?oc=5"
     }
    ],
    "published": "2026-07-06T18:19:03+00:00",
    "first_seen": "2026-07-08T07:39:01.455109+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
+   "updated": "2026-07-18T22:01:53.602001+00:00"
   },
   {
    "id": "5146383bcd0a",
