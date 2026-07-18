@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T13:42:34.493871+00:00",
+ "generated": "2026-07-18T15:07:42.593154+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1900,11 +1900,15 @@
     {
      "name": "Action Network",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXzVRX2p2N0tRWWpOVTJPUmN3MkNvNldNLVByZ0JtdlpBZi1rc0JNM0hGZHlMR1ZwbkYwdG9LVExoeXZCMnF0SFJlaWt0ZThCYm41blZpaGpIMWhXMWgxM3BPeW1tWmNEeUViTjFiUmZGb19aX2ZDYUdzbHYzMjBXTjNpNFhTVVJHRDh0NG5iWHpnRmJOSU1tUmswUll2bXFjTUozcEg3T2piUnJZalhLaUxDRVJiNGxSTVE1SnVfNDA4WGdrX2l1QS14YTh6b1BBQVE?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmFycm1nS0VDY3QzZmhTUlFmTTNDNnpxOGZncWtuTkFSVUtIV3FIVVBGV3RZa0phdDRWRnl1aGl3OFgtR19PSXVZcHZYOHlHczBDM0JMc2VWOEtvb1A1XzVZeFJCLUg2Q2YyUTJaQmZiRlJBY0VEMHFYUVVkMDM2S2YxaTJfdnR0MmJRdVN0MWk2MF9FbTJiNjk1cjVBZjMyajFBdWw4Y3JCVi15UmJrbkhrOA?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-18T13:42:34.493871+00:00"
+   "updated": "2026-07-18T15:07:42.593154+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3656,11 +3660,15 @@
     {
      "name": "NEWS10 ABC",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDdPNkVKc042UUdXYkozX1ZzOFl5MkJLLVNZbExoSFBVbVNTT2dNbHpfQUhuR1NXeFdBdjJuMTZqX0ZqN19SRTgyXzE2Vi1CdDdWQlBYYUdzWGJXSlZlMWxWNmluMWZkYUUya2RKcE9Cc0xTLWxKVUpjcl9teTlsV3BkMXZjeDRSSnNxdFBHd0p0QmhVUl9fbHd6Ql9jRHd0UWtvcUR5eS04NGRGOFVZVFdZREzSAboBQVVfeXFMTzY4VlREUmlod0o5VkVYV1JsVXA4VEFRdkloWVdHSUY3SVlpdEtYWWNMUExDWm5FZ3dEY0QxSWVXMk5Fa2YtdjVnYnRfSEhSeVIyZ3RoSTJNMWpLVk0wMl9MWmdmeHNEU0NQYkszeFlDWGw3Z3R5bkwtMDVSWmt4TzN4Vlo0N0o5STBRWmtzQ1pydTJkX2NPMGk0eVBZS0VZSy1wLVdkSV9DMGJiLTdjNGNYbk9YV0w0dERR?oc=5"
+    },
+    {
+     "name": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3BlT2V5a05RSUFGRWdFbklkNFJPVzZXRVpBb01mZ0gweDFFVlNMaTFXZ1JUTmk3emZPa3ZxNDZ3a1M3ZV9JUVVaSWdwTkZ6a29lZnFGNkk4bHprUHlkNkViWndFa25qOG1ERzd2MDNNRWloWHZCRUZ6S1NIZ1lzU0xpT2JuVjlyMVBzUW02S3dlVEJzUlJidFNMX1FHUGZLeDVraElGUXI3VTVLNndjQlVLQQ?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-10T21:15:53.877058+00:00"
+   "updated": "2026-07-18T15:07:42.593154+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -4165,11 +4173,15 @@
     {
      "name": "SailGP",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Lb0lkeHZqeVBYdklqRktpV2hRM21tRk5acWJTSjB2TVR2S1FfUlgtZVY2X3h0Y0F1bEpLTEJXU0Z3V3Z1b3FPdDlpeG55YjY0M05yanB5ZnRDZkEtcmFjam5RVk4zTDVUQWVr?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnhJXzNPeFJ3Slh0dF8wekxCQnY5TWlZOHlNcC1hMktUNU1kYVZBZHVKU2p5ZGMtN25PN3laNk9GT1ltUk4wUmZES2JDTUVSNVREOWNlUWZ6Y0RYVW40VGw2Y3Zad0lRcHBMMXNqRV92STBwY0NlcEluVVFJNmFWR183V3lqV0RDRHVpV3NmSWs0NUZrRDlaSDFPTXlHN3J1VVNPS0lIRlFGSDdNbUJ3Vm13?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-18T13:42:34.493871+00:00"
+   "updated": "2026-07-18T15:07:42.593154+00:00"
   },
   {
    "id": "3b83809e121a",
