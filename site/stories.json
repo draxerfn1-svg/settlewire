@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T17:08:25.510721+00:00",
+ "generated": "2026-07-18T19:19:22.313546+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1924,11 +1924,23 @@
     {
      "name": "NOLA.com",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMzJuV0pSRFN5OGxNeWtWTnRNRE9KNnhTTl81OWZwc1hHVFIyY003eU43eVA3aXBXaWFsTWNKRjlUbXR1aENaMllUazVTTWNGMVhFcGJBZk1PN3M2NGVoZk5aT3Nld3VQRjRoQzZuOTZxVDk0THJMR2hac2tIeTNqak9hMmpxdGZVZGxhXzA3Y0ZyVGZEdGJYQ1hGQlhYb1J2a2VvWmxrMExMdWEycERMTjRUcUV3V0VMMXFBdW9YNlpaLWUtZkc2b0tSMnRYQ0cxeG9YR0MwS3J5cUE?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjRRT2RiTnp6T0hvWXVNM3lWLWZ3RWJhWVppc0JQZmdxMUN6azVnT2RNU2N6YUJ0RW9MWUU2Zks0a3Zta21qU3JWYk1kOVZxSEhDMmdBUFdKZ2d6eDE0V3FxQnBIeVJta3NjMGJOODM0NWdtQjdCdUFpdVd6OGhINk14WDNEWEtoQmxFb2Q2MnNSUHYzU1ZNcXRlRS0wcVZVdWVBbDJFdkR3Y01VUHdWRFhaRWZnQWJVZWMw?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWldfWGdpR0RGcENrMjQ5MEtVU2hxZXo3TlhtaXY5UEJWNW9QY2c5UGhKN1dKcm0yb2tSWlM4UjRkX0d6THZzT2FMMTVPRHNwNGhjamlCY3dhSDNfV0JNX29xOHVOOUxZMTZzY1owZG95RDBVNVBqdzhMQ04zNTNDN3VUTFAxYlpZV2swRURveTNXaURCN3pmSXFERTI5UjFuSnNsVmdWWWJfTWdnRmd2ODl5UHU4czNBUEZr?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1pJQzd1a0Z2QXo0aG4ySDgybUJGeGo0RE1xSkQwdUx0VXdPTkhBSVNkakRfb1NRUTYyNTE2NmZGN1JHa0pmRlFvVGp3RVY1RGM1ZW9iOTZOMEhsdnRBT0wtLVl5b3I2MnBjT0VGcVZiUzhleUwyVHZyRVQzQ0VKTk9XMDA3cE9nVmlxbGJ6Z2p0eVBUZmI0ZWxBc2Jfc3l0bGxDNnRTWHJ6MFJpemJ6S1JMNkhZRXRSTFAtZElPLUZybnVrRWVfUTBEeUxiQQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-18T17:08:25.510721+00:00"
+   "updated": "2026-07-18T19:19:22.313546+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3684,11 +3696,15 @@
     {
      "name": "Business Wire",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3BlT2V5a05RSUFGRWdFbklkNFJPVzZXRVpBb01mZ0gweDFFVlNMaTFXZ1JUTmk3emZPa3ZxNDZ3a1M3ZV9JUVVaSWdwTkZ6a29lZnFGNkk4bHprUHlkNkViWndFa25qOG1ERzd2MDNNRWloWHZCRUZ6S1NIZ1lzU0xpT2JuVjlyMVBzUW02S3dlVEJzUlJidFNMX1FHUGZLeDVraElGUXI3VTVLNndjQlVLQQ?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWVqd0FXMDBrX1E3MFVNOFI5dlppNDNBc3BjNGd1TG0wanNqU1dBdkxQNzNOUmM1WXJnSU9uODRRSW5RTjZ4YVh1ME0xWEgybEZHaG54V3RNYzROSVdjT0UtaFczcmt0QjI2YlotQlRsUENCVEdFOVYtU19QVFF5bDF6SGRhNFp0RmxV?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-18T15:07:42.593154+00:00"
+   "updated": "2026-07-18T19:19:22.313546+00:00"
   },
   {
    "id": "cb28880381d1",
