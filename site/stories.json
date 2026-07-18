@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T03:24:19.097082+00:00",
+ "generated": "2026-07-18T06:14:29.218296+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1880,11 +1880,15 @@
     {
      "name": "CBS Sports",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWp3QkhGRFRFMFJ0N1FrbzRvNGFpeWo5VS1NQnRBSm9KT3d1ZkppOHdQNVRlemU0QjFQTnZrQU5jYnpJNG15akFKQkdzY2d2UU1kRkM0WC1JNHE2NFNyS1Y4WWQ4WHhwb0ptNHF5MGNGcVcxcXVqcU90VmVwaXlyRl95OWYwR3d4bHBnLUllekhEUU5GVDF3bXlONnlkdUp5ejhPZzZlS2pGcXlPUnZxTG1wMjJ5ai1ORG1oRkVpSUJQUDQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDhZODdFWHpIN2h5ZTVEbWsydUYyRG1DWTlSQjJtckhzQWxfYjZROTU5SjlpUmhQNFZRNUNoWWktMmhZUU9LNFQzelVfLWpla1dNZzFzS0RkdGFDSkVWWVRkUG5MbTZmVGo3ejUwZDhZdzJLSlZqNVRrVENaRjBDVE1ETFpGSVdtUy1nVVZqVWF4ZHlzVE12ZU9uX3dEcEpR?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-17T22:02:32.309242+00:00"
+   "updated": "2026-07-18T06:14:29.218296+00:00"
   },
   {
    "id": "0741dc215b0c",
