@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T12:01:40.705029+00:00",
+ "generated": "2026-07-18T13:42:34.493871+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1884,11 +1884,27 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDhZODdFWHpIN2h5ZTVEbWsydUYyRG1DWTlSQjJtckhzQWxfYjZROTU5SjlpUmhQNFZRNUNoWWktMmhZUU9LNFQzelVfLWpla1dNZzFzS0RkdGFDSkVWWVRkUG5MbTZmVGo3ejUwZDhZdzJLSlZqNVRrVENaRjBDVE1ETFpGSVdtUy1nVVZqVWF4ZHlzVE12ZU9uX3dEcEpR?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlg2aTd2OXM5M3k2WjR3UmdveWd4dF9YZHgtQnZKSHBzRUFaTkp4NVJHUnZHamQ2bndDWXBqOVY1R09KQWIzMTJEdnBkaGJ5TndXZVVlQWV1Z0R1S1dfMVVEdjU0NkstcEMzWWRGc0dzVjc4OXkwQks2WWlHbWdrNHhreUxzc0FVam1Zb2xQaWpKajhXeV9Zeg?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFc3bzFHSloyOVdWWlpyNnFJRXdyUjdxZHZhbmVGTHZKekQ4b2t3V1ZuNG9nZE5EbTVSTm1wSDJwdWxwVkc4MU1ZOGVYclRGSHpXVDk5M1dUX2RqdmNjc29jcVdoM2xEeENVR2t5TU5uVWJRQjg1YmJic2Y1SXp0a1pOdDVYUllTek85Vi1QMHQ4Y2dodWxxNlVNZzdVX3ptaTg3aGJfdTZ0RGZrcUdGQ1h1UHRiMGxMMG1CUENqelBnWGc2Z2c?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnpkZk9fWHI3bnFNQXFCcUtGTW5POEVUOC1keHh0eDBQcEZSLUdJSzFEZFR6eHk3Vzd3RGhOSUh5WnVVOVIyX0RyY3Q4YUdhdTZudHZEZkJya2RuUUNQMG1pbmhIcjZHRWRVUDdLWjhwbDFCV3lLMWdmZ2lsUEdPQzhxUnY0TTZud2ZxdUp1THJpbmpVT1JJS1RlQXRncWh4WTQ1bHF3WnBtb013bWhnTzZDVUVhaHBIODYzdVBKZWpLdw?oc=5"
+    },
+    {
+     "name": "Action Network",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXzVRX2p2N0tRWWpOVTJPUmN3MkNvNldNLVByZ0JtdlpBZi1rc0JNM0hGZHlMR1ZwbkYwdG9LVExoeXZCMnF0SFJlaWt0ZThCYm41blZpaGpIMWhXMWgxM3BPeW1tWmNEeUViTjFiUmZGb19aX2ZDYUdzbHYzMjBXTjNpNFhTVVJHRDh0NG5iWHpnRmJOSU1tUmswUll2bXFjTUozcEg3T2piUnJZalhLaUxDRVJiNGxSTVE1SnVfNDA4WGdrX2l1QS14YTh6b1BBQVE?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-18T06:14:29.218296+00:00"
+   "updated": "2026-07-18T13:42:34.493871+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4145,11 +4161,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9heHU2TEI2Um0tbDJNS29XN3ZJT1VVVVhVVzVxcVdCc09JUTVSM2RDQTBsRGFHMGRoNzFsWWd3QUxlRl9zV2ViWG1zUUVqMUFITGtWNVY3VzIyTWdJTjBGNldZd3A4cnZWVGxqWQ?oc=5"
+    },
+    {
+     "name": "SailGP",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Lb0lkeHZqeVBYdklqRktpV2hRM21tRk5acWJTSjB2TVR2S1FfUlgtZVY2X3h0Y0F1bEpLTEJXU0Z3V3Z1b3FPdDlpeG55YjY0M05yanB5ZnRDZkEtcmFjam5RVk4zTDVUQWVr?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-17T16:22:54.224585+00:00"
+   "updated": "2026-07-18T13:42:34.493871+00:00"
   },
   {
    "id": "3b83809e121a",
