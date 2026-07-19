@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T11:18:43.516297+00:00",
+ "generated": "2026-07-19T13:46:23.330952+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1968,11 +1968,15 @@
     {
      "name": "SailGP",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXNFR1NvaElyOXE0M1ZnWW9scGw1aEVLbzFPWEY2SjBHSWZiS0RVeTFEcjhXdXdDZVBXZVRUMG1seUpQY3lNblNuaC1TUlJWaDl2NjBabngwdEUtS2Nyc2tNb0VKd0RmWVpwc3dhcFJHdWRNQ3lvQVh6QnVKOWxzdEQybjRtUkh0anhzVVNvRkdSMWpSYjhUNk5yQ2M0X0haNUFqNFRqYUV3LWlBVHhFSTFQNFJJM2JwVXA4NjVqYw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTWdTc05jVVo5SzZMMlNHdDNmTVZxRG9mNlhscXJRbFRFNnVyVFZ0SUluZXVYaUJROFN4eGdWLUFCdExMOUlXb0EzV0R1Nm96Rm5SdFBiaTlkOGxiMkRKaVo5bmUzMTBrdHc3YW0xaGlXN293ZFFHdEhXY1hWRGdDVmNRTEYwNnUxVXFfRWhRWjNsRVVGSGFPNg?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-19T03:46:44.728603+00:00"
+   "updated": "2026-07-19T13:46:23.330952+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3959,9 +3963,15 @@
     "url": "https://sbcnews.co.uk/sportsbook/2026/07/07/south-korea-polymarket-dispute/"
    },
    "source_title": "South Korea gives Polymarket right to respond to illegal gambling allegations",
-   "also": [],
+   "also": [
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkpKZjhiT2RKQ2YwQ3Q1SmdNZ2k4bGRsVFZidkp0RGt2czlkcU5Fejd4dUFpQ2lzbVNOTEV2dGZUTk1EVzNNNTdWQWZodm0zVlRWX19URV9FSDlQOGpsVkR4NkthdEpSaXl3UGNNSzMzMFdTX3dPQVdqUVIyNFFyV2Q0UVM2Z3FyWkE?oc=5"
+    }
+   ],
    "published": "2026-07-07T09:40:11+00:00",
-   "first_seen": "2026-07-08T00:09:08.892007+00:00"
+   "first_seen": "2026-07-08T00:09:08.892007+00:00",
+   "updated": "2026-07-19T13:46:23.330952+00:00"
   },
   {
    "id": "011556d8925a",
