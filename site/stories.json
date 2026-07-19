@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T13:46:23.330952+00:00",
+ "generated": "2026-07-19T15:08:37.108737+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1972,11 +1972,27 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTWdTc05jVVo5SzZMMlNHdDNmTVZxRG9mNlhscXJRbFRFNnVyVFZ0SUluZXVYaUJROFN4eGdWLUFCdExMOUlXb0EzV0R1Nm96Rm5SdFBiaTlkOGxiMkRKaVo5bmUzMTBrdHc3YW0xaGlXN293ZFFHdEhXY1hWRGdDVmNRTEYwNnUxVXFfRWhRWjNsRVVGSGFPNg?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVFtajZzOVZVM2g3bjZGcU1sVE9XNVFMdnhNdzJfYzhrNUFrVGQzRjFBWXU1ano0cEtTenRRM0dyREVnQk45LWpVaEduU1o5aGtjb3JBTGJYRDBmODd1TDBnaGVKMU9VSzREQ2RTZGkybEkxVTl1bzhETXE4Nks2WWFfSnhiZ1FlM2hQbHIwTXhMUGkyelc4d2JuZ3RaR2pyazVQM0hB?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEM0U2hSUXdNQmlSV2R5bmFUbDNjWUVBUjZ5bVRmWEs1QV9IVnVpR2ZRZzhBTGpSakRjaGUxQndKZThmYWFXTEREUldpVXNENDBqeDhwcFo0Ujg3WkMtUVV4T1doQWI1Qmw2bGZYWnBPTDdiYjFNM2RzbEtFdlYxZXRpMGNfWVJrRnlWSFhTSjNwSTU2ZDZxR1dVYVBMMC12X2hRUFBSWURFMWZQa3QxVy1aSEpVcHF5dDlB?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU010Ym1LTExTQ0h5UzQydGZSWFc1alRNbzVYS1JoeEJsU0FIMWxyVnBrSUxoR3RYcWc0a2N2X0dKZlRKY2RnYVlfeGNyanAwcVpvdlMwR3U2dnVvaW5OZ0pmOVBpSXVzLWRDS0txeGFPc0cxWm1WSHNGQnZxNzg4cy16VXA0STFaYnBWX2pjQlExdWRfQ3VONQ?oc=5"
+    },
+    {
+     "name": "SportsLine",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTdxZkJyOE1RLXM3ZndvX3N3VFZiSG0xMlV2OERwcGEwQTl5N294T2JnSTN4VGkxa2xBYVlacHlqVnVwZG9STTFXS3NaTFo2SkgxbnllNURqVHEwOTVjN3g2Nm54dnY0UWRQdkttcVRtbVZXODJoektNTWg4ZXFQTVlnUWgwMGF6dlRQeGxzMWNHdmpwYmNtYVk1am1EeDZkVE12ZWlSOGRTalUxUU1sTnZINnlkd3hMdktDMVQ4NzdSZG9aUEFLMw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-19T13:46:23.330952+00:00"
+   "updated": "2026-07-19T15:08:37.108737+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2674,9 +2690,15 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjZzbDRzWks1d0tpYlFjc2QxT1JPdm5YamtwTFlMb29tY29KZHY5YmJRaXUwNnlEb1JxX2N2aHllVFhnbkxLTFVVdExXek1CUEpuSXRsWklsRENub2ZpMFc3aTVnbF9pa3lnNjhaZXphSWU4dEIydWJDQ18wejF6WjNVcW9wWG1nX08wTEhnRXIwTU1HUkh5bllRcW1ySmdnT3dXVUlEOU56M1FTZlFuYw?oc=5"
    },
    "source_title": "What Prediction Markets Say About 3 of America\u2019s Most At-Risk Brands",
-   "also": [],
+   "also": [
+    {
+     "name": "Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPck44QVRHYnlqVlBxVU1lX3paR1VXMy1lSkNMS1YtX3BBTTFVanVBUmN6S0dHQ1lTSG4wcDBYZDNoWXdXUmdRTmozLUlBV2I5OExDYUJxOWx2VGZsSUJBV0Y3czFXd3IzZ3ZRM0ZWcGFmbG81QkF2cXpZc2NuTzVtRUJudVBiZ2c5VkNzeGtMVXRQdVhreDRsdURfalNUck5KS0tTcXBIZ0FxSDJvYzg3WDBMVTY4VkU4eGtad3FGZ2RjcU0yVzhZaHE2cHdBX3VYWFFwSFZlM0ExQQ?oc=5"
+    }
+   ],
    "published": "2026-07-09T12:15:49+00:00",
-   "first_seen": "2026-07-09T22:41:03.433559+00:00"
+   "first_seen": "2026-07-09T22:41:03.433559+00:00",
+   "updated": "2026-07-19T15:08:37.108737+00:00"
   },
   {
    "id": "fc2afdf04096",
@@ -4259,11 +4281,23 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JTVpyOTJpS25ZZ3dScEw0c0ppbUYzWkpLRVlzTUMzUzlJVGxYSU1QS2dtWEQ0OFVEampZRnlzMkVMNFo2T09ubnpxM2JidkhDQVROZ3JDMlBEeU5FaHFrRjdQWXBhTjVGanVWZA?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlg2VFZ3MHVaMmlfOFdjRjlvekE2UlphZld6ZjdFVjNjdGZwR0RzRjRUX3NiZ19qMmFoX2w2OEJScUJGTE5vQWhUdklFNmt5SW95MVFVQ1A2UlptdjlWNFNJVWFtSjRvMlRyUnd3dmRjV21VQXZPQ3ZUSnRLZnFFMTJqbnVrWGJBbHZBY1hBbWUzZXNZUm5ZUFVPekJMMjBSVG5F?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXJHWUhfYlVtd0pOUmxrcFF3MGczcnBQSHhRWHNCRXYyTEJ4SVE2ODNIUW9scjQ5VHBQUi0weDU2WkFsNUdaM210WGNzVGV1a0xlTW9XMmUzT0RrRDlXQTBRSVV2TUZuV1dlYjBOQkIzeG04bDFnS1lSV09CcHd0Z0xiRkZXYS1xMHJWN2hGcV9qaEV2MTU5REd4Sk1pVlJYb0hncVZGM19qdHZKQ01Ockxn?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qUldybk9UbkVCT2daRE5ON2xnazZjOUdfanQtSHd4LVBITUpzX0VjNk41UWYyZF9QbEdSQUFxd3VCcHQyQ1djc3lUXzlfbllmLWoyTG5zc085elV2SkVnTG9jSVhUVlRrRHpJYQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-18T17:08:25.510721+00:00"
+   "updated": "2026-07-19T15:08:37.108737+00:00"
   },
   {
    "id": "3b83809e121a",
