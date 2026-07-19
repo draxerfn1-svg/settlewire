@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T15:08:37.108737+00:00",
+ "generated": "2026-07-19T17:10:44.836590+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1072,11 +1072,15 @@
     {
      "name": "Fortune",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWM0a0dxUjh3MnVWSW5lVjhkcTFwcmpmVnd4OVlpY3FhbDNRM3hBS3pkODlmYnlIQTdCTHNGOFdfTHdfZ3phQlVDWEdyWEJ1dU14WjY0VW0yREEtNzRKM0trclRZcU82OVY2MjJmZVdrUUtVVk05aW5KRE5laWFRTTNpVm5kd1g2OVpDRkpJRlU0NHByZEd6aUI4SQ?oc=5"
+    },
+    {
+     "name": "International Business Times",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0NKOGhVaERuRkZRLU9ENEZWbTU5aFJSMmlySDVrXzdsTVRrcXBDTHpCcXlYS3VFWkUxYkVZZlhkSDJrckFGM0JwSk5DalM3ajJ6eE9hZUVtVXY3X3AxQldTcm1rM0gtT0dnNlVOY1ptVkNKMENnTEN0bUs0T1FJRU8yc2J5S2ItN3hzaExBaGNCeDNkbnlkODJSQVdrXzJjeDFIMW5HYw?oc=5"
     }
    ],
    "published": "2026-07-12T12:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-16T20:08:46.193569+00:00"
+   "updated": "2026-07-19T17:10:44.836590+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -1988,11 +1992,19 @@
     {
      "name": "SportsLine",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTdxZkJyOE1RLXM3ZndvX3N3VFZiSG0xMlV2OERwcGEwQTl5N294T2JnSTN4VGkxa2xBYVlacHlqVnVwZG9STTFXS3NaTFo2SkgxbnllNURqVHEwOTVjN3g2Nm54dnY0UWRQdkttcVRtbVZXODJoektNTWg4ZXFQTVlnUWgwMGF6dlRQeGxzMWNHdmpwYmNtYVk1am1EeDZkVE12ZWlSOGRTalUxUU1sTnZINnlkd3hMdktDMVQ4NzdSZG9aUEFLMw?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclVRaUlxTFMwZlRIMVJWNnFzalhBdnFQYko0RUR2cE0zTm1aSTZneGtHMi1QVFc0SlVWVXZtdmtxcVBpaTFhSE1TYTR1cHlVTkJ2WkwyaUdueHRzaDhVUllReElyX3cya1V6bVlReTlBVndISzZLSzFiUzNVbFVQY0ZsR1kxMjB4cVJjTmw4Wkh2djFGRTlveG95c194LVpXTUlFNHplWGVaM29OZjFVbUJObU9maGROOHJxbUdJTzBDLVBKOXVvRV96SS1walk?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjJBOHZHRHFWWHZFQ0J0dkU1OHQ4dG1JSUhfSTVMbEFfQU9NZFU0aVBKdHFwaHoxekd0Z0Fnd0dNSHlfQ2poZk0ybDY4czZMb28zNEtyeE1iX2xkUi1UZ0MyRVkta05SamFuc0ZjWmM0TlloUWRZUVlKSWdBVHFKMXI2d0NEcV8yNDRiZ1JqbmtjRVJMQnozQTBGT0ZqZndwQTROY1otMU0tVDBjNEt2YTNQNWxNZTJSeENTUVBzU04?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-19T15:08:37.108737+00:00"
+   "updated": "2026-07-19T17:10:44.836590+00:00"
   },
   {
    "id": "0741dc215b0c",
