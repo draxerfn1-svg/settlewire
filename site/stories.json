@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T17:10:44.836590+00:00",
+ "generated": "2026-07-19T19:21:05.825583+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2000,11 +2000,23 @@
     {
      "name": "Golfweek",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjJBOHZHRHFWWHZFQ0J0dkU1OHQ4dG1JSUhfSTVMbEFfQU9NZFU0aVBKdHFwaHoxekd0Z0Fnd0dNSHlfQ2poZk0ybDY4czZMb28zNEtyeE1iX2xkUi1UZ0MyRVkta05SamFuc0ZjWmM0TlloUWRZUVlKSWdBVHFKMXI2d0NEcV8yNDRiZ1JqbmtjRVJMQnozQTBGT0ZqZndwQTROY1otMU0tVDBjNEt2YTNQNWxNZTJSeENTUVBzU04?oc=5"
+    },
+    {
+     "name": "WTOP",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXRhSEFkZHh6RDNpWEVUTHlMSVUyTkpQV1dEdXVULWsxTllIbUNFR09SR3ZPWmNZSjF4TmM3RlE5MXRId0cybGdjMUNlSEtuOS1jamVIYi12UEItemVJOExZTUhoYlF1UnlkS3RBcnpma00zb0Q4ak9PM3JBZ0oxVU1sUkstbnE2cV9idVYtck9QS2hfSXlqamlSazNjX2ZFY3FYUHdXU1RfSkFUVkE?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDNrSXMycjdDWllUcFVpZzJTNWdqNVdOXzRrMlhtaU5yanVpRVVYaGl1a3RRTG54SUJ1ZEtZWEUyX3JpUEJzbGJIMndvdDRyYkxGSi1wLTZRUzVhc3JkVDZNNDY0dG9TTjJMZHRfV3RrbW5KMExrMlVSdjYzVFcyZFJSdThJM3Fkc2NyT2N3UDhNQXd3UE1kTWtlNmRZVGJFREFIVjMtWHdGUElUVXV1RUR3R2FtdW53NUNIc29JNnBaOUM2dGd0VUlMb3gyM2tkVFo3MlFITExNZw?oc=5"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEFCTWV5ZnZkcVRQQmNMSTc0M0trY1hoMnVXTzBOaDlPUTdDb2dpWXZ6d1NJNFNKaWM5dms5bHFmajJNOUZBaVBRSUFsenpPQlE4ZzlTVk41MFNLcExDRFhzeFVPXzFtbHVOckp4cW5ud1FXZ05MUlctdEFtSlVjZndHa2pXMEdyd0RRV0RULXNIRjMtekMtX09GeGMtNGhZcm11Q01DLWQ1NFVNa3BzTzVXSW5lVUFqY2JNbzVUUnZwQVZ5bWFSaDJEQVpWS3hMRG9iN2REY1Q?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-19T17:10:44.836590+00:00"
+   "updated": "2026-07-19T19:21:05.825583+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3770,11 +3782,15 @@
     {
      "name": "Casino.org",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWVqd0FXMDBrX1E3MFVNOFI5dlppNDNBc3BjNGd1TG0wanNqU1dBdkxQNzNOUmM1WXJnSU9uODRRSW5RTjZ4YVh1ME0xWEgybEZHaG54V3RNYzROSVdjT0UtaFczcmt0QjI2YlotQlRsUENCVEdFOVYtU19QVFF5bDF6SGRhNFp0RmxV?oc=5"
+    },
+    {
+     "name": "Tribal Business News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkZvTFQ5dmNMdXJFQXZDRTdab3d0bjF6VEVsRm9tblR0WnBTZ3d6UjNNOFNiTm5VcTdDM1VvTjY4MFpGbm1POUpXTy1YLWp1NU1uOVplR1dNN1BvMVJPLXBVd0FUSWh5OENfSnpOY2lnS2puU0NKbU5IS3hYYW5GYkFsZ2JQNDBWWGl1MXpwb253eUVmaEpRb0hrQWRodTZncF9DcFlaWQ?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-18T19:19:22.313546+00:00"
+   "updated": "2026-07-19T19:21:05.825583+00:00"
   },
   {
    "id": "cb28880381d1",
