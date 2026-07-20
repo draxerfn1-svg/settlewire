@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T16:40:59.750941+00:00",
+ "generated": "2026-07-20T19:03:34.420069+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4353,11 +4353,15 @@
     {
      "name": "WTOP",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFY2NFlnSGJsQVBOQ29zVWJ1ellCQjdJdlRBNDFrSzgtVkpOVkI3YXlESjRrN1Bjbjc1X2NsQ2VyRDlCQ0xHZWxsRkw3LV9XOUk4UFdzSnhTTmVjOExINjU2STh0dUl0RUN4V1Fxd1g1OXlBQjM1OUNCYnFMZFhwNU1wMGNKdjhvckRjaXhMS2FRdm0xWDBYb2xaUXd0OTdEcnJ3Vm4wc0xfQlJ4NGRzZDFEczdZWEk?oc=5"
+    },
+    {
+     "name": "Russell Street Report",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1h3bm1ZeUxkTXUtTDlGWEVsSmhOZG9DcUUtZFlfSEtyT3YydmlxWnpmaTZlcTlkT24wUTJZX3JaeEpmS1hPLV93NVMyMnYwWkIwak10R1d2RmRvS2lMRFRtVjlTeDJ1anZ5U0FXRDJ1TjVCSmVZc3ZIRXlXSU1kekdoWEYwVnViYkJYeG16c0dMWmUyNVoya3o4MllYUDVIVVlFYmloZmc0cVFfVUxETkpROHp1dw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-20T16:40:59.750941+00:00"
+   "updated": "2026-07-20T19:03:34.420069+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4734,9 +4738,15 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTdfc29ISnV4dndzY2NfR3MxUDI2MjZBTzN4SW52SGZDYlBraVNoVml4d2h0OHk1RzhYcnJyOW12N1hyNG01bEtTNWZXbnNaODRGUmhGTl9fYjFvUFpkZVNCVFdrZ0Nxb2VrMGFZMkt6b2pXTG9vSnJ2VlRyRkxtMmx5QnNfMEx0SDhLb2MwWnNFTmhfd1lSTVNkRnRKSnpjeEJiaHBPNmdyZFJJUEplU05saw?oc=5"
    },
    "source_title": "\u201cMorally reprehensible\u201d: Prediction Markets Offer Bets on Wildfires",
-   "also": [],
+   "also": [
+    {
+     "name": "LegalSportsReport",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXhiaWhXa080eF80R3piQUdwNkhsY3d3eHNJWmxkQWlMV0lORi1RV192R2J5RXFOV0xWTW1jZkhCVENUWEM3aF9kRjI4TmhzZWFFQXFHbW1wUjNyZVlyUTZ1S3gyOWwyTDJFT19WS0h3bnhqUV9mQV93bXhGc0w0ZFFWS1lXRmp1S3JfUjREMFlXbG5SeWxoQ2YxbzhHcDU0?oc=5"
+    }
+   ],
    "published": "2026-07-05T11:30:52+00:00",
-   "first_seen": "2026-07-08T21:20:26.856135+00:00"
+   "first_seen": "2026-07-08T21:20:26.856135+00:00",
+   "updated": "2026-07-20T19:03:34.420069+00:00"
   },
   {
    "id": "e0f2b95c1ab4",
