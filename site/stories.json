@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T08:15:21.542164+00:00",
+ "generated": "2026-07-20T11:54:00.708204+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4543,9 +4543,15 @@
     "url": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
    },
    "source_title": "South Korea weighs action against Polymarket over gambling concerns",
-   "also": [],
+   "also": [
+    {
+     "name": "igamingbusiness.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWFsQVFQVFNRRXpTcXMyY0FfTVpQTG9XLWpCeGRRTE9CZC10RkZ3N3RobjloRGdPdVVCcFczYjFIeG4xRllXT3FqRnJVY240RlBYcy1VRV9XTTVWcTQxbzdFcE4tTTE0Y29lMkMtYVpNRmtSTU0tQUFXTVlHb005M2QtMElJYkoyWVNCVWM1T3hMY0UzRzlKal9XdTBpWTRVOWZxQ194MVJFUQ?oc=5"
+    }
+   ],
    "published": "2026-07-06T09:53:34+00:00",
-   "first_seen": "2026-07-07T05:02:49.174444+00:00"
+   "first_seen": "2026-07-07T05:02:49.174444+00:00",
+   "updated": "2026-07-20T11:54:00.708204+00:00"
   },
   {
    "id": "25d15d4e700c",
