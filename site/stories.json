@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21T09:34:20.799656+00:00",
+ "generated": "2026-07-21T11:56:16.815078+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2763,9 +2763,15 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbG5vcjZuXzc5SmRyN1dJTnhHaGJxRGRJa2dCN1U5bHJlMEh3R1p0aVhTTnZVeC1mYWFfQi1pLTB1TUlrekFOU1NjSmNId0dvUFNlaG5CUXp3RWFyd2g4Wkx0cVdfeTdrZHJJTVc5MXF3OHlUUWlSS0tlTnVFdEF4TGdtOHNHOWx2YkkwUS1jZ2VOWUlIT2lF?oc=5"
    },
    "source_title": "Prediction markets are unreliable truth machines: lawsuit",
-   "also": [],
+   "also": [
+    {
+     "name": "FinTech Global",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1d3Ny1ZU0E0cUVMQThkOEpTTEY3SktmYWoweXl3Smw2ZW1zTXlmTjBRWFh4aEtkdGZsT0Z6aW85S01HRmt0VWgxUlR0a29pbDJMZzBTWFFMMkxVTHlnSUhXMVliMHNXU0hMYlBJQnlfd3BSOXlfaGpiX0NWMWd2dTdodDJJU243WXc?oc=5"
+    }
+   ],
    "published": "2026-07-09T11:05:00+00:00",
-   "first_seen": "2026-07-10T00:15:18.401343+00:00"
+   "first_seen": "2026-07-10T00:15:18.401343+00:00",
+   "updated": "2026-07-21T11:56:16.815078+00:00"
   },
   {
    "id": "5184d5c5282f",
