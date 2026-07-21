@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21T11:56:16.815078+00:00",
+ "generated": "2026-07-21T14:16:38.915882+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -970,9 +970,15 @@
     "url": "https://sbcnews.co.uk/featurednews/2026/07/13/gibraltar-predictions-markets-regulations/"
    },
    "source_title": "Gibraltar makes history with exclusive predictions market regulatory regime",
-   "also": [],
+   "also": [
+    {
+     "name": "ReadWrite",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHdORUt6MWhXOG5DSGVidFZSdDNqTzYtdlFJZTlPSWNNNUFJY2x0QmVnOXZOaDY4cUJqMDlyS1hvSXk1YmlvZXRBZnNBeFVudVlld0RrUWVQOTNyV3hoRWdycHI1bXBxUjl3QmVGbTR6bmlLS0lPSDUxQ0NqQXlKRkMwb2liemVDWEJaUkxZSVRJV0ViRm9SVk5CT2dCM2Vybzd3?oc=5"
+    }
+   ],
    "published": "2026-07-13T09:30:58+00:00",
-   "first_seen": "2026-07-13T23:07:03.671265+00:00"
+   "first_seen": "2026-07-13T23:07:03.671265+00:00",
+   "updated": "2026-07-21T14:16:38.915882+00:00"
   },
   {
    "id": "5fb3ede7b560",
@@ -2028,11 +2034,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkxWdEUyWUdzenNDa1l6UGpENW00SWZHang3VlJxWTFzT2FlZDl0WUFOYVlpdGZja256RWg2bE13bE1WQU5POEh5cjJYLUFsUDJLTUhmSkhwTFJKOXFfZ01fN1hNcU5mdVVoWGt2Snk1Yll2bnBUY3lZdS1SejUwOGIxMHFBcHA1SENiUnVPangxUEpUQVA2Wkt6MVVhRlFw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmxYV2tIUVZNUjF2U2VrZlg0LWg1bHNhTWdnQkYzQ2ZJcWFPU2hOeWZMVUtZS0pzRkVlVHNyWENQaHIwYWdKRm9NQVVyaGU4S0NCdDE2TWxkMS1pR2VvLWtxYl9hT3NoWVlqdUlJTEx6ZjE1Q0sxclh3S1ZHQXZlNEVmNU00M0l2Q0ZVWVEwRzMxTDNiS0Z0Uw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-21T03:39:59.945175+00:00"
+   "updated": "2026-07-21T14:16:38.915882+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -2980,11 +2990,15 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONG9jb3k2Q1NTRjdCWktuMmF6dW9KRDdvOHNreFNwNzVfc1JGSEJ4WlFkUVdBcjhYR0hldXRUN2RCbVJPYVNvcWhHVlpuTnN5WG5xMFZWRm5MUzdwb0ZLUHNkdVo5T3Jab2p5LVhkREhHbzFnRWFxYjdBajgwUUVWeXhSSmJYM3pLMlNpT1NIVzZvYnlRRDhjZXdNMHZabGZlaXJLNlBmdHNINDFiVVJBanA5bFVjYWxy?oc=5"
+    },
+    {
+     "name": "The Seattle Times",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalhFeGo4UFlqQ3dKclVydkd6RnZQZFZYSTNINXFjUU5HSDliQVg5eUdGNUVkbkZPQ0FZSDVvREtrWGRiTHhBZHRDSUx2T2hrRDFqY3hfN1dpRlVHS3pKZVdMWUdwaV9TakNOSmJZQWxvRjVCd08wR0N4SGZnLVpZNG1CU1RsS0p6eFJaWkkyQXpHdF9QT0M3Q3VNYXUwQlUxYmJjSXBB?oc=5"
     }
    ],
    "published": "2026-07-08T19:14:02+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-07-09T18:57:25.549903+00:00"
+   "updated": "2026-07-21T14:16:38.915882+00:00"
   },
   {
    "id": "56aa342e220a",
@@ -3812,11 +3826,15 @@
     {
      "name": "Law360",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWklpWkl2ZVl2QS1oS21yal9RLVF4VzkyT1FmRVY4ZVVkUlZheF9WZlVReVBBY0JINVFiRjFDQUhtSHNfQktTMlFNTmJoTHZpUG9xc2VWQmlJVnVmVi11dmdtRnB2bFlHTGFrUm13aldJa2U4WTVjTEFEQ29IU0NhV1NkVkVDbHoyVklZSmFUazZ2XzRkZ0Z1dmNjMGVvZ9IBVkFVX3lxTFBZT256VDVFdUFPRWFucGlndmxEanp6clN5aVpOenBjWEYyc1I5dmh1UEZjdUF3NFpvdmdmUnZkMzF2VE03RTJ4NEpabGd5M1VpWnR2YW1R?oc=5"
+    },
+    {
+     "name": "SRP (Structured Retail Products)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTJORkhNdmxSMDFEQXA1eVFYU0V0UGJhTll1UmU2UDZFWjNQR3hDLVg0QVJkZmVrbE9pVGo3c1VaMk03cjBwLV9iQ3BIbTgtT2NSaXEtQktEellMd3VzbURBTXNaRFVqUjJZckpkUFhEaWphdVJTMHZ4VlZFV05NN1pyYzdneGZ3dmZxRnZraVlIQ0dPLUdtM0NtQzBnY0dXRGc?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-21T03:39:59.945175+00:00"
+   "updated": "2026-07-21T14:16:38.915882+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -4375,11 +4393,23 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmJxbVpKaW9MX2FiU01LaUd5R0UydmlmcjVlQUYwaGNqUVFtUi16NWJDV1ZRTU9HWXB3d3Vja1VqX0xZZ3RoTnJndUJYZ0lHMWxrVHFKVDNxUmROQ2dBYWFsSTBRT1BXYy1yejJDYnl6WVRzZkw4RkRLMDAwc2VJc0xwWG5BWC0tdTlVZjJEaU5MSDRtMDZ1WEZXcWhqUFVOTGhXWHRrWUdQdnBSeHN2R0lvaEpWM24tdEhIemVMN0F2N2M0?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWFFLW13UUQ1RzlReGVDWTN4ZlhIR2ZLVnZIZVViSWR3OFpNcDVPVURqbFpwUlYySEJuTzhZdFRnY3Y2TU1EUWlhSDdBdHl6cXFtVnAyUjJJNnBVNzVkNVh1M0kwTHc2QVMtV2Y3YUJhVW5Iay1zeTVQLXVFbWhIWU5GVndWcEZLZ3ZGeDJoMlM4QXVoVEtlVldYai02SUVERnNv?oc=5"
+    },
+    {
+     "name": "Sportsbook Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDY5RTN0T01tRVFJNnNIZDc4Wks0Yk1NLWFCV2VHZWFXbFB5dVc5RkVNT25wbWYxNTkwcklGR2xQV1lSd3R0bXZ3Mmc3NlNvWl9hZGhUZFZtMDBCUWlmVEM4ZmlOcHRJNDB5a0RNc3o2R3g2NWxPVmRaRXh1OWZDZnVFWGwxeHZlTFJ4VXFWMW82SXlKdl9NZWNIV1RQcHdZMkF6cjBhMDNoVnY4NWJFTGhB?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHc2YjhneW1XcGRoTDhSZjNhYTJrSV8teHlrZl9YSGZYdzVxdHZybWR3WFl6R2F2VFpsY3pBSkxtWlJtUVE0TVBCb3ktMHhuZHlUaDlLczY1VDc2bHhDcUJTUlgyR2Q5c2ZUU0piZUxzTHh0dnVOeENDUzRwX2hZYnJPSTdYV2Nta1BlWWRxSjhWTHVJa0xCcExHSlNzQ1pLZGlYS2hsMDdJdGtON0h3eHNDZV9KbF8wQzRJemZvN2RCWEZU?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-20T22:09:31.578957+00:00"
+   "updated": "2026-07-21T14:16:38.915882+00:00"
   },
   {
    "id": "3b83809e121a",
