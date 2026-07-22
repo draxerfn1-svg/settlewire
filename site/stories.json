@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22T00:02:17.039641+00:00",
+ "generated": "2026-07-22T03:36:50.168362+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -250,11 +250,15 @@
     {
      "name": "01net",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVg3MVdiaWFVZEhaVHY5bzRuNFNGTlAtdFMtQUJzSm0zdUFzUzhZSlYtY1JJUVRiSUZVN1VPUVBFeDAwR2h1U1ZodkE3Z1pPeGVBV0ZpVFM5MjhJNjFveXM3OGYxQ3p4V2pkckd3cE5kNEFaaVFpdkhaNDFWSXNSLURXYUxJTllKSkYyVGFERXNxUDBfRlFEUWdCbzFkbEZoMldOUGxzWWV5WGV3SFZ0Q1FHQlhYbGl1dE53MjJxeEJGWUswdG9OamdWVTVIaVFMbDBrZDNUcjVCbmFadURZeVdXOA?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORW9iUTlUeExLaUNzanY3ajFBNTVwTHoyZHg1MnNQTXBBY3dKZEpsY2dEVHhPRENhSlZ3SG1KVXBBazk5VUR1WmJMaXZaTHlDaF9tSGd6ZFY3M0VINUpwWFZ0ajZhTS1xa3p6Ry1TV2cyWkpScWp5RTNTejlEWlhTdmpMUUt3d0ZlOFQ4bEJVeWh4Qy04cGE2VUdVSnMyQWtIa3Rhemtrb2k?oc=5"
     }
    ],
    "published": "2026-07-14T12:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-16T20:08:46.193569+00:00"
+   "updated": "2026-07-22T03:36:50.168362+00:00"
   },
   {
    "id": "51c2d8c40ec7",
@@ -2046,11 +2050,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2FVVEI4bVhzc0tqOHZMcEFOaGRTY0VFYWdUSEhVQUFmTng0Y2pDU2V0RUlRa19oano5dUpSUE9XdVRQUmU3VUMwWkQwMUtQRkF0U2xPV2FIa2NocW5MNnJFQ2R4OUVrRXNsa1JTVHJUbmN5NnlsZUgydFVaXzZmY3BiVmRCOFlaYWRjNFRFbXVSZldUZGJUcWM0QQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHFGMkVVUDBvVjRwd3hvbG9pdUdpakFaVnNtR3BzSmxwVFRrNG1TX05GZW1XcUFlOVF1V0ZpZzhJRVpucUpQNk0wS1FkSU9GLUR5dl9PWE9DcDdxMDEyUkd5ckFrSmwweFNnVzdnLVRLcHFYM21nR3ZmYUxjU3hPeVBMdzlpMDQ1T040cUc0Z05LVHBrMVNuWkx3Y1A3Ty01?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-21T16:38:11.413819+00:00"
+   "updated": "2026-07-22T03:36:50.168362+00:00"
   },
   {
    "id": "0741dc215b0c",
