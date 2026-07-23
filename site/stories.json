@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T04:25:57.493792+00:00",
+ "generated": "2026-07-23T07:41:48.044201+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3258,11 +3258,15 @@
     {
      "name": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWtJYmlWRnVRWTl0ajBNNW1lYUs5R1JtUDlscmhLbVVtQXQ1NjI4Smc4akpldVNNeG5PZmxwSEZic09yd2prUV9UZTUwd054cnZIS3h5SEhvU3V4ZHVJUWJ0clM3eVBsNEI5Z01uaTk1aDRVM3NTdWIyWlVieEtqWndldjJlaUJaWjlwTkFMWUdPOWZjRWpqT1YxRVdHUWtZVlRqT3dn?oc=5"
+    },
+    {
+     "name": "GIS Reports",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iTWQtbFhwa3pXQjNSZHRFeXZkWkpsUE45Z2xGeFRRdWZCOGZ6M2k0Zm82ZUhjU1drdFQ4cktHX2VYal9JNENYc3NyWnJkSmt1LXFIS3pnTWwxVUd0M0JKamRWaHk?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-07-12T09:10:02.310846+00:00"
+   "updated": "2026-07-23T07:41:48.044201+00:00"
   },
   {
    "id": "938912f97a98",
