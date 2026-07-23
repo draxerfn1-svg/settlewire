@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T19:40:16.140720+00:00",
+ "generated": "2026-07-23T21:17:32.353115+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4493,11 +4493,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXdUWUloc2pRaW5GX3E3ZElTQ3lEMVlsblVkOW5mYTJVNDQ0VmxianUwRWpfUE5zZkZQUjhSNVBPeU43dEJ5Q01Dd0p2SXo2Z0sxeWlabjBRSjh6eHNvek9BNndveTNzWWYxdk9kWVhwWXZuUllwOWdsUllDaXY1NWh4OWNabmJ0RFo2aWx5clI2U2hUTmVRRUtrUEFFelFrb1NYVW00N0ZPQ1F6cTVGOGdB?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnhLR0ZYNzF6VnlRTno5Y1dJTEVOdlB1X0kya09KS0x0YWJ0ZkJsRXJhTW9kVkJDOEN0aUpXWHJNSXRpSVJHb1pQQWRqWF9QNWdna0dsTmMtTFFyMU53NXVqcVlrMVBTQm55VEljUnQ1TGgwV182SF9jbVBJMGk0TjRzR1FpMVBBYWRpUnF2R2hGU0h3NzV2MUl5Y0kwNzRGaDJhLUJva3JSR0xQeEVxdEhMOVVxTU5DVzFfSnlRVQ?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-23T19:40:16.140720+00:00"
+   "updated": "2026-07-23T21:17:32.353115+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4922,9 +4926,15 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFJyeEl0OEs4UlBRSC1LOUlPX1ljRjRpOG1fREJ1c0xPeWNhQ0NFR003YW4xejhtZngzT2lFaXo0TmpoUUNaLXdGdlFESmU4UDFZLWEtLWN4MzM3RjQ4NTN3MHd3djJmcFlpQV9sbEstanB2djNWMUZjNHEwX1lQUXgxSk1qM1NnMGRsMGJvVlJvQlI0cWxORWxMOEFjOW4tY2c?oc=5"
    },
    "source_title": "Future of prediction markets is anyone\u2019s bet as nation\u2019s first ban starts Aug. 1",
-   "also": [],
+   "also": [
+    {
+     "name": "FOX 9 Minneapolis-St. Paul",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KZnVraVA5b1VmZVprNzZsTERuUjhtYy1COUQ1b0x0cDY2WmRlZ0JtNFd3SmJUNHRsYnN4MTJZRnd2LUVXSXVPZ2NmZzc0TlRtTnJhcWlKdVJDVlnSAWBBVV95cUxNWldHelE3eG90WWcybzBfNkhuSktKZ3E0Q2JOT1loMmt4SGhiTVFNYXFicU5IbEdqTlFqZ3p1bExnalB2VUxWUTBqakFCSThkdG8tc3NmTy1LNVA1Ung1dFU?oc=5"
+    }
+   ],
    "published": "2026-07-05T11:00:00+00:00",
-   "first_seen": "2026-07-06T22:22:47.953639+00:00"
+   "first_seen": "2026-07-06T22:22:47.953639+00:00",
+   "updated": "2026-07-23T21:17:32.353115+00:00"
   },
   {
    "id": "97f8d98cbb83",
