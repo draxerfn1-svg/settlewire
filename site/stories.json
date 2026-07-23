@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T12:46:18.655123+00:00",
+ "generated": "2026-07-23T15:20:11.429448+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4477,11 +4477,19 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJzQWo2Z0M0bVdaNGlsZE0wUXNDdzBPXzdRQ0tPUTFWSUJRS3dlMWQyWlh3enNOUXp1XzFwZklZQ1dyeEVnN3YyS0F0QjV5cGlPQUkxZXBTWEs3QmxXVXlQX3EteUhyS29VSTgxanVOck1jQXNpeXhLSDdUTU9vRzJoWmxWVXV0UXVMMTRMVVBEcnhNSHhESmRTdHpyTTJTZ2JDc0hIamhRR1hoa1dEdnIybGdaSnRmQkRFajR3VQ?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVVNS0FwRkxRbDUwdmFhQWNiS1JUcV8ySEkycFVFOXQwRmFyZzR1WnJqZ3UwWnZ0VU54SW9kVjdvSmF1czMyRFBJUkNpcFFVRlJFT0tjUWEtVG1jSHJqYURiZVlfRXhFV1cxRklkOTZOYjVfUmktNk9zODZ1U3NZTFYtZXBKN1FCXzZUOXRMejFjbkJqei1SRFVPMnhIZ3JYUjVXSGxjN0IwLW1RWktyV2tn?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUFXQldjV3cwYV9XSzhFNTJrYWFqVlJ1SDN4LXhXU2xwUmtPNmtZUl8tMFNWTkd5RzFlRUNwQVhpSzl1ZVpVTEhFcFRHc1RaNWpaeGFqaHp1QnA3cmctalRvNkhnajFJYXA4UnRZb1gwbE5TQm9YRGF2Y1A2RU16NFJCOGljYlRFM2piSGwtWUdjSmFVeFRjR1VGUko0cDQzLXFTQ1MxTGdxRWdT?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-23T00:10:38.049301+00:00"
+   "updated": "2026-07-23T15:20:11.429448+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4815,11 +4823,15 @@
     {
      "name": "Sporting Goods Intelligence Europe",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk9MRGpRZVhoMHNaT2dHY2NmR3FJUkZTNjdTNFhVMXlrRmE2OGxqeDVQMVpGXzJ4QWxDT2xsSk82X2FFRGlhMmtOQS1uRGpENlJCd2RteTRvdzFSUnV2NFJoMjZ5aHJzcjV1Wm1FUGc0LURIOHVkYU5XXzBDekdBOUR5RThDNC1CbzZEWg?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalppbUFWdTIxd2RVZTdQNEwtZ0M0UktoTXpWZGtRTDBreEVzMWNGQkxnVzlkaHYxRTRGUUhtU21ZSjRIZHFDell5M0wwRkNWRV9vTWJId0dTVmxnVV95WERJUU1NbjdhOGhtRE56Z25HTjJjV0ZqWDVyRU9iaVRXbFJJbDN2LWxBemgxVXQyNm9ITG5uX2F3NEtlZVZ6Qml2R1pIcktoZFI?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-07-07T18:12:12.966729+00:00"
+   "updated": "2026-07-23T15:20:11.429448+00:00"
   },
   {
    "id": "78d60a3d2552",
