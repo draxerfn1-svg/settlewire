@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T11:51:49.520694+00:00",
+ "generated": "2026-07-24T14:06:03.371210+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3446,11 +3446,15 @@
     {
      "name": "The Washington Post",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnJqQ3JLLW1XcWVIOFlZNVVIU0VTOWJRbHJETHRDZWY2UHFTZEg2c3l0a0FBbnJPWWtSX1FXb2FwTEg2X2g1Unk0Wi1jMzJGTmVGeEZnbm5HYV9qeVpTY1ZGeTBlaG9qYVZjQmpxckg3Qm9ueUFKVmVpYWRMTXZPZWVEeEd6cVltZ01oaUFGM0hadFVpa1RRQW81RkhBa2NZSHFmODNHOXNZakFTaERvYg?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3pfOHR0Tms4RG1Vdjlzb0o2eUtQTUZlVzJsMlNiYWFHVmpPekwtU25CMWNLY3lMRjdjcGt4RmRncEI3YjktY0stV1UwWk1NSjdVV2FyUFVDVnZNa3pBcEJPX1pEMmdyQzBUSkdYbFY0aVhLdEFDNlVib0lUN203VmJrdlh2UnhkOEUwVzVhYzN1RnM?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-24T11:51:49.520694+00:00"
+   "updated": "2026-07-24T14:06:03.371210+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -4501,11 +4505,19 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnhLR0ZYNzF6VnlRTno5Y1dJTEVOdlB1X0kya09KS0x0YWJ0ZkJsRXJhTW9kVkJDOEN0aUpXWHJNSXRpSVJHb1pQQWRqWF9QNWdna0dsTmMtTFFyMU53NXVqcVlrMVBTQm55VEljUnQ1TGgwV182SF9jbVBJMGk0TjRzR1FpMVBBYWRpUnF2R2hGU0h3NzV2MUl5Y0kwNzRGaDJhLUJva3JSR0xQeEVxdEhMOVVxTU5DVzFfSnlRVQ?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDMwT2gzZzFRX2hZQ1RvWFI5eUpwYzBUQ1RONkk4Tm1EcnFONWs4OHBkY1ZSV19udUFWcXlpa3RkV1lYQWhGQnhkRWZmYllDNlJjZFN2SEdMMXZNZlY5OXYzY3R1TUhXTW1GZHZlaENRWkJWNDB0Q0FUTEtyNnpQUzZXalpFV1NZTEswMmVJV2E1dHFueHpOd1p0bFR0djN3bVdJdkFuYWZ3dWd3TU10Xy1B?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWZFWVRsOHJMcDg2UlFVTlBDSTJnb3hSOE11LVlOOXBadk1QbVdYNnJXT1JuNl9Vc1NKb08yck1kSl9FUjBUWnhUVUhoZHN4LUpQLU9xT3lkVGlGbGN0RWEwMVpwRU8teFVpQjRsSk5KOUtmbWpUSDVUQ1JkS19LTkJ6bmNQY29KM2g5YXVOUVdUZmdhZ0VtVUZyeUVlVnNSSTVz?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-23T21:17:32.353115+00:00"
+   "updated": "2026-07-24T14:06:03.371210+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -4694,11 +4706,15 @@
     {
      "name": "Lower Bucks Times",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WHRUZVJuTjc5b2dhX3lLYVhtNExSSVBWczBUR1c2UWgxb2owd1hDSGdaVWxtNGlwekswRXdHZzlBQmpoaHhRZzk1b0N3QkZ1Tjh2Sy1IVjFkS3NSRDVLeHdPWFA1VHFfTmthc3hDdE9XUmlxRHlkSVplckxyOVU?oc=5"
+    },
+    {
+     "name": "Sports Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkFlT0tXbENnaHZ6eWNPSkMzYUZqbGcwbTBIbmRHY2w1YTRvNFFTWmJsUEtZMVIxWmVWQy0zbWFMNmZ4MUl3bmR3YjFpdFJDcTY3alpicmdYeEo5eEhVSndSemdsRDFBZnRUMk9ndDVLVVdUSVF0aTVDZjRUNWFOaGJDOEt3NTVfRk94WlhLUDU?oc=5"
     }
    ],
    "published": "2026-07-06T10:31:03+00:00",
    "first_seen": "2026-07-07T15:48:56.059066+00:00",
-   "updated": "2026-07-16T09:22:50.505157+00:00"
+   "updated": "2026-07-24T14:06:03.371210+00:00"
   },
   {
    "id": "71ccb8c70c9a",
