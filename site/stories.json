@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T19:42:30.657087+00:00",
+ "generated": "2026-07-24T21:16:49.516727+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3952,9 +3952,15 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2EtN0U2UHNhRVhWSFdwaTNWdzRNMF9oVEFiRklLQ0RtZFNSX3Z4TU13XzFabHA4OHFCaF8xYWM2Z1U5UjZSOUVOdklEMkRoTjhnUFNqaE8wbTYxUFpnLWdVdG04Y1B4ZEVqd0tuWTJlTDZ2cVBBb0JUWkx3aG90bVBTeXZ1Q2thQkh6amJQOXFjQ0p3akI2WTBXejBUdw?oc=5"
    },
    "source_title": "Plus500 expands US prediction markets to 32 states with sports event contracts",
-   "also": [],
+   "also": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2plYmJfWUhMYXBJcHBLUm8tS0JnT2x1cUF5cXB5YVpwR2xzV0tFS2ZWMEozU3djSEYzOTVXNXFVOVB5X3kyN05DME51aG5YcS1mMXJQQTRrY0hwQ1Q1ekIwVzk5RmJTQjhRQXcwS2c3WnBPWWI4WDBkYjExRXE4ZkdMR0pSNndkSTV1YnF6THI4My1WMXdycHhLd3gxMy1nZ0FoVzN6MzJ1dnhCSlNsSA?oc=5"
+    }
+   ],
    "published": "2026-07-07T13:30:59+00:00",
-   "first_seen": "2026-07-11T03:35:02.416625+00:00"
+   "first_seen": "2026-07-11T03:35:02.416625+00:00",
+   "updated": "2026-07-24T21:16:49.516727+00:00"
   },
   {
    "id": "ed12e790933a",
