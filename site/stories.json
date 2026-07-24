@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T09:28:11.862159+00:00",
+ "generated": "2026-07-24T11:51:49.520694+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3442,11 +3442,15 @@
     {
      "name": "City Journal",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNFpxaE9laFhlMVVnazVRd2JSeHAyaW14SjU0TTVzVkRyak1BM0VPMnJmVlViRUpkWU1yVXY5d0ptYlNKek9xNXI4cDF2ajZYaTJlZGZXeGFESFZkeExRVXYyUTR2N3dZUUhPbjYxbGFUMHlTWjhlSEtTbHN3MUhKekVR?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnJqQ3JLLW1XcWVIOFlZNVVIU0VTOWJRbHJETHRDZWY2UHFTZEg2c3l0a0FBbnJPWWtSX1FXb2FwTEg2X2g1Unk0Wi1jMzJGTmVGeEZnbm5HYV9qeVpTY1ZGeTBlaG9qYVZjQmpxckg3Qm9ueUFKVmVpYWRMTXZPZWVEeEd6cVltZ01oaUFGM0hadFVpa1RRQW81RkhBa2NZSHFmODNHOXNZakFTaERvYg?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-23T12:46:18.655123+00:00"
+   "updated": "2026-07-24T11:51:49.520694+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -4843,11 +4847,15 @@
     {
      "name": "Yahoo Finance UK",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbW0yT25QQTAydDZhRHA3NzZLTkFRd0FGMER6RE00ZWQ0dEZQQVB3OTNPanA3d21BSVFabjA2Q3pDS3QxT09rUjZmLWdBTXh0cEMtSEpBQ0U2WklqNmtlT0VVR3NBcV9UV3Q4MGk2SDYxekJpTUwtUkprOTZPM3pqMkg2NmdTWnpOcXhQakE4XzBzeW1pMDRXTm1SSU4?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHRnUjQ2b3BQRTZXY3hNd1ItODFHVHdCd0hMSWxpeUtjZmxqRVNzYzhLcHh6MEJ3YWFiZmRSMC1jcEk5enZtZ2JQUGNxbzhqQi1rSm8weldlNUJUdXpObDNBR3Rxa044WUMtM0hBMVY3N0g0RnhxY2s5bHlkanNMSmR6cF9LOExpSmM4YXpIYWFyWDB0V0ZKUVBSUGc?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-07-23T23:07:42.377417+00:00"
+   "updated": "2026-07-24T11:51:49.520694+00:00"
   },
   {
    "id": "78d60a3d2552",
