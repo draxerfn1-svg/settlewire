@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T11:33:41.190340+00:00",
+ "generated": "2026-07-26T13:49:23.235393+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2142,11 +2142,15 @@
     {
      "name": "CNBC",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNklibS1SdVFWTUlQdkNMbEhwbFZzQnFRYVdOSEs3NzlnWk1wNEtiQTFLUU1aMXR6T2ZTbDZfc2d3TTUyZ3QxSEtxZFRtbU95TmR2bXl6WEYyLVhUcW1yalZqbENYWVEzRU96dHpTQm1oa1pKUWNkMWM1ODN5U0t4MWFINEp2SnpHdEdEbDdXUHJEQ2wtU1B2aDZoUkFqTm9aOG1OcUlkMHM2UdIBrwFBVV95cUxPMzJwWGNzSjR0aXhqMUJ2bWozQktUaUhXQzBTOU5CNWlIRGVyeURJa00yaE9ieVBlVW5HMjJKWmtWazNDazFkVkJ2Z1ZjdzdyZnJHNEZYc2ozSUQ5YXI1c0RLMERrb3lMYjhfaUgzOTVwR2ZuX21HNTZaX3EyeVRpNmpmNjhiRHQxMjN4Y2p5c0NvXzh2aWNIRXdfUks0Q3R0blJYc0ozcFRPekpvcXk4?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzRtYmNyWXA0UFlqZ0xrZlh4ZndHc0d4M3BWQUlYaVd6amNpUVFmNnVkNjZMckY3aE5oNDJIVkJDc1JpVVpTQmpiRWhQNmNvMG5RMVBIOGljVzRmNkZOeVRaVDZTQTVTbmhTN3dTSWFFZ0hzN2V0SDBSVV9laEc3S21HT3pCa2w5NGwxZHBEcGFYZ2p5aGJCNHdEX2loaEE?oc=5"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-07-22T09:34:07.869798+00:00"
+   "updated": "2026-07-26T13:49:23.235393+00:00"
   },
   {
    "id": "704478fc965a",
@@ -3972,11 +3976,23 @@
     {
      "name": "Covers.com",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2VIdmpLSFlHaXFDSWoyLVBMWDc4T0I5NV92OV9sYXdYNXE2blAxOTBldkt0UC1Qd3FuZHNUY2xfWVJqcGh4c3ZqMnNTQ0pfd1Z4WkZFLXFYd291SW9jVEstc01mYnB2dnIzVExRdzFTTzdET21rSGM4WEh0cVk0NExTSUtxMW9NTGNkcGJVT0U4MGZ4M2llbldNZVNIaHJaWXNDTTdtdE1jbUpVelZYWUNfWm1xNzJmNWtn?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlozNzRocWROYlgyXzAwcy05YXpnbEZMY3pBeUhDNWlqMDdJN2U2X2E4THVNMFUzSnlNblJVbnFwX1owLTR6ZjdVZFg3QlNZeFFTeEs3ZXZhVGZ4WUdYRzBWc1ktTnN3UzZxQUEyaTg4a2RpdzI5YXpyOFBDQWxMX213VDBlTEpYcnBTU0RKZDlxY1VCN3dwaEZ6Rk5QOVEyRGI2b1R5MTIzSWhOM0JUU2lEY1BkRFNLVVRVNzl0RW5sUQ?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdl95OXFRd1hHMm9ueENnb09OVDBPQjJ5d1k2VWlKTmUwU0lNMnBZdW9hVk42Y0lvUFVSdlhfTWxfbmU0UlpMRU1lb1p5bkMxbGo2SnNXSU1za1JkbWNrTEpibVdSS2ZfTG1hV0dKdDlkWEpIX2J5YXNObUtveC0yS3pEX3ZWaDJGTDhMOU00dmlKRVVLckpLRXBDZ0l1Nmljd0VIRmRWOF92SHllS0E?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-07-25T03:32:42.448767+00:00"
+   "updated": "2026-07-26T13:49:23.235393+00:00"
   },
   {
    "id": "ed12e790933a",
