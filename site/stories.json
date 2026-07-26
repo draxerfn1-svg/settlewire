@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T17:11:59.002329+00:00",
+ "generated": "2026-07-26T19:24:34.766297+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3988,11 +3988,15 @@
     {
      "name": "CoinDesk",
      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbVNCZjF0bjl4UDBKUTF5aW92ZTNoWUFYbldETkluZ2g2WlFrSFpYZ0JOSnEtN0VDdlprUUhDeTlvNEdfLWtubXJGVmdocjFjZnNzcUd3?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-07-26T13:49:23.235393+00:00"
+   "updated": "2026-07-26T19:24:34.766297+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -4595,11 +4599,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMWRadDVQOGxtUzBuY1ZpMUxKXy15Rmt4UDlJZEZGVk85YS1vZHJ1T2tkTVd2U0l5a1U0UmdYVmRGbXZCR1lOVjdRMktYc0M3UHlpUEdZS2tMU0dzWFdPNEo0UXBKbXkweTFINw?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlphUzd2cXhkWU4xZ1A4c3JvRGtfb0VzU0hYX1NVR00zNHo2R1ZoZGRyeDk1TkdmeEdoODZGeVJuVXBCelZDVWJwX1JRcTc1LVdGZUtjWEZtQkRkamdDYnlVcTI0a01KYW00aWY1QWVtZ1VrZGI2ZkF2TXRFUXlQazQ3a2lRNjBhTEQtQURQNWpvS2lDbHFQRFlnYXZaYmMzckxaQ0xGaWtfLUdCVHdQZU13?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-26T17:11:59.002329+00:00"
+   "updated": "2026-07-26T19:24:34.766297+00:00"
   },
   {
    "id": "3b83809e121a",
