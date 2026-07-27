@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27T11:35:26.175345+00:00",
+ "generated": "2026-07-27T15:08:15.342839+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3910,11 +3910,15 @@
     {
      "name": "SRP (Structured Retail Products)",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTJORkhNdmxSMDFEQXA1eVFYU0V0UGJhTll1UmU2UDZFWjNQR3hDLVg0QVJkZmVrbE9pVGo3c1VaMk03cjBwLV9iQ3BIbTgtT2NSaXEtQktEellMd3VzbURBTXNaRFVqUjJZckpkUFhEaWphdVJTMHZ4VlZFV05NN1pyYzdneGZ3dmZxRnZraVlIQ0dPLUdtM0NtQzBnY0dXRGc?oc=5"
+    },
+    {
+     "name": "FX News Group",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXprQzk4V3dzM2NJY25WNGRXTmozWmxrQ1JlTFlFdFZqZm5yQkxEWUM4OFVTS2pRVmVFMG41ZFZYTXlJV1FXYzFLQjBORXFxaEZjYU91VGJvLTdoTlBiTWNjMXFya0tqd2ZMUzQ0TEVOOXpPTlNVZzNLemhqZm9HZHhVZ0tfVTdxZ3hoS3EzMi0?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-21T14:16:38.915882+00:00"
+   "updated": "2026-07-27T15:08:15.342839+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -4611,11 +4615,23 @@
     {
      "name": "SailGP",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VS2JfTkxGZ1RGYVlabDlJM25FVXNVeURoZmpLTGN0cXpTM1NldmYtVmEwYUJfUWdtc3ltWE5pVkVYb1FYZVpsRFRJNFgwN3YyRGtYMmh0alFJVHpaajVwb2w5SElHdHM1WlhRaXd4SQ?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2Vxa2NCNVBnM3AtLU5xY3RZZGp4d1k4UmRWTGNsS2lMTGxzNXdMUWhxS29ZVkF1Y3hEd0FaYldJNGxDS0c2ZE5ibllteTRnYUV5WGFocHJyTTk0SDJJT2FuTUw0Yl9wa1pJWFNVcHVRNDQybHZNQlNFSjRrYVMxc0t2SkpiZkJWWjVzUjhSRTBCbjRReWQzX2lxcHlldmd0aG5SLWFtS09OU2h3VVZDUjV3?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlo2V3plNTFIVjZUWUR0cmVrSHFvRVpsLXBEYnRyNTY2MVZWWElxa3NWdWhtRnlFQ0h2ZXl4ZlRzMXdzUFNKNGhRLWdqVDRsWGM0bm5PWWJFZmN3QnhJTXJ2RzhhdE5iZVZ0LVYyX1ZfbkhFV1Y5b0JEVlZIX056XzJKcXVpZHRaTWVELU5VaGVYSUNlWkVsV0pnaUdzOFd2SzRF?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGV2RzJkTG5WcDhRYWdsUEREMFZ4TFlUbmRNbTFIYThlNmVoTFhkMEtxRkRCamtabjdKeVpCNEJ3Zl9FVVREREg4dlJvcEk1THU3VXhZTHhhU3hITmVZWGpiUjE5T0VtUXI2bXF0TGhpclpFVkQ1bmxybmN1ajRLbU5kRG1iS0l0dnN3bVdpQnFNQng5czFmbXd3U0t2aVE1cERRdjBScmR4dUlj?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-27T11:35:26.175345+00:00"
+   "updated": "2026-07-27T15:08:15.342839+00:00"
   },
   {
    "id": "3b83809e121a",
