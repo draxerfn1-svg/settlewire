@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27T15:08:15.342839+00:00",
+ "generated": "2026-07-27T17:50:49.837364+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -4000,11 +4000,15 @@
     {
      "name": "Cryptonews.net",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbVNCZjF0bjl4UDBKUTF5aW92ZTNoWUFYbldETkluZ2g2WlFrSFpYZ0JOSnEtN0VDdlprUUhDeTlvNEdfLWtubXJGVmdocjFjZnNzcUd3?oc=5"
+    },
+    {
+     "name": "FishDuck",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTlSQ05FZklSc0xFWmxzcHl1T2RXUGVZbUZKcklZS2RFSGdqQWNnZWpxMWVaaTZqQWREcmZvMFZVSm1DSi02djFoTmt2OGNTaWpHU0o1NS1DNmFOUndKSV85WmJ6UWFwVzd2VXk1ZGtWbXk1SFlLakxuNW4tX04yRkoxcEk5LUJiUjYtclUwM3BETTBpYmEwb0ROVmFWcVpLR1l5UHJaX3Q?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-07-26T19:24:34.766297+00:00"
+   "updated": "2026-07-27T17:50:49.837364+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -4627,11 +4631,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGV2RzJkTG5WcDhRYWdsUEREMFZ4TFlUbmRNbTFIYThlNmVoTFhkMEtxRkRCamtabjdKeVpCNEJ3Zl9FVVREREg4dlJvcEk1THU3VXhZTHhhU3hITmVZWGpiUjE5T0VtUXI2bXF0TGhpclpFVkQ1bmxybmN1ajRLbU5kRG1iS0l0dnN3bVdpQnFNQng5czFmbXd3U0t2aVE1cERRdjBScmR4dUlj?oc=5"
+    },
+    {
+     "name": "Elite Sports NY",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80T0dwM3ZzNDRrYlhPRG9KVERWc2pkRkM2eUhSMkRBZ0FIbHMtREZFM2hGWF9VT0J2QThpLWNLLVpKUGJucmp4NmVuMzhtM3FzVElsQXRXN0hUMmJ2MV9rRUYySFRyemQ2cE5ZeA?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-27T15:08:15.342839+00:00"
+   "updated": "2026-07-27T17:50:49.837364+00:00"
   },
   {
    "id": "3b83809e121a",
