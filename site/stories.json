@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27T23:15:29.928012+00:00",
+ "generated": "2026-07-28T03:28:44.821856+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1022,11 +1022,15 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbU1jbEprYk9UNHlaUlJoOUtqWjRGVTJBandJMUtHRnh0MGxaU0lIMUdEZm9TMUdTTm1fX05PR3Rva0xxT1VXbWFDUGlwUXppbmowclE3WngtN205Zjh5R19HTFZXV080ZEVrQ0lZODJYdmIzMXlGOG9ENXl5cnl5SHBDaGRFWlFHTXRVR1ZxS01LOUppNEN0ZE5sVkx2VVZ4TDhaeDEyT0llOWNYLWpFU0Z3RXgySnFoUHdzeg?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFQzVE9XQjNuRDVObGtFOHUwTnFXTEhIQ2J3MWU0T0hjQUR5UlVTemVxU1RBenJhMWhXSWVxVE1KaXRJek9fbDVRS2FTRGl0aTdSYWZ2dXl6bE5vQUNwY1pEd1FVeUEzYTJSSnBuTmVMY1Z4N2d2Z2gyREZ6cFVOVFFhanNOREFxamNzZVlQQmlQbS1nYnowemdOTXNNVFNIRUxlS2tTZHd0QQ?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-07-15T03:25:57.806009+00:00"
+   "updated": "2026-07-28T03:28:44.821856+00:00"
   },
   {
    "id": "aa57d70d1811",
@@ -2529,11 +2533,15 @@
     {
      "name": "The Economist",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDlYV3FqMkMzWElkMjVCYkQxRzZkR2NTNE05TXg2M3lqZmRFNjJLNGpUcTFFTi1aSnQyY29pN0phV191SEN4VFVjbEkzd3VNMFJGWUY0MXMwYk10VXE2bHpscHJnSDI3VHMtWmpZSE5NeGNuMkNMWlpmNFpkZ0prcXJEQUxQV1Y0VWhrVkM2WjJNOHBTdFBrQm83aGRJeE54cGotaw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakgzOElfWjZDZmptVTAtV0dhTEpPTXJLSUZsTjRJYUFuWVJvMVB2WWs0eW8weTloM1VlTmcyZ1M3aFBtVGZCdHBwdTlxMFJWQWlpSFJGVXB2NzN5NVlzSzJSbmtzcTR4TmYzYnpXeHkwbWlGazFaSzZ1ZVpVeDZMQkVYY2E1QUNiZmh0MU92Z0IwU1FKYkpvejZmSlNmZlRy?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-07-23T10:32:55.934124+00:00"
+   "updated": "2026-07-28T03:28:44.821856+00:00"
   },
   {
    "id": "5f8facee2c9f",
