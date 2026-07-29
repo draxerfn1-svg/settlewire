@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-29T12:11:38.866418+00:00",
+ "generated": "2026-07-29T15:16:57.906704+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2257,9 +2257,15 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekVUZWdNVlljeXR0YkgzRVlFZVEteDNITXc5V3Z1aG1uWGpPaGF4TG4tdTE1enJncFhpQ0E5WGJ5djhIaktQdWpiYjRLRGZZYzdQUU5iSTZxcXo0SFlEc2R5RFcza3NVVHhmT1E2YklSMzhJZ2lpX3U2YVdEUFVCVGV0b3dJQWVGMUpURUV2Um54NEJo?oc=5"
    },
    "source_title": "Prediction markets are growing \u2014 but most Canadians still see them as gambling",
-   "also": [],
+   "also": [
+    {
+     "name": "The New Republic",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHlRMXJOdzF5TnhZMGxpX3Q1ZGpSbWJJdGtYc0UtNVNTTkprRkpKQzFRS2ZVRUtmVGJkd1BsQVMxUkVKS2k5UlpDaG40a05yOTB4M0VmMU1fMVZ4LW1kX3A1TldyTWNvRTRZSWNWa3JQLWltV2hEczgtcFRqeWVuRWpSREZUZmFCQkFLZm1B?oc=5"
+    }
+   ],
    "published": "2026-07-10T09:30:00+00:00",
-   "first_seen": "2026-07-10T19:47:30.401982+00:00"
+   "first_seen": "2026-07-10T19:47:30.401982+00:00",
+   "updated": "2026-07-29T15:16:57.906704+00:00"
   },
   {
    "id": "ec04f3a61246",
@@ -3182,11 +3188,15 @@
     {
      "name": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUy1qYTk2T2lHNnpOdkpId0VHS21wQ0EtR3FVTjNDYXp4MGFyaVUxWGVENm5UODVNc3lUQXNXbFRlMWpDRnNVLWpNd29qdmZ1S1NmNk5VUV9WTlpZdzhLQVM1NjZKaVUxT3paQktRbEJCNWhrSjVFT0h2QVJmUEdmSzF6NmlOSDFGMkxYRXYwN3ctalZXTTRLQ0Z4ZGxPLWY5TlVINkUwQU1ZSnpITzkxV3hGcGRPUQ?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSF9KRzFjdEdOcEVlRlNnZi15MGFETDZWN01veUVUV1hvRlJtaklnckJfN3dkQ2dYUVlpTUJaS3FFOEw3aUN4Z0FGRjczSGFocDFsVkdPSEFRd0pOZnR4TXlOMVprb1RGQUxRTFU4QjVLSmlmSW9lR2ducW1EZ1FxWg?oc=5"
     }
    ],
    "published": "2026-07-08T16:48:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-07-16T14:15:51.707030+00:00"
+   "updated": "2026-07-29T15:16:57.906704+00:00"
   },
   {
    "id": "9c624e950b31",
@@ -4703,11 +4713,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03dXZrbWI2b0VRbk9KVXNUc0hEWlJnQnlWYmdjZjFxSVdGQlpVX2VkRm1iUk0xcjFSc3VyaFUzcWl6OFY1SDlhYmMyVHlnQmJlNXI0TklvcmVhMzJPVGZ6S1RzU1Fzd1Ztb2hudg?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblB6WUJpNzNOeWpaNmx3VDdTenhQeE45RnV5OW02QnJBUExiLUJpQ21OVVhZYURXVmZIX1ZBVUZNWjJocUpnWFNhdXF3TmR0QjJDaVZ2U1RPZzlhQXJlN2JvbTZWVEVKYzV5VDRzWmUtS290WVo4VWZhZUM2eU52QXdlWnFTQnF3Z1JGdlgtYWRFMnpkbFFqX0gtdmxvUjB2blByQlBoOThVTDlz?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-28T16:47:52.199003+00:00"
+   "updated": "2026-07-29T15:16:57.906704+00:00"
   },
   {
    "id": "3b83809e121a",
