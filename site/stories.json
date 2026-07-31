@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-31T08:06:59.192500+00:00",
+ "generated": "2026-07-31T10:49:49.604401+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2752,11 +2752,15 @@
     {
      "name": "WRGB",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdld4bFFrSXVqajV1R3FNZEVRQ09BQjdUcnRLWXlndFNtWTNYZWozQk5zeEdFOW44MEU3eFdhVnpEeENTNGctZUFUZG14dEFyelpOdDhHTUtYUTlMbUtUZzVXRVQxVXg2WU80dTJMc2RLUXBYdW5ObWZYb2o3MHUyYkFrYTViUTdsbmU0TzIzMm9lUUtCOTlZY0tJUldfUktqZDczOTdEN09TbXE0Q2c?oc=5"
+    },
+    {
+     "name": "Bitcoin Foundation",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmNDdm5kaGdjNVR0cXFKdXI5d3h3M0l3WWtvcV93aVJVdXRFSkhzRmNEb0Uxd1h1dTJub0dRbmRIYWF5RldSM0lpMS1PUTM5X0VaRVJrTS14Wk1vRGJlOGQ2ODBFRHZmTzZiZ1hiTXBPOFJ4c2Z3WnBXS3ZUVmpOQ2pEOU53U3BldjFUVWlaYXF6RXNyVFRkaXJIbU82QQ?oc=5"
     }
    ],
    "published": "2026-07-09T16:05:00+00:00",
    "first_seen": "2026-07-10T12:07:30.143112+00:00",
-   "updated": "2026-07-18T03:24:19.097082+00:00"
+   "updated": "2026-07-31T10:49:49.604401+00:00"
   },
   {
    "id": "1f4bbe026486",
@@ -3278,9 +3282,19 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWE5FNC1UejVNRE9mVDQ2Z0EwOVg2c1Q5UF9FalNJQkpqR3l6bGd1YW1DQnJmOG1fQlYwTmlIeUtsVWpTa3NCTnowQ2tVLTROd3lWczZTd1UxRDc0eTN0N3BScTdweHRyeEN6Q3BVelE5UFVLbUNYU0FfeVNXRjU0czI0NVNiNVpZU1MyTWNmQ2l6VkFlNC1wRlp3dktZcXdHWnZpT2F1Q1NnUTZObXEw?oc=5"
    },
    "source_title": "Gambling platform Kalshi denied preliminary injunction in New York",
-   "also": [],
+   "also": [
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0R0Z2NBUWVwRmhpSzJYOThXRnNZZE85bGZXTnhmRnBtaHFhMXdzaVRBd1Q2SHF0YUxLdWQxZVVUOUVvQnltMmFzekhuTVFOX1FobGxYVkRiakRHbFhyTFpmaTUxQWpHby0wRF9GR200bkJibnZIZHdPUEkyWldSN3pXbkk1MzF2d1lGSG1ldEZidjQ4Wjl4akJJTFR1b19RUUNKalV4Sk9nVG1MN1RDRmhnM2h2WUhMT3c?oc=5"
+    }
+   ],
    "published": "2026-07-08T14:30:00+00:00",
-   "first_seen": "2026-07-10T05:02:50.176979+00:00"
+   "first_seen": "2026-07-10T05:02:50.176979+00:00",
+   "updated": "2026-07-31T10:49:49.604401+00:00"
   },
   {
    "id": "f76693c8724f",
@@ -3471,11 +3485,15 @@
     {
      "name": "Yogonet",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0x3WlJEOU4zdWYzenZVbmJEUElGTjE5ZlZEMm1FMFNXbllmQmdUWVRHZm9DZkxoZldpaEJOb2NfcTlvNzVlU0IxYU1lQ3Bwd2ktcVp1LURSaUwyUTBOMnM5UWVGU2NZeDVoZTI2Y1pEZkUzempjdFREM0FZdmVzVlRsWGdRSzN3Z3NjS3EwSnRDMlh1Vk5QcmdodnpYNGVVbFlwS2dndzBlZmQtbk5BOVdYb25LcnJFYnRHcnBMYW15Ri1VbDh1enZaamN4NEdNdEJtbGJjNHU?oc=5"
+    },
+    {
+     "name": "Times Union",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGhCa2dwNU05VF9MV2k1ZTlIeXB4d0JyRXB6Y2JrdXRXaWozLVNKYXR3VmhWM1pWMDZ3d0NGZ0hqektjdGNIWGRsbnhmYU9uRGVkRkptOFlwUEUwdFg5Vkl0U3JVYmRVWGJhdUZvRnVrVzd3bWFWN0J6eVhpRVJpeE5GTTFYaHRnX20xZ1h6X1pjeUw4TUJFRE5veThKbTdFWnVkeW9nbw?oc=5"
     }
    ],
    "published": "2026-07-08T09:22:23+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-21T16:38:11.413819+00:00"
+   "updated": "2026-07-31T10:49:49.604401+00:00"
   },
   {
    "id": "9d7489a4cbaa",
