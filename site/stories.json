@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-31T10:49:49.604401+00:00",
+ "generated": "2026-07-31T13:03:38.772681+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -119,11 +119,19 @@
     {
      "name": "Springfield News-Sun",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1lLdEs2R2VUR1h0emJUTm8zQm9maTFlMzUwV1JsWU9SLWtxZ0pOb2t2OUJ0SWtkZzNYRURMOG5KZzJoUjF3blpNMFN2WWtBOTVod0kzUUF1cS1teUxEMW93V09DS3BFSjBFak1SZTFVLS1mWm5ZSUlKVnZycElQLWF6UlBDeHZSaDZ5dExzM0dnaEdxdFB5a2ZfTHVib2NUMXpmel95Q1ZaUmVUaEE?oc=5"
+    },
+    {
+     "name": "journal-news.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmppQTVvQmJXTGpGcHlUTGVhTDZWbjh5ZlcwdVl2QklJZlRTd3NJZkJOUHFJV1F4X2JPOEI4NUh3WkQ3MEwwek5pSGZ4NWoyUm5lLTBzNHZZVThxN3hoZzB0aFlNYjduRE9vdXpWcUFTZzRBRzVZZTN1LVdCRHp6NGtMaF9RVTV1RFk1UmQwdXBldjNpSEZSNmVpLVRYN2VyODVFdXA4R25uVFZmcXZWU3NsR0x4NHM?oc=5"
+    },
+    {
+     "name": "journal-news.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUg4TnpFcFMxOENGVW1IcHU3eUx0T2NrUFdET1B3NzBROVBvcFM5dUdpdXZ6c1NTN2IydG9wZXgyZ0RLd1ljd0Uya2NpNlhzWmJlUXNyRGxDRnBZM1pqSjk5TXNPVVBmSDJjWmJsd0xrU2VKNXNkd28xdnJmZXhSQ2NBLTNxNDVlNDdCM0VUZ0U2aktMelRkN2xQTXBWUElqWjR0cmtYVlRVcWpEUG9lQU9wd3NXQUU?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-07-28T20:22:09.813840+00:00"
+   "updated": "2026-07-31T13:03:38.772681+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -2102,11 +2110,15 @@
     {
      "name": "Action Network",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFFEU25lOUlhblNGLWtDZU10ejZWcGpkbmMxSDNjamZRUUNteHp3aUtscWpFZDMzUnZJV1lYNWh6SkJsZTh4NThLa0ZCUXl0SE5sYTVmbFFWbHZWbDNRa0F2TUJYT0pLZi1STVQyNFpmb0tzOE9fc2NOSEYyRk1TM1JLOGdOSW5rUFdlUVRSSjBpbXBYSHpESWUyLUk2RzVqdTZrUW1Ic0dxc2RqLWNGSlBuM19vcGZDU0xEa24zVDg1QUo1NE93?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW1GaVdfX2l4czQ3YXVKc3RDQXE3Q2N5cHlzd1dSOThsRjBseEZlNWZNVUpKOGZIQkJERE1wcTNFSHVBUWV0NndiMXNJU2I4bFVMQ0stMVdTV2lacG9TekNJQ3RRaVZCaGQ3a0VyeWRqRmFGdURKRERyb1oxc3FyMXFRSlgxS09wc1BOaHM4SThlMnZUTWZuR0N4cVJSb08yMG9NTnpYM2ZqMEZCYWZydzNfcDM?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-07-29T23:09:03.781653+00:00"
+   "updated": "2026-07-31T13:03:38.772681+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3290,11 +3302,39 @@
     {
      "name": "CoinDesk",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0R0Z2NBUWVwRmhpSzJYOThXRnNZZE85bGZXTnhmRnBtaHFhMXdzaVRBd1Q2SHF0YUxLdWQxZVVUOUVvQnltMmFzekhuTVFOX1FobGxYVkRiakRHbFhyTFpmaTUxQWpHby0wRF9GR200bkJibnZIZHdPUEkyWldSN3pXbkk1MzF2d1lGSG1ldEZidjQ4Wjl4akJJTFR1b19RUUNKalV4Sk9nVG1MN1RDRmhnM2h2WUhMT3c?oc=5"
+    },
+    {
+     "name": "Spectrum News NY1",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDNTV2JqOW5JZUZpeDJzLVRDaDNjOS05MmdfbkExZTBWSnRXRFJCclZFYm5YT2dMc3BueHVNMUppTnl0VGk2Z0xxSENGSlhSUEpOUkMwTXBwTWdhMXRoOVNJVjdhQU9Id1RCY0ZBLV8wN0JUOXZyQlpXeXhCLWh5aUUxOHlGMGhNWmtnQUF1NU0zZW1BZ1NtbEJ3SWx6RzJhR0liMzJPWF9vVVU?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWF6MEZGU2RJR19qelhqMWZsd0RDSzltaXNtR0dhYmVsM1VJWFhZaVlZcXdBYVVlTUlRVGhCSkJKVkJVLTg3eTQxanhVN3NqRDRCcU5Lb2duNDhEZUJ4V2o1ZHhmT2Z0VURRT2V5Qy1seU0yTDY0RnhHUFdSaWNwZktGTzBrU2QydEh0clFkRnRYU3EwTWdfODQ1eDNFR0xRNHA1aw?oc=5"
+    },
+    {
+     "name": "Ottumwa Courier",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1lGYWMxMV9HVXFCZjZGeURQWUF4d3dXNkc4WS14TGhmMHZXVW1UWU92ajU0RkV4ZVdxaFpNTFhoT0VJUk1pNmJYWmZBSGJPdmxva3ozYV9GeWxOM3NCWGlOTk9HU0R0WTJyMzNXMHBWcTFINUVLV1NvcmxuYnZHdkE2NWV4cFdJYy03V1pDTUItQUt3MEZKU1lseWlTcTlQMmVkNEwyRDlIV1JhbVlySmFScklieWhFMVdiQ2xDUHNxQ0ktOGt4R2oyeXdQSG1zaFlsOThTcWlabmtrSTFHOGxyTXN6Sk9QaHNLcDV2alBrdnAxSDNTNXMzeU9uWlg5dFd0V0xXdGl4UQ?oc=5"
+    },
+    {
+     "name": "Temple Daily Telegram",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbVg1Tm5hc3hDd2JKS0ZJQjd1VjNaNjZ4ZWUwU2diaS04T1RWeFpNdWZ4Q0tfY1ZGdmQxT1dWLUM4QVBYbmY3d2xvcE5JTEdkZC1CeE1FR0FEU0ppc2J4Z3hUWkp2U01CODZVd083cWdwT0dxNmJuT19sVXRBNERObGQyOUdhSHRYVWhFdVV6MFV4SWhXWlE?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFZuYmsxX3VZMlRMTVNpQ0xsaEdpejl3aW5yVjZUOTBwbkRWd1pvLVNVd2dNZGt2VHVPWmpVYVFIeDZSdEd1RWFqcGdXazBMcW9RRE9PaUxHY2ZWd19UcG9KQ1RTYmRISHUxeDk4ZU9SMUoyM3NYVUU2VnpqSzZtVGY1N2tXdWNMcUN3TWpn?oc=5"
+    },
+    {
+     "name": "Crowdfund Insider",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMUR1c1c1aEZNY0ZkMWx6VVdBS1hSaDJyU0ZWdXZVbUtCVjFqT1ZvSlBVN09SSzJIaHhwVlJUYTRuSmtTWGY3ZS1GSzRYbDdrd0tYbC1aVHQybGs2YUl5WjdqRzEzaWE0T3NVQkpZWWlzTkJscUlVV3JUUV9vcGRzamVVdkFTMW1XVzQ0Z21SNk52ZlZMdEdBNTJ1b3NEa1FORWpCTjYzckJfOE1pLUhXWTJTbFlrSmJISHlHb2R1Tm1PM2xmSmZtUVprREtubllGaTBGVXRNRkh6bHNSbEZlTQ?oc=5"
+    },
+    {
+     "name": "Boston Herald",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmY3lKUFBlWEh2MjJZSUlncTlHcjhKTm1jNFJjRnpHWTBUaVRkSXFSQ2R4Ulpsb2o4T1dFSmdfV2JWRjNaZWlDWGhXLTdIQkp4Yk5mTmoyWkdQT2Qxem1fa3kxaEd2Mnc1N0lVZFZpcGpSUQ?oc=5"
     }
    ],
    "published": "2026-07-08T14:30:00+00:00",
    "first_seen": "2026-07-10T05:02:50.176979+00:00",
-   "updated": "2026-07-31T10:49:49.604401+00:00"
+   "updated": "2026-07-31T13:03:38.772681+00:00"
   },
   {
    "id": "f76693c8724f",
@@ -3902,11 +3942,15 @@
     {
      "name": "Valley News Live",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0lscHVoYnFCX2VGNHpvdnpPOFhGSHNkWU44d0NRYk1PbnZ6UVdPQlV6MVdmcWVGTGV1eElsc0hYcUVhX29qQlpfRkhoQnoybmc4Rng5SDFsUFFNamdaR09rZFFRZF9MaGUzWnVybktpSEJhS3paTmlEV2p1c21GT25welpfaTE1M05SVVNGN0FCZHlSZmY5TU1YMnVUc0FIcFVfa3d3TUxOME9kMTJXZGRQOUcyRERabFdNRTRSV18zQ05abVFsaFNHcFpBeTJGYUV2Tlo2aDk3cGRGdGhIdg?oc=5"
+    },
+    {
+     "name": "Willmar Radio",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSUpqbm1jSXpsbHhGLTRzaGVwOUZOallYclRBYURUZzdKajRpM2FLR085YVA1c0hkZlV5a29NRk1mX0R5Sk04NTRhTXJqdkZOZzA5YUJVdTFNUDFkOVBYb0hTUjNJdmxFOUg5NTdUUjJ4VE42bE92b1U5MlNpV1JKNmxFeFE4UUVZSEhjVkJld2R4b1JGRW5EbVRKZDBaNEw4cV9CdTlvckxPNkZBd2hEN0xpWVgza2hhNFhNV0p6dEcxMk1COHV6XzdhVldUcGw4bzNwS0Y4ZFA0ZERLeExHVUJqRWpRMkJ6UVB2eUhoTUJrdDA0bUFMTXBNTE8?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-07-29T06:41:17.218449+00:00"
+   "updated": "2026-07-31T13:03:38.772681+00:00"
   },
   {
    "id": "6b51daf83d2e",
