@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T17:10:49.154611+00:00",
+ "generated": "2026-08-01T19:22:57.848376+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -127,11 +127,15 @@
     {
      "name": "journal-news.com",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUg4TnpFcFMxOENGVW1IcHU3eUx0T2NrUFdET1B3NzBROVBvcFM5dUdpdXZ6c1NTN2IydG9wZXgyZ0RLd1ljd0Uya2NpNlhzWmJlUXNyRGxDRnBZM1pqSjk5TXNPVVBmSDJjWmJsd0xrU2VKNXNkd28xdnJmZXhSQ2NBLTNxNDVlNDdCM0VUZ0U2aktMelRkN2xQTXBWUElqWjR0cmtYVlRVcWpEUG9lQU9wd3NXQUU?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUFDSldrUEozR1ktcHVCbm5RMjBxWWFOaGpRdVZmbW5aX1o2SHRtYmhpMXI4VHlNeVlmX0d4S1h1V2xMZVA1MFZ5U2lsTHItNGFReHN2STdCblVtZGRZZXNpR3owbVhjN3BwQ0RqSFVqSngybjdudE9ZXzZHNHVlV2NGZXg2YlJqeGRaMWFKUHNzODQ5ZVdHVkF2UQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-07-31T13:03:38.772681+00:00"
+   "updated": "2026-08-01T19:22:57.848376+00:00"
   },
   {
    "id": "005a8d5e0c0a",
