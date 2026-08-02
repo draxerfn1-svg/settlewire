@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T13:47:53.887322+00:00",
+ "generated": "2026-08-02T15:12:58.703396+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3350,11 +3350,15 @@
     {
      "name": "The Guardian",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT29JSEtudl9aeE5IcDlyN3JXdTVJNGZBOHZGODJ0cXZUSjJuREVjV1hTS3EwZGhEZllTWDViSE5lV2V4bnk4S0lOVk9ZbEhZWmc4RW1STHU2anpTdkNGSU5adGVrSG1WU3c5WEg5d2JrLUp1WklocFRzWVQ0TU4xWUVCbw?oc=5"
+    },
+    {
+     "name": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWE5fNm1xZ2ROT2FBZWR2OW5waXZCQWtTQ0tCNHMzQ21IMlpnVWh4aVQ3UUNCTjdXWW1JNThlcnd4WUJPX1lHSGF1SkJob2hNYjZyNmoxazlZN0xMd1N5bExlaFVMeWEwSzhsQ29PYk81Q1o4SThLeVY0R1B1Y0tCcnNTYjlOczBaWFVfZEJQb0tEVGFJd2RqV1g5UEpUc1VsY2VLUnZGOGJaRWpwbzhLUWFOMzNrOEZLLTlDYWdCckYtWW1VRjBWc0dmNUJUQQ?oc=5"
     }
    ],
    "published": "2026-07-08T14:30:00+00:00",
    "first_seen": "2026-07-10T05:02:50.176979+00:00",
-   "updated": "2026-07-31T15:27:24.355150+00:00"
+   "updated": "2026-08-02T15:12:58.703396+00:00"
   },
   {
    "id": "f76693c8724f",
@@ -3557,11 +3561,15 @@
     {
      "name": "Courthouse News",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFplU0pTQ09zcGw5Z3ZXQjh0S2Y2cWtlbFZwRHg5aGo2VVBVOVhSU2QzQzZvU2M2Tng3SUduWW8yMXlBby1jM000WXJSSEt0cWJiclE3SU1mZFhvSWh1TzJfeVp0Wk5sN0NtdlduYzZlOW45aFhkOUIxenhDTHI1VEp4RUFfQzNlS1BQbDgtT19YQVdmMEs5X1U1c2daQnJUUVM2N3hsQjRVd3FYeDhJ?oc=5"
+    },
+    {
+     "name": "mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwcnZlaUNkWHZnRUxxajFBYUhmM1lmT25KLUNJQVNSRFJoeWFCOTBEYnc4dHNIMFFZM200TUt2b0YwWlhxYXJsLTJRbmhjTDFfZXNJSTJ3NGwyZm8xZzVybnkzZi02QQ?oc=5"
     }
    ],
    "published": "2026-07-08T09:22:23+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-31T19:47:04.814202+00:00"
+   "updated": "2026-08-02T15:12:58.703396+00:00"
   },
   {
    "id": "9d7489a4cbaa",
