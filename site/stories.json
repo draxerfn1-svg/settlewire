@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T15:32:03.739851+00:00",
+ "generated": "2026-08-04T18:00:08.843567+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3635,11 +3635,15 @@
     {
      "name": "The Washington Post",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3pfOHR0Tms4RG1Vdjlzb0o2eUtQTUZlVzJsMlNiYWFHVmpPekwtU25CMWNLY3lMRjdjcGt4RmRncEI3YjktY0stV1UwWk1NSjdVV2FyUFVDVnZNa3pBcEJPX1pEMmdyQzBUSkdYbFY0aVhLdEFDNlVib0lUN203VmJrdlh2UnhkOEUwVzVhYzN1RnM?oc=5"
+    },
+    {
+     "name": "thewalrus.ca",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UUDFibTZHZkRLSGhzcXZJbFhpMmx5Sm1SUWVfVEo3dEN3VVlvLTlYd2dXZXB2bTg4T2lDbThKSkd0b29OSC13WjVGWVNWS2R6cmg0M3NzWUwzTHJ1MFk4aG5VZ3ZoZHBscEw5Nmp4QldzMENzVUphRkxB?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-07-24T14:06:03.371210+00:00"
+   "updated": "2026-08-04T18:00:08.843567+00:00"
   },
   {
    "id": "4ece52476ed0",
