@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T17:50:39.322873+00:00",
+ "generated": "2026-08-05T19:49:35.823554+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -155,11 +155,15 @@
     {
      "name": "Bangor Daily News",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXNUWWR1REZtS3RDVVFlSmJRZjdRazRLWC1BNVBsSzE5WUZjLUdpTURBRThVOXVEMFItS3NpdGQxeG1zeWtGUHVvb2l6a09RSVFEVU9GLVN3ellBV1QxU05aQU1zY0JGVnlxbXhubjg4TXhmVVBObHgwZzgxaUM4NEtDRXJrYUthWGFMcGRyNDJUMkdlaURKdjlJQUxWQWNLcGxDSVlVejE1dw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUNMemQyQjdtYWRNUkh3cUlYQmVlQTVjZG9ocFJiUDZfZHlRbXRCVDNNeW1rd0xhUlAzS0dlOUd0blV4cWF4M3I2dzhDc1JUeWQ2WWFqS2Z0cllOeUUzdE9zTWdWc2psbTZDQm5RZ19pMUNwWjRod0Q4YnJwLWlabkpJM1VtSEZaY1BwcVRVa2x4Vm5MYm01RWZYRQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-08-05T15:23:59.345661+00:00"
+   "updated": "2026-08-05T19:49:35.823554+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -339,11 +343,15 @@
     {
      "name": "Pulse 2.0",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckVGQzFGNkkwQWhJOTFCSXp1Y2p6LXVYcnFCUFhPbnJxU2ZMSGd1M0hMVHRPNmRiNWY5RzV2QVV6bDdMUzA1bkNUWTVONVNsZWNvcEVFeXRuZ1dMVnlqQ1dXYWxjbmN5NjByLWZzZGlhdEUzUmFHYm9wMTF0eEJZcHpFYWJSUzBjcWxmS2dR0gGTAUFVX3lxTE82bWRlWlAzcEZ6YWtSeUVXSk1nbGxDOUFCa0I2R2d2LUVqa3B1Q3UxRVhIUlhrUEl2VnFIVnQyR0k3MldMZ3RKbVhDdkxZd0dzY0VuQU1DcWd6dDN2UVprZlJscDBKSjJqVHRWX3dQcWhocVRVRm1OeWJRekVhSXlsa1lFMHowNWM0RjkwZ0ExdjFJOA?oc=5"
+    },
+    {
+     "name": "On3",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1FDOHJTYU4zWE9fQ3dYNGxHUl9iSFNEOXFRSGt1YmJTclJsYWJjdlp6a0d0a01RU2wxWjBoWmFkTDBMZm16V0RhWDY1cUNtRWRwS1lDNVpLeGQ2MFlRTGVrRFctRVVSMUx5ME5fdHFXMDUxQVFvZEItelFOZ3dBT3BjWXlPdWlycHlJakhXaUFkNGQtbVR4Rw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-15T17:34:10.376293+00:00"
+   "updated": "2026-08-05T19:49:35.823554+00:00"
   },
   {
    "id": "dac5147e840e",
