@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T15:23:59.345661+00:00",
+ "generated": "2026-08-05T17:50:39.322873+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2154,11 +2154,15 @@
     {
      "name": "nypost.com",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkROaFZxYldmaEdtMm1SM3VrVjc4dTNjNE9iSWkyMHFHTFV0YUFTT21sMVVnOGtXdWFXRDcwb2Z1UTJFXzAzbVlSX3JQNW5fazZiUlVueHAtU2ZaY0JzTlYxY0NVcVpPQm1JNC1xRWNOdVVxa0RaX19SUmF3azh4aTBNdk1RTlNpdkJwOFU1dWFndWMxMmlTdWpwYks3SC11MV9PYmwzMVFFWFE?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeG43OGhpM3ZWU2hHbkdYTWlBR1NrcDNEXzR4Rk5DdzZ4bEhaZm82YU9lMGplRlZOUzhDSXpISkFDeUNKMHFySkJvZWFBTXBza2JoSWFnaUlTVHZoY0VQMmladlpUbXpmR0tiVkJXbE9RNkJ0dVNmTEZSOGxPZVlDbVhaM0lXalUxeVl2OUtBNzdnUmNPVk9Jb3g1cDdwYUVBbWFtUnNRWU5HU3JGNHc?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-08-01T17:10:49.154611+00:00"
+   "updated": "2026-08-05T17:50:39.322873+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4900,11 +4904,15 @@
     {
      "name": "Elite Sports NY",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9adnZsUmVnY0RPdkM1UEEzMERfaXRMZWRwbG43WlllakhWTjhmUG85Y1hvY3ZVZWxPRGNmWmJoaDA0dGJ2dVNOV2lLSEtYd19ESjRaQ0lUQTVSZ0w4SEpHTS13Z21ITmc1RVdJMw?oc=5"
+    },
+    {
+     "name": "Action Network",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tdUdJWUUzcXRCSUJIWkZTZXhBR3YtWTEySjJGV1VPQ2JSSW5kcTdPT2t0ZVF6UmdrMFN4amdBX2lSN05oNUN5WXRsZGM3Rm9lN3A1N2xkTkZWUk4xcHdlWTNKY1BKb1FYS21neF95S2k4N0dZbWJjU0V5MA?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-07-31T15:27:24.355150+00:00"
+   "updated": "2026-08-05T17:50:39.322873+00:00"
   },
   {
    "id": "3b83809e121a",
