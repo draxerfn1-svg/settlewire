@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06T06:40:50.424638+00:00",
+ "generated": "2026-08-06T09:46:57.099413+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3630,11 +3630,15 @@
     {
      "name": "communitynews.org",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGNmUTJhVW1BQnB5N1BIcUtjNGJ0NS13LTVieWxHU3BIT2hyaHdZczUyRkc2dDBUQnJiUWI3dG1OekxJcXVoeGE5UWM5X2d0bkxDRDhVWEtTcmJHVFNkQ0d0aTlsTmllQVkyN2I4Q0xLcUJPMExpZmZTWFFYbWxlVHZVQlp0OHNGVlI1OHNmekd0Qjd6NGZF?oc=5"
+    },
+    {
+     "name": "ReadWrite",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01WHZoNVFJdDV2YXRZM0xOYmtwdllxUXYyOVZNUDZud2ctOXdmZHpMcC1QeWF2cHJmcDlSaC0wN1NYY3BvYzF3eG9tMXUtOGpONzl1ZGR1bDFaUHJ1OUJXT1J3VFl4cmYtRTNZWEhWRldJejA?oc=5"
     }
    ],
    "published": "2026-07-08T09:22:23+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-08-03T23:14:56.700894+00:00"
+   "updated": "2026-08-06T09:46:57.099413+00:00"
   },
   {
    "id": "9d7489a4cbaa",
