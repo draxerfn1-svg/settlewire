@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T07:37:40.474933+00:00",
+ "generated": "2026-08-07T09:11:32.883129+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2186,11 +2186,15 @@
     {
      "name": "Sports Illustrated",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWtmdm9kRm9wbWxzUjYwbkh2dDJhYWcySHJtUVVpUFNCUV9aTW9lZnd5SnFGZVpybzQzVzlQcGxDZUl5LUlPVEtyOW4wRVh2SXZfVlRLQ01LbnFldHpYbkRSWU56LU5nQXFxX1pxNDAwdE9EYzhNbG1rZ2VPZ1lVZHRsSjE4cDIyd0VtYjN6VTdUMVJxQzJZSURPXzNsZExLU3hYU2V2XzVkM0IyNFoxTHV6YmE2YUFkeERN?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUJtbjVzMllpX0RlUDBrUVhKdGg1akd2eGduTVBwVVFVMzF0cVk2OGU5R1pteG5uVnFzTmZhdC0wejNRaUI2UFB5Mnk3N2Vzb3JkWmNYRUt1bE9tQzV4OGxDczVYNk4tT3ljUGdVdkdvVnVhMnhxR2Q0ZWt5cHVXUDRycm92UTk3Y0JXMGZKNUdZMzJLRWE0MVg4a0NYeTJEY1M4bFJ5bw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-08-07T04:01:28.659926+00:00"
+   "updated": "2026-08-07T09:11:32.883129+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -3799,11 +3803,15 @@
     {
      "name": "egr.global",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTNTMENHUXhxT3l1NUlHSDlrclJuZmYtMlhDRkRSellXVDN4RVNMS08xd0hjaEFNeTc3Q3VFaHlEVHdlVzhvY25GdWQyWFpzRGt2OFI1VS1YbFdqQ2FVb2RINWNjYzY3ci02ODhwOWZtdTU1QkhXZENYbTlBWEFKdkdsTENxTnYyMWhkT3lzTXRyc1J3dFd5WFFLREhEaWVscjZWZHNnakZfb1lmak1zLVJPYw?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/post/411128/michigan-judge-denies-coinbase-bid-prediction-markets?utm_source=rss&utm_medium=rss"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-07-15T17:34:10.376293+00:00"
+   "updated": "2026-08-07T09:11:32.883129+00:00"
   },
   {
    "id": "7272f4c3dd2f",
