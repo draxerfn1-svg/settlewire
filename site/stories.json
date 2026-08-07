@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T17:04:30.765089+00:00",
+ "generated": "2026-08-07T17:58:40.642704+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2939,11 +2939,15 @@
     {
      "name": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3ptT3RmazNvMGpxbU1CdDh1aFlfUjF2SW1PZTZUVmRfeXp4Y0gyWVhnMkdaRDE0Qk5lYTBUV18zbFFxdkRJOHVQRGVoek5zSzdUMHNFUFpWT0xjQjNhczhVVUFCWG9uSTdvR1VFU3F1Zk9ub0JhT2VMWXVZd1ZYSnlYWEF6SEo5aFFXazJzSC04QmFTWlJ2Y056dUthcVEwa0hsV3JNTWJLNk9vYVBFdm1hamdoQQ?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUt5LWgtWjNmeU9KTThrM3ZvYmtGaFpHTGliRldCamJmcjJ0MmEzUHY3dFNrWDBGN2h2QWFoTlBuVVRJUm9BYjBYeTlKYVRwTzBLNXZicmxmcGNDTFAxc1Rmc3QybkFBR3dabzVScGxRMGhkSl9aTkxqcm1Eczk5R3YxM0FaX0tydHNkWnp5S3dia1Y2WlUtMw?oc=5"
     }
    ],
    "published": "2026-07-09T12:15:49+00:00",
    "first_seen": "2026-07-09T22:41:03.433559+00:00",
-   "updated": "2026-08-07T16:06:15.305204+00:00"
+   "updated": "2026-08-07T17:58:40.642704+00:00"
   },
   {
    "id": "fc2afdf04096",
