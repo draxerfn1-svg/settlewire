@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T22:55:47.721382+00:00",
+ "generated": "2026-08-13T23:52:43.362434+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2238,11 +2238,15 @@
     {
      "name": "nypost.com",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQm12WTczU2RCNXBNeGR1aVNIMVNCRzlwYW9xNzVwZkkxbl8zOFVxb29ZSGJMdlBzYUk5Y1FOMmJTMXlLcl9FdkhmV3JiVC15d2ZLQUI4b01nQmpVZnVtcEMyV0lIUFRUSkxjVlktaVVIT0YtcUNQMk9abjJhSEJ5MmJSMmhQNGJnOVFhVVVON0dtaVo1eDE5U2FGVVd6N1ptWmRPZFRvWEVWSWJW?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTE4MEZ3TXl5TWtHRlZqZXlrdlBEWWNpUEZXNHJlTUR3TlZWc1VfWDVKMG9DZFJ5TUs5dW4yU1E3WWRkcldoX1c4TTlDVkJSY212SXpvUnYxN0lLWW96c3otWU54dmIzaXgxdkVGMHZCSUsyR296WFpRUDlqMHNGZUUzTGV5ck0?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-08-13T18:05:47.862614+00:00"
+   "updated": "2026-08-13T23:52:43.362434+00:00"
   },
   {
    "id": "0741dc215b0c",
