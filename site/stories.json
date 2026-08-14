@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T22:34:20.468432+00:00",
+ "generated": "2026-08-14T23:32:02.877333+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1318,11 +1318,15 @@
     {
      "name": "Sports Illustrated",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FNTJFcTdFNFJmUUhwcWZoX3BCYks4bHNUVXBYUXJRWjJndlRxMkdpTFVxVkJRTTdhc01PSXdqVG5tbFM0NnAxVmFvSnZMdnN2WjZwdEhVUEVQN2tiRE9zeUM5Z3ExaUp5LUVHOVF3?oc=5"
+    },
+    {
+     "name": "Encyclopedia Britannica",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5"
     }
    ],
    "published": "2026-07-10T19:58:00+00:00",
    "first_seen": "2026-07-11T21:01:24.282169+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
+   "updated": "2026-08-14T23:32:02.877333+00:00"
   },
   {
    "id": "b5833f2557a9",
