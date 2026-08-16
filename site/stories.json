@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T21:29:48.316326+00:00",
+ "generated": "2026-08-16T22:32:09.957274+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3386,9 +3386,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm1PeFVZS1lRbDhOWUg4LTFNR2J6b1dLYW1nMXZYeHUtckp3T0NlRzh2ZVFFTjNtdW9KYmRjd2hqRXhnclBmTU1takxMZ0xEZGZlOVRxM1JQOFhBUWdBYkZycFpRQlg1ZWFpbjhmbGlSUlNnVm5ucElUVXV3c01hS2ZobHFtQzJxU3JfXzg2cmFzS3k3dGVsaENBSm9RYkJFOFlqQXRORmE?oc=5"
    },
    "source_title": "Polymarket Launches U.S. Marketing Campaign",
-   "also": [],
+   "also": [
+    {
+     "name": "BeInCrypto",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHUF9YLXlHMG1EY0pZSWZFMlhRbXR4S0V3emw3eVhPMV8xNWU0NHo2bHN1Z0hpbU90OUxHUnlMcDlNa2M3YjFiU3lLOTVPdzhrRVEtY25mbEMwcFZzc19nMndBak45S3F3a2hmSVZDNTZPdFFIQlE?oc=5"
+    }
+   ],
    "published": "2026-07-08T18:04:00+00:00",
-   "first_seen": "2026-07-09T18:57:25.549903+00:00"
+   "first_seen": "2026-07-09T18:57:25.549903+00:00",
+   "updated": "2026-08-16T22:32:09.957274+00:00"
   },
   {
    "id": "678a25e99d5b",
