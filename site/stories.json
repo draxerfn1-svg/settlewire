@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T15:31:34.629227+00:00",
+ "generated": "2026-08-16T16:36:51.404606+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2274,11 +2274,15 @@
     {
      "name": "nypost.com",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzZyc19IYTJGZk5kOEFaRGtMS3hCVTNoS01ETklIa2U1NFZhSGlDb0tLUkJxNkxTYkR6d1VFX3FILXNXY3lUSTNSZjI5YVZ6VUJTczRhbUlzcVFuQ0hoU3Nna3VXR1ZTczlvRHd1Umw3U1RRYzg2akRXbUVTNXNDQUJqcXRZeklfbVQtMGdiZWp2bnMxdjlubGxXY1V3VG9kZWJuSmhyLWdBenI3?oc=5"
+    },
+    {
+     "name": "Yahoo Sports Canada",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnE3TlJGdWFfck5DUTdkZk50cC0xNEVvaTREWmctaXNWNnZUem5VR2hkemF5OC1rTVgweG81alZLOWxUa2EydWN1c19xZzZDYjlGaGJ1d2dLejBoejduRDNjaFFQRW4xU1VMWTV3RXc5ZkFOZUlQWGpYcW54cnNHYzVwdUZ5UQ?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-08-15T13:37:51.847934+00:00"
+   "updated": "2026-08-16T16:36:51.404606+00:00"
   },
   {
    "id": "0741dc215b0c",
