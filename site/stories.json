@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T09:52:56.343810+00:00",
+ "generated": "2026-08-17T10:43:40.990521+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -5366,11 +5366,15 @@
     {
      "name": "Crypto News",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm5SS0paaGNGWDhoMkFDZ0RXWEFxVnJyME9JdldwY1J0dTR0eVpEMm9hUG1RYkppb2VYcWgzVk4zeGJObERTQld6OU1mYWNzaEJVc01pUUNvUFJ2R2hwWnNuRFBPS2VlSnlmWExUM19KYjVtU24yS1htSkhzNjN1VFVqVDRjZGNfMEdwTHd4MlVtZw?oc=5"
+    },
+    {
+     "name": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0JqVklVRm14UWNWRDJlejJIdlhlSzBGYlExellybzVFQWhCWVFmR3FzT3A5OUMtUG1odkw0bXdXSWZuMVpEeUQzbUJYdHdiMUJ0ZnNzT3I4NnNoYW5TaHJWUFQ0N3VqcHY4RFZkQ2w4eFNmSGx4cXdRV3JpTDBMbm1NSVZBMkdzelBCcEtobTBXNFA1cWVZR3J5TGhNTWxseXJ6cE9sSG45UEkybkh4eV80S25WN1hGbUJWakNCZVk1LTNfRHBpbEd6ekVEQWxwUXc?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-07-21T09:34:20.799656+00:00"
+   "updated": "2026-08-17T10:43:40.990521+00:00"
   },
   {
    "id": "1d484074c246",
