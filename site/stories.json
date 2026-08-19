@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T19:34:03.577224+00:00",
+ "generated": "2026-08-19T20:39:05.218248+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2420,11 +2420,15 @@
     {
      "name": "Decrypt",
      "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdm43eE9xUzhtWEc2SUVtcXFmSzI4Rnk3Q3J2N1NWUTJLNFNRWjdmT1NqUFZFZURyUXRsY2dwVGk5OXY2eXozVVN5cHZGa3FwYzhXYkxIX2FPeGdjRjdhTDVqcUhaWVNldXNCLWFoUDl3TC02YXQ2YldaNkxIWm14ZjJYcnB5ZzF0cHBOX1VtYVlFa3R5VW40OF90RjNMSWFZeXFnUEliTnJmTUdVSFE?oc=5"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-08-19T19:34:03.577224+00:00"
+   "updated": "2026-08-19T20:39:05.218248+00:00"
   },
   {
    "id": "704478fc965a",
