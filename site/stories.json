@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T18:49:13.001867+00:00",
+ "generated": "2026-08-19T19:34:03.577224+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -439,11 +439,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmZvYUFKOFc3bWgzNnFKTWlUeHg4eHM2a0VTbE1VcEpmMHByOFFRS2pYeVBMZDc5WXBXVmtBNnRCZldGcjJLdDVLZmJKdDk5aUF5VjdUd0E5ZXNrMVB0d2dzV3RvWWJVMk0zNE80UjJUY0R4U2RQeXhRZFV3MjRBVXpKVDZUY3g4S19pTUZDRU5XZ3pScXRza09kZldmZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEFOSUtLelp6VEFwM3dOT1A2MDZ4UThsSVlBc2hSaTh2Mk80YlQ5RTJrQjZuQU9NdkZjRk5NMGU4OU9sS0hFNERHME9TUmFwanJCWXFlV0hFRkd4czBrVm5BaTZhMERjUnlSV1I5LVJRMzlrTVVkTC0yTS1qVTNXWlp3UXRnTFdadElGbFZnWEVPQ1YzZnJmb2ZuQVBmc3dPV216eQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-08-19T14:46:31.885110+00:00"
+   "updated": "2026-08-19T19:34:03.577224+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -2408,11 +2412,19 @@
     {
      "name": "CDC Gaming",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzRtYmNyWXA0UFlqZ0xrZlh4ZndHc0d4M3BWQUlYaVd6amNpUVFmNnVkNjZMckY3aE5oNDJIVkJDc1JpVVpTQmpiRWhQNmNvMG5RMVBIOGljVzRmNkZOeVRaVDZTQTVTbmhTN3dTSWFFZ0hzN2V0SDBSVV9laEc3S21HT3pCa2w5NGwxZHBEcGFYZ2p5aGJCNHdEX2loaEE?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kZEdpMTl6SG4wZFNRV3dzZS0xcHB1OUpTRm1kODNpc1BSNlBpVUNDX2tRUU9pQnF3UUFyWU0xdWtuXzQ4MzFvWDBTOWtmSzZDMmFiTEVJUy1aOWhqNTg0b2hyRmthYk820gFwQVVfeXFMTi1iMkkySzNPSmdVSnRGeURnSlBOSExQTTRrS1lqYTQxbTA3bmhNalB3bUpORHozR3JnOUt2d2VYYWFMMmVGMkd0OHI0bGRxTC1UY3RCbm5kNVIxMWRTajBmUUtpU0xXTkdfdXhJeHR4Vg?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-07-26T13:49:23.235393+00:00"
+   "updated": "2026-08-19T19:34:03.577224+00:00"
   },
   {
    "id": "704478fc965a",
