@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T18:54:29.193448+00:00",
+ "generated": "2026-08-20T19:39:04.277368+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2603,11 +2603,19 @@
     {
      "name": "Focus Gaming News",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTFCai1TUndCWVhwalZvcEg2U3A4Vm40eFg3SHJOLVhmXzNNa3JoY044VGFRX1I3bjlzNmdGamRHcEZ4VW53cEt5RWV6QjBUeEpZOWZac2w3cWhlWUVJZkNCNEFiZnl6b2YyU0ZCUllyNXVaNXc3cF9ja1p6UVhmVklYVGFXQ2c3akE?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UDZuLTRHekxVaHkwTmc5ckw5WG50eWxFaV82Z1BlaVI5dDVSX3NWa0czU0tweFQxbUU4T1pSY2ZfZXhtel9uNlBXcjNfRV9yN3lxYUIycFB4dlVzX21GM3dtS0tKRXdST3dPZ3lqVWp6R1NoYkhv0gF_QVVfeXFMTld5c04yTlBYOXU1U0RoWEtoMFF5aUx2Ylo2b1F0bHVUS0Q5UTNoZ0RWU3RwRzdmTDRRRWVrN2tFZDFHcWVON0Z3d1BYRlg4WXZkRTMzay1BdmNuVjl2ZVNUZnJSTmJnbEQzYVVtT0lSWXctbFZxeFZXSVJKLThUaw?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move"
     }
    ],
    "published": "2026-07-10T07:06:19+00:00",
    "first_seen": "2026-07-10T19:47:30.401982+00:00",
-   "updated": "2026-08-19T16:41:40.556087+00:00"
+   "updated": "2026-08-20T19:39:04.277368+00:00"
   },
   {
    "id": "86cf3f74cb9e",
