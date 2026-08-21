@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T18:50:57.072769+00:00",
+ "generated": "2026-08-21T19:32:23.390936+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2619,11 +2619,15 @@
     {
      "name": "Decrypt",
      "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkh0V2FkZV8wRFRiUVFfT2ZGU2Q1eVFpQmxkMlpSUkpYMVhTdEQxWklyVTNWOFkzVTRxTzh1S2ZiTlBsU1h5TUNpakZrd1hYVFl5bDBsc043clRPRzEtTU12QU9DQi1nazZHcjVVamJuY2FUamI1VXd2Z3pmTmd6QjBsVUtybnR6bDRxTmZhYWd4Q0EwUFpKMlFWOA?oc=5"
     }
    ],
    "published": "2026-07-10T07:06:19+00:00",
    "first_seen": "2026-07-10T19:47:30.401982+00:00",
-   "updated": "2026-08-20T19:39:04.277368+00:00"
+   "updated": "2026-08-21T19:32:23.390936+00:00"
   },
   {
    "id": "86cf3f74cb9e",
