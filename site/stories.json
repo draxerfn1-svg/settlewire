@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T11:35:44.131661+00:00",
+ "generated": "2026-08-21T13:05:17.010529+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2854,11 +2854,15 @@
     {
      "name": "Business Insider",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcU5xODlueGc3VDczWmZIbFFLOEdneUpDYkZ0dzBuTHlWRFVueTJpWlQyN0o3NU1VZ0JzdUdXQzBUQnFMRmotUldXY29Fb1dvanZXR0Y3QnJTT2wwQmZ0U1hCNjFIUDVkTktrQ29JUGZ2M2pYR0cwNXRFSEN3d2VYTkhrQnYyeXNDRVN2U3FTekoyZDRvVVpXMjZWdFcyMEJUZnVHM21JdHppQUtsUFE?oc=5"
+    },
+    {
+     "name": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2tBcW9Hekp0SFhFYnEwNWZkNGwwYWc2eVBudWY5R1JZYkpTUF9xM3hsMVNuODJ6TGNQTFpVUDEwLVNVd2lfRzBaQ0FkZmQ2d0RsRXMzdEpMemNRNmZWODdNR01zdEl6bE1rWWNLRk1uQkZsWVhvcVJ0ZmNyT19sdEdTcUtnbUduLUV5M1FCR3cxbW9kNFhUOXh2RUwyaWVzRnNQVC13RW5fZ2hqdGR3aQ?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-08-21T09:48:22.096350+00:00"
+   "updated": "2026-08-21T13:05:17.010529+00:00"
   },
   {
    "id": "5f8facee2c9f",
