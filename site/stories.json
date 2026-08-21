@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T14:47:44.569059+00:00",
+ "generated": "2026-08-21T15:43:23.492800+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -5384,11 +5384,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGc2eUY4blBMTVhtUGxCNTRyTEVEa3RvYk9uVWgyVmMzbXVyd284M2pFZlpUeENuMDh0U3dGQnJJNXkzWTAxZHoybWVNWndQTUFEbTYxOF9neEJJSEFyME9WVWR4ZlJITzZyREVUcjhvaHpWR0RMa0Z3UWZSbFR5NmJfYWlnYm81X2JoZEtaY0JyTGlOWmNOSlBocHNjbEkya0YtaExCVE8xVWN0QWFkZUxIR2U?oc=5"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50cER6RlpkNXhaVnlJVmR5dnhCTUJBYmdiRWxzdHpBdExRNm4yLTVvLTRSSW56SGV6bnR2Uld2Z2R3NzhjTm5UX0FXSTR6TzR3MmVkWl9KTThLd1VZN09TQ01hOG1fRFd6TXJkSGJWVThUNE9DZlViOA?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-08-21T13:55:09.361556+00:00"
+   "updated": "2026-08-21T15:43:23.492800+00:00"
   },
   {
    "id": "3b83809e121a",
