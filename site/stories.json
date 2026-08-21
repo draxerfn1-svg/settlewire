@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T08:53:21.850388+00:00",
+ "generated": "2026-08-21T09:48:22.096350+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2850,11 +2850,15 @@
     {
      "name": "Yahoo Finance UK",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONktNa3dOVEl3cnNPSHRzTC04ZzVSbEJjcGZ5WHp2dXpQTVUzX1BtbVFzTnRmaWpCM0ZLRE9vUVQ4RXdRQU4tbjZRS0Vvd1phM3hvUlFoTHdJbURUNXFNOFJWdjdtbXZ2bG9lMi0xR1RGVldUTzdZcnh3YW5NT0FwcXFrdTc3a2RIYVJTc1p5VzRMR3JnTHE2cQ?oc=5"
+    },
+    {
+     "name": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcU5xODlueGc3VDczWmZIbFFLOEdneUpDYkZ0dzBuTHlWRFVueTJpWlQyN0o3NU1VZ0JzdUdXQzBUQnFMRmotUldXY29Fb1dvanZXR0Y3QnJTT2wwQmZ0U1hCNjFIUDVkTktrQ29JUGZ2M2pYR0cwNXRFSEN3d2VYTkhrQnYyeXNDRVN2U3FTekoyZDRvVVpXMjZWdFcyMEJUZnVHM21JdHppQUtsUFE?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-08-14T08:23:39.127677+00:00"
+   "updated": "2026-08-21T09:48:22.096350+00:00"
   },
   {
    "id": "5f8facee2c9f",
