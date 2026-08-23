@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T12:57:26.644042+00:00",
+ "generated": "2026-08-23T13:40:18.531432+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -471,11 +471,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUU5ILVpWenhRTjYyMlpONm9ET0NVRmlrOXBEVHJ2dHExcVV4TVRRUFpyMzVkWG1TYjliZGZ5cDA4cXpYNFNJbFZQc3oyTDBjQ2FnR1RmMTM5c21zZG51b0ZNbGo5OXpKdmx0X0drY0lZOTJTTllvM2c1WEpJbGM0YVFlNEtWa3hka1RIVGlOSGdiS21GMjAwV2NkUktkUQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWRnbm42Nk1kOW0xSlNXanZRSXhxUFE1MVU5LTVXT1JucDJtVDJZeUphVUVGUGhMTVQtMlJmTFpwMGpDWENEZE9GbTB1RHpncWZRaFh1QWtscmhmVVNlM2RtM0hMQUowU0U5Q0s5RUVubW01WlFZbFg2YUhZb3NlVWdfeHpoWVBHX3ZPRGZ1NktwZ1RreWNkV2k0M3VyMEtmd0o1VQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-08-22T15:31:04.034679+00:00"
+   "updated": "2026-08-23T13:40:18.531432+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -3765,11 +3769,15 @@
     {
      "name": "StartupHub.ai",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1lVVWdPamZ0X0hQRUtodTRPMWlESXBYN2tnSFdWdW1wZlluUG1iVU5zRDA2Z3VZb1dDQ3FVOEJOS3k2c1BzYmsxc1BDcTg3RFhUWVVqd2I4VGVWd0drSHNoWWh0Mi1ySFBBdDVJVVJxVUl6T2dlWGMtMDZ5Y2J2dFcyNm1uYkYycURTZy1EV1Z5MFVuWE1xNWkwcHNJdTR0aVJR?oc=5"
+    },
+    {
+     "name": "StartupHub.ai",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejJLdXJISjF0QUJNcEcwemRUVG4tSWRFMUY2T3FtQkQ0ZmFqLXBaWmpMa3pWNjRhRDFDOElxMC16b1hWbVI1QkNYQ2Z4Ty0zN2VINjBIWUNKamZVOEhZc2NYSDRrazMwOW55WHR2bktpVjFoNjFSVllEQUthaXZoZVpfQXZsYlZ4WW12eWtDOGt3czJoQWFXdGtZQkJTV09pY0V5R0UxM1NPNnZNbzA0?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-08-17T09:52:56.343810+00:00"
+   "updated": "2026-08-23T13:40:18.531432+00:00"
   },
   {
    "id": "938912f97a98",
@@ -5414,11 +5422,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUThRYXR4ZHZWbU5HeC12dE04aFMxRlBqN2RDV1BZc1ZVV0RLcXItdmZmWlJqZVJyMnhXLXkyOW01ckNrT1NZeV8xMDFzaHJZVTFkUFJJTGdDVmNJSTRLekU0dGFFNEtUMEJfTFVfZ3hPbVd4M0Q2bU5fN2F1Ti0wcVBaeVg2YmV0RWhYemhSWGdSUXE2c0hxR0diQ1NTN2hzREhCb2tkaUhCX0ZsQld6bncyR08?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWZ1TU0yNkZZR3FDMW8ybk8xenhDYVR5QWhaWExUS1pZVFpQemNmUnQ2N05LYjBKWm1KSXp4cWtlOWg4eVFQeS1paTJaMDRUQThreURGVS1oX2hIR29Xb1hXNjlEcXgzSmFZa2FCc1dYbmFoUTdCeVI4SjV5X1ZKVDVhb3ktQWp0ZVFTdHd5X1hjSFFvRGREczhyeWFtWHRoZFpzNUFzRXRhcXU3S19PUFlURlk?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-08-22T14:32:32.317092+00:00"
+   "updated": "2026-08-23T13:40:18.531432+00:00"
   },
   {
    "id": "3b83809e121a",
