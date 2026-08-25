@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T13:05:52.135574+00:00",
+ "generated": "2026-08-25T13:59:48.343218+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -5478,11 +5478,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk9EcHVjRlhkLXFkUElENm1xeUptdWc3a2VRODdmM19wYlc1eGZCd0laV055QkRRSVoybEphSHFSZFVZREZHRDdXQ2dpWnRPZXNnajk5Mjk1TDRtcnZnTXczU1JMdk1ySFg1QngzaEx6aW9Fa2FzcTlGRlRVTnNya0VydWVaeTRwUXdsT0V3T3JkTTBVdnVwSkdQT0RTRGxEblczbzJCWGhPWFh2RFJwQWdtUzc?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQThkbzRpS0hCc1U1UkNINFdRT1BlRWhQTlRNSlF3WUZmNTBhelFJc0dCVjNYdVdPd3ctdmRpRFNraFM0YWVRYmd4dVgtYm5HOVZwQ3hYcXlJSEoxSGl4dDVPNlU0STdFenI4SnlicHZlSUw4bG5ZQjJOb3dNU2NDcmhhWHM1emtvV29OckJFazd1S29QQy0zUHlsWkRQaUl6WTdsQzFHZlhtRWVwMXZaalkwQlk?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-08-24T14:54:01.741571+00:00"
+   "updated": "2026-08-25T13:59:48.343218+00:00"
   },
   {
    "id": "3b83809e121a",
