@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T04:51:03.666607+00:00",
+ "generated": "2026-08-26T05:44:21.791893+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -239,11 +239,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDJkT0R2emlzVk5iQm9Dd3EwYUVVdm5VXzRFRzVsdVl3dTRNY0JqdHlBTmxyQmRFNGVSd2x6cmItZVNmU3kxVDdzMzhUTEc1MWNfX0RXSC1fVVM4U1VWRGc0WXhqWGN4RmNDN0pMSzhJTkNGNUdERS1seWJUamJpNVJ1Q2p1Z09SU0VZdVQ1M25EcHBCVVcwRWk5SQ?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUdRd1hURjNsYTBKd3lEb1JXQmFOOF9SUEVPYjVwdndBcFIzN29LcjdQX25iQi1vTTBVWE00THhSVXlMd0QxSkFzQWVOT0xWSG1xZm5ibzJkZlU1TzlNbmh1ZlcyazQtUUM4dmgwUUYySkhObVhldzZiNWlZbUlnNF9VWlQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-08-25T18:52:49.462065+00:00"
+   "updated": "2026-08-26T05:44:21.791893+00:00"
   },
   {
    "id": "005a8d5e0c0a",
