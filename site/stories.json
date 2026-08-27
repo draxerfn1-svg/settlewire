@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T09:30:46.233225+00:00",
+ "generated": "2026-08-27T20:20:16.889952+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -247,11 +247,19 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUdYejJMNWRrV2JsNkIyUU5Sd3RyVk5JZVpZSngzeTVJQlFjN0ZhZmtUTXh6UUdQZWpReDB6eW55c2Qydmc2blVmMWdVdmI0QkJxYW0wYXdLQ1lYdDBzMDZDemM1MGdObEZyS0tvemN0ZDNWNWFyUXFybkYzTnU2eDRSeXV5WjVVTEUzV3ZKa1ExV1FSeGdOcDlUWQ?oc=5"
+    },
+    {
+     "name": "Robinhood",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CQ2xwdF9OUTYxS182d2VPVjBnRk81cnBHdGU2R2NYY0RFRlp2THBfRWMzYWxaU3JzMHpSVEdxMS1rZEV0Y3dwZ2lIcTFCM3h0Z3lvVEhtTWNQYUljRWxrb01R?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDFYdXFjRjFQLXlkcFMyOV9FWldDdXZNX193QVpLZVFoaW9kZzNzX051UklublFRZGRDaGJPWFdBV2l0ckhGdzF6elVHRGVZNDk5Q2xERzJFVVljUkZ2T1c1bXJOci1HTkZoOWFrYngtTjV0Nk41eVZaSl9VU0V0SG5FTERDdEl5Mk1qb1VwaWFZejBMRXNObGJIUQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-08-26T19:14:31.451748+00:00"
+   "updated": "2026-08-27T20:20:16.889952+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -519,11 +527,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTJ5MEhHLW10V0V4ZlY5dV9OaEVuVVhKeFZiXzE5ZHNrNkFCYlhyVzVwZU4xNk43alZtLU02WVFCbW1iTS1UTzk1WFVueWM5WHQwcWQzMGFScTVNVmpmNmlCclNyOUJRVzRCQlNoRC1JN1RmTFlsVzVIZWlHdU5NWW0yeTNzeWJKTm5zczRNS01LV3lnMEY1SDhGc1BFZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnY4R280Z0FjblFLdEU5b0Z4eVF4a3JueXRWZDhOUTBvNDdMRUE1R1N5SGUxdDVpb2JpYU1pT09GWXFtZEdXd1VmWVVDREdGN1lZM2c0Q1BuRHRPUWM3Y2FuMlpUTk1VMVdjNDd3Y1ZuZHAzOWlXRzFZOF9ONHlMYU84NXpNZG01QzdlZG5KUWY1aXNIS21qckZENWRaQQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-08-26T14:56:09.419159+00:00"
+   "updated": "2026-08-27T20:20:16.889952+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -5526,11 +5538,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDBkZVdqelFuTkt2eVJRS2lIWE9TZjZ2ZUUtbURXNjFwbXlRWHV4RUxrWGwxU0tmNndQQ2d1eWlHMllLY19SNjRMTVJmTldwc2wtMTFrUHdsbTdCX1hTdUdNV0YyQUZKOWxmalJQbWwwZWliTHpfVkdmcm4zdkg5VkdoWjU2cHc2VWhlSGpIQXRxeUcxQTM3R1U4MmtkZzFBMDdoRXRHTnpIcmh3NVctdUdxN24?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHgwbTFKN1d6Q0o3NnM4WjNvZ21kMkRzYXc2TUdKNnowZU83UHRfUXpNa0tZLWJ0SHZTVzhFV1ZZSjVuc3ZZZVBmd3R4YWswTFdYSURXTkxhek5udHBpemdIVnJ6WlZ4SDdmVzAzYmFzdFdvM1lfTUtTekwwbXJpN2FFT1FDQmJlU1RiRjhXOXItMmRBaGF6WHlEbDh1RXNVVFN0bWJ6R1VJM1lJck5Edm54SWY?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-08-26T14:56:09.419159+00:00"
+   "updated": "2026-08-27T20:20:16.889952+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -5694,11 +5710,15 @@
     {
      "name": "Tech Times",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0JqVklVRm14UWNWRDJlejJIdlhlSzBGYlExellybzVFQWhCWVFmR3FzT3A5OUMtUG1odkw0bXdXSWZuMVpEeUQzbUJYdHdiMUJ0ZnNzT3I4NnNoYW5TaHJWUFQ0N3VqcHY4RFZkQ2w4eFNmSGx4cXdRV3JpTDBMbm1NSVZBMkdzelBCcEtobTBXNFA1cWVZR3J5TGhNTWxseXJ6cE9sSG45UEkybkh4eV80S25WN1hGbUJWakNCZVk1LTNfRHBpbEd6ekVEQWxwUXc?oc=5"
+    },
+    {
+     "name": "iGamingToday.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW5PVloxQjd5bU9mN29RS0dkUFgybzNFWUN0akRHZVZiTGlxWGlEd3ZRa2k4NVJrWXptUE55UDJ5NXlYaWo1T1RENUpyYXJLVG5VOHJNZ2M2RGtQYWw3LXFkSjhtWmNSbTNrYzBEcVBNLVE1QXBsejZFYTJQRTExdnhxN0hlTHBIMVpKVG9LdF9pT1NPY0JzWFJFdjE0bmNEd25vcjJuMmEwd0kzUDVHdWdXQ3U?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-08-17T10:43:40.990521+00:00"
+   "updated": "2026-08-27T20:20:16.889952+00:00"
   },
   {
    "id": "1d484074c246",
@@ -5948,11 +5968,15 @@
     {
      "name": "FOX Sports",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5WHBHb0hiVVhwamVVTU0tZElaYUZRV1BPUm5pRjAzT09IbVk4bFVwcDdqaUo0MEpOaExzTXQyZHdLWnBibmZ6NlRqZlc1WnA4aUd6MmxYUGNfV05CbFZ1cVZTRS0zNzhxazREa0txX3c3R0VSajZ2LVd5QQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWNKT040VDBuUVgyV0E4a2swZlhuRS02T3JCYzNXclZ6b0ZQVV9BYnRWY2tKUVdrcm8wUGhqMzJJeWpSLUxGOFhzekVVNnhyaVduVFZBSldqX2k4WjR1ak9QMGNUMlc0Z3J2T09CMzZBc1k2NFFhY1FsZzlLNURUMHJDazctU2E2Z0d6ZUFER2N4aHdib1BtS0lWYVVRRC1zVnVvYmlUaHItWGRiUDhVYVVzdkozdjB6OFNlRXFhd3pIMGY1QU1JdlVodHVRODQ?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-08-25T21:37:58.286433+00:00"
+   "updated": "2026-08-27T20:20:16.889952+00:00"
   },
   {
    "id": "78d60a3d2552",
