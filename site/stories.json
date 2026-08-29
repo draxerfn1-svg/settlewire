@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T08:59:13.078241+00:00",
+ "generated": "2026-08-29T14:25:04.618652+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1274,11 +1274,15 @@
     {
      "name": "newyorkupstate",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGRXUWpIQ3JybjFVWUp2alJPVDktSWY2T3A3Mm1OaDFkWXNudUxuV21ZcGU2WFNkRUNDZzFGMzJkNHhvTjhmSTVTMW1FaVlRWlJudmk3Vzc5d1NpSEZ5VEZFNlhMdWRjNGdHbHRrdlRvbmxTSlZZTTFRY2FOQ3dhWl9laWNPZ2poeFcyeVQzNTIzWVRmR3NyNUwyUDVVSGlIN2xoekYyb0o0S3RneGU1bmwtSm5vQnJRQlJV?oc=5"
+    },
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWtzbm0zakY4LVkycGt1WkdqbkZxcWRIak9aZExaa1hVejY3WFJ0dkhONEVKMDcyYUZrZ2NGRGR2cHhZNFVRU0s5Rno2TGtlOGRzdzVwR1VvQWpBdEhueDVqR01lZml3YWZrMFA2clBaSklidmpDS3JwQTVOMmVFQWhHMWxsY09MczRWTFFqazgzYWNUOGZHM0lFWGZzdVlTTUR5clRmMmQwRGxBLWFTOV93?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-08-08T22:40:55.914009+00:00"
+   "updated": "2026-08-29T14:25:04.618652+00:00"
   },
   {
    "id": "aa57d70d1811",
@@ -5558,11 +5562,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1dJR2J3UWRhM0dzVThQcE9OdUtQTWN3bmNHT2F2Ui1XYWNnQ25idFBsbV9URW9SclRGUC1TcElvMWNSa0pXRnE2QTM5SG5GNlk5RmFFSjVjTmNCVjlvZExFYkdjamxYR282NXlsSzlMUEc4RFJaM3VxTzhMcXhnOTg0c0lVSFExMzIxS0tFME5CX2daSGI3cWd0R0FqQW1aWHAxSlRTQzBQbW5FS0tieG00ZlI?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmd3RWFHeXQ5UFdqTFhzVWxKZ3Z2V0FhTFBWaEpyYUVtYnBRSkVHdktUaE9YNE43RUxKVENrOHB1dG9kVVdhakgzOXg5WWJIRUY0WEdWaWpXWlBIZUtFZGdaUDRDeTZiS2dZWGROcUdEOEpMZDJYX25iNzd5eWM3U3FaLVJxRERkYmhwYXBQOFNGUFI1VkQ5cHpLQVFtVERONFlDdHViYU1yYnEzYW9YaThxNXU?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-08-28T18:35:05.511492+00:00"
+   "updated": "2026-08-29T14:25:04.618652+00:00"
   },
   {
    "id": "3b83809e121a",
