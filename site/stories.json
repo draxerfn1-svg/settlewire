@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T04:21:08.459719+00:00",
+ "generated": "2026-09-02T09:30:28.021417+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3319,11 +3319,15 @@
     {
      "name": "The Boston Globe",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXdDWUMyZEZiby1RNW5uSWpyQ3hHOFVuWlV5VnV6ZUdyUDVtX25ZZDlsQm5Jc3ppdlFBMUJLaGxlYjV0ODFBbFFlZTJQYmtXNW55NlNQamJlQ1lqOXJJQmtaQzl2NFU1MVZGMjNva1ZIZUxzRVFrVW1TZzgwZGhnWWI3Ym1jMEx2cEcycnRXSnUtQThNb3RwYXNkRTQ2ZXdYRmpMNFNn?oc=5"
+    },
+    {
+     "name": "HackerNoon",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNc1hpTEZDRHRwbVZzVW1sLTlQUU1jRzNHUWE5ajNFcVNJM1NHOXZYNHd0OWRqSWJJeS1ibTRuQkYtSjBqb0ZObUdqUGdTbEZ6aFFWd1hxOWRvdENRSkltWk8wLWJVY2dZZ2VfeHFnbTYzaXpJQzdsNHpXMWtlZw?oc=5"
     }
    ],
    "published": "2026-07-09T12:15:49+00:00",
    "first_seen": "2026-07-09T22:41:03.433559+00:00",
-   "updated": "2026-08-24T14:54:01.741571+00:00"
+   "updated": "2026-09-02T09:30:28.021417+00:00"
   },
   {
    "id": "fc2afdf04096",
@@ -4681,11 +4685,15 @@
     {
      "name": "WPTV",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLMmJNaEVZOFpDamJLZEhycjIta3hHNHN0a1NWNzhjSkNxNUpSTVUza3JWUzd2c0VRQWpYcWVXQ2Z1LW13NjAzM3AzRXdaVWpEbUZxOGN6T3JfVHRVNmRFUDh1bGR2bDExNmtzZnZqWHZqY2lrVkdlaXdfeTk?oc=5"
+    },
+    {
+     "name": "WCPO 9 Cincinnati",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kU2I0eFkyc20xWjJ5cTY1eWctTG1IUGNpNE9zNXp3X2pqTjJzUmtZbHJBc0tybHFCMGtvUWcwUFltYU8xT1RZMy03bW1UZmM0b2ctWXlPWV9LV0RVRHJPUDJtbUZqMEJpbTR6d3dyVEVSOGNsS1VfQzZsMGs?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-02T04:21:08.459719+00:00"
+   "updated": "2026-09-02T09:30:28.021417+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -5061,9 +5069,15 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmY4c0ZNb2d5ZkdHTnBaSkRodnNpRHNzeGUtd2FTMWR2QldLMk9lVG0xSWlMb08yNmNOTjZ5dlJVUHl6d251ZXhHdm45ZnpReTZtNlZHYlRBMU5VMW9BN0Y3ZzhkcUgzR1M2Y0hqMlpZNk13ZlJwVnZKLTNuQW1WVHRsbDVZbHZJYkNHV0czRUU5S0VkYXFSRlhkOUJRY0VRczRj?oc=5"
    },
    "source_title": "Prospect Markets to Enter US Prediction Markets Through Partnership backed by Crypto.com",
-   "also": [],
+   "also": [
+    {
+     "name": "Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0dZZ2l5YmVaRHZVd3ZnSHhqd0c3eXphdF9oVldiT0FPc2RndW1DbTVTRzVnV3pOMTVFUXZscXRZa0JBTjRzeGQ1ekpsWnFDcGhwQUtabUlfYXhpbF9lc1NmMTJvZ09ZclRRN1JJRW9tM0VQR3lPYWh6UlZ1QzNPQjhLRVN1N0xsZV9NYWhjR3VaLVN5bWxCMGN3?oc=5"
+    }
+   ],
    "published": "2026-07-07T07:01:00+00:00",
-   "first_seen": "2026-07-08T12:49:01.891897+00:00"
+   "first_seen": "2026-07-08T12:49:01.891897+00:00",
+   "updated": "2026-09-02T09:30:28.021417+00:00"
   },
   {
    "id": "be049ac6b07a",
