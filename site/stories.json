@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T21:43:21.109266+00:00",
+ "generated": "2026-09-02T00:02:20.672090+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2484,11 +2484,15 @@
     {
      "name": "Crossing Broad",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWnBLSVpYM2NiT0ZwZ08yUWFVdFNndTRRSlgxLU5Ib1I2a19udEhWR2ZKcWJSUVYzd19NOE5RdzFDRk5IcEtfV3FZaHNOek91emQydDZSazFjbDFCMkdSTmdtM3Atd2NabW4tTGtzRmNBWUlZX0g3T0RnaHRCNFdVOHNzMVdvaTVTSmxOMmpYN1lqU0RpZmZvLUZuUF9ESW5KWHNNVndyUzNhYjU1TXNHc0w5YmpWcXVfRHhWejJWWVlTNFhsU0Jv?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnZ4OWE1U3ZLNExPX1JUTi1sVVRJUVgyQl9yOHYyMHhyMVNRaFhBeTBqTW9GcmJmSmcxSGNVNkI3aFE3VFMwRDY4ZmJrUzRTeEZjQjlLaG5fa2tOUzAyQTBldDVHVFpEd2gxRjJsNkVodnZlaERZN1VKMTN4RHNUMGVpVjhOc2c3UjlxU29vRkl6dWRTRFk4Q0t1WmVCblFxMXpfUFBrMkgwZDNNRWVFZjdSTng?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-01T18:24:10.529453+00:00"
+   "updated": "2026-09-02T00:02:20.672090+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4899,9 +4903,15 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzRNbHMxVXJPYlRxbUk1c0lzRUIzUW80Y29GMzQwM0NzenZLTDZPbGpSX09Wd3ZJTmQyclM0azFaMlRjTEhpck5PTDUydTZMdmprQmVVTXNBSDJjLTUwYzE4N3B4OGtueTNES180dlF2UDdPWFZpRFRqbHFXVWp0ZktZb1dPMF9HMlZKaG1aUlVfdHFqODB6WmMxOEIxWlMtWlZv?oc=5"
    },
    "source_title": "Prediction Markets Head Toward a Supreme Court Showdown as New Jersey Gets an August Deadline",
-   "also": [],
+   "also": [
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWhDeUVJZ3AwWWpRMFhoSzJScHN0eE01ZVljbzhYWU9aUzJwTGYzQTNaMXgtY3JDNWxqSURPYkFmdzBmaG5idG9qV0xrRHA1ODAxVDRkbTJvaU9uTXoyQUtCcjJUcWNNTkprVjNLVDB5amhNXzJnSW02RENKYmJUUkRyWGxVTkxtV2F6N1RR?oc=5"
+    }
+   ],
    "published": "2026-07-07T11:00:00+00:00",
-   "first_seen": "2026-07-08T17:48:48.993577+00:00"
+   "first_seen": "2026-07-08T17:48:48.993577+00:00",
+   "updated": "2026-09-02T00:02:20.672090+00:00"
   },
   {
    "id": "3058c4012de0",
