@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T14:22:38.312216+00:00",
+ "generated": "2026-09-02T18:36:12.880106+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1551,11 +1551,15 @@
     {
      "name": "Lower Bucks Times",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkU5WWp5UlpIT0dYcVl4N2R4TWxhUHF3ZUpCS1JnMlJzWldKQ2JhOG10bTNVc19WYXpPZE1tR3RzaFlNQVlaTUE5eWwyNnh6ZkhNY08zalBFNW5fd2NrV2xrNTdQaDhPYldRdDBMVm1zQmo4YVFON2hFUUF2cUtZODUwUUdWaTg?oc=5"
+    },
+    {
+     "name": "Freshfields",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkN3MEZ3SWJPdlQ2U3lKYTBYd2pPX2ppUDVDNDBKR3l6bi1TX1pnbklTLTZqOERtdEVxNEVWN0JOUm5WVFdTMm16VTQtbTJvc3VwelVLV2x1SG95WmhHY2xFXzJSd1RTdWsxR09jOHZtUVk5NlFLRndoOXVLeWRjRm56N2NfN2pBN0pKNUNyaVhIejE1NkpJOXViUjRwMzVoZ09id2tGMGtjVElNTUtsT2hjbw?oc=5"
     }
    ],
    "published": "2026-07-10T19:34:07+00:00",
    "first_seen": "2026-07-11T19:21:01.787802+00:00",
-   "updated": "2026-07-14T14:07:59.911545+00:00"
+   "updated": "2026-09-02T18:36:12.880106+00:00"
   },
   {
    "id": "37cafe6572e2",
@@ -4931,11 +4935,19 @@
     {
      "name": "Yahoo Sports",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWhDeUVJZ3AwWWpRMFhoSzJScHN0eE01ZVljbzhYWU9aUzJwTGYzQTNaMXgtY3JDNWxqSURPYkFmdzBmaG5idG9qV0xrRHA1ODAxVDRkbTJvaU9uTXoyQUtCcjJUcWNNTkprVjNLVDB5amhNXzJnSW02RENKYmJUUkRyWGxVTkxtV2F6N1RR?oc=5"
+    },
+    {
+     "name": "The Closing Line",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa0twTVN1dlo4dkE2aEh4ZjRteHBzZk51ZzhDeUs4TVlpb3NGdkhSWVlUNGFpc1NWYlZweXpPV1ppNzAxdXVpd2hJcENmbDFYaUpYQkVWUDRIZnVqQkRIdndaUzA3d28xOVoydUM5M3hKYWNyNml5MnhaTk8zWU1ERkxWOTVhOC16NFJNdzNlVjBNRkdoZDVEaHJMY2c1cHB4NzhEYkY0aXZvWkpwWWxfQWNYYl95enhTX1RWaFB2a3BpdGhUU1pQMkhTbHN1QXg1MVlVdkNYejd5ejZObjB2TjJEM0RSSEFBTjFIbG5NeDloamM?oc=5"
+    },
+    {
+     "name": "The Closing Line",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnlaWHotLTduTVJ2NEhwVUpCd3E1X0hoYW5KX2trX08tQ0pWa0haT0ZOeFBsLVR5UncyM1ZSRjB1TUl4UnkzSUJJUXVtRVBSOXJnZGRkS2lhUkZZc3dhWjhHVEZuZ05BTVhONmpGREhzMTRBRzRpTEFTOFN5MnNPVnp5dUwtSnQ0Q3Z6NWYzVkVIb3ptQXE4YQ?oc=5"
     }
    ],
    "published": "2026-07-07T11:00:00+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-02T00:02:20.672090+00:00"
+   "updated": "2026-09-02T18:36:12.880106+00:00"
   },
   {
    "id": "3058c4012de0",
@@ -5662,11 +5674,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTJHdjhBZDZzUjZFbGUyekRhQk5fYUxSakdOeC00cmZ3WjlhX0dnd2hHNzI4YXRLY2YwTUVwTEhJUHZMM0tsR0F2d19OckJOQl9LY1VzY09TODB5U0piYm14ODZtQk1YZFZTYVFqNG1FdG4tZ0NxLW1RU1ByWXRyMzkxZHJRd1BLMnlNTjluSmpaa0FvRlJ6SWJ1ZzNnQVhQR21pOUJMLWt4U1VhOUdGeg?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMExTc1JkLUdoWmlWaTNta1ZUcTc2Q3dfSnRiSFVkcFFSQWFGLURObWhMdWFYaXd1Um1Oc0JTdExxbjRBc21nOW5NTTRHanNGemVsNHYtbkg1OWFoNlpsU2pUTmQ1UzN4RmI2WVFITGtqUTlXRG16c1Q0ZkR5b2Ftd1Q4STlKSWlSZmtIMm1mT213S1dMcWJERDl3NldCU2laM0NFdVptM1luQmFpcnY2Xw?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-01T18:24:10.529453+00:00"
+   "updated": "2026-09-02T18:36:12.880106+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -5858,11 +5874,15 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFNHZ3FCNGFCSS1Sck0zSW9vY0c3RUNBOUM2OVF5LUhvTGpZWVRKc281Um9XTlN4T0dwWVJIcnhMdnIza2FOcXJMamlaUDBZWEFlaXJMOUpfeXdzSFdYTzBsMmlfOEtNeUc2czVsUldnbnpvd1c4OGt1dUswTXUxRE5Qcl8ySlVneHVoSHYyQ29LTDhORWNkcUx4OWRab3RodVRXQg?oc=5"
+    },
+    {
+     "name": "Bloomberg Government News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0N3b21BSy1aRzh1cjZKSWxLZ2lIY0RJcjdQVlZsamw4ZFdiZE9vdzExdE4xMlRSdVR1ZVpDT1IzTElINDhPamJjUmhEXzBpS3pUUlVFbTN4RTRiRVE1WnZ2MFZvdm90Ri01eFI4RGJ4UTQ0SFhmZ21KUjd6RGc2TjhueDBUM0ZzTzlPbWFfSTBfM1YyeUZtMTlhSktiUQ?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-08-29T08:59:13.078241+00:00"
+   "updated": "2026-09-02T18:36:12.880106+00:00"
   },
   {
    "id": "1d484074c246",
