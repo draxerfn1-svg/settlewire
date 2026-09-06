@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T09:19:59.697876+00:00",
+ "generated": "2026-09-06T13:36:47.239342+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -595,11 +595,15 @@
     {
      "name": "FinanceFeeds",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGpSZjF2R3VCRy0zVUNPWndMckVjT2thY1RlY2tORDdyVENTeVB2Q25RVnBlWUZUUU16TDRpam9mcTZmV3hvamhGOWp3Z3NTcDdydmh4Skg0aTJva0xSUkFnOUg5aDZ5STJ5Nl9CTFZaSFNKMVhaU0pIQ2s2SU9wck9iUXpuR3dCSUJRYTBfdGQ2dnd5RW9YUzBKN3c?oc=5"
+    },
+    {
+     "name": "BeInCrypto",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TMGc1dVBWcExfZkVHMEZuRWRoT3JPZWY3Y2ZPMU9FSGVWWTFZLS1VYW9rVEtYaHNjWnNkak12ejlUUDdJSGhnMTZpZG8xME1fZERKelU1bjFQVzBJUGVtd1BYN1NaeDhHejZ2enhRYlhwdw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-05T18:11:30.268134+00:00"
+   "updated": "2026-09-06T13:36:47.239342+00:00"
   },
   {
    "id": "dac5147e840e",
