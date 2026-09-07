@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T10:10:13.606633+00:00",
+ "generated": "2026-09-07T16:24:21.856825+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -611,11 +611,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHFwak1zdFhGWUp5MGkwT1BWSU5zVE1faEloRldRbFdJU0FaR0JGa2JGcTh6N2Q1UkpBZ2tUWTdEc3BxU3RVU2txVUtWb2NtSmdkTTBKeDlmUEhmdFUzRmZlYUYxSjN4eTdNWGtIN1RjS1RNVWpST0RCNEQ0TzhmTExDcHBYNkRLUVI2MktveHp4aG55QURLXzNCcjJ3VEhPSUg3Nw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlowZ1JpQlREQnMxM0Q2dWVxYmZYM09Ia2RyRVU3N1V1VHc2LUhwazNzRDVuU0VESXlEVUxBTjNfSlI2Z2pyRk1RNkpSVkR4RXhqMTlBS1liT0pheFVxOHRLNzVUVVdFVUJqRXJOczdsYWR0VGdKTTNYU3NmaUdZb29PMnp1SnR6X1FyVEFsZTVmVDNlU0ZlZzlKcG5pdw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-06T21:16:47.035617+00:00"
+   "updated": "2026-09-07T16:24:21.856825+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -760,9 +764,15 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW80M25lNDFqV1Z6aC0xSE1Tem9JZWdoQ2ZTUW9fdkxtU1cyZ1hDaGpuOTJMd3BQcE9KX2JZcHBDaWZIelREbks4TlVRVGdYeDJvRkpQbkI0YXZIMUh6NlBSR3VOSVNaZ2xRZHNDaGJoRDVRclZkM3ltTkV0N0RoN1UtREhWV0UzY2FVdXB2SFM3N00tTGh0U01Ld1VjWjlQWjdmNlhR?oc=5"
    },
    "source_title": "Kalshi, Polymarket: Gambling or Financial Products Under US Law?",
-   "also": [],
+   "also": [
+    {
+     "name": "law.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkM1N3QxMHVfTVdzREJ0UnI4U0ZHMmxodFBtTWF2SXlvLVRWME05LTV5WTY2RnhoRXFwMHBIaVdGMmRoOFd1Mk5jU01OSTFtd2JCa0tGSFNPV2xxbTlMRFE0OGJlcGc3d2FYQ2tXM2pZbF9OMWllVnlueEFuQVBKY0V2ZEEwUVVyamh2Rm1uTVVuQV9hNGRDN0s0bDBwRl8tVFVXWU5YWUI?oc=5"
+    }
+   ],
    "published": "2026-07-14T09:00:00+00:00",
-   "first_seen": "2026-07-14T20:20:04.295469+00:00"
+   "first_seen": "2026-07-14T20:20:04.295469+00:00",
+   "updated": "2026-09-07T16:24:21.856825+00:00"
   },
   {
    "id": "4b41b91b698b",
@@ -5790,11 +5800,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnFOZlJDTE9mYjJBaFdYQWdsdFk1cTNhLTRRRmkydnM1RFdzc0FpMkUtb2NWOWc2TmdfMnQ1anRuWkpsYnZ6ZUp6SDJEdTZrQkNRRlVTT0VMVnJydnJnNEcwOFJGYVdGUHpFRHl2YWJIbWZOdDFfZUY3R2ZtTjFuQjRiUTRQTS00M2ZZQ0xFR01yLWNsWXg0U3p1V3RvQmJJRGFxYWNQZ21fSEE?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2ZxX002STY0QVVJdFRfcmdvbVhObV9OTEhad1lhNW5NRUhBVmlycWhSdHhzWG1HRTV3ckhUN2w5RDBPR19GMkNOazJBd1Juamo0OHVqYVh6MnhjYlh6LXlXVGFrM0Z6YXduVG80R2R0Mm91RWI2SVRIX2dIUHJZTkdKMlRkSmR2OUxUWjV6SDZQNFdQMEllbXZ1UllzSW5McmFMVUxxQVBwdGM?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-06T16:56:22.958233+00:00"
+   "updated": "2026-09-07T16:24:21.856825+00:00"
   },
   {
    "id": "3b83809e121a",
