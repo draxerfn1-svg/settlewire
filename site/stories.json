@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T14:26:28.813042+00:00",
+ "generated": "2026-09-08T18:33:56.217162+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -299,11 +299,15 @@
     {
      "name": "timesdaily.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUstMHVXcUsybDFybDdyMkNldHpZUlNkVWdZekI4QWR2RmM3cUtjdGszVlZobFNGemh2aDBxOS16bzBaV1RYQS1VOW1YcEpOeWp2MFhpeDZpeDFSWl8ya0xEbThqOVFHb0VTY1l6dGQxTF9VQTR0eGwwanlHZ0M5QldvcVA2alpKeWduTTVmMnFwUVRkcGo2OTBZSUNrUUcwY2prX2taYVE0WE9GT0ZSaDNjcEt6QQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2N0YTIxUGFjWVNMVlRnMWVFaHA3S291WTZTTUZfbXNiNDVydzl0VEJJQUF1X01vUW1acFBJLUh5Mkd0OFRGWU9pYkNzNmRKaFNDdnlDMGkzWWRzbWJMMXRiTTVna2h0TDRnZmNfdl94YmV5R1lMeDI2NzhzS0JRUi10ZTE4U2JJNi0yU1pISlo2Q1dHazZEdmV5OA?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-08T14:26:28.813042+00:00"
+   "updated": "2026-09-08T18:33:56.217162+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -405,11 +409,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUM2ZDIxQmd4RHNkc1dtNTkyb3NRdlUxUUFUTFpWeE5iWUpkRF9iRGdCQWxHWFNwMkNYUEhNU3JNVHcyTWlRSHB3X190aU5FcFZJVEpNdGZxZ0lEZ29hMktLT1FUZ1M1R0VBcTBRLXItcmt5VFZqeVQ3RG9MSmh3aVFtb0ZrdHNEVkVaRjVNVmdIUld6RmVDdjhSQjVUMF8tcVlJ?oc=5"
     }
    ],
    "published": "2026-07-14T12:00:00+00:00",
    "first_seen": "2026-07-15T06:24:37.945081+00:00",
-   "updated": "2026-07-15T09:19:11.371834+00:00"
+   "updated": "2026-09-08T18:33:56.217162+00:00"
   },
   {
    "id": "3bf045bf3fe1",
@@ -747,11 +755,15 @@
     {
      "name": "State Affairs",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnM3aGlGeFRTVXRkT2c1d3N4NVVtX25EZGFlUWNOaHR1WWFMangzR2dKX3RnUnRkcnZiNTV3cXdSMmdvVFV3VklIR1NhQ20tWjhuLXhzckFWa29nNkQ5TzhKaS0wM0hCTWZseFBHLTVzTi1mX041YkZLZmdfN3VLVg?oc=5"
+    },
+    {
+     "name": "State Affairs",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTU1UVdQUTV1M1lQbWQ5MmI2c1NzTnRjbjE5ZElSQmJ3UXJZYWxwd1U2Zlc0OURsbFVTRWhCTG1DUzJUdXRBakVxTEV3RHBwdHdYaG1sMzVPcGNUOXVMX3RjaGdCOVBadkczal82VnF0aXdNQ2NCamdQOFRaRHhMS0ZtWQ?oc=5"
     }
    ],
    "published": "2026-07-14T09:48:11+00:00",
    "first_seen": "2026-07-14T20:20:04.295469+00:00",
-   "updated": "2026-09-04T18:19:05.440962+00:00"
+   "updated": "2026-09-08T18:33:56.217162+00:00"
   },
   {
    "id": "81b627b1b782",
@@ -2590,11 +2602,15 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFNPRGlIZ0NvM3B1WE9XM011WEVmMGNLb1JyWFNLbXZNTEdaSTZJRmZNU19MMlBTZUNuTHhmcl83YldkUmxsMnJRU1FHaDUyTDk3MHY1TTVaWHU3UVVNRG5xZXZ6T0EwbzRkNVY2alpiYlp0Q3RHQ0lkYURTcldlcHVPU3dWbWw2VmR0bTRmdUVXcUxpbXloWWwtLTktbC12dTBWZl9MS2lYY1NmR01hZ2lTQUpYaWNlcGc?oc=5"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTZmMUZqNFZjbEJ4T2wyQU40RVE5UndRMjFmVEdiRkloWWo5QUFjaXloZWNHVFphZndzbndUdUU3UWZ6WUJsbVYxQnVYMU5BOTZtd3ZIYTVWaGRhazFMUzVlRGRxZHNqQWdON3M5SFFKYkVnS05mYmNRRUo1bC15emkyZ2JTRU5TZVg2X01oZDBDbm4wZ0NwdGkyejd5elBvdFJJaUlmUmZyeEc5Y2lyLTY3WWNjdEU?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-08T14:26:28.813042+00:00"
+   "updated": "2026-09-08T18:33:56.217162+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -6052,11 +6068,15 @@
     {
      "name": "Bitcoin Foundation",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGdIaGVueDZubG9oRkRMeDYydFR3aHE2eVhpQ2lreXNLSVBkM3VkOWVLNU5PNkFLRWw5UFA4LUlFbWd2M2NmcFlSQm52WUFRcW5uOUlDTkhvNnJqT3g0ZGZFWWVKUGthZkpUZlJ6eTNJWVZrTDhJbGctd3RLajNudFBlUURxdWJ3OVc5TWZJTGR6dzBMNkNGSjlnWlRRS19fTkJmNWVlN1djcXFhU0gwVjNCWV9aWWZ0aWI4U0N3?oc=5"
+    },
+    {
+     "name": "DeFi Rate",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG14bk9DRzlKR2Z4M2lqX01DaEF5VlhtV09MQ1ZyT2dVRVlyaElzcXA3NUp0MkhQVC1NTkxqOHBFZjUzTkpzYWlCWEJjaC1BbmxnRVVhWnpHZTdKem9YVDRSSGlwZFhKemlzclMtbmt0OEU2SjNxZzBPMXY3ZE4xZGZn?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-09-03T21:39:56.232960+00:00"
+   "updated": "2026-09-08T18:33:56.217162+00:00"
   },
   {
    "id": "1d484074c246",
