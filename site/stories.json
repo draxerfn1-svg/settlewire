@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T18:30:20.634704+00:00",
+ "generated": "2026-09-09T21:38:58.767355+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -417,11 +417,15 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUM2ZDIxQmd4RHNkc1dtNTkyb3NRdlUxUUFUTFpWeE5iWUpkRF9iRGdCQWxHWFNwMkNYUEhNU3JNVHcyTWlRSHB3X190aU5FcFZJVEpNdGZxZ0lEZ29hMktLT1FUZ1M1R0VBcTBRLXItcmt5VFZqeVQ3RG9MSmh3aVFtb0ZrdHNEVkVaRjVNVmdIUld6RmVDdjhSQjVUMF8tcVlJ?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV25MWDNKWl95YkN3WjhqV1BlMFEtaGNwaFB2eDBHa3laU09qYnc0ZUhjWjEzaEY0LU5CRFBTaUl6WXlQNXRwTjBoV1k2bGF5c0Vkd2dxUEREYzhKbks3bW9tYUN0cjJhWjVLb0dnSHhNVldSUTFsWUZxazB6OGcxeTJQU3NzNHBZejR3?oc=5"
     }
    ],
    "published": "2026-07-14T12:00:00+00:00",
    "first_seen": "2026-07-15T06:24:37.945081+00:00",
-   "updated": "2026-09-08T18:33:56.217162+00:00"
+   "updated": "2026-09-09T21:38:58.767355+00:00"
   },
   {
    "id": "3bf045bf3fe1",
