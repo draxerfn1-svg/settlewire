@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T05:53:05.523393+00:00",
+ "generated": "2026-09-10T11:10:13.210242+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3177,9 +3177,15 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQenh5cVVRS1R3SnJkT3RlTnduZmlHakpNTnpIOFVSV01kSWVfUzBlYWMxQURQenRzbTBoaTNIZ3VJOExqWVlZZWRlZzdHcXhaa0ZnRDdrSjJRbGNlcjBLOWkzLThmT083UkhLM0JhZkhVeFk5d2NGb1RweFBwUmtKOVctMXk2UQ?oc=5"
    },
    "source_title": "Prediction Markets & Insider Trading: What Every Compliance Program Needs to Know Now",
-   "also": [],
+   "also": [
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVxOENDdFFGTnVCT2tmUGsyNFRGNFRsUnJSUGtJdFNHejZyb2JPbmtzWXRqUmFBMGx0cTV3YUNoSUNobHVBM0V5S3V2TktBRkd2cko0X1A5cDkxNEkzeUVFXzJZeFBsckJOcVZYZEJSS0pwejBiYmN6Z3hONjl6ZGFDanE?oc=5"
+    }
+   ],
    "published": "2026-07-09T19:11:04+00:00",
-   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+   "first_seen": "2026-07-10T17:56:54.895553+00:00",
+   "updated": "2026-09-10T11:10:13.210242+00:00"
   },
   {
    "id": "1679c91ffec3",
