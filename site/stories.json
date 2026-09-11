@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T11:10:20.812894+00:00",
+ "generated": "2026-09-11T16:22:52.695360+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -663,11 +663,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmxqb29PWHM2eGQ4VUtBVmJnMFFvTnUwemx3blN6SUo5VENrN1pXS0VaekVfdFhCc3FZMVBhWFgtSDFxUXF6Smo1NzNuQ3paVUhvd2VhWWUtWktPU3p3U3plVEZodDNURkNCSkk4ZnVXOG1XOEdWcGRIcDFSbkdfRW01VlpjUWZwLWhZeW5QdXRycXZkUlVKMWFmM201QQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGdoTEhndlJKS3VJcmxkYWxRYnp4T1JvNW4wWWVkWVBPb0dBLWpyU1pRU1lsVUdwSDVGOGhIV1FrRG9iTHdHSWxfam1mYXVhSmhKdy00OWpVUkVxS3VFc1dCc3FLdXhqeG1LZnRKX29BOG1qeWw5cWxLMkZXbUUtSEtGZ2JDQkZPRk9qYjFmYVFZUlZMTWtfNTNlQlE1QQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-10T16:18:57.194395+00:00"
+   "updated": "2026-09-11T16:22:52.695360+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -820,11 +824,15 @@
     {
      "name": "law.com",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkM1N3QxMHVfTVdzREJ0UnI4U0ZHMmxodFBtTWF2SXlvLVRWME05LTV5WTY2RnhoRXFwMHBIaVdGMmRoOFd1Mk5jU01OSTFtd2JCa0tGSFNPV2xxbTlMRFE0OGJlcGc3d2FYQ2tXM2pZbF9OMWllVnlueEFuQVBKY0V2ZEEwUVVyamh2Rm1uTVVuQV9hNGRDN0s0bDBwRl8tVFVXWU5YWUI?oc=5"
+    },
+    {
+     "name": "nytimes.com",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG50dzl4RW1pamVaWm52ajdPdy1nc0VPVHNMN3FjLTlZRWxxMko5Qy0yY0hsVW5QWlIxRVUxcjNPMVRUV1cxTk1ZLURGSTUtZnhoYXQta2dRZ25kQUJGSHozYUdvZTNRQUc1Q0hBbXRDMEYzRjFDbFNwZGJXc2hmYjFlWWs5QQ?oc=5"
     }
    ],
    "published": "2026-07-14T09:00:00+00:00",
    "first_seen": "2026-07-14T20:20:04.295469+00:00",
-   "updated": "2026-09-07T16:24:21.856825+00:00"
+   "updated": "2026-09-11T16:22:52.695360+00:00"
   },
   {
    "id": "4b41b91b698b",
@@ -4365,11 +4373,15 @@
     {
      "name": "American Banker",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXN2QWFhTWFoN2pZdG5iNzVoUHJNNGYxWC1LT1NJcm5nU3RSaVBIZ1pEdzlSVlU1TDRDVTlqQWtaaEd2SEFZc0dmRHNqaTRCbFhUbUFQd3JzNHEybXlHUXF4d0pxRmJJSTBVb1l4OUN2akRuSGo1cjhldGlCOXlkRFZaLThtUFJ0X05NUnhjd2JyeXlOSGRj?oc=5"
+    },
+    {
+     "name": "Rolling Stone",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGJkZGkxc2NzOTVqQ19wZ1FqeDFvdUQ5YzVyQ1ZDQ0N2M1JsV0RCNFdrdE10aF9XLXdvUlg1eUpLZTh5eUpjNDZnQVFZemo4LW8ycmVtZFY2bFFZQUlJTWIzOHJBODRaSVZXamR0MTIzaGF6M2RQWTNFeTRRYmRJanBMRTVLVWswcllfR1hENWpxalVnUWhkMzRtM2xlZw?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-09-02T14:22:38.312216+00:00"
+   "updated": "2026-09-11T16:22:52.695360+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -5918,11 +5930,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHdyTTl5VzNBQWFjV0FwdlVobFFvaTh1cUNlbGgzNTItakkxcmk4aTBiX3ZHUUZUTjFfT3pyTGxPMFZtS0tsMFgtSmJSaUpxVHZBOFRmdW9VQm0zVVhRVXBDdFZqV0tLem9pNzNMa1BlcjJ0dzNYX0ZDSHJvZk5kVHpSZk5QVGdMbTN2LXVHYjVpdHAyT3BMcm4xSFJGQlVFQnNzTjJNS1FZY3BFRzlCRjUzSnM?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS3dkTkxvX2JQM1Z2QXQtVy1kUnlxZ2IwdE9vRjl1S25CQUpzVWtiWU1VZDRyMWFZc240dGUzZVJjbXBydU9rT3RRZlVUX0drdnRkMFBDQW15aHNNRXE3WHd4cFdFX3dSM0o0VFJEbnhsVzlVRGFlUV9RekdPMGoxSnFONEtJWWQ0aWotVlE5cURsMXgtTHE0TzkxV2RkV3FkLWtfWF82SmsxM0hq?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-10T22:29:35.765113+00:00"
+   "updated": "2026-09-11T16:22:52.695360+00:00"
   },
   {
    "id": "3b83809e121a",
