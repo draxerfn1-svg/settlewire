@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T01:03:15.101842+00:00",
+ "generated": "2026-09-12T05:41:22.375600+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -319,11 +319,15 @@
     {
      "name": "status.news",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUHR2RzFENEpHNWRfeXhEUDFrdGlhM1g4QWUxMzMzd3FLY3ZhOEpzcnllN0hWWVFaRkJ1V1YyRWRzejVEak1uU291aUl1QlhOYnE5V3luRTFEUk1OaEtOdUx4em5MeFlDTS1n?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pOUUxNjhYZTRlV0VrUUd0amNGN3o4TTVOSFp1cUI0N2NaY0RGZl91TnlwTE96OE5nVUFVOVZ6OEtxc1Fsc1ktcEtyMkJaYlRBLWJKWE54U3VyU2V2WVBKOGhDemxpSmJUZEFKUDB5VEo?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-12T01:03:15.101842+00:00"
+   "updated": "2026-09-12T05:41:22.375600+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -4897,11 +4901,15 @@
     {
      "name": "KOAA News 5",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSktIbEJ3SGF5UkxXOV9QRTMycExLNS05UDYyenk4LWtmNHZOelZfaTFpVGJNeFZqOVh4WG9zdmY2RHgxLXpkUHVwcXhjRWpPMzlDdk5iZWxVc2FLa2dsSFFrbFljbExLRngxV25hYkd1WkgxLWVyc0h0c045WkNtZjNLTV9hUmZ4aW80OEZ3?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2FXbjFlN1JGd3FKcTVEQUFjbjh2TV9iQ1ZWTFc2Qm1FcFdoVzh3ZmhBTUVYUEx5QWo1YjFhNlY2Q1ZPUlFBODktTFZ6Ty1kMnRneGdlc0FmTTJXbndabHNqM1RtMEd1Nmp2Q2xNbFMwdWc0eW8xYmRWMm1sMWZOcUpnNDh3TkFBdXc0OGZPSWJKbW4ydW1EN2ViUi1Udw?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-02T14:22:38.312216+00:00"
+   "updated": "2026-09-12T05:41:22.375600+00:00"
   },
   {
    "id": "cb28880381d1",
