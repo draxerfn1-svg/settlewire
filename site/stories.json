@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T13:55:08.604439+00:00",
+ "generated": "2026-09-14T19:16:33.147254+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -331,11 +331,15 @@
     {
      "name": "rotowire.com",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGY2cm5zVF9LcEtKRXdXc2FTM1NxakJVSi01WmZfLVFzMngxLWY1b2xQNEstR01fcEwtSWxhU2JHbWcxUHFUUkpMZVFlRlQyNlgyRVZVWU5PMjBOOVZ2T3JENS1UcEJRb19iUXFINWpFXzktRVY0OHc3UTYwS3VUVjZpZVlIX25TbEtKdGpIMUY0OFJtNWxwRVl6UQ?oc=5"
+    },
+    {
+     "name": "rotowire.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVBVX1N5WXl2ZzJSdENwcmloVHNYemJxMnJhYjBrQU12RnRLTm4yMXpKa0lmcjFKRWQ4WVFmNG15RXhib2MwZElHMm14dlJjTWNpS0JNMDM5VWhvYzFOS2ZyUXJUc2hRaTRlUUVoSzg0OXRwUVM1U3ZWTUVrRHQ1V2J3aVdCenhXTE1OLU9Od0t1a29weDk2dXAwSQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-13T19:22:34.182230+00:00"
+   "updated": "2026-09-14T19:16:33.147254+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1068,9 +1072,15 @@
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMXlvRFAzeUVXVGRGOTNyWG4xYUFteFhaLUtYWTRZSGt0dzQzd0dyb1JiLVdPazVnZ3lwbkxLRzJ4dzROZG4xMWRLV3dpcllUSkttX3ItYlRwU3NHd08xZ01qYw?oc=5"
    },
    "source_title": "Kalshi Launches Advanced Trading Terminal",
-   "also": [],
+   "also": [
+    {
+     "name": "LinkedIn",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFg3LUFrQWpkSWNRNkpxRG5zeU9FVWE1eU5yNGtqWkRuOFJsRVQ2QV9UcVBfeDBhRGs3Y0RhY0tQVHQ1S2hLVXdpQ1k3aklRQkQwUTRuR0xuZGN4NVpvOVFfUWV6bk9jNGh6dW9GLUMxNGx0dlFta2laTlFSSTk4a0tFUk52TnR1aWRpdg?oc=5"
+    }
+   ],
    "published": "2026-07-13T15:26:50+00:00",
-   "first_seen": "2026-07-14T18:13:49.751455+00:00"
+   "first_seen": "2026-07-14T18:13:49.751455+00:00",
+   "updated": "2026-09-14T19:16:33.147254+00:00"
   },
   {
    "id": "66b303c60e98",
@@ -3236,11 +3246,15 @@
     {
      "name": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcERXa2swamV4TS1oQVVJZXRRdm1FWC1ack9ZU0xHYjZqSFlycFdkRGZEelMwNFlrMXpSaGZSOFE0eVlYNk4zMnkzUlJ4RFpLQmhXczFzZENQRWdLblE3b1pubEk5bTV4UmI4WnUyZmZYdlg0Q2JjbHlXNGZpWEpwWFppb1c2RkhDZk1KQ2JYT3dTUXROR1dwakxsTUtZaHhDbDRiZEctYWxLMjJTdlE?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXV6cG1qY1lrVUpTTXFUZ0tDU21jV1djRWI0Q0tGVmtsdTdtaUlMQTBZbFg5cXcwYVJaQmV0UC0yanFMd0drcVF4UEtnMGNZTjdHUlBVeEhuX3U4YkxqRFJoZ0FzSVRqNHZvVW1iVDBkMldNc2xEbG15b1FJOFlWS092QkFuZDFzbklJa0ZBMmo?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-09-10T22:29:35.765113+00:00"
+   "updated": "2026-09-14T19:16:33.147254+00:00"
   },
   {
    "id": "5f8facee2c9f",
@@ -5071,11 +5085,15 @@
     {
      "name": "Yogonet",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONlhJWjRIR1RGQUk5ZzY2Y2lpZ25hOUxobkM4eTVybzExN2JycHJONFpCaGJYY0w4NGJwalFjcnVDZnYtSGszSWJ4WDU0NWtXTmJtOVMxT1VkdGd6YUtfWi0wV2U4ZGVlWllGY2lpUHlFOHpsSFFtRVJUZW1ZOEdFaXlQaGZBcmYwZjJ1SW9ON0NRcjNET2FnWjR3V1JuUHFKUEg2MFBWTzBQSGZHenpEbE5aTmtEd2l0em9aZkhIOXNhdGRhU3JmLVlXWHVyVlk?oc=5"
+    },
+    {
+     "name": "Yogonet",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNXzZ4Tm5tVHAyYWltMTNzU2RZNWFZS19tck9pS1ZtN0VaY0ZOa3dGNzgyd0ZzYldEWmJwdEQxejlkTjk2ckdzWDVuNHVId3VpN1NRZUtZSFdZdUdRdzJNQjZzM1RnUUdMa0hud0xsbHhVWTBVVVRZN2ZIODlIWG9yd2lVVFN5VmZqdm5VV0wwUldIUjJZWG1VMjBfUVhDcDNMekZMWHd4enNDR21paFlRZC04SkRkQ0t0U1F0aDgzOEppTkxwQm5KaXlrajBYV3c?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-09-11T19:35:55.071596+00:00"
+   "updated": "2026-09-14T19:16:33.147254+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -6026,11 +6044,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck81eVRTS2RMZlVZSHItZVhnSDZpZm94MVY2X3NSWEdVcDZEOUNyTkVGbUdkcDczV0xmTEpGSDlNb29lcC1xeEJNa0tDTHp5aHlyZFZXZWhXN0xUaC01UDZUejZWVnpQNERHSXBFX3RoaERVUnpOc2FKcG5ROWEzTEtJVGR0Z0JoYzA3enctWXJRZ2xoajNuTEtvYTZLTGJMQi1pY0RUSERzb21hSTZiN2dpQ1dyTGM?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHk4VHJBZmhSSkFJNUJkaHhBZ1NNT0poTDV0MW9rM0llYVQyMXBrMWlXWjJ2TGFncVp6WC0yZEFlaEF4Y3NTWFVXQnBJSTlWYk9pVEwwb2puQ3ZBb1NIY0tVblBvSFluRGt6cDlXc0I3MzJNZl9Ma3RNV3BONjlRbTZ1Vldsb2FvemdCYlRWX0Q1SEJRQzZ1bnZSd0JvMjY0Z1JtQXRTNHRLQkpZcU5sX2dR?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-14T13:55:08.604439+00:00"
+   "updated": "2026-09-14T19:16:33.147254+00:00"
   },
   {
    "id": "3b83809e121a",
