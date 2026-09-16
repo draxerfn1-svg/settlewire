@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T18:08:43.958477+00:00",
+ "generated": "2026-09-16T22:04:20.414830+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2933,11 +2933,15 @@
     {
      "name": "Iredell Free News",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU19yeFVoRHdQS3psRnhIVlB3TEdnU05SWmp0dWhnbXJwNmNuT2NKMXpicmVYVGZiRFYyTmRmY2U5emROVGlTRW9vSE5mWEQyel9VMjExYkNlRlRHLWpQWGJGMWVqT2hPd3Z6YXA4TDl4ZFg0c3NGYl8zbXNKTVpvcDBEVDVkbi1hdzVCUnB5YUVpcWpnUWFrMzBaSktPOTdtbm9SbnFPVUVydThDU0FMMXc5S1EwQjlORmdyRg?oc=5"
+    },
+    {
+     "name": "JD Supra",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2NKRngtNXo3Rkd3MGJqck5UTHQwOWdWSzd4UnZOaXhuVlplRTNsMThCdG9UQWxQY0hhdGxuTVVyMXduNUFGeTlHVFBwSUlxandDWTBNS3NMZmJiU2t0Q2tDYXFjNEFMMm05Q0wyQ3ZLLTNTM0xzTzZEWUdiclVaa2xwRF9qM0k?oc=5"
     }
    ],
    "published": "2026-07-10T09:30:00+00:00",
    "first_seen": "2026-07-10T19:47:30.401982+00:00",
-   "updated": "2026-08-19T13:04:17.262427+00:00"
+   "updated": "2026-09-16T22:04:20.414830+00:00"
   },
   {
    "id": "ec04f3a61246",
@@ -6102,11 +6106,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHM1RDQ3bEgtTGhVMGZlQTF0UXRFbXNzekFSVVdfbFluQncwYS1kX0NQQjBzTENVOTNRY0J1R0hDQU1OTUlHQXNaLXBtRlNoQldxVEpyWFVpcFlJVmw1UWh6M0M3cEhOWl8yQ0tLR3otUU9aSDZpdlV0SEV3bWJOanFfblp4RFU5UTdJX2UtTkJPVzBiT1dfR3NsQy1YSi1WbzJ1eVhzaFJXdG9E?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjlibmlqYU5CdG4yOWJJNkVsSlduUFdVX2M2Vkd5TzM0ZHpia01nUTQwWXBOSXozNm9mSnFTNERERkpRTTh6WDQyUkdPOTRmaWw1amVRUmJpZUxjWFhGVEcta1pOT0JjcVVHQnAwOUlNVEVuSkpNOE1BTWY4eG9IaGhnbmlYbWNrZ3FUNWt1X1o1SEpHYkQ0dVVrVVNCcGo5Qk1IeDBoelh6dUdsVmtCTDBUX3JvYjNaOHg5Tg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-16T18:08:43.958477+00:00"
+   "updated": "2026-09-16T22:04:20.414830+00:00"
   },
   {
    "id": "3b83809e121a",
