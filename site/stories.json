@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T01:20:52.581253+00:00",
+ "generated": "2026-09-16T07:37:01.898783+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1050,9 +1050,15 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3lpZEZTTUx1b29NZGRfSkhPcnZzeG1rSmV3LVdmVjFtM0RzNnVfdENiUHBfMHByaE10aW11M2tmaFZCSWh2QWJ1WHVhcmx0TXFiSzR5YUlwenU2aGRiSjVHQ1hPNmQyMno2NmUwWS04amtmSkMwNGF3Zm1HZGc4bTJTblBWcXJwc0dyOFMyQTRFUXpYRERNNW14NmFjZGhEWGZoTQ?oc=5"
    },
    "source_title": "Polymarket Odds Plummet Despite Trump Pushing CLARITY Act With Urgent China Warning",
-   "also": [],
+   "also": [
+    {
+     "name": "finance.yahoo.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWd1T1FKalJmd29Ecm4xUEhzOG5HbDZGcE9sM0RsN0xTb3dGOVdubl9SNDRsZ0U0R0pMZUd2eTV3LVBPb29McjQ5cDYxbGtaNkhVRGJXT0FzYXFPMTk2MVZDY2lGQkRVQWZBV3lvaE8xZ1Jtb0FfYy1XVVdKZGt0MUFTNVZmRUc5VHpaTkNDVjhMV0ZDVHV3WVQwR3AwQQ?oc=5"
+    }
+   ],
    "published": "2026-07-13T16:43:22+00:00",
-   "first_seen": "2026-07-14T16:24:14.836380+00:00"
+   "first_seen": "2026-07-14T16:24:14.836380+00:00",
+   "updated": "2026-09-16T07:37:01.898783+00:00"
   },
   {
    "id": "801025c3202f",
@@ -1494,11 +1500,15 @@
     {
      "name": "SILive.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGhyOXhyTXJFYlo4OGlrLV9xS2hEaC10QmtJUUwtOGw3MUlSay1PTGE1YnltSThISHBMZzEwSVNIUTlKSUFhUzI4M2FDSXdQQW9Sb3l5VkEzanRZeXB3VXhrendHT3RKUlFUUjd0azFBQ21KUUUyVG1WQ1M3dGxBNjRoNlJsNWd5SU1KWmlfOTliTHc3YjlHb2duWmhBWEhyQ24zNmlR?oc=5"
+    },
+    {
+     "name": "OregonLive.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc25hRnI1enFmSWpTQmJEc1Qtb3FXVlZaY0RKaDhhTm1GUkIxSFlFNExLRmtMZW8tVlNsME1hdzNwZWktRkZ3TTNUZDg4TlpDSHFkRnIyS2tTNXZMckN6NC1UWmF3eEJqNTNkYWZVV0Q0cnUxX094OUtXc056em9Lc1ZQR0duM2JkalU3SzVuOUlkYXVuNEdaZ3g3OHRyWkdkU1IycVVyNmdhWXAydHBfSGppZzY?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-09-14T06:07:59.459437+00:00"
+   "updated": "2026-09-16T07:37:01.898783+00:00"
   },
   {
    "id": "aa57d70d1811",
@@ -6586,11 +6596,15 @@
     {
      "name": "cbssports.com",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRSTdUT0RBMjhRVUF3MkI5akJ3VGF0X0o0czREMmpyelloMXBGWUFPOV9tR3ZNNEtBaDNjY1pYVGVCZDgwamJiRm5rZzJLRk5URkhSRkVNdjN4VXQxeEwtSV9aZG9lV09yLXlJRUVmU2F5QU9CZjNHVzdB?oc=5"
+    },
+    {
+     "name": "federalnewsnetwork.com",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWRBV1oyd21ZdmhNX3ZuV0U4R3BXSmVqMUxCVFpsS19LMjBFczlhVTBpREFZQzkxaU11VFpyR3hpQTRNODhzUGducUlnbzJwcGFjMVBvLS14QU5MWDY4dGlERTd4dk4xY1lxNHNUVzQ0bzItdS1GTWwwMGM0ajhkVnJ1ZEQ3Z3l4Rk5La2tpWTVHSFI5bHcwUjVncVRxclNRZ0FWdTAzUDd5b2J2alpEMkpLTW94OGVkaThuMFdNSnpCekZRZVNBZHdLT0s0eDVDd09LVA?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-09-10T00:07:29.582020+00:00"
+   "updated": "2026-09-16T07:37:01.898783+00:00"
   },
   {
    "id": "78d60a3d2552",
