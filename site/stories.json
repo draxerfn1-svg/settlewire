@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T06:03:27.291569+00:00",
+ "generated": "2026-09-17T11:33:38.075227+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -457,11 +457,15 @@
     {
      "name": "Forbes",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDJpWHp4blpMckdhVTNGaXRCUFBiR3NYcmphQmo1YVJURjd1eWg2aF8weFdYenpuX0xFeGpJck1rNFExd3RaRGIwTHozaFZzUXFjdk9FT09KUXN0TGRiX0ZsWlNMVWZkNzMzbHRIM2N4S1U2R0hVWmdUTEh4eWJjM29GdTZRR0dpZ2k0U0tR?oc=5"
+    },
+    {
+     "name": "Governing",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkZoNEhQcjhtR0trSXFmNDVnWUZMOVpfTzVOelh1QzkwTTVLeS1yQzBwMzRLWEZqSmp2S0VTRFpZdU0wZDd0MWhET3dGZVRnLTlNQnhEbDFyOXNEMXNpLWl4aXJoY044WGtIYTROX3o1MWRoX2t2TF9JNFI5V0twZg?oc=5"
     }
    ],
    "published": "2026-07-14T12:00:00+00:00",
    "first_seen": "2026-07-15T06:24:37.945081+00:00",
-   "updated": "2026-09-10T19:34:47.731685+00:00"
+   "updated": "2026-09-17T11:33:38.075227+00:00"
   },
   {
    "id": "3bf045bf3fe1",
@@ -1411,11 +1415,15 @@
     {
      "name": "Courthouse News",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzNtZ2Y1YVFkYklLMjYwOVotTGRiMlF6T21xZm5IbXJ6SU5fRFVzY1JGLVRiamlCRzdjSnJuVlJPVmRCdHNoVGQzYW9hTTJweEVnSG9KR09iaml5YTdLc0xyYmZqc1o1YTBhWjlNNE1QSjc2Y2o2WHRpajVZZl9jbFQ3ZllXV0Ut?oc=5"
+    },
+    {
+     "name": "Courthouse News",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObG1SSUtldzhENVhOY0djQ2pSWml1cGlENVhEdkZYblBid1kzOVNfNGl0ZE9VRUZJWVM0bmFjSzFOeEFudWpEdFJoLUtxdzlVT2tNNTdqcVR5S1lDNDE5SUpwb1d6V2YzSXEzQ2I4c2dRNV93VkZYd21GWlNxT3kydVY3WTFzbk0?oc=5"
     }
    ],
    "published": "2026-07-13T10:47:12+00:00",
    "first_seen": "2026-07-13T23:07:03.671265+00:00",
-   "updated": "2026-09-17T00:25:15.990442+00:00"
+   "updated": "2026-09-17T11:33:38.075227+00:00"
   },
   {
    "id": "eac14749928b",
@@ -3553,9 +3561,15 @@
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVzZFZ01HaVNvZnEtYzB2ejdYVnRqMXNJMHI0UXhLQWwzTGJZUkd0RkZ3N0xKU3Y2SkJmX3lzWWZLYjFZMWRPZFFwUWFYQmNsVjVFaUtsa0JvUm9KdnBuQ1ZpSG1TYl9vQjk4ZWpta2Nld2VFVG1OcGtIY3ptLU9BUGx5M1ppQWlObXRTdHR0eVJiSW0wNEI0SzEzUzZFZUFLQXh6OVc2b3g4WmtfRE0xWk56QUozeC12WHBwVGNaZzZCUzRYVmxWdGQ2X2pNd2pFNEhrdjVOaTE4b2NnalRiYlhPVVgtUTQ?oc=5"
    },
    "source_title": "Government Insiders Must Be Prevented From Profiting on Prediction Markets at the Expense of National Security",
-   "also": [],
+   "also": [
+    {
+     "name": "Bulletin of the Atomic Scientists",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUQ2S2stMmx4TVNJeUxjRWpWTjJqVGE0NC14cnNhZTBJem1aQW5ialVWeG9qN2lYTmN6Z3BkekhVNHVlY1BSZnptcjc1TnlFVEVEd094ODNXVWVDTVo1dHBlYXI5NnB4YXZXbDQzbXFuQzgyV29TOWN0NUxpMlYwVlhyaEdyMDJ4ZFItTVZDNm9yQUJUOTVGRVZGZGlIdnViVkJWdDNmbC1zUkNES0t5N2g2M3p1dW5RU1R2SG5OM1A?oc=5"
+    }
+   ],
    "published": "2026-07-09T13:02:05+00:00",
-   "first_seen": "2026-07-10T12:07:30.143112+00:00"
+   "first_seen": "2026-07-10T12:07:30.143112+00:00",
+   "updated": "2026-09-17T11:33:38.075227+00:00"
   },
   {
    "id": "6a598eefc9a4",
@@ -5009,11 +5023,15 @@
     {
      "name": "Fortune",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3RPWnhLeDRVaGQtZlBDczRnTVpuaW9NSG5PZkt6cmdGTXdabGJHbm9Ea1N4RnVWb3c4VHBCMFFlOU5iQlZSNDQtVFA5QURlS1QyN00xUGpiQTdJWTM3d0F3NjVFM1lET3ZJRHZaSHhwXzg2cWY3TmRobzBnbWFxX1VWSEJRdWE0U3Vj?oc=5"
+    },
+    {
+     "name": "The Closing Line",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNXcElHWW4xV2xyVHdveDZabUwwVVBLVkwwTmxwY3VtWGRHQ0E5YXEtZWFmekpvaXVROE45d2p1WmhzUWxuODZtUElUOE9zRlNNZ3E3VURDYnQ3ekczSDViOXZmaF9xZkJpUlMwdWZzRWhlT3dPT0JDVExTYVN3bXR3?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-12T17:01:32.253035+00:00"
+   "updated": "2026-09-17T11:33:38.075227+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -5372,11 +5390,19 @@
     {
      "name": "AffPapa",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTFCT2tadFlEamw3Ty1KblVNekRhRWZkZFhVbnNkblhnMm1MODd1dU1wZkNCTW0waThRajItWmVmVGxHWm56ZTdXQzNoVE1JRjBVRmV4Ymw4c0JTaVRSQU8wMlhTUDFkMEh3a2g0Sm5YTUFpaVZ3TE5aYWdYcXlDVTBQMDRBejhT?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlI0VUVPN2VFSDUtaFBwbW9MRGt6aVJiUkJzc05oVkd3MG4xWlpnUmlUWmpERTc3OGp1cWgxeFh6SXdqV2ZlMVJzUGNCd29QdGtsZnNKakIyeWo0cDBscGNEX0tlTWJWaVhiMFFmdlhJcUVSd2NFYzNDNnBEcElWTktqb2NXdE1lV2dzYk1ZZElVclJ2aVJKYUNMQkViSThXNnVn?oc=5"
+    },
+    {
+     "name": "The Block",
+     "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333"
     }
    ],
    "published": "2026-07-07T09:40:11+00:00",
    "first_seen": "2026-07-08T00:09:08.892007+00:00",
-   "updated": "2026-08-19T13:53:46.811217+00:00"
+   "updated": "2026-09-17T11:33:38.075227+00:00"
   },
   {
    "id": "011556d8925a",
