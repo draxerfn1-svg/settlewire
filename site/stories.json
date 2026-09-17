@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T16:52:19.038607+00:00",
+ "generated": "2026-09-17T20:13:41.497716+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -339,11 +339,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzNMdVZuWEN5aU1SY096cHkxcENkendWaU5YMFdxN3pyQVJlRC12VzVRa3RIellyWXJXZGl4WjFtMVRYNWx5T19LT0EzTi13cjhrUldQck9oUlAxN2xNVEJjY2pGWFNFbkhkN2ljUWt0aUIzamJHMXVFenMxNWF0ZEFxLUFXVDgtMU9DUm9lcFpPTGlKcldwQ0o4dw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGw3Y2RuTEN4VS1wNDJ4WF9kWTAySEMwRVVtRjdLd0g1WHNQeEFUamtabUNwUTJvZG5sWUlnaG1zY2pLS0dJRXVfWnZDV1FmaUNqQS1VdjBsRnN2OGhFSFlDWmdsOHVZaDB2b3lVY3c1aG04NWZaeHdwNkNoLXhvdkVYbjBKcVdsdnhWMnd6V0xpQ21LOElOLTlzcw?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-16T18:08:43.958477+00:00"
+   "updated": "2026-09-17T20:13:41.497716+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -2762,11 +2766,19 @@
     {
      "name": "Action Network",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSklydnNiYmlWMk9sNERfUlEyVS1sVDBYQ0Zpc0hPU0JzZ2hMVTdnMFYwemlaYzBRY00zNHV0ZF9RcGFvZEZ1R2NXT0Jzd1JHVlIxYjBmZEJZQnNrRXVtS1NDeUhSWXU3UHp3ZHFTTklVYWdXVnhXb09qMFl2UEFaZzRIMndFMGpEelRFMnNENkYtWjRvV1lXTlcxMlBXWGRtMkE4V081RTJ4RjdyTGxNZzZscGo5UQ?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGtlLTlSNUlwSDR2akZ6VXNOVTdWbEdKaGNOOGUwenZudE5DZ0VuV3hEYVZhS3lMWl9INDhyRGtPd2JNb29tRHZkOWpJeW0wcDdIRkt1ZDdfVXcxNlV6N0piLUk3bWkwUk4xRF9tZVdFcnpTMHlOUVRQUXpSZEw2LVJzRXNnTHRrd2RuYlZNa3dReDVwOEQ2WU5GemlxTU4zSzRGVTlTTEJKYU5HUGJHQ3dMQUNGVVQ1aUtjcXplZ3BBN21kekpaUVJfREpNNHc?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGgwQ3pRSkZxME85eC13RHdvV2ZzVU5heVU0QnV4SzdnNHctd2NwaDY2djNISG1YOUlFTlZqNk5rbkxINnRZWHlPQ2hmNnA0Wk1lVlhvMk9QQU1DYW16Y3ZHUVpQRkI5eXVrZUpBRTZEeDdEQUdaZVlCSjVTVlVtQk1xelFIdFFGcWdIOEpiU1gwdUlQV3pzWWZn?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-15T13:27:35.876642+00:00"
+   "updated": "2026-09-17T20:13:41.497716+00:00"
   },
   {
    "id": "0741dc215b0c",
