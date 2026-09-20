@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T11:17:07.619890+00:00",
+ "generated": "2026-09-20T15:58:18.706051+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -743,11 +743,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXJHYTdoSks3X1pmUEQ5cmxlVU5wS2NlOThhS0pDRHdPVWhpT2ZxeFM1NXZXYzE2bmV0UFEtMGpGdF8wOE9wSFZwZE01elk4WVl0YWpqQnRQN09BdWlPa1ZleUMxNlBHU2pYb3hrQldTdTNHTGFSODhHVWhQbVU4bGNJeXFPZzhMNE1XWUJvMklmbnNEaGF5NGRlcWZGZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXFJOVVnLU42dWpUV1VPSGZWRDhVamZreVMzbUY1akJzQ3lTWmJ5Zk15ZVZ5T0NZM2hQaXlfdE82M29uTHdxblFxYjRzQ1hwdi1iM2t0Sm8zNUtYODVtb3ljOUtNSi1TUUJsTVhSLUNRWVc0YktZc0tXZjl6RGZ0bUhWd0NhZlo1WUJrWUdhbUh4dkpPQWYyMF91bFBtQQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-19T14:19:59.562601+00:00"
+   "updated": "2026-09-20T15:58:18.706051+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -1459,11 +1463,15 @@
     {
      "name": "PlayUSA",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFpEWHpyUTc5VDdlVnJKZTltOERrX1psNWdjTkxoSmhLeEVDcExHamFTU1NmS2Z3bTZkSHlvN1I4QkUyZkdmcE05ZU9GbWw5RzdiS0tJdTVDZ3NYQ2l5UXNVNWRqZ084clJBWGc4UC1wZjBFcGh6YVo4NC1IcWNxLUFCX05IVUZmTjFRalRPQzhTRmxrbEdPcjc1VXo5NTBJZjJEaGNkT2Y5QWd6dVp3?oc=5"
+    },
+    {
+     "name": "Bonus.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1I0ZHRZUnJxNTVITTV1N2U5NWxybHVyQnlOYXdxc3M2dlVjWXRMRjJSQ0UxLXhwRnJ3aVRyd01TS3dKeDFBYmp0eTE5UjFxLUtYZ1hMZXJzdEcxMXJGZHlMbTVtUE1wRXJsTUFRbUZ2cEFIUFFacTh4djRuWXZvT0x5cEMyX0NSZGM3X3JoaURoUWs?oc=5"
     }
    ],
    "published": "2026-07-13T10:47:12+00:00",
    "first_seen": "2026-07-13T23:07:03.671265+00:00",
-   "updated": "2026-09-17T23:30:46.427779+00:00"
+   "updated": "2026-09-20T15:58:18.706051+00:00"
   },
   {
    "id": "eac14749928b",
@@ -2818,11 +2826,15 @@
     {
      "name": "amNewYork",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GMExPbHNfLW1mUnlyZGhiQ2EwaEtFMFZXRTVZeFdsUWIwMTlKc2Rwd0JXc25mNHdwRWFNdXNHSHUwd1ROYlpPem1Wajdfc2oybWU2NE5zR20wTEk0R1dZbmpIdGVDODJRajh3MzlTRGJBdlQ4SW9nSVd5VQ?oc=5"
+    },
+    {
+     "name": "Denver Stiffs",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1JzOFJUX2RZbFpXRnJxT1VCSmg5TlR1Vl9fWDZFcFhfODU3d3hPUndKekFaN2dyeTdobEM3SFBUR2s0RDUxR2tRV29oMjEwY2d6R0FVYkRiNkVsZTU0V0EtdURUcks1QXdxaGo1aHE1X0hEVGFDT2oxNFJJTFZBdmFWcFFoZFh6Mjk2RmZqSkY4eU1GN2NvczNsS2xnckFZNVVsVWF2aw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-18T14:24:34.161476+00:00"
+   "updated": "2026-09-20T15:58:18.706051+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -6260,11 +6272,15 @@
     {
      "name": "cbssports.com",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGxOSzZGUGRrY1JVZzF3Wm44Z1FDTEt2N0ZQblhnbjkyR1ZNalZrdnh1ZlUwbmx0ZmZYa1B0bkJYMkZ5dzFZdGdLZV96X3Y1MGY5OE5ZUHdzdUJ4X2lhNEYxUEdQbTgxaGJHWXZQa0JKVWJ6eVNtbFAxUk9aUHpIa3BreGtjdU9hMDcydjU5STBiVWcwM0hjZHd3b0dIckV4ZFRRYVNIUjIyUjFBNXhhazJrRTJoM1QtRUF5RHowdHYzNkRhV3c?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXE0RTFOYWU4cm5vZmlNLUhld01mQWxuaGxrVno0NkxtaHV4V1ViOHdkOTBsNUVBM2ZqV1A5NFpRSm5reFpqVHhIa3JsTVNZMUVaYmQ4OUJvWjZCV2dPNTd6ZkFqT09zMnMtRnVQak52UFdrNW1Ocm1QRXM3TVBkZW9zM0FRUHN4a2pNMzRwQlkyREU2RXl5SDJ2VFBWeXZvbXNtejJRYW5MWnBiR0hqeC1XOUctcUk?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-20T01:00:07.852058+00:00"
+   "updated": "2026-09-20T15:58:18.706051+00:00"
   },
   {
    "id": "3b83809e121a",
