@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T13:58:20.199138+00:00",
+ "generated": "2026-09-21T19:19:31.722836+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -355,11 +355,15 @@
     {
      "name": "rotowire.com",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGxTLXROQ2MyS0UwUFhkcWdON1NFYTlIMTlmTS1yZHAtNDhKTEtMdEZmcVVjaUs3eWViM19HbHVOa2x6eEdwM1hwUkJlYkJzMkVSNUZrLVlud19HLXR5M1VXMko5OEN5LW1tUS0zbm1Wc0pvc3ZSWVBOaHhWRy1uOE5Jb3pBN2pmSHQ1ZFZoQ3dYRXJzQ2I2Yks4VQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlpTR3hOWXg0Z3NvOTlNWllDeUo4ZWFtQURycXBMbFg0bG4yTlkyVFpfd1htaDRjeVFJS3B2VFViT0NCbDJLa1hPQXAyQmhhUVVkQ2doMW9YUFN1dkoyQ3YzLTlvYzRXSG5Ec0pmTWpZR0hKUFdCZ3ZHUm1oNG5VZDJfaFFZM2NaSndaV3Q2bjBFbG4yU3puVEFGOA?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-20T18:42:45.763549+00:00"
+   "updated": "2026-09-21T19:19:31.722836+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -755,11 +759,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVR3QXZNckpJQmpYNFJDcHp5YjhhNXJ3alViZ1RLMlZIXy1qSkk4cm85TnIxMjlFbl9Rd1dRcnpfMFBGUTdqQXRXX1BEdXladjdULVZ5d3B1ZWxWTDVZUU9VYXlLbG85UzVBcnJzTm1GMDcwbXA1bzl1NmZkNmFCZEpTSy04d1hldE52ZGVkRDhmdzdNR3NNMV8xaFhvZw?oc=5"
+    },
+    {
+     "name": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVZaVTZXM0E3TFFCZU9vT29ka1ZxUzlLMXRnQ3N1UTJCaEJNWWVwWFZSb0hBSTdPX183SDNOTkFfTlV0WWF6TTctQ0dqR2xYbVhyVDNCYmREWTF4Yno1WjA2NVBQVUtkelZYZjhPMzl0elRSQmpYMklGWVhWTE9iXzdfdEp3UTVQVjNDN0Q3MGdwRUpFRkE?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-21T13:58:20.199138+00:00"
+   "updated": "2026-09-21T19:19:31.722836+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -5277,11 +5285,19 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9nSFh3b0NiTkc0aHRDRVo5dy1wbE84bVFrSFU2b1g2TnB1Yk1xcEVwVlUtc3JNSjhZdzRidFJWUzNlYXNnWnNLMXNHdjVNM1N0YnFUS0IwakUwaDJTa0ZkcENQTDYtaE5ycURWV3AtTUdZemNDSlJxSllhUHhUWFRyLTB1QVdFZVU2WEhmYUpwVFVDWmFxa2I3MUZjUnh4NjBUbU55LU91VS1hRjhHYnlpVjl5cGZmVDFZRkFpdw?oc=5"
+    },
+    {
+     "name": "PlayUSA",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREx3MHdVcy1sQkNpYXVwVXp4QVNYdG5RNU9jaHowNndSaTI4YlBXT1pZbmFPaWVROF9wWkpLSWozMU9kVDltMDgxR0tpVlZ0SVZ3MGpCMTRmbWZpVi05VUlVRjlhTTFoVmxteDNLcjdPZVN0bWYtbkllbzBITVVlS0xldWtWdw?oc=5"
+    },
+    {
+     "name": "Yogonet",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2g5bmR2cnRocjBwTTdQMnNFem9QblJrdWJ4ZUpfODJENkx3dG5sRzlsLUVFYWJpbjN5S0Nud0d3b0ZtQmtzTGltdXJRbnQ5dWstbHlUMjdleUZ4TGFIb0owOHZfSDNpaFFSbDBNMDZjSUdaSzBTRVlUX1M1ellaQnh5TWpvYWJtVFRYSlk0STRCT0hkbDRLdVhEVkhyTlBJMl9HUU91V3FYQXpSSW4tYl9Gc01oaUFlNDJQWEMzTE9aYWN1ZFVTS2dSeHpBc3FjTEVGWHpKSEM?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-09-19T14:19:59.562601+00:00"
+   "updated": "2026-09-21T19:19:31.722836+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -6296,11 +6312,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXE0RTFOYWU4cm5vZmlNLUhld01mQWxuaGxrVno0NkxtaHV4V1ViOHdkOTBsNUVBM2ZqV1A5NFpRSm5reFpqVHhIa3JsTVNZMUVaYmQ4OUJvWjZCV2dPNTd6ZkFqT09zMnMtRnVQak52UFdrNW1Ocm1QRXM3TVBkZW9zM0FRUHN4a2pNMzRwQlkyREU2RXl5SDJ2VFBWeXZvbXNtejJRYW5MWnBiR0hqeC1XOUctcUk?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajhWbmNId08zLU0yZ0dMcjI4SWxaeFdZRVQ1R3JZSGFXcUQ4U3VFYXNlNjYtWk01ZGpGVUttN2llVmkyQ01QWG5hblJhN19VN3NJdnljTTRTaW1IeXNGaU9zMEg5bWZNUWtkZnVvbHJ5U3V0RzJNeVBPR0p6LXQ1UFN6VXRvRnlVOHpxR3JkcDdDOE5tN3ZibFhjNjJNcTdudWxNcnNOMzJ0YzFKMmswamdQWjJDa2M?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-20T15:58:18.706051+00:00"
+   "updated": "2026-09-21T19:19:31.722836+00:00"
   },
   {
    "id": "3b83809e121a",
