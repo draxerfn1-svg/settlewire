@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T09:52:01.400658+00:00",
+ "generated": "2026-09-22T14:44:03.593884+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -767,11 +767,15 @@
     {
      "name": "Casino.org",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVZaVTZXM0E3TFFCZU9vT29ka1ZxUzlLMXRnQ3N1UTJCaEJNWWVwWFZSb0hBSTdPX183SDNOTkFfTlV0WWF6TTctQ0dqR2xYbVhyVDNCYmREWTF4Yno1WjA2NVBQVUtkelZYZjhPMzl0elRSQmpYMklGWVhWTE9iXzdfdEp3UTVQVjNDN0Q3MGdwRUpFRkE?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUU52Wnl5Vk1sODZNeDYzcEZ0bUs1YW1hZ2Y3dTdvSXB1X0lkd3Z2S0IzREpKWVRwaTVGbkVnMmlZdlRya2VCRWwzUVk3eXJGOVRFNFhsZkhHWWltcXFDNUQzQ1RsUTNOamFnbkZ1Mkw4VW1tQ3lDSV9pRTNDNGFtRkJUQmp1M3NTaGc4YUx5SE9rZ0FRbEF1QnJKTHZKQQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-21T19:19:31.722836+00:00"
+   "updated": "2026-09-22T14:44:03.593884+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -3339,11 +3343,15 @@
     {
      "name": "The Defiant",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQml0TUI5QkMybDY3NjdZbEVnT2l1b1hLNXdCNC11a196dlFOaFpmanRxaTB0U0Y1U3pEbFN6UVhONmxhRzF3eXU0enFBTWpwNW0xX181T1VqYnFiS1hnVnZvSU5pc1JzbVk1Z1pzLVYzamszSjN2TnRGNHluSWFJa01DQ196ZldFS25mcUVOV1VNRmdyMDJsV1VUYw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeE14M2NGTFJnWmRDMzkzRnhtQ2REcXFBTHZ5cVRJVnFOUm5mejc4ZWhDbENfalZfM1JINVlBS3A4UXU1UFlMOExZNlAzckktN3NadUdmQ3JVMmZ6OVBTUXcyZF9xT29TQkRIOTdQWU1aalRxbE1kdG80aFh2VWIzQWoyamtrYTllMEkzOFVnaGVoTEx3N09JcndWRlZKVS1J?oc=5"
     }
    ],
    "published": "2026-07-09T20:25:58+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-07-11T03:35:02.416625+00:00"
+   "updated": "2026-09-22T14:44:03.593884+00:00"
   },
   {
    "id": "627b6bb3c98c",
@@ -4048,11 +4056,15 @@
     {
      "name": "CDC Gaming",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm05Z0lpRkRYWlJpdUdIQzZHT1ZnYS1QWmNNOU15OVQ0cWNHS0RtQ1dhN1FBNHE4NEJMa0s2eGVJODBUYzVMQU55M1JpdGQwd3ltNF9UQ0k0UVZ2azhydnkyUFFWbnZuN2I5ZGJfbGJJS3FDVGhCQTB0blRxN2lKWkFnbXRtSUk4WjlvSUo2a3oyU21wTnhnczg0X01ydEEzQzlXRXU5UWQ?oc=5"
+    },
+    {
+     "name": "ReadWrite",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwOGFhSHBTbVo0ZHEwUkhfOXhlcXU5MkdEbzFSb0luRm5nYjBSQWFBUVd4MmtmdlFHc3FXODA0bldzWWV3aGw0RFM2X0g0bFl6aUx1QWwwTnE5NHJDS29lSFdYd0ZTV3VxYW10RVo3VktrWmdxY2VN?oc=5"
     }
    ],
    "published": "2026-07-08T18:12:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-07-15T14:04:11.714106+00:00"
+   "updated": "2026-09-22T14:44:03.593884+00:00"
   },
   {
    "id": "5a84abf98c76",
@@ -6324,11 +6336,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajhWbmNId08zLU0yZ0dMcjI4SWxaeFdZRVQ1R3JZSGFXcUQ4U3VFYXNlNjYtWk01ZGpGVUttN2llVmkyQ01QWG5hblJhN19VN3NJdnljTTRTaW1IeXNGaU9zMEg5bWZNUWtkZnVvbHJ5U3V0RzJNeVBPR0p6LXQ1UFN6VXRvRnlVOHpxR3JkcDdDOE5tN3ZibFhjNjJNcTdudWxNcnNOMzJ0YzFKMmswamdQWjJDa2M?oc=5"
+    },
+    {
+     "name": "chiefswire.usatoday.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJ6RVBLaDFyNDZhbUJMZUlyREpsbVdBR1pXQ3Y3dF9GLVFsYUpKZnlEaGVVTzRfelVmTGRLZWotZk05OVJTUFVKSngxTC1fV0ZIU0lkQ1h0TVcyMW1CNURtS1RWbUlVWnF1OWszNFBKU0lPSXJqazVYd1d6aW1YQ19HcElxN00tX3BUV2Fwcl9iNjJ6b01od3M2WWFBZ2JjWVJ4WENKZUE5NUJt?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-21T19:19:31.722836+00:00"
+   "updated": "2026-09-22T14:44:03.593884+00:00"
   },
   {
    "id": "3b83809e121a",
