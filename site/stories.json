@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T20:14:08.775872+00:00",
+ "generated": "2026-09-23T23:36:57.365579+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2886,11 +2886,19 @@
     {
      "name": "MassLive.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXQ5TVZXMWJVeFhYS0JYN3pXUHVVQ3pKcWJvR01CWUI2cVQxbzhjLXQwbGM3Qm1aaWFrT0MxU1RyV2FtdUVUQlJmWDF4Nl9HYndva1NLMEJUMUlCS0FWR09ndWh6ZDBTQXNENHl4Z21PS1dRZEtBN0lkbFRsWnNpRWQ1X3JndjczNUNPUlZlNVVDbUQ1NTZPbE1jdEwzUTROWFA3Zkh0Vk9VWUdjODJ0aENMTk5EQQ?oc=5"
+    },
+    {
+     "name": "amNewYork",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGVJa0VXXzNWTkVHZnNzM3lqWmdSLUFveFlTTG1Fd1Q0RHFieUNfREg0YmZFQU1QbVlSblVpUElSbEx6aFMzWHZ6VkdpQWNzcHYtbHNOVFVNclNqOGhXR254ZkxJVHNkT2ZXOW9qaElMblo3MmQ2OGVIWWhiMGJUMk9mMFJwMGFJeEZzSHF1SElzZEszd1pSaA?oc=5"
+    },
+    {
+     "name": "MassLive",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0FoQnlSZXRyVGNncFF6Q2FCS1J6elFsTzBER2xYcXoyLWpQaENqNW4xT05jTWVoMEFIV2VyZjhTLVA0NC14WG5Td0s1VWRIX2JidEdVaXl1SU52aTVzTnZ4X2h0NFFlSUd4RWxiNVptZDZ5d0REMkZsblktOUJibXF0Qzk0NzNIX0lVYWRONVFsUDBFR3N3cmhxRVltQ2NiSWxiQUxVdkVLck5vM1hBVzFjelpKZHRU?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-23T00:22:26.133181+00:00"
+   "updated": "2026-09-23T23:36:57.365579+00:00"
   },
   {
    "id": "0741dc215b0c",
