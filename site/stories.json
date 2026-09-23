@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T11:25:15.465025+00:00",
+ "generated": "2026-09-23T16:48:26.455211+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -779,11 +779,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUU52Wnl5Vk1sODZNeDYzcEZ0bUs1YW1hZ2Y3dTdvSXB1X0lkd3Z2S0IzREpKWVRwaTVGbkVnMmlZdlRya2VCRWwzUVk3eXJGOVRFNFhsZkhHWWltcXFDNUQzQ1RsUTNOamFnbkZ1Mkw4VW1tQ3lDSV9pRTNDNGFtRkJUQmp1M3NTaGc4YUx5SE9rZ0FRbEF1QnJKTHZKQQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmJpY05IaDJNMktLVjI0a0FEMWZLY2w2TlB6elhBaTJ5LWF2NmxWd0d1V0l5WGh1Mkl4Zm1sUU00Z2VMd2N4R0pKOG8yNjhtek55UkxIY0oxQjJyOXR6WWEzUDFJc2hSelhxWTZRemx1ZE9kc2M2c0tFa3VyaUZYaDd5WGNrSGl5TFVPamxFbXB0MEZNbDdWcTg4R1FqUQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-22T14:44:03.593884+00:00"
+   "updated": "2026-09-23T16:48:26.455211+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -5183,11 +5187,15 @@
     {
      "name": "BorderReport",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0g0SFlIdWo0TG5zS0VvdUd6ZG9sRjRJWkI0R3lKVmtQRXFKUnkwU3AxZjBfYmNpYlFsNG94ZV9mVWRwUjBoaE1rRUo2d29fOC11R2VlMXJaZ0x0NXQ4VHBacHRYRzV1ejdWRVRUeFpUemVzMEtFVWFTSXdJdUdtUTNmVjhiNjQzN2FmVWVB?oc=5"
+    },
+    {
+     "name": "investmentnews.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmZ5ZDhJbmRXcUZEOEQ3OUE3eVp2NVNIUVpjam1zckFhYjJ1Y1NvUnhjQlRaOGdHN1dQbFk5M2ZtMlBYXzJ4b0VsTkhpRkRhTzdnQ2FBbDdIeUVMMHJBMjU4c3hMRV9ic0ladEJfYkhyOEZvWUdJRVNjQ1E5ZVJuWnYzVVI4NE9QcVVvTjdoTHl2WmRXbi1HWDZTSm15ZjRLSmhJbEstN0ZqSENUeUk1M3hsejJYZFBDWC05NDd2LWo?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-20T21:28:26.878033+00:00"
+   "updated": "2026-09-23T16:48:26.455211+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -5325,11 +5333,19 @@
     {
      "name": "Yogonet",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2g5bmR2cnRocjBwTTdQMnNFem9QblJrdWJ4ZUpfODJENkx3dG5sRzlsLUVFYWJpbjN5S0Nud0d3b0ZtQmtzTGltdXJRbnQ5dWstbHlUMjdleUZ4TGFIb0owOHZfSDNpaFFSbDBNMDZjSUdaSzBTRVlUX1M1ellaQnh5TWpvYWJtVFRYSlk0STRCT0hkbDRLdVhEVkhyTlBJMl9HUU91V3FYQXpSSW4tYl9Gc01oaUFlNDJQWEMzTE9aYWN1ZFVTS2dSeHpBc3FjTEVGWHpKSEM?oc=5"
+    },
+    {
+     "name": "Focus Gaming News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXZ0UEpITFduN0xyRkh5MkZ5TTJOSVdpMndZRmdsZVhUa3hXX3YtQXJjUUZkSk9Vd3BZR2FySlptd0JvYlNCaVp0bkQ3OGEzMmpQeVFTbTJkLXRQOU41THlMYzJGQnF1bU1QZUdVcGRrZ09yWElVNUVKbkd2MWVHLThiaTZHUkhJVkh4M24tNEU3cjBSZFFZ?oc=5"
+    },
+    {
+     "name": "FinanceFeeds",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09SX3dYbzRhaVZxc0RqOXFZX1hRd09lV2tBb2lkOUZubWZCcl9XRkthRVYwMXZFRW5FQW9TNmN3VjNwWHJ1bjFweDZIS0syUEVqaWh0UzdrSlo4ZWJyQUEzNFpDNXFvRjBfcUtOOHcyQ0IyeVlkZHdoY3cxOVFDTExaMW9uanozS0RjM3ludnFhN2pWV3lEaTNfYS0?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-09-21T19:19:31.722836+00:00"
+   "updated": "2026-09-23T16:48:26.455211+00:00"
   },
   {
    "id": "ed12e790933a",
@@ -6356,11 +6372,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnA1cjlza3JwaVpSUFNnTndpbGc0QkZ2Q3NvTWZwNnhTTkdwbVMwWHJHdlEtYW5iUUxnRnozSXF2ZVEtUGhtN0NHQzZJS0xsYjU4OEZ1N21TUHdUc3ItakYwMVhYRWppcXB6VllxcS14elVXaHZtQmE4bjFYTVNWaWxLdWJmemNNVEpNdG1aZzNZdk8wdWlkZkEwV3BPd2QyZ09xRUFMakg4TTU3T1RQLWxR?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3dxMm5lQUJCWXVJRWw5cHRMQ0lhSm5mTVJPVVBKdlZhWDIzTkR5WnZWc0Q1U2tESWMxTVJJU2JUeTJtQnJ5dVRVSFBSU1hKZlZzNDJrSTNESUVzbWZRZmdwdlF4X2RPQWJzQjlaSUt1X0lHanN5X0plWDExVHZiSEVHRlZEbUtISnhFbnBJN2dCQWVlVVZuU1pJcWlkNU9TdEF3NXpCalU3RHFhUU1QTmxkV1MwUlU?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-22T22:00:09.821086+00:00"
+   "updated": "2026-09-23T16:48:26.455211+00:00"
   },
   {
    "id": "3b83809e121a",
