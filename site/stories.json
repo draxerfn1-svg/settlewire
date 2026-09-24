@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T04:37:10.030562+00:00",
+ "generated": "2026-09-24T09:54:36.233587+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -371,11 +371,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3J0V252VExlSFNlZEJMT3ZLd0ljakRQRklRWmVEWnNZczNyNGxRTEFnR3VjMTRTajdOTUNaRTdWcFBNbGdBWkNSZG1nNHpIU0FiajBwY0lEdzRncEVURW1BOTZwcmRtODBRUG53cUliT2UzTVFzWFRxR2tXQmNEY0hwTjNNTTNjdjFCT1c0MHN1ck9qaTFVdkJOdw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG0tR2JvcUp5QUNkcThPZW9OdkZFYW1HTXBVZXI1QUJud0RzM2VXRk5PalFBRW5rOUxMMGRwTFdVOE91WjFvZ3ZpSjB0QmVmYkhTZWJ1MEhGNThnRktDVFdTQ2FKeUVLd1BqUWJEVDFpX3J2cDJJWnFGVUUyUFFrNmdWbTBmbWZ0Z08zN214RThtUzVVeGdpZkFYWWZrQWpOWGx6bTNyZGRoMTU3?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-23T20:14:08.775872+00:00"
+   "updated": "2026-09-24T09:54:36.233587+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -6910,11 +6914,15 @@
     {
      "name": "cbssports.com",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dTVFMFdwckxqeGlJYWxteWFqSFVjb2MxdFpqVm5hWVQ2bWdGM2ozWUtIVVRaN3RCMzBmWnRscXVTVEY3TWhPYi12VWVHMXowMkZ6bS1MdW8?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEQzRzl4cHVYcUtFTDRVX0lEMnlPdWx1ZHV0ZzMzMnBYTkRQMWRTX0lwQXYwckJtWWwtNDZXNzdwelhMZGVsNTlGekROUlYtNnVCVl9hdWZVeXo0YmhKT1ozY1hFOExqVHdWaEN1OXJ2UXVqRU9EZ2RVM2NtUXdkMlpzcGxGdk5McUJuWGlXNzlrWGc4T3hGcWNn?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-09-17T00:25:15.990442+00:00"
+   "updated": "2026-09-24T09:54:36.233587+00:00"
   },
   {
    "id": "78d60a3d2552",
