@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T23:36:57.365579+00:00",
+ "generated": "2026-09-24T04:37:10.030562+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1612,11 +1612,15 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc25hRnI1enFmSWpTQmJEc1Qtb3FXVlZaY0RKaDhhTm1GUkIxSFlFNExLRmtMZW8tVlNsME1hdzNwZWktRkZ3TTNUZDg4TlpDSHFkRnIyS2tTNXZMckN6NC1UWmF3eEJqNTNkYWZVV0Q0cnUxX094OUtXc056em9Lc1ZQR0duM2JkalU3SzVuOUlkYXVuNEdaZ3g3OHRyWkdkU1IycVVyNmdhWXAydHBfSGppZzY?oc=5"
+    },
+    {
+     "name": "Syracuse.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1NxSnhsRUZaelkyRzg0OVJSdFFPWUhNYXBiMWs2blhhZ0FEUW5hc0Jvc0VRNW9fdFhnd3dSQkZkUmQ5azlpMUxZV2x5aWFtZmZ5eDFhNk9QUHZJV0NrSEhGcWhzbUlpejFHeDdCc0ZNRFZtZTZhR1BKWG92djlfX2s2bG80Q3VYN3JMcVRvYkItQ1VJRGtMVEt6a2pLMmRXdjF6a3lkM3dsUXhKRHZYTzM2dlFMMnF0ZmlqMFhOSQ?oc=5"
     }
    ],
    "published": "2026-07-13T01:03:05+00:00",
    "first_seen": "2026-07-13T21:09:22.780568+00:00",
-   "updated": "2026-09-16T07:37:01.898783+00:00"
+   "updated": "2026-09-24T04:37:10.030562+00:00"
   },
   {
    "id": "aa57d70d1811",
@@ -2894,11 +2898,15 @@
     {
      "name": "MassLive",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0FoQnlSZXRyVGNncFF6Q2FCS1J6elFsTzBER2xYcXoyLWpQaENqNW4xT05jTWVoMEFIV2VyZjhTLVA0NC14WG5Td0s1VWRIX2JidEdVaXl1SU52aTVzTnZ4X2h0NFFlSUd4RWxiNVptZDZ5d0REMkZsblktOUJibXF0Qzk0NzNIX0lVYWRONVFsUDBFR3N3cmhxRVltQ2NiSWxiQUxVdkVLck5vM1hBVzFjelpKZHRU?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjhnQm9ucFRaWEhidURCRzUzZ1k3cnRXcURGZE53R1JEdElsTEdubHU2eWIxLVZSVE8xVVo0T3RXbmVUM3h2Qm1zSll1S2lRYjZlZnlsaEZQWmtieHVTOWVCbkc2QmJMV3BFYU0yc2RpNTYzek8xLUwyOGNIVTJYRHNnUDliRzdZTGZsSE9rbUhRVWRPZ1dDcDVhak1zbVVQVTRSUHZYci1WVkhFR1g4MUhnczhPa1Zq?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-23T23:36:57.365579+00:00"
+   "updated": "2026-09-24T04:37:10.030562+00:00"
   },
   {
    "id": "0741dc215b0c",
