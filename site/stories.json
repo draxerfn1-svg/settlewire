@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T09:54:36.233587+00:00",
+ "generated": "2026-09-24T14:57:23.207577+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -791,11 +791,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmJpY05IaDJNMktLVjI0a0FEMWZLY2w2TlB6elhBaTJ5LWF2NmxWd0d1V0l5WGh1Mkl4Zm1sUU00Z2VMd2N4R0pKOG8yNjhtek55UkxIY0oxQjJyOXR6WWEzUDFJc2hSelhxWTZRemx1ZE9kc2M2c0tFa3VyaUZYaDd5WGNrSGl5TFVPamxFbXB0MEZNbDdWcTg4R1FqUQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1NYaDVtNVNFM0VjNkxNVDRjWVNtbG5MazZCOTU0UkFTTzlaeExlN3JZSmRQWllGQ2VaQXM2Ujk2Rk1uRHVuX2o3Rk5hc1VVRk5ESHRrUW5LWC1HdnlkNmJ5RVlhNWszLThXZWtIblNCb0U0MDY3YkZJT0g2ZGFyR3RMUVRaaHh2STFibnpxd1hWWFgtRS1Yb2hURjBmUQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-23T16:48:26.455211+00:00"
+   "updated": "2026-09-24T14:57:23.207577+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -3101,11 +3105,15 @@
     {
      "name": "JD Supra",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2NKRngtNXo3Rkd3MGJqck5UTHQwOWdWSzd4UnZOaXhuVlplRTNsMThCdG9UQWxQY0hhdGxuTVVyMXduNUFGeTlHVFBwSUlxandDWTBNS3NMZmJiU2t0Q2tDYXFjNEFMMm05Q0wyQ3ZLLTNTM0xzTzZEWUdiclVaa2xwRF9qM0k?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmhJbG9BcDhyTGlBVjBRTVlETWo4SXh0THBRcWszaUN0R09CRzFfaE85MEVYWGxEMnNMY0VuRmFCS243T1ZUQ0lOaTFOdFk4NW9BRnZTS0lnVG9KQ0YyMjhzRXRkcW1MaFl4cWtFSmRsZzRtSFdQWUw5NEZZYktCbC1DWFZGWENad280V2lHREJTdEw5aEZQWXVnX1ZFQzAtRUdXRFJYNWpGeEJMVm55VndKM2ZLc2pwcXc?oc=5"
     }
    ],
    "published": "2026-07-10T09:30:00+00:00",
    "first_seen": "2026-07-10T19:47:30.401982+00:00",
-   "updated": "2026-09-16T22:04:20.414830+00:00"
+   "updated": "2026-09-24T14:57:23.207577+00:00"
   },
   {
    "id": "ec04f3a61246",
@@ -5614,11 +5622,23 @@
     {
      "name": "The Block",
      "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzZDZ0diMi1uSTBpVG90SE9BZDdvbkIyaDVFZ1JtMjVYOUFDYk9vb05aYnpmMTdoRXEwQlgtYlE3c1p4U0RNOWI3RnAwNFAxWFBWcDRJc2c0WW8tQXVLNEhJUzFFRXU4VldQeGdNNzExMG9ZaFB6THNsRVhJLTJmZVFWVjhURk1JUTdCczdYOXEwOF9SMVdMRzdsUTYtdk84RUpESmFYdV9xQlYyM0xTbnVKMkRDb1VKNzZBUA?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMXZfd2NHRmFEU0Zwb2toWTA0N2c5TV9ZT3ZLeEpvY0NsY1U4Vllkd29FY3BHdU03R2tZMFgwZDFyZ3RET0o4bHE5eGlEalktdEYxMEQwQU9FMmRtUXdnZTFLWXllTUZTc1J6NWIwR2NKQzVDMEV0emU5eWtFVmpZTmtrVmliYlRrdWladTllUzE0U1lQZkVtT2l0M0JJNDdaVjh5d3BFRHZPN3ZQNzR1YTVOWEhKQmVGRzRQanJqY3JLZzR3YUplODVhQUdmQQ?oc=5"
     }
    ],
    "published": "2026-07-07T09:40:11+00:00",
    "first_seen": "2026-07-08T00:09:08.892007+00:00",
-   "updated": "2026-09-17T11:33:38.075227+00:00"
+   "updated": "2026-09-24T14:57:23.207577+00:00"
   },
   {
    "id": "011556d8925a",
@@ -6400,11 +6420,19 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3dxMm5lQUJCWXVJRWw5cHRMQ0lhSm5mTVJPVVBKdlZhWDIzTkR5WnZWc0Q1U2tESWMxTVJJU2JUeTJtQnJ5dVRVSFBSU1hKZlZzNDJrSTNESUVzbWZRZmdwdlF4X2RPQWJzQjlaSUt1X0lHanN5X0plWDExVHZiSEVHRlZEbUtISnhFbnBJN2dCQWVlVVZuU1pJcWlkNU9TdEF3NXpCalU3RHFhUU1QTmxkV1MwUlU?oc=5"
+    },
+    {
+     "name": "Action Network",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0dHVGNXbUpiUGJNRXNuTGMyZG1mRWloUXhyaVQ4NGRJUHJaWktDYTJuaF9KOGdrTjZBY0hIcWJXd0FyWm44eFlHYWRMYW1tQ1JWUzlNX0h0dnlqMGlkMkdJbEoyMHJCQWQ3blBFeUtXM3dlVGN2YWhWTzdoS1pYOXJpRHhtay1adHZnekpRYUt3VVNZMF92bXh1Ri1lbDJsLWYwSURmRURtRURfSjF5ZHplVnFmcTZ0SGR6NENaVjJQZHM?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2hvTHVPQXdyX25kY3VnanZJT3gxNndDMk1WTEJ3eWpfYk03V25NYWpJTi1ZZDlrQ2hvUVZLQTVjaHdKeEVKS09taVhYd3E2RFNOVzNrNHlwbVRVa0xXWTJpRlF0TW90V1VZbUl0OGNqLXRJMXVCWGZQZExNdnAwRGZPQThyYklabWoyTFNEZmtyYlNrNkMzMU9STUNUN1VqOVlrU0p6ckJPQi1Q?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-23T16:48:26.455211+00:00"
+   "updated": "2026-09-24T14:57:23.207577+00:00"
   },
   {
    "id": "3b83809e121a",
