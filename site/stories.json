@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T14:57:23.207577+00:00",
+ "generated": "2026-09-24T19:02:43.940052+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -375,11 +375,19 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG0tR2JvcUp5QUNkcThPZW9OdkZFYW1HTXBVZXI1QUJud0RzM2VXRk5PalFBRW5rOUxMMGRwTFdVOE91WjFvZ3ZpSjB0QmVmYkhTZWJ1MEhGNThnRktDVFdTQ2FKeUVLd1BqUWJEVDFpX3J2cDJJWnFGVUUyUFFrNmdWbTBmbWZ0Z08zN214RThtUzVVeGdpZkFYWWZrQWpOWGx6bTNyZGRoMTU3?oc=5"
+    },
+    {
+     "name": "Times Argus",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHdjUHZPVGhFSkdrUWZLU21xSmVxcTgweWxydXJMcENUSlE5dlBia3NZdEJGX2piNFJEN3NwX3lxQ0dZTWxLclFlQ3dkTERrdjlCRFVOaXdUTzl0enNBVlZHd1pBTzBGVDhpOFBBbEpGYUFiem1ZQzE1U01ZcEFjN05VSTUxS1d2WFFQNzlRd1lmU3pyalFNYy1MejA4VnVFNk1XUktUSHp5ZS1EbHNYbEV2RnBlQQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFQweU00U2RfTnZSbmFqeEZWS0dMa3dxcUVjd2RyNGUzcl9JemFwMXVoQ2ItdnMxTkRpS0FiS1M0SHJWVEpFeTNLU0o1T0FrY3N0bFJ0eHBoaVI4QWtlcnFpODktSkZveThZbzBQVlN6Y2llUzE2SHFiS2YwQ3R5blgtb3NTUWh4YlVZYlV0NHVCZTFfaHpMdFlwRQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-24T09:54:36.233587+00:00"
+   "updated": "2026-09-24T19:02:43.940052+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1688,11 +1696,15 @@
     {
      "name": "International Business Times",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0NKOGhVaERuRkZRLU9ENEZWbTU5aFJSMmlySDVrXzdsTVRrcXBDTHpCcXlYS3VFWkUxYkVZZlhkSDJrckFGM0JwSk5DalM3ajJ6eE9hZUVtVXY3X3AxQldTcm1rM0gtT0dnNlVOY1ptVkNKMENnTEN0bUs0T1FJRU8yc2J5S2ItN3hzaExBaGNCeDNkbnlkODJSQVdrXzJjeDFIMW5HYw?oc=5"
+    },
+    {
+     "name": "Washington Examiner",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTENXNVJ5WERHb2p6WG1XRjBaUU9hXy0zcmlUOC1HeEtCcENNS3FtaHplVDJHODkwaDQzN3NCTnpRLWpkM1lpUXgzTzFLbHdnTUpPQkE1QWxHS2JFMk5VWkt1Z3BvRkYzb2t1MllxSlVlTVNEcHBkQmxYR190ZWlqNUtoQUgxRW85b050M1RWWjlKNTlOSG1wNlA2LXlaYzVOZGtHUDljLWMtNUNCM09XdUhJcXNMWmM?oc=5"
     }
    ],
    "published": "2026-07-12T12:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-07-19T17:10:44.836590+00:00"
+   "updated": "2026-09-24T19:02:43.940052+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -3789,11 +3801,15 @@
     {
      "name": "HackerNoon",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNc1hpTEZDRHRwbVZzVW1sLTlQUU1jRzNHUWE5ajNFcVNJM1NHOXZYNHd0OWRqSWJJeS1ibTRuQkYtSjBqb0ZObUdqUGdTbEZ6aFFWd1hxOWRvdENRSkltWk8wLWJVY2dZZ2VfeHFnbTYzaXpJQzdsNHpXMWtlZw?oc=5"
+    },
+    {
+     "name": "news.bloombergtax.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkJaWFBJY0ltMFhYaExQa19rcFl0Y2REcV9fbHBrYVZkTmRRLUphbDRsTUNhMUhMaEc4eXRwM3UybFpweUxwdGVad20zdExlVmVXM09IbzhWWmJmbkVrbFNqVkFxYXVORVYtbnJRdWQ1NkVacEpRc1cyZHBGTVpTam1kQjgyWTZtZ2VGdXVhMGRINzFZOVBicjJWN1NuMG9ZYWdWQ0FuWnpOUXhv?oc=5"
     }
    ],
    "published": "2026-07-09T12:15:49+00:00",
    "first_seen": "2026-07-09T22:41:03.433559+00:00",
-   "updated": "2026-09-02T09:30:28.021417+00:00"
+   "updated": "2026-09-24T19:02:43.940052+00:00"
   },
   {
    "id": "fc2afdf04096",
@@ -4185,11 +4201,15 @@
     {
      "name": "Casino.org",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSF9KRzFjdEdOcEVlRlNnZi15MGFETDZWN01veUVUV1hvRlJtaklnckJfN3dkQ2dYUVlpTUJaS3FFOEw3aUN4Z0FGRjczSGFocDFsVkdPSEFRd0pOZnR4TXlOMVprb1RGQUxRTFU4QjVLSmlmSW9lR2ducW1EZ1FxWg?oc=5"
+    },
+    {
+     "name": "Bloomberg Law News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1VJeDF2Vk84bmdHVkNKMlBtdEtYRHp3anR2NmN0bEF4TDF2WnJieDdncmN3bzNkS1FoU0o5T09xdGl2NXlHcU1ZNU9ZdmZ0U3lVV0xLbThwc3owbkNxZVhFSmp5endnUTA0R3llcnJELS1lNGM2NWVzUC1kNmgyXzFpZmRzNkZnWlVGb1F0TWNCaks2azBmN1ZHcXprX0E?oc=5"
     }
    ],
    "published": "2026-07-08T16:48:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-07-29T15:16:57.906704+00:00"
+   "updated": "2026-09-24T19:02:43.940052+00:00"
   },
   {
    "id": "9c624e950b31",
@@ -5634,11 +5654,23 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMXZfd2NHRmFEU0Zwb2toWTA0N2c5TV9ZT3ZLeEpvY0NsY1U4Vllkd29FY3BHdU03R2tZMFgwZDFyZ3RET0o4bHE5eGlEalktdEYxMEQwQU9FMmRtUXdnZTFLWXllTUZTc1J6NWIwR2NKQzVDMEV0emU5eWtFVmpZTmtrVmliYlRrdWladTllUzE0U1lQZkVtT2l0M0JJNDdaVjh5d3BFRHZPN3ZQNzR1YTVOWEhKQmVGRzRQanJqY3JLZzR3YUplODVhQUdmQQ?oc=5"
+    },
+    {
+     "name": "Taylorville Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjE2T05rdDdLUk5CbENXSGhSbWw2SmxSR3l0eTFlNVN4RzZOZ29hbS1kRXpFT2M3cm45dWVnc3B5SE1mSllVcFRVWThrZHRCcUhSR3I2TGs1Tjh0dzBENDZRN3ExYUJCNE9EYlRzdHhOZmwzdXdsY19BRnluTGZPOEloek9YMjlEX2wzaHdOM0lzYUdoM1FvVkJ0Y3NBdUlndjA0?oc=5"
+    },
+    {
+     "name": "WKZO",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmVpbXlzVEl5azJRTUpBWnMwU3Y0UGNLVVZhTUZoY2tNT2JQRk55OVBvdHJMT2VydzlOQnYwZFRHSVoweXNwYWZ3bEMwaGtiNzZwTUJoaUFOc0N5MUdxYzJFaTk3Z1RPNkFxb0JNZkU4dlotUm85d0xON3Y2OVEzUVUySlpxckJ5clE2R25jNFNPOUpSYnkw?oc=5"
+    },
+    {
+     "name": "Finextra Research",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXpOYUY0Y1QwckN2VjlBWnZNZXpkd2VMbndwYjRSUHdwN2stcW1OWWxZeE92S0g4MDB3WktVbDluWGJ6bURLdXZLYUxBY1hhUzJlUUxIcVlmcTRxd3MxUVN2RE01NEpob2xRZktZZlhYQ0hVX2I0SjlmbFhaVlRPSGNCc0NyR3RBdXBJSy1CbFJodUlsRFVjdHo5T2N5dW8?oc=5"
     }
    ],
    "published": "2026-07-07T09:40:11+00:00",
    "first_seen": "2026-07-08T00:09:08.892007+00:00",
-   "updated": "2026-09-24T14:57:23.207577+00:00"
+   "updated": "2026-09-24T19:02:43.940052+00:00"
   },
   {
    "id": "011556d8925a",
