@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T22:17:42.900173+00:00",
+ "generated": "2026-09-25T01:24:36.315500+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -5678,11 +5678,27 @@
     {
      "name": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW5BWndGelVTWTU4QjRBSUthMkNWYm9WQUJITlNvU1MxdmZwMWlSZG9Hd2ZubE42YVdWUmxPRDUwUWRMd0VHeTJSd1o4WTBQRTkzMWpwWDR6ODIydl9oSmxxVUQ5c1NsWWVLaFZSVl8wM1ZCM09qRHcta2RvSVBRWGkyZWJrQzNTZktqR1JBY1kzQm4yYVhCMndqbndZLTZxZWpRd01najRIWVplNWZtZXBJNVg?oc=5"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93OFlPeFdrWVBvS1FQOGJlTnladzUwNERweEpUdGZEUUsyXzRhN2FMQ29XZm5IdmJ3ZmdLZHZ6cHdxTFRTR1hFbU1vbjZXdllhNG1lU1dHMjREQTAzNWZPUTN4WHoxbWtr?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdVRadUFqUDFWQkhEWU0yM19CamRWdlRXQndnWXNkaWxMOTNJVDBVdUdLN2Nyd1ZrWEJsanlOUDhQX2pNMmVTbmpZbVNqOXR2Ml9vbnpIaEZEaVNCRUxwSU9SX0QySHVuYldVTm1xclZzOFp0RXBlaXVmYTYwZjE1QVpnU0NxZFpqYWlHZ01oRmRCMG5INVFSWjZEQjhYS0VrUVFJREtLOURQZ29SRkQ4NFFDSk9kX3I2dHZ6Xw?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DNERBQ2Z3YnJyeDV2Z2ZvNnZQdGdNMEZnS3JaZTNGVlMzNE5VLXo3am96YXp4cGd0NnZDT0ZVU0FSQVZoaW94c2taTXRGemVXS3pVZXNuYlptbnV0eUY0RTNQNU9wbVAxQ2NmTFFZaTlNUQ?oc=5"
     }
    ],
    "published": "2026-07-07T09:40:11+00:00",
    "first_seen": "2026-07-08T00:09:08.892007+00:00",
-   "updated": "2026-09-24T22:17:42.900173+00:00"
+   "updated": "2026-09-25T01:24:36.315500+00:00"
   },
   {
    "id": "011556d8925a",
