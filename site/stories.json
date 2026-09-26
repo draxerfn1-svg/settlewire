@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T12:59:47.770554+00:00",
+ "generated": "2026-09-26T17:05:18.368425+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -811,11 +811,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVlNbkZXSUJnWlNOV1JSUGJFVEpVVVVwdFJMRkRBOHJtLXN1NkxYaFBLSDF6TmxweW9ZMl9BYnVlU2FfUms0X0dpM05rak9qSGdiX2I4REpMRllYWjRpNWZfdGVZM0JpNC01YUlJU1l2dEo4TV9IOU4xZUVMRkVPcUE5eERxdjV4NzE0bUdyTGt6VFlzTUxBSHdTZVBiSmt4bkVjRg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeU1HVHgzNlpza3VhYXhWaUNtV1JOaXpMT2lxSXNRaHd0SzFuTDE2MEdlYVVlQWcxRUhCbTZranVydlUyRDRnQ1lEZmYzWmQzM0hYTEU2WFJ5dzlUX0EyTW9zaE45Qkc5MTBWbVpsbktNZ0JHcjlNN1RBaEZoMG9fdFVoTXBnUXlFU1VIV3FlNjI5aDhEdWJhb1hQeF9zdG5pRlRSRg?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-25T18:30:23.758329+00:00"
+   "updated": "2026-09-26T17:05:18.368425+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -2947,11 +2951,15 @@
     {
      "name": "Crossing Broad",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG9WbUhtb1B2NmNnSFplYWtsVjZBUFZTcVFIeDFieE13cjVUYWZpa2NFVTRoMGJPWk1QSlJscC1iZWNsWEI3WFM4ZWJhRVo5bEgxQ05mWmV2OUpLUjRVSE9JX1RoQ0RYaFRUdHNhRFlmdzZMLW04QUJDLXQ0Y195MWNjVmpsNzBRYzd2aUJ5RlpZd0FPQXFSaVAxYms?oc=5"
+    },
+    {
+     "name": "nypost.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW1nUE9JejNoX2xJSFhEVElmSk9qUXpkOWxxVWtVX2ZpaElZUjZhelRtMWdxWTVwMUczYk9Hem9za240ZHBhNTE0RHUxVE9Cd0plc0tnbDByUEJYUnpBRDIwRkE2WnFXcThkNkJpMHdaMXRBdTBUVkJGQlNkMnIxdXFxbXd0d3ZQbXgwRVB5UEFBam1qX1ZjSlB2dkdlcVNqN2IyUUppLVVKV0k?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-26T12:59:47.770554+00:00"
+   "updated": "2026-09-26T17:05:18.368425+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -5739,11 +5747,15 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3plWS0wX0xnbFcwcG91UmlFWF9SbkU5WDRLTEJMWUdTd1lDeG9tZnU2S09DR1VhYWpFSDF0OFlULTNqeV9JWWpodnk2Y2dpOHFfdjVnTnpXX05SM0poR0gyUzd6Vm9ENF9rLTA0UzVMOXBpbDBjNERYa3p0aFFwZ0h1WkpNLUxBbFlBUFdnaW8xckxLTkJEY1hzZWxkX1RaazJDczJrS1ptSE94b0tKbHo1RUEzWlFEdUN2Nklvbw?oc=5"
+    },
+    {
+     "name": "BKReader",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnVNRktfV0hhRnUxbUdJR0V0WFNtVEFMSmpuaTByM29GOVViZFhac2wtdDVGMEI4MzRVOEV0c0tXZEp0eVZhOTlSZ3dwV3d6R0lqaUlNVlFybUlna1dUV3dGT2VrR004ekYxQzBicXRVZFNEV19yRGlmbExRZVE5TWNFNzl5UzRMUWt5aFdMdTdZVjFWVFJZR0RjYTlXcl9sWTFRNA?oc=5"
     }
    ],
    "published": "2026-07-07T09:40:11+00:00",
    "first_seen": "2026-07-08T00:09:08.892007+00:00",
-   "updated": "2026-09-25T22:14:00.595379+00:00"
+   "updated": "2026-09-26T17:05:18.368425+00:00"
   },
   {
    "id": "011556d8925a",
