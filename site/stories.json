@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T15:20:04.472926+00:00",
+ "generated": "2026-09-28T21:52:13.830061+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -395,11 +395,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXpCdlBLNXhVRXQ1OFh2d2FZVzUxR1NLRENUOGJuRnc0SVA0RmswUHJuQXNWbTk2aXVqNEVwSnJHeDFFUi16N01oOGVLcmYtWHZLcGpxRFlBMFo0QkZtMFdqQnVFc1dUcEIzNzVnOVpiRnlQREhscjVROEdaeVpBSnlpdW9ndkx4MW5qa2lNazVKd2I1cFJBOWtUMA?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEJOTTM4eTc1ZzRsRThuNGp4YVFkLXhrRFctbnZXbTM0R0c2YXF4S3g5eDVaM1VHdThwY3VXdFFxZ0ZoOWV5RDQwVV9Ma2oyNU0yZEpZNTRYdkdPT2RVVnJGck9jRXlyQnZaazctcU1SVGlTbURnMUxsVTNVa2lJTjhfYUNnd0QzTDB3R25JV3dmT0N0bVdzdFR3aw?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-09-27T18:17:36.503989+00:00"
+   "updated": "2026-09-28T21:52:13.830061+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1741,11 +1745,15 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTENXNVJ5WERHb2p6WG1XRjBaUU9hXy0zcmlUOC1HeEtCcENNS3FtaHplVDJHODkwaDQzN3NCTnpRLWpkM1lpUXgzTzFLbHdnTUpPQkE1QWxHS2JFMk5VWkt1Z3BvRkYzb2t1MllxSlVlTVNEcHBkQmxYR190ZWlqNUtoQUgxRW85b050M1RWWjlKNTlOSG1wNlA2LXlaYzVOZGtHUDljLWMtNUNCM09XdUhJcXNMWmM?oc=5"
+    },
+    {
+     "name": "NewsRadio 740 KTRH",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUlsVE45bEVfSzNHT1dRaVBEaTVEWlFFc1hEVG5jb3NIYWpQajJrMTJDalQyTjRsQWVfcDg1VVBrLWt3SWtYZWR1X3p0NEh6Mnc5bExWczB5VkhQX2RpeW5mZXBsWmVrbFFlSm5PTjU3bEN4d3VxVTNPSUVESXVTT3J6OGZrajZ2ajJaSUJYVTRhNEhIWHhKWWpFVE5jSlFBN00tbkRybHc0amVPdGVwc2ZvVGxfaUM5OEktMmdn0gGgAUFVX3lxTFAtS1RDVmZuRWJ5d1NacXNlTVJZUVBtWWpteEZJNVJielhYQ3dvRnRucDdvRXQ5SlhlTmZYT19zcXZLUUp0SGNzWHVPU0FFX3Q0M1A3ejZ1Q3RtWkozN2hhUjZzN2Rsdl8yTk9HdWljU1VhTWw5Q2t5a25SSWltWkI4aEwzSjlBNmRyU0FfOWdBZUxHV1VGWXB1Rm52ZlF3dGk?oc=5"
     }
    ],
    "published": "2026-07-12T12:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-24T19:02:43.940052+00:00"
+   "updated": "2026-09-28T21:52:13.830061+00:00"
   },
   {
    "id": "03bbda598d7a",
@@ -2987,11 +2995,19 @@
     {
      "name": "Russell Street Report",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc200YXJxQVhFTl94TnllZmplV1JyQkh0MG5kbDFjLWhnZ3B6Y292OU1sRjV1MXo3cVpGNDNnVlFPRGtOMl9lOFhLOWI1NXFZRFJOV19MazJEdV9BQVhPcC04Wjc2VlUwZUlWR1FUY1paVnZaRTJJZkpiUlh5YXIta1R3QVp4WnNrNG5VRmdXa21hM2dKWWlQNDZOaVZ0UXZtdndwckJUczJOMXZWUVQ1ZE9EQ2R4MUFuRmtpaVRJQWI0dFl4OUNjaHhmWGY5eFNEQ3Q1WEVIYno?oc=5"
+    },
+    {
+     "name": "Crossing Broad",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNElnRlpDNkJCMHNhMjYwQ09QT1pmU214c2ltTGZTTm8yQUhubDNkRW1uUDQzSS03SUd2SVZkOXZtSDhuVkM2Vl9yRXpZcTVSUGtKaVpmbFl6UWpJRkRMTVJfeFMxeVdPUzlheDhLT2pFYzJ1SGNSc0d2OXBQcGNXR2VQSlpMcXp1V05SWk1YNmE0Z3EyN2RnOVFxa0RkZWY2Q1FvUjhKMjIwVkxIUUZfbThBYURSRnJCQ1BfYw?oc=5"
+    },
+    {
+     "name": "Saturday Down South",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXN1dTR2ei1sckN2VTBlS1NEcWE2WTQ4VkcwUW5yeUZBX3dGLVhMOEtxWFRIWlBZTmV0bG5KYUFLZm4yLVltbVZOSjNjc3FiSktGSGcxdlVxOFlrdGowTndBbzVkUE4xOEQwX3B4aWpqemxwaW1aRWkxdnA3bTRLWFVxR2hOZTgwTFdTc2tNNThodWhhYUd3TmZrNVpSWW5ZZUNQZkZIakc5RGZHTmQ4MlVR?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-09-27T22:02:02.760243+00:00"
+   "updated": "2026-09-28T21:52:13.830061+00:00"
   },
   {
    "id": "0741dc215b0c",
