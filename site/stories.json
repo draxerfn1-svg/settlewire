@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T08:21:30.650987+00:00",
+ "generated": "2026-09-29T15:42:51.499722+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -839,11 +839,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0VCSXh3WC1zWk1PdmFGRTAzSi05ODNSVWRlTHRFVWtEX3RJOXAzeWlaaXdNdnV5RDlIQUo1TTFKaHJ4Q3ZWVUxaWW9meGduUXFIWnJEcXZ4LWRFeWxIc0lKNXl5bTJCVlBxTEx4OUo3QnMyckhpZkxpRm02Ulo2bTQ2Zzl2NWRaVGdpOVcxQzB4MWhaRC1uaEVqaTEzM19jSjhXZg?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1RnQS1FMW80TzFxdUJZaFBGYU1xM29LTzBObHN1WXNSaEY4ei0tMll3R3JUdkV4aTRFY3VDczUtSXdmX0IxVnJMeGMzZmpXSzJlVlZHSlVPYmNMU3A4WXNrbXl3QnpBUF9fUEQxS01WRndDcGxEY1lSOFZvSkp1OGZ1dlpnR0ZXd3c5ejR5dlZSNGpHWGw3OUs1WkNJZw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-09-28T15:20:04.472926+00:00"
+   "updated": "2026-09-29T15:42:51.499722+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -4516,11 +4520,15 @@
     {
      "name": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3RGYkR5LVNQLXRYWGpZcmFXVDYyUG9aWFpPczZtM1A3VG11emM1QV8zc19lZkhFOHhPX1l5bGQwVkpFbkZMSHd6UjMwVHlrWUhBLUtrUng4dG1TV0FiQXJDRXhpTGlfRjl6Z29ieUFjSjRIMmJrcklFVGM2aExuLVdvVm5JTmpkdFJ3T3RjTC1mNXJBOFYwUHlXT2NuUl9jdjJn?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazkwVmkzQ0RvRllEdXpjYVBLNmswNDFUT1c5Y3pjWFFMTGY2ZGF5VkNzMkc2Y1gzVFlUdmZMelgzcVo0N3JHc0FRNkNRR0dMclRSUzdCWlVYV0JlLWJMVUZvblZYeWhHU3l0UVM5VHJ1WnJJQ3FpV0Y3SEhwNUFkMmRsWFVRdHBwV3A4WndKeWxwZFFPOGFhaG9wSXdrZS1tZlFGalFfRldocEYxcXo3aS1sS0VCSTg?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-09-10T19:34:47.731685+00:00"
+   "updated": "2026-09-29T15:42:51.499722+00:00"
   },
   {
    "id": "938912f97a98",
