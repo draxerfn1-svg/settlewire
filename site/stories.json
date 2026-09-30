@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T06:37:27.421415+00:00",
+ "generated": "2026-09-30T13:36:23.477805+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -6621,11 +6621,19 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0FZWHRoRndiRGluZ2pNb0NnS0lZRHNscVVrcmt2ZGtRTmNUeUVTcm1SX2VNNFBWSEQtVXR1VnRjQ3N6Um41dHdpaW1oVlZNQWZiT3FnVWZ1ZVc5bGw4bUxVZF8yOFhKeWFkaERsa2RIQWVkclZ6SmFDanYyMmR6WklQUjFiU29wZk9FOWxodVRxLVcwdFctc3E2bWowVXg4bjFLVndUMFY0QmF6UmpzckdRaEtLcUk?oc=5"
+    },
+    {
+     "name": "Covers.com",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43UkM1M1N6VTRUeC1JNWYtaC0zVmJTUldNOWFFZFZaTUE3dGt3VmlVamJVd0tlWFZvUDVuTWt0OGd6TC1MU2NiMERYZ0xxZEhMYWhOeTRtd1MzamVwQ2pwMTVSSHVlcTVEUTJDMA?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1ZUM2ZtTkNWalh2S01reU9VYU16WDE3VzRZd3plTFh2S2pZV2tSdUdTa0ZWNGQyV1RSNElMNkxvc19MaUpiQm1wYWMxREhjTzU5b25ydWxGSFlidnBCSjM0eF9QaVZGeVo4VHBGV2tvS2FMZGo0V3doSHZOdG1jeEc5b1lseU1tRWtWVW05V29uejJ5U0JiWEpPMnBVTWF1NHJycVNEU1M1OXFUeHNQM2RIVUtLaTg?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-26T12:59:47.770554+00:00"
+   "updated": "2026-09-30T13:36:23.477805+00:00"
   },
   {
    "id": "3b83809e121a",
@@ -7143,11 +7151,15 @@
     {
      "name": "CNN",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEQzRzl4cHVYcUtFTDRVX0lEMnlPdWx1ZHV0ZzMzMnBYTkRQMWRTX0lwQXYwckJtWWwtNDZXNzdwelhMZGVsNTlGekROUlYtNnVCVl9hdWZVeXo0YmhKT1ozY1hFOExqVHdWaEN1OXJ2UXVqRU9EZ2RVM2NtUXdkMlpzcGxGdk5McUJuWGlXNzlrWGc4T3hGcWNn?oc=5"
+    },
+    {
+     "name": "Iredell Free News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNEtVd2tsSEx2Yk16Mld3akJiR2s2Mldpd081TWdaVmk4UU8yOWthRTF3cXd1U0Naczd2Q2dqWXRyTHozWXRrSzdwWEdMNGR3aGY1MlZEdmVrQ3owTWlvNmw0eXlpdFp0MUZ5NlpJQzQ2Zjl1VW0zQzB4c1J6UQ?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-09-24T09:54:36.233587+00:00"
+   "updated": "2026-09-30T13:36:23.477805+00:00"
   },
   {
    "id": "78d60a3d2552",
