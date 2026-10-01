@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T18:49:11.037691+00:00",
+ "generated": "2026-10-01T23:06:47.111339+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3655,9 +3655,15 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3ZDRlhMcjd2S1JjNXRDTE5xOXdvaFo3WmRzaEZYdlBEd2p4RU1KWnJHOGVILUtLQngyZ25uNXZPWUxiS2RJZlE0YlhtOE1pLUFpcVd0aHNnbk4tT2VWT1pWZU9SYm5nTDlrUktXX1NyTmc1MFp2MEJ0VjFLa0xXRC0xeXZMa1pLRkYycGNwY09zZDJqRHh0d2RJNnhFZklXTHV4QWdUWGRkNVFJ0gGyAUFVX3lxTFBaSVdWUWx1SWJXNU0zNnd0c09VSzlaYVJmNHJ4NzlHc183NHBIZFdfMUdnQmdWREwtVjY0X0x4YVpkTUthY201WWRJeERaRmM1V3k4am9qd21XNzFLT1hhNlpnOTNwUENCSHpqcncxeVpFQXZBSTZZSnhSUF9CTm1wRjE5NXN1X09TQWZpTEZGR01EVU5scmhiQS00eUY3Y1d6OVRFMnloZi00Ylg4Z291U0E?oc=5"
    },
    "source_title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
-   "also": [],
+   "also": [
+    {
+     "name": "Investopedia",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xbXF3cXNvWlVWQklBN1NRWnRHWVpES2ptZ3hQQ09tcmd6QlRGdTRsQlpkd1g2U0E5U3hkRXJQc0VQbGc5UVRwS3YzbmxqUXBITy1LN1c3SDBPVmxLYUhBS1lkWGNWS3BVclUybXhCUVFUOGFWcU5zeVdiQ0s4bUk?oc=5"
+    }
+   ],
    "published": "2026-07-09T18:52:22+00:00",
-   "first_seen": "2026-07-10T17:56:54.895553+00:00"
+   "first_seen": "2026-07-10T17:56:54.895553+00:00",
+   "updated": "2026-10-01T23:06:47.111339+00:00"
   },
   {
    "id": "2bb1c2127f5d",
