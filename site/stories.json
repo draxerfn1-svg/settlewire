@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T23:06:47.111339+00:00",
+ "generated": "2026-10-02T02:11:56.850341+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1897,11 +1897,15 @@
     {
      "name": "Encyclopedia Britannica",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVDlZTF9yQWFEdk0xVmZQTG5NUDZFeTZESXdIYzg1R1YwNzFzMVFyc1hteXd6MUxudjBpZ205SnEyeUNyUVRUR1F6bm9lUkJUMV80ZlpR?oc=5"
+    },
+    {
+     "name": "Investopedia",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUVRQRTZKTmxEbTExRW9xWDdDd3dFOThDeG5XdThwYVVoZUlTYnNoZW14WXhDSmZYZ2paUHlyWGp0bDN4U2c3RDItR25ETUpoYTRYam9KY1A4VTVOZHNva1hiekRfMkZjT0ZsS21qZ2duMFdzQTd5elVoelNqUQ?oc=5"
     }
    ],
    "published": "2026-07-10T19:58:00+00:00",
    "first_seen": "2026-07-11T21:01:24.282169+00:00",
-   "updated": "2026-08-14T23:32:02.877333+00:00"
+   "updated": "2026-10-02T02:11:56.850341+00:00"
   },
   {
    "id": "b5833f2557a9",
