@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T16:45:41.349913+00:00",
+ "generated": "2026-10-06T21:35:18.926309+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1514,11 +1514,15 @@
     {
      "name": "Investing.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHpCcE90MHRGand5Q1pZR29Vd3dISHB5M0R6TTZHbkNMZ01xd3FIMzRNbFh2MmdMRHB4Nlo0NnNMT0lqZjFUTk4wR2I1ZE9LdG9taTRpWTBlRzRnU004dTk4MklaejN5NWhPUXVDTkhDVWxqd1B2WTlPZEI5NVpybm9SQnpkczdfVUNRcnIyV1VUeFZvQWdRU3RPN1QxMzFYRUNYY2wyVG4xTHJHa1JqQTdWZm01dw?oc=5"
+    },
+    {
+     "name": "DeFi Rate",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92UVd0LVZ2WFBGOE5nQW01aHBkRmJaWU1ibVE4bUtNUUIwcWlaLXR6MDRWUHh6QTN6Q0JZMTdjN2pXYkhkT3NVMEVSblMwQlF2Zzg3VGJlWG51Y1NRM2hLdjB4MmdZZFpOU1dtX2hjSmlEcFE?oc=5"
     }
    ],
    "published": "2026-07-13T11:36:00+00:00",
    "first_seen": "2026-07-14T00:04:55.217403+00:00",
-   "updated": "2026-09-03T21:39:56.232960+00:00"
+   "updated": "2026-10-06T21:35:18.926309+00:00"
   },
   {
    "id": "5f30cfbc9c57",
@@ -5608,11 +5612,15 @@
     {
      "name": "FinanceFeeds",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY09SX3dYbzRhaVZxc0RqOXFZX1hRd09lV2tBb2lkOUZubWZCcl9XRkthRVYwMXZFRW5FQW9TNmN3VjNwWHJ1bjFweDZIS0syUEVqaWh0UzdrSlo4ZWJyQUEzNFpDNXFvRjBfcUtOOHcyQ0IyeVlkZHdoY3cxOVFDTExaMW9uanozS0RjM3ludnFhN2pWV3lEaTNfYS0?oc=5"
+    },
+    {
+     "name": "The Sports Geek",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0JsSDBpd0U3aktZazNpaXFxRGVUeW0xUlZ2QkwzajF2Z0t1cUd6U2hjMWV2ZVpfUWtLUEZWNURwR0dMUzBFRkllejJBMTRGS19hZWMxUDFXVV9pSGllMnRETHZaWmxTTHV1Q2VSUTVVQ1BTa25oM004cldNSGgxc2FUMG9Td2l2YkMtU2JuWlh5TUNQcnAyLVhXTlY2aGpiSThV?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-09-23T16:48:26.455211+00:00"
+   "updated": "2026-10-06T21:35:18.926309+00:00"
   },
   {
    "id": "ed12e790933a",
