@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T08:54:54.027464+00:00",
+ "generated": "2026-10-09T16:07:09.794173+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -919,11 +919,19 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0ppaWRzV1dxU1hXQ2Zod0IxWWtFaEJnOXpZbkc3RmxOQlh2U1hacHh2Q25uZEpwLTEtOF9iQjlaRm9TUXk0Rm56SE1ZUFNaTjBFYVlXTGJNX3BhckJiN1lCZEVMZ09CcWh3UFFaRUw5cmh2OWZvc3FGQmFGYXp5R05fdVNsZFU5enNtbE4tTDhiMDdudEt5MENuSl9MUQ?oc=5"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFnY2FjM2M0a0ZaU1Zsb0hHTmduV3V6TmhrTzV3OEZCY1lQX3V4UUFadDN2SElRV2dRaDNtTXVHU2RWNEYtTkNiUGkzN2VjTGpCZGg1QjVlRloxT2xaTjRpN1lMN2xKMi1pa1NJWFRFSlFieWdmcGgtM3dYeUV2dGRzcW5qZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0ZOQjJWWXlOUTVnaEZIR2lIam1RMkxoaGJSTU9LazZFekdnZ3lFQzlmcXBnNnRKR01sUDdfaGdDWkZ5RTBDVU84cWtzOGkyZDhmZ2tUVWgwbHFJNzAzNTZtLXJUTmw4cTg4UFNzTG9jSmVkWjVwZXpIU3ptSksycDNSNEUxVGFjdEN4ZUR4ZzRrYzV5RUVBSVkxb3FQUQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-08T16:23:48.398583+00:00"
+   "updated": "2026-10-09T16:07:09.794173+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -2103,11 +2111,15 @@
     {
      "name": "The Maine Monitor",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTdJRGVhbkR1N2p5eEM4ZEktRmh4RUhJa1VwMzV2RjFzZ3p1dThVNXVJT25Dd2VqY3Q3Wkh3V0VFMndPTFNPZEFRU0pBQnNTYVVnMnlsdmJUUVdDVWNUSWs0RENRVTdlUlVoM3FIYWtRQmxhSnZ5bVoyM0tkdVZGNFpTV0VBNkk?oc=5"
+    },
+    {
+     "name": "The Intercept",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3FXaVgtd0JlOUdwRlMwekRfTWRRc2FwTnlBUXJXTW9pRE4zQ2hOUUhIUGdCVnhNS1ZUcng0VXBNdDZRbkc4X2poTXl5WDZ6N3B1bnN5clJXeEdWX2tDZjkxaTFTZ2JIMTVZV3V4RnJjT0VwUGxaeVFOVTh4bWxGSkxLRXBvaC1TWXc?oc=5"
     }
    ],
    "published": "2026-07-10T16:00:00+00:00",
    "first_seen": "2026-07-13T00:06:40.060249+00:00",
-   "updated": "2026-08-04T21:22:27.845398+00:00"
+   "updated": "2026-10-09T16:07:09.794173+00:00"
   },
   {
    "id": "9710a6dff173",
