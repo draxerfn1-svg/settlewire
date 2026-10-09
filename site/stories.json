@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T16:07:09.794173+00:00",
+ "generated": "2026-10-09T20:51:06.116252+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -435,11 +435,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGs3eUhNWE4yeVBuSjJ6bFV3UldpMzM2eEM4cHg1eUhBLTAxSkw5aXhwazJ0UEs0SkZIbDV1cTFVdldUZFJQRkJYeVE5YmIyNHAtX3VQalFKcjRuMC13Z0VWanI2UHVjaGRfMzJGWUhSSS1leGtXQjhDOTFINGlPR2hNWHlZN1NNYzJPYzU2Tm9YcXFVZDF4YUwwaw?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1Q0S3FFTVlKNWRKc0RBb2NWaWhINnNCVklWeGdNVWwtRExaUjVyZ2lJbUZJT1BJZWtGcHVVQi1aa0NSRnkxOW1zSXotS1dGNWNqWGJHNHJMSzRZdnBhOVFDckZDT3MxRm9rbl9HRGdCVWRJWVZuTjBUaHpTQXdJYjZpank?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-10-08T16:23:48.398583+00:00"
+   "updated": "2026-10-09T20:51:06.116252+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -927,11 +931,19 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0ZOQjJWWXlOUTVnaEZIR2lIam1RMkxoaGJSTU9LazZFekdnZ3lFQzlmcXBnNnRKR01sUDdfaGdDWkZ5RTBDVU84cWtzOGkyZDhmZ2tUVWgwbHFJNzAzNTZtLXJUTmw4cTg4UFNzTG9jSmVkWjVwZXpIU3ptSksycDNSNEUxVGFjdEN4ZUR4ZzRrYzV5RUVBSVkxb3FQUQ?oc=5"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVk4tbmJkbjYzM2xqOG93ZEFaRnNmdFZVN3BJOVhHbzRWTHFFenBnU0N0WlhLamV4TDlWQ2ZnSVE5aUhndkMxVXhaMDJ1aHVlTHZ3aTZR?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-09T16:07:09.794173+00:00"
+   "updated": "2026-10-09T20:51:06.116252+00:00"
   },
   {
    "id": "dac5147e840e",
