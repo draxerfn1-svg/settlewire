@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T20:51:06.116252+00:00",
+ "generated": "2026-10-10T00:43:20.941615+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -939,11 +939,19 @@
     {
      "name": "Cryptonews.net",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVk4tbmJkbjYzM2xqOG93ZEFaRnNmdFZVN3BJOVhHbzRWTHFFenBnU0N0WlhLamV4TDlWQ2ZnSVE5aUhndkMxVXhaMDJ1aHVlTHZ3aTZR?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1J2WFNGeFVDbDdHMEpiaVJCNENtZ1NxRUFnUFBJTGdfSGxBRzRFbkZwREgtaTNkdTV6RkZYQUp4a04tSXBKQnFNMmNjV08wWGVGQXZfdzcyZ1pfMkN1TnlQMnRpOENDcUlLOWJzZkdwX0M0QS1pNV9JelpIM25FUVpMM3BUQmJ1VDFsamhteGpXY2JSOUsxTGFzUlBYYXRVb0t0cnFyY0dWaEJIeHZIeWNuU1AyUEFvWW1YSTVud1JvQTZiLUVZ?oc=5"
+    },
+    {
+     "name": "CoinMarketCap",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRURMSEh3ZjEwdmkyQ3piRTR5WDZPTlI4LS1laklQN0UxLWlVOEptTmg5eDB6NGNwSmlRRXVLbExwZzhEZnQyWk4zb01DdnlhRnQ0Sm5meFBIX2duc3plNy1ZRGZDQVk2TjNISGRHUUl5X1pPYmR2U1VrYTVqYk9ha1ZMRURPYVR1bWk2d1hzdVI0OFRZZ0tHVklXZWluQXpzdTRz?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-09T20:51:06.116252+00:00"
+   "updated": "2026-10-10T00:43:20.941615+00:00"
   },
   {
    "id": "dac5147e840e",
