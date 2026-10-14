@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T21:10:47.263288+00:00",
+ "generated": "2026-10-14T01:08:49.349674+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -6859,11 +6859,15 @@
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1ZUM2ZtTkNWalh2S01reU9VYU16WDE3VzRZd3plTFh2S2pZV2tSdUdTa0ZWNGQyV1RSNElMNkxvc19MaUpiQm1wYWMxREhjTzU5b25ydWxGSFlidnBCSjM0eF9QaVZGeVo4VHBGV2tvS2FMZGo0V3doSHZOdG1jeEc5b1lseU1tRWtWVW05V29uejJ5U0JiWEpPMnBVTWF1NHJycVNEU1M1OXFUeHNQM2RIVUtLaTg?oc=5"
+    },
+    {
+     "name": "Golfweek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdksxV0Z6RE1pM0xOLUtXSjVZS1V6c1hrVmtKQ0FzcGhaWnFjUFdMOFdzRFVDRDNJaEZXUU0tSHVMSEptWnNMd2RLaWZkSk54cEhqRHFKUGhUbm9KRHF6VEdydTItNnA0eTc0Zy03cG1ma1RhclBwZHliRFNCbWF3N3NXZzFlQy1sV2VMSVd6T0FUZnp0bTQ3WEdEUmttbDNoNm9qRDlUZTBWUkpjcEE?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-09-30T13:36:23.477805+00:00"
+   "updated": "2026-10-14T01:08:49.349674+00:00"
   },
   {
    "id": "3b83809e121a",
