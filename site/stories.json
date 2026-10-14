@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:37:45.534815+00:00",
+ "generated": "2026-10-14T18:31:18.678863+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3291,11 +3291,15 @@
     {
      "name": "PlayUSA",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYmlkTmhwMU9ZMlZWOVBwaF9NVER1aEhyeFJWOENUdGItUm9pWkxNY1pfbWx4SWo5a1gwOExLTjVmdmk0Znp6eHdpcTZQZEpNNU42WEpoQjFMeWh1UmFxSjcxdXM2ZUVoSFprR2U1UTVVRzIwTTV1NUV0RnpmNmQ3YnU2djFlVS1vU3lHQTBpVS1nbENLZHdGMnd0bDBlZXNYWDhSeFpkNmxOVnczNHprS1ZlbHBMMkt1UE5TWXdJal81UEpQbGNxakFiOA?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDhwblFvb2l2LTdkUlRqeUoyNXJMZnlXemUzdTdDT1dXXzJaRHlSVEpTdl9nQ3g3UUZ6b1NVLUpwYi12cFRnVk4tR3ZDSms4RW8xdHA2YU54TTJKMUNWb3JrVnNRems3MWd4RXYwaTdjY0haOE9Ncl8ybmtfYzI3ZFcxMVRHakxMMk9oSk1uRQ?oc=5"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-10-06T02:53:55.318350+00:00"
+   "updated": "2026-10-14T18:31:18.678863+00:00"
   },
   {
    "id": "704478fc965a",
