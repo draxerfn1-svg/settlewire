@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T11:25:16.793448+00:00",
+ "generated": "2026-10-20T16:51:49.603727+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -475,11 +475,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdF95WE5nd1pNaWExYzJwZS1XOHB6N0FnaW45VXVvdjJVQWU1NHpmbW96YjhETnNIQkVDUFlmVlBQamhQZ2ZKNlFzU204cUxNMVF1YUNwNndyTFNTLW1yLW8wUTdTM2ZmaVUzMTFmejdYcTRyWWxjcnVkVlJ6dk56TjJPWERLcml5UzQyZVNnZ0ItaXNDXzJ4Z3BWQQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmM3a1VNMUJDM1VOZUx2QVVhT2dXWkpELWNxVHQ5blMzeDd1WE5nVUZfS1hublZFQTBEMnAxNUhqakdsbExwbUpqelhlcG5QSlk1REFTMkFKeERjLVQ3eFEwX1JDQTg3RjJMblExSTVYbF9pQ2RFREpYUHlFYmluOUtBOG4tTU50OEVyeVZEeG9Md1VOeTkxOUJVcw?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-10-19T20:59:33.565015+00:00"
+   "updated": "2026-10-20T16:51:49.603727+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1031,11 +1035,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa242NG5samFCV3ZKZy14cmJyQWtZM3RkcllOeTVGTzlhYWlobmhOY2tPWDFSOGtqYmVQOThFcTBKQVVDRWFRQ1JDTjdnTDJrbC1sSWx0emZfdkN6elRpSWVBc0QxRm5HbXhpSkRSMXBlODdQejlwY3hhcDg0S0Z4b0NhR0J6cUVqakJVLXhDUkRDazdhUmEwV0Z2THhtUQ?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSE9GQ0ctdmJLUXYwMWhfQXpLeWFYWHVNekFRei1idm44NlFWVUhkbTlXRlZfTWNILVgzOEY4Yk01MlJEZFhjOGdvd1R0RFdWcXFYMW5BbzI5bmFKTHlzVjNSMnVaTkltenFpUERYVEFpOEgxV1pibGRXUnFpeDRhSmpWREE5b3kzS1NNUVpWQUFJZ0F1LVNIc3NFXzZDUQ?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-19T15:31:08.777802+00:00"
+   "updated": "2026-10-20T16:51:49.603727+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -3235,11 +3243,15 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWxpb3FPTlRQT0ZyS19XekJjZzZBODQ4blRBMlJNWGoxVzBSSlRUQTZOUVR2OTdPSkJtSjNvelpJOVc4Y0trYm1vS05ac0l1LUdhTFk3MDdoaEh3aFhuSE5TME1KT3hiNjBPMWhxUHM5Y0puN292Si1CSjg2SEs4T1ExQmxIenhjbC1pZlR3Uk1DWDVjZl9WUkxadzROMWNwNy1xZXFDSXhxd0dBMlRJeDdIQk5aRkZXVGV6U3V5RGE?oc=5"
+    },
+    {
+     "name": "centraljersey.com",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JR2ptV2Z6c1lLSkh2X1lJV2V2MkNUbDM5UkhOck5QcVIza21vX01HWDBvbEVnSXl1SXRpeWFLZlFabXkzNmVuRFR0cENSTGlBYUZoRWt6M2JVUHRxbFhXZ0dVaE1MbVdlYmh3?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-07T21:56:26.467658+00:00"
+   "updated": "2026-10-20T16:51:49.603727+00:00"
   },
   {
    "id": "0741dc215b0c",
