@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:15:54.523844+00:00",
+ "generated": "2026-10-23T04:37:02.523226+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3279,11 +3279,15 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkxZbThlbWlKRnV4YVg0aDl5R18yS214SXV1TmFfek9fUXZIUGVvVzdnTzZkMDJFYVFFT1AycTloMDlscUxoYmNVamVqeFpKWF9heXNEZ050ZUR2bVNPR3FHczhpM3hkdHNFRExCbmcySDJQWXlsQmhISG1MZUw5YmlDdldaWERHeXRCa3plUk1DazI0SHFKdHRvSnJFLVIyQ2ZnQlRmaVRfRXRfOU5GczN6bTFNRlBXRGNOMA?oc=5"
+    },
+    {
+     "name": "amNewYork",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxeFhMVjNFeU51QXVhbGlLYmtxQ2gwbktnZE1aUTlHbE9ITDI0YU9qTEpRMk1VV0RyeGNkaExZZ0pWTHI4ZEtZOGdudjhFbm1TWEx4M0pwOTE1Ui1LYWVtUFB4TXJjd3JhMU9PNGNyVzU1Rm1KN1E?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-22T23:15:54.523844+00:00"
+   "updated": "2026-10-23T04:37:02.523226+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -5562,11 +5566,15 @@
     {
      "name": "HoopsHype",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzV1QklpbFY2SVNSX1dWS2psQXBHWEJKWUdWYURTM2dia2c1cUJGdnFJNTIzZWRiQ2FvQWVUMzQ5ODVKbXhjM1NwanB5WTMyN194WC1nWDFMQ2U0VXFJbGNfQy1VVXd2RjBUaEFpb2dBbmxkYXk5bFlhZnd0M1MwUWJDaHhTUlhsRGR6TEZ3eUstaU1hbUwwdGxzSldXNEdJMHYzVFpoUVdjblBWRGVqQnBuYXZEdw?oc=5"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-04T09:32:21.446076+00:00"
+   "updated": "2026-10-23T04:37:02.523226+00:00"
   },
   {
    "id": "6b51daf83d2e",
