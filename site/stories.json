@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T12:49:05.109648+00:00",
+ "generated": "2026-10-26T19:11:35.109780+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3315,11 +3315,15 @@
     {
      "name": "Crossing Broad",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOG03eHUtTzVNSU8tZnl6aWREU2c1UEcyaFdXQVFXUVFNY09jcTliMlpMVUpwQUlxVUF0VGxQeVpKcjJBc1MzUktESnJaM2EwbmdWSjhBbmdQYU8tZ2tDbzNEdV8xUGhRMXgxQ2ZWS0xnYVlqcVJQUi1ELUNVd1hiV0tXNjFhRThEbTZEOTIxLWc5aVl3VXNfRmV0ZnNZR3VKTUd0Zm1OZ01nRGRYOTV2VXFmTGtHN0dsSzZJQVZlcDlsUGNCSGRz?oc=5"
+    },
+    {
+     "name": "Russell Street Report",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm9yUldac3E2WkVGTGdzeVVfQmpzTUFsQzRWU2ZacmVsTjlDQWJxN3pkam9WYTBTMV92Smxmb292aXNkOXd6djFEdzJsV3VETmJ5clZLX0o2STE5S0pjUTQwb0t6dzRwa0ZpZ1Y5QXJ3QU1NX1dmbXZYMDJEXzR0QUtOWXJ3WGgtZC0tQWp6aTNJMlNFZ3lvVXdxakszLUw5TURGeXVHYlk0M19waHlVdy1XcXlNQ01OZlBuempobzNnbTk3T0RkVTh3?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-25T01:05:52.068861+00:00"
+   "updated": "2026-10-26T19:11:35.109780+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4914,11 +4918,15 @@
     {
      "name": "ReadWrite",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnY01yWFNGMExmb0NNNllGVEVYZWFCUVprRHRaNUFQaGRpRXh0S0VWLTBqMVJSZWYtQWlCUENFb2hRd1Z6V1RpU1hMYUJ0ZkZ3cFg3WUotUTJvbXdTNHhRUFRuLUUxWExi?oc=5"
+    },
+    {
+     "name": "Business Insurance",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmdRcXJIZlVYNE5zbkVRMlJXd3FqbWplZXhlMm43eTFYbTRIN09NZFQtamVXeFNFYjJQNkQ2OHdqWjQ5OGdyQTJXNHgyRV9qZk1KNzY2TW1LQk5fMkJWWWlpUGZBWDJ0MldYZmZZVmdmVjdNR0M1QTdsdnJneExyeS0wYThnbm8?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-10-19T01:07:12.171207+00:00"
+   "updated": "2026-10-26T19:11:35.109780+00:00"
   },
   {
    "id": "938912f97a98",
@@ -5206,11 +5214,15 @@
     {
      "name": "NetChoice",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51UXpXVE1RaHlIRTRQMGVlVldkSFpDLVlHMWRkU0xoTHIyZ0oxa2RsdUYzUC1TRjhXWFRseEo1dlFUbU80VHhyc2RwMGM3OGhVdEliT0hybmtQZ2g1amo2dVhUeUtRMVY1TU1Z?oc=5"
+    },
+    {
+     "name": "Politico",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXZlZHY5R2R4U2xZY1FPOVNiOW5UWFlqeEtyQS1NNmxQUm5ZRlR6a3JNNExOZ2xuNS10b2ExemQzNmRDMmJWVTc1YlNmQ016dE5Ga1ZGTDVRakNsajRJc1l2MTg3MjFoeGszUXZoaFhLVzE4am5remxHakZKMWVVVXFrOV9yYmlUeFFyZXRHVzZadzZQMy1LZTI5TQ?oc=5"
     }
    ],
    "published": "2026-07-08T09:00:20+00:00",
    "first_seen": "2026-07-08T23:20:15.983884+00:00",
-   "updated": "2026-10-15T13:20:27.453160+00:00"
+   "updated": "2026-10-26T19:11:35.109780+00:00"
   },
   {
    "id": "4ece52476ed0",
@@ -7617,11 +7629,43 @@
     {
      "name": "CCN.com",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVNaenUxUTJaWGxIV2ZRQ0N4UFZDaHZZS0t3U0g5a2ZVOVRMVlYtSWp5ajBkM1l6VGkwVGVyUGw4WlNqTVZRYXdkdENOMzRxYTVSS1FNT2Vna1I4OTA1bEYxNjJjNjIwRWdrN0E5ZnRmczhHVVN5VHdWb2VLSDNBLUI1TV94dDFMeEVHZm83V3JleU90MUdvcjF2MUg?oc=5"
+    },
+    {
+     "name": "Front Office Sports",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmxpcTZSZEpCWXRiWi1UN1hDVEcxcGZpNm9FRHk1Z0p1ZDRDOXowUkxNOWNhb3dYZGFVMW5qQ3dIMmlHS3VhLXo0ZUtKQXl3RFU0YkV6Q3huMXVjSVZVbng1X3h0ZVdyQ3hCVThhT29rZ3FTM3loOHpZSzFfRjRIU3NIS0NCb0FPcmxFUHFPWkRvYkNjakM5NUZlMlI?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVlBUHk2R3ZRNU1rMWFrWEx6ZXU3aDN2a3BiVlZHNHhrRzZRai1ndE9WVDNaQ3NxaU9xVEdTejA2MDlhdE4td0xlWmVnMUtvdHlGSHpDLUVNRERCelEybjNHb0xCUWV4ZkR5XzJVeVdFdjUxZ2NaQ3pibU1sRzdNemF0VdIBiAFBVV95cUxON1pGMFVpUGwzOVRIVi0taTI4eWRGcE5NUGplQXpiWUtaTFRYM3dtOE1LQzJJeUI2ejM5cjdQUTNJWWF6RzI0MndKTE1hWEN1blVCeHQ1Z1BlTUhOTmV6T1BKQzhRb0YxZW05Mk1Ud0drMG1xMmlqem53R2xRSGlwcmNtYUcwQmFf?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZJMzRfQlFoaUUybVhFeUNqeUs1RUpYeFk2QWlSVXlLTTRSbWdZZ1BaTEtFY1dFMmJvRU45ZXdkN3VleENWZUNPWFMtUmZFS2VpajBjTDhMcC1yTnZmemtrdVRPVlJQSGNyOHYtTld3NERkWTNWLXVwQmtJRU91Wm9SVFY5SzE5N0pKTUZpQzF1ZkUwMmtPSklQWk5kNXFlVk00c0paamFiX3puQ1pJ?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckVSbFgySzNoU0RSUWV3aFc3Ml82U2hGbXpGNU90MGFkME94bGU3bkZHZWE0MW90eFp4RFpYWW90bkM0aWhrOTlRU0pmdjdrek1NSk5lOWZESWJEalMwWHVaV2pZMDdBdy05Ry15aE56cThLVXFYOURLOWtQTWlpN0FvY24zYlZDV1VGakkzbzZ1SkM2R1RBVElLckxMeWJrS2R0SUhhUGFXWWVfSnJUVlkycw?oc=5"
+    },
+    {
+     "name": "CDC Gaming",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGhmR2FEUTZtY01oQXYxV25LTkwtNW9UY0FkUkFhbk1nOW1IXzJKMmdmT0tzejVweWVVaS1qMlBfRDJ3YnVzeV9HbWFTLXFSeklzMURJMkVkXzdrM184QnFORERzcFFuSHpKUE9JdDNCSmRjd1FCdlZIeElweXhudjdsNTBOTjlCYmx0NVA1OWRxLWdzSFdWeUhwS1FhZ1U?oc=5"
+    },
+    {
+     "name": "News Radio 105.5 WERC",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2VyN1prWVJZa0Y2WnJfLTg3c01rajVFWEEtMTRITS1sdEdsdmxrZU1MV2dzZ0lod0txQkIzNm5GU3NuMkt2UmVfSDZOaXFJV1JpQTNNUjBlRXdIQTgzSXJKamEyMlVmbnZZYkVsNzV5eExFWGo2U3BuUkZXTk9QYkZvYVE2RklTTGlXOXpxVGozVTd1NFBURDFPUjY3OWtYVjFrNFJqWQ?oc=5"
+    },
+    {
+     "name": "NBC Connecticut",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2daaUxoTFdrMGlwWTkzMzJxMXRkR3lUMEQ1OXA2TVg5REd2TC14dm5WM1pCZDlBcS0tMGdnSVgyenEzdGpNdU1VRVRQbGlaWkljRlpidll6bERYTnZnNFNuRU1mRVFCQUd2OUR2WUc3V0lfWWZsYUJFZFUzLUpESHBMQU4yRnY5dVNkSU9HVEF2MmVTRXdPUdIBoAFBVV95cUxNX3Y0S2tTd2RQVWtELVFhS1N2a0hYaF96bHBxSmZaaFpQblNpc3MtYWZ1ekhrdjByZXpZcmJraHVBME4tRGd5d0tNeHBBYnQtUXpKVTk0a1NHbDB0X1d4SGUxUXhNWmFlZWhzLW83NHVYam9BWlVaMkpEU2pqOElHZVc2YzdLNUg5YjJOTm5OZDNPVFoxdDgzbE1vYUhJYksy?oc=5"
+    },
+    {
+     "name": "Bitcoin Foundation",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWI1ZDBHV1VVMjUxeldtQXVUNHpiNXlfZHVSaWliRFZzMmZhWGtLQW8zMGprWGFZS0tRNVh5dHVzcDk0MGJISFNqTkRZSDRWQkxyWU01LU56MTk2Q1pwVzNaM2ZNMnlGb1NEeVRFR2tucDhDeE4zT2JXT3p3MXJzVkx2V0pMalRJcF9JZHhCVEJNQ1VYOXFHUXVyUG50WGtBeHFMaUNTc3pxZWFwZkxQOUxTMXB0MnAy?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-10-02T16:15:36.537538+00:00"
+   "updated": "2026-10-26T19:11:35.109780+00:00"
   },
   {
    "id": "78d60a3d2552",
