@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:25:39.110109+00:00",
+ "generated": "2026-10-27T16:28:04.969105+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2235,11 +2235,15 @@
     {
      "name": "Fierce Biotech",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmN0NzFtQTFCc1dNQlZUTndWMmtiSHFvODh0amI0UjdtSHN2X3ljek5vY19FZXBIVldaRTBraVpCbEt6emFZdU1WblpJQmNfNEhROWtpcTFiaE8ySzlHbi1qZmhMdy1uSGlWX09LZnd3NVZpanlxUHdHSnZpb2lmd0wzQ3BiU2lPNjNXdTBNTU4?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2NDSGV4RjlwNF9wLWxDLWxRLWlwVzZQb2pEZndfQnZuVmFUcVBtMGViSWZRbGR3emVqRElJdV94QS1FczBZTTFpdXFXV0QwNmhNdnRhcHdTTHd5UWU2ZXlweWx0WTRWN1ZjOTdUUW11MkNadGV0WWRZTVNxZ2w5QTFHVFBCV1hObGlUanltZVVGU0JOMGpKWmdqMlNWMTgzX2hJYUFPRld5ZGIyc0NN?oc=5"
     }
    ],
    "published": "2026-07-10T19:05:00+00:00",
    "first_seen": "2026-07-11T19:21:01.787802+00:00",
-   "updated": "2026-09-18T14:24:34.161476+00:00"
+   "updated": "2026-10-27T16:28:04.969105+00:00"
   },
   {
    "id": "1f8ffe182956",
@@ -5810,11 +5814,15 @@
     {
      "name": "The Defiant",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHN5clhpZ2c3dDZVbDhOdHVGMmxPLW9rdWhqQWd1eTVjYVZ4TW9VM1YtOWRsb0kzcEpvSG1Pc1A0RmJCcW5CWEl1Q2hiSU9WUE5ReTZjT0pfanVaWE5kSVN5X0M5MXhOU2pab3hNQjc5SHR6a19BVTZBNzBnT0dpRTFpNU1vb0lOYmNpc2FDWnc?oc=5"
+    },
+    {
+     "name": "Yogonet",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkRyOE9TdUZNc0pDZUMxcjdxS2RkaFBIRWxUcE5jVmtiT01rbjIzR1NfN3VDbW5IUDlLZEwxVDJMTXY2LTY5dzN5dEFpa3dRaGhsdER1Wk03ZGpPaVVLUDNPN1R3aGxWa2dzSkJ5eGhYWkQ0V2lUQm4xNVc0M2JsXzRyQmV1bmx0Mkt4MXpYcUg2REJuTjc1eUlmc0kwUXZJM1A3R2JkbnBsZGFCcHAwWEkyQ1RfaUtrRFlZNkxMV0o0dzN4LXAyNUx3?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-10-26T23:46:52.003644+00:00"
+   "updated": "2026-10-27T16:28:04.969105+00:00"
   },
   {
    "id": "cb28880381d1",
@@ -6120,11 +6128,19 @@
     {
      "name": "sigma.world",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmxzLUM2VVZEcTJkOURBR2xBM01ZTDMzWEtXZm5zdTlUOGZwU2djd20tNWs4a2dmT3hJcUI0dFpDVElpY2JPenQ1UkYzUnBsaE5lWk5jOV9zUnpJWERacjQtRXhOc01jOTNYTmQyYnpYbk1kODZhRmFYWTh6ZzIzVThR?oc=5"
+    },
+    {
+     "name": "SCOTUSblog",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORFJCSC0xVU9YQjBBVHhwZ2QtYm1rZHluLWNHR1hMeUZSMVVwOHdpTjh2R3k2eWpYdVAweVNWeWk2ZHI3WTdlby15eUt5VTZ6WVRfRjBTb0VCdVJHMUZUSVBpekQxMW8xZjAtNnhvNm04WDQ1NTgtNm9JRVJvVlhRcjVB?oc=5"
+    },
+    {
+     "name": "ABA Journal",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWx5akJNZkFwaFVzY2hhMFF5dkJmVENPbVplQldrZXNKckJrY2NteXpqQVBVQjJibHZfTHFwVVVReEU2R1RZX2MyYkFieHAtV2JBcXNyRzBxNmFaazdUUExFa3cwRnQ5cFhybE1hMDhCRHVXYjhMQ3lWam9QckF0NTloc1RObFZZZkh2aEFScw?oc=5"
     }
    ],
    "published": "2026-07-07T11:00:00+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-09-04T14:16:16.716641+00:00"
+   "updated": "2026-10-27T16:28:04.969105+00:00"
   },
   {
    "id": "3058c4012de0",
@@ -7689,11 +7705,15 @@
     {
      "name": "RealGM",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFp4V3E4eERVd05lc1NYaDVBZ2h4bEV0d1cwUzFMODZfT3l2bHY2c25jcWJkR1FxNUJDSUVCUlEwYVFVVVJfc2JlWGhYejAyTGJCZEZwSkJFREU3ZjZLUFFGZEVyU1VSQ0RaOFltd3lwMC0xYnBPcmlCN0dZU20wNXVWSHRNSlAyT0xFRFJFZXVoUFFLT3NQa0V4VFVBMG9LM1Vz?oc=5"
+    },
+    {
+     "name": "Hoops Rumors",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG5uUEo4U01sUGhoRlZYbFJwalRpdFoxWnZSSXF2M19nMTRKQWhEeDh2a054U0lKV0NzOWxoZHJwV05iSnpoakRVWVcwN2VLTmw4X0Y2VEhuOXJILTc3SzJ2dHpxcTR6UGVpVE5YcGkxSmtLQ0JxcUNsZERmOGxhVkJOdGQySWZTdXl5UDNUU0ZKeW1FdjRXOWZfMA?oc=5"
     }
    ],
    "published": "2026-07-05T19:42:37+00:00",
    "first_seen": "2026-07-06T22:22:47.953639+00:00",
-   "updated": "2026-10-27T04:52:54.443267+00:00"
+   "updated": "2026-10-27T16:28:04.969105+00:00"
   },
   {
    "id": "78d60a3d2552",
