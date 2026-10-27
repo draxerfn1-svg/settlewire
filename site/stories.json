@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T16:28:04.969105+00:00",
+ "generated": "2026-10-27T21:14:07.584447+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -633,11 +633,19 @@
     {
      "name": "DeFi Rate",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0xpNmktY3hsZm5DTWJXVjV0RHRHQktVZ0NBRTFIV3JtaWVONlVLdjB6MTVIRkh1NFZId040MVVlSHFSeFRvN2NhSGlZUDZ6bU1VSHBGSkU2ZzZ3NFQtV19CWDNTUk9xdnc3ajd0VzJCOFFibV8tM01DODdCeTFObnN5SHAtdw?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ21xT2hrRkY4YTRCQmdUclowMzdHQ3ZTMlpNZkZyYUMwTl9pSG9BNkxfVFN5anp0WVExS3BJNzFCVzRuT29PeENSRFJpcmJvMTk1MldBNk9UODRqdDRvSzZubWp2V1UtUkUzQ2hYNDc1N1JCbVVhMEFNNnJHeEZNNzFTM1RybU9CVTZXYUJoX3NmaE1oY1hfTElGUEs2NnpTU3JDaVFXcmhlUkRJMnVXVEFRUGhxaWJOemVpN1VB?oc=5"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "published": "2026-07-14T12:00:00+00:00",
    "first_seen": "2026-07-15T06:24:37.945081+00:00",
-   "updated": "2026-09-22T22:00:09.821086+00:00"
+   "updated": "2026-10-27T21:14:07.584447+00:00"
   },
   {
    "id": "3bf045bf3fe1",
@@ -2239,11 +2247,15 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2NDSGV4RjlwNF9wLWxDLWxRLWlwVzZQb2pEZndfQnZuVmFUcVBtMGViSWZRbGR3emVqRElJdV94QS1FczBZTTFpdXFXV0QwNmhNdnRhcHdTTHd5UWU2ZXlweWx0WTRWN1ZjOTdUUW11MkNadGV0WWRZTVNxZ2w5QTFHVFBCV1hObGlUanltZVVGU0JOMGpKWmdqMlNWMTgzX2hJYUFPRld5ZGIyc0NN?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTFxbUNEa1o2b0FZb0lyYUxSaXVOZTZoV1F0MU9Ra0JGODQxUUswWk5oQzF3c3p6SzhDemljY0VHVXB5eHlUdGxKX21EaGx1bnBGMnZMd2tCRFVodUdWb1FEak1qbk5CTUZLWXVYX0FWb19BZU1fWktFNjNWS3VWMXdQeG1qYlNtSnBnc1haemVaVml3OFRYMmhsS3B2R01fUDY0VXpjZlZyeGhqN1E?oc=5"
     }
    ],
    "published": "2026-07-10T19:05:00+00:00",
    "first_seen": "2026-07-11T19:21:01.787802+00:00",
-   "updated": "2026-10-27T16:28:04.969105+00:00"
+   "updated": "2026-10-27T21:14:07.584447+00:00"
   },
   {
    "id": "1f8ffe182956",
