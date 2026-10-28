@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T08:19:27.183715+00:00",
+ "generated": "2026-10-28T15:56:13.289655+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1091,11 +1091,15 @@
     {
      "name": "CoinMarketCap",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0ZNOXJkOE96VUVfQUVoaGhueWdES1puVE45OFdSSW5QOVFjc0RZSFpfRnhpVldWNjdXVkVmYkdzaTFadG1GeUhRTjMxQmdudmN3aV9LcjdRTFZWc3VqNjQ5SkhHakxQcDR6OVdxdG1waER5bXUybEtnRXZpTEQ0TUt1blFWTm1ULTBVNzN2ZFNIYm9pYWc?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FrVGUzYkFzTlNJaUlmNXJzMkdkcU1DZ3FUTm9aSU9acEp1WmFGOS1lOWRZTjljNmxhNW1OblE0N1IzemYzNlByT3FoMnVIVUt5N3F2cDZVZ1VKUEJxc2ltRkNFTmd1NDJXN1ljY0ZIX28yYVRfa1l4RHpTQW5hVHVMTTVyUVRYNkMxTGR0OHctaV9SQ184eEpJU3pSdmhXVDBHZw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-27T04:52:54.443267+00:00"
+   "updated": "2026-10-28T15:56:13.289655+00:00"
   },
   {
    "id": "dac5147e840e",
