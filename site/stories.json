@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T21:14:07.584447+00:00",
+ "generated": "2026-10-28T01:12:55.402970+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3343,11 +3343,15 @@
     {
      "name": "Russell Street Report",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRm9yUldac3E2WkVGTGdzeVVfQmpzTUFsQzRWU2ZacmVsTjlDQWJxN3pkam9WYTBTMV92Smxmb292aXNkOXd6djFEdzJsV3VETmJ5clZLX0o2STE5S0pjUTQwb0t6dzRwa0ZpZ1Y5QXJ3QU1NX1dmbXZYMDJEXzR0QUtOWXJ3WGgtZC0tQWp6aTNJMlNFZ3lvVXdxakszLUw5TURGeXVHYlk0M19waHlVdy1XcXlNQ01OZlBuempobzNnbTk3T0RkVTh3?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVW5ZNkItTVJ4STBtUnNzVVkwclRFRWhRVzcxamFoZ0NyUG5xZC04QUg1a0U1SFZ0a3M1X3ltU3ZaVURfM1dDNXhYVXdtMndvcUVoWk5acGxWc3hNQVN0TTJ2NmVUM3hHRjhFS1o3REx3clpuTS0xWG1NQW8wZmljcXEyZWNUdU1PckozbHhETzdfTWZpLXVpV0kxZzVyY1U5a3ZTRWstQWpyS2k0MC1pamhxdTlqS09MQndPRVFHWmU?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-26T19:11:35.109780+00:00"
+   "updated": "2026-10-28T01:12:55.402970+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4950,11 +4954,15 @@
     {
      "name": "Business Insurance",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmdRcXJIZlVYNE5zbkVRMlJXd3FqbWplZXhlMm43eTFYbTRIN09NZFQtamVXeFNFYjJQNkQ2OHdqWjQ5OGdyQTJXNHgyRV9qZk1KNzY2TW1LQk5fMkJWWWlpUGZBWDJ0MldYZmZZVmdmVjdNR0M1QTdsdnJneExyeS0wYThnbm8?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDhVRVBYRUprUWg4UWlMeVlib2h2VEZ6WmMyQWtDUjdwZ2V5REF4al9LRWlrdHlrdFZ1NHVtWElqUUpQV2hEQ3IxLUw2bXV6dEdKWGJLX25tbzBGek1KTG1vNlh4blh0RmFyRG53bkFyWGFPMFM5SDZGcEZPS052cWlXNldReERWSHRlWDF6Y3g?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-10-26T19:11:35.109780+00:00"
+   "updated": "2026-10-28T01:12:55.402970+00:00"
   },
   {
    "id": "938912f97a98",
