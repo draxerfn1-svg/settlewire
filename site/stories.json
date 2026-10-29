@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T14:09:17.338072+00:00",
+ "generated": "2026-10-29T20:12:46.255661+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3392,9 +3392,15 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmFQT3VMTmtkcVAyUDZDTEgxVWlBZGM1ekJUYzhNbFgwQW9kLTFvdTJ3UTgycG51eDRJQ19DZmRXbWFXQ2Y0ZEpaYVVVN3lSOEJNSDc2SVNzNnlmWnhEZ0ItamRpVzBwbWRJbEMyeloyWEtvNmZsdUxKTXZiclFHa3A2UFdUX3VfbFZESm1CSXlaa0diRktWUmQ4ajBEMm05WWFYOTlkcnVCNm55YVE?oc=5"
    },
    "source_title": "Margin Trading Arrives on Polymarket: Will Polymarket Hoover All Hyperliquid Liquidity?",
-   "also": [],
+   "also": [
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JTVU0X2xHRUVzLTJKUkNkeUNiNHBRREdScXNReU4wSjVEcXpDMHRaVC1YMDg4SUl3OWF6YWpCZ1NBS0RFTG9Rd0FFaVdiUm1KVUQxTVo5RGtwZURUMDhWelpjcmlfUzdheEdFUERHM3FiU2p6UG1Z?oc=5"
+    }
+   ],
    "published": "2026-07-10T11:46:05+00:00",
-   "first_seen": "2026-07-10T23:10:18.446241+00:00"
+   "first_seen": "2026-07-10T23:10:18.446241+00:00",
+   "updated": "2026-10-29T20:12:46.255661+00:00"
   },
   {
    "id": "7559eed67903",
@@ -3487,11 +3493,15 @@
     {
      "name": "The TRADE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG42blp6cUlfVHQ4TVl3Y3E0ZS1GdDVSSU55S0xWVWEtQlFzU2NwNEhOdGRZM2h4VWZXd0oxSFFha3o5RVM1elMxUDVjaXpTejNtaHltQ0I2cmdPeW1zX1BPcHpweTFpRTRmRjFLRno5VDFhOUkycmdQYm9BQThLVWduUDlwdw?oc=5"
+    },
+    {
+     "name": "SBC News",
+     "url": "https://sbcnews.co.uk/technology/2026/10/29/gr8-tech-prediction-markets/"
     }
    ],
    "published": "2026-07-10T10:53:38+00:00",
    "first_seen": "2026-07-10T23:10:18.446241+00:00",
-   "updated": "2026-10-29T14:09:17.338072+00:00"
+   "updated": "2026-10-29T20:12:46.255661+00:00"
   },
   {
    "id": "704478fc965a",
@@ -7423,11 +7433,15 @@
     {
      "name": "GamblingSites.com",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXIzVVg1OVhoUVNDQmZTbGdKWnlDcTZOSm9MYW1SUzc3SkJTQnEwY1A5bXIzUGstSnFIR3gxS0hUS2FFV1hFRlJIMl9wQXlSWXZkTWp0dWJfcUZya3VkaGdkVmVsN3Y2MDN5bjBUSEQ2b2F3Z1hoTkdJMi04eWVSYVVrblNYV1lYbEVQQW84UHg3WDVTNGE4WFk5WmszSTk2NkZfQQ?oc=5"
+    },
+    {
+     "name": "WLUK",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOQVBqV3hRRXdRZDI2U25ZQTViaFNkUnM5dmJuNk5TNkZzRVdwd0I3Q2laZTYwTUw1RDg3QXFibnFMMVJreUZvYUJlang2eTlFcHFhQ0FIYkU1aXF3dC1jYnpINW5PQThMbmREWm8xWjkxZG9RY01wU2ZSdGs3b0dJelowQjJDSGszZTJndWpENGw0VnFvU0R4OTkzOU4yMzFZU1M5UUd3emdIWDNNcUhiNzR3X0pXcGYzQmVIN29fTERlSG96QjhzNWVESW5OWDJJeFFETkpPQzVqb3VWajZwOEtxSDNJN2FQYVZtbkd3b20zR2dqa1c0Zno1S0hUUnVsLTluVXc5bFFXVVFVU3lHWTJ2TXNXTVNad090S0pfbW9KMnU0VkE?oc=5"
     }
    ],
    "published": "2026-07-06T13:24:19+00:00",
    "first_seen": "2026-07-14T09:14:21.295930+00:00",
-   "updated": "2026-09-29T08:21:30.650987+00:00"
+   "updated": "2026-10-29T20:12:46.255661+00:00"
   },
   {
    "id": "1d484074c246",
