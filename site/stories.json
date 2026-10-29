@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T20:58:26.418229+00:00",
+ "generated": "2026-10-29T00:48:34.863702+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -507,11 +507,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTVUaldYSmNWaGNRcVRNX0l5YXRmNUE3UVItTU1fQ1R2eGQ5a3hxcHBNaVotOGZ2azJXaktBSDNnSFZ6dGwwdFJZcmRZQlVnVFNweVBBRW1HX3pkNU54RDk3SkZMdjlZOFc0Sk9nbkUycy1uTUlCQ0ZQam1ZaHMtaS1MRlZQWHViVEdqS1dkOTg0RkpzRkpwX3dvVQ?oc=5"
+    },
+    {
+     "name": "KCBD",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CekR5dUx0Sk81VFBsRjBXMDFCaEJuR2tnamdIQkM2OWg4dGJQWUNuXzNKRll6OFo0ckkxa3F6STVhZGl0a3l6Z2QtckdIRHVadzhNb3JqRW81SERzT1VfTXV0VmZPd2hDOUFHbkRvOThRTzU5?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-10-25T18:57:35.071880+00:00"
+   "updated": "2026-10-29T00:48:34.863702+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -3351,11 +3355,19 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVW5ZNkItTVJ4STBtUnNzVVkwclRFRWhRVzcxamFoZ0NyUG5xZC04QUg1a0U1SFZ0a3M1X3ltU3ZaVURfM1dDNXhYVXdtMndvcUVoWk5acGxWc3hNQVN0TTJ2NmVUM3hHRjhFS1o3REx3clpuTS0xWG1NQW8wZmljcXEyZWNUdU1PckozbHhETzdfTWZpLXVpV0kxZzVyY1U5a3ZTRWstQWpyS2k0MC1pamhxdTlqS09MQndPRVFHWmU?oc=5"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmIwS0czM3FmNTVpNW96S216S0xnYXZWRHg5Wk85MmR0cl9ZWEF3alVEQVIzOUZweFNJbGttSW9uTVVKVDNOSjJkWXplMWtBNmdvWVdLbnRNTWFnOWRGWVp0bzFFeVhfTmpfMlBFYTNOQ01Wd0UtbzJKM1ZocmNKOUdSTFBMSnB6cEQzYWdRbTRGaVExa1hXRllXZGNZYlY3TUk3djZLSXZYeHFuemQ3OWk2aE5XYVFEUWJvMHY0VTZvZUdjRE5MOTVvLXpidjBEV0tZ?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjlRaDFFbkxla1FKcmRtRFd6aWcwSUcxS2dKOVI3Tlc1NEtpMUlZWXVFcWIybC1LS2p5RVNPbVN0MWRwTnpVY3c1YVJlZVVGb3NyVDRlVURBaHlJaTVTUXB0OFRTSFB3TlRZc1J5WVQ3OWllZU9jZG12VDRxZF9YODYwdGNrcHNEVExyR3JKTGJDQTdMRi14bmhDZGNsNUF0NncxYzZLblpNVE4wWnJLbjZKbkFsSjlTTGlTMFFodWp2M1E?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-28T01:12:55.402970+00:00"
+   "updated": "2026-10-29T00:48:34.863702+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -5850,11 +5862,15 @@
     {
      "name": "Yogonet",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkRyOE9TdUZNc0pDZUMxcjdxS2RkaFBIRWxUcE5jVmtiT01rbjIzR1NfN3VDbW5IUDlLZEwxVDJMTXY2LTY5dzN5dEFpa3dRaGhsdER1Wk03ZGpPaVVLUDNPN1R3aGxWa2dzSkJ5eGhYWkQ0V2lUQm4xNVc0M2JsXzRyQmV1bmx0Mkt4MXpYcUg2REJuTjc1eUlmc0kwUXZJM1A3R2JkbnBsZGFCcHAwWEkyQ1RfaUtrRFlZNkxMV0o0dzN4LXAyNUx3?oc=5"
+    },
+    {
+     "name": "The Atlantic",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUJ3OG96S190UXVXR0hia0haQUhOZ1hZQm5rcE5XdU9oc2hWekhDdFNGTmVCTzByS3NESUgyWXNTVS1CWjh5Y2NlczBuYUxDM3pPazBDdnVPcFB4RVdWTDlfOWpkUXpEZ1pGZHNIc000VnN1Y2JxUkd5MjRwTTBOZkMyWk4xeHd1QzBIejlWZ241eWc?oc=5"
     }
    ],
    "published": "2026-07-07T16:36:49+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-10-27T16:28:04.969105+00:00"
+   "updated": "2026-10-29T00:48:34.863702+00:00"
   },
   {
    "id": "cb28880381d1",
