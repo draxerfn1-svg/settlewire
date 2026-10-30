@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T00:49:51.896256+00:00",
+ "generated": "2026-10-30T07:00:44.025742+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1545,9 +1545,15 @@
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVzBjWng2aHR6ZXVoZ0xBenF2aEliWGNGUUNTRmtHTUtfNUg0VEhGRkpQZll0SldkOTdrN3Vna0RBM0VudTFnbEV0WE03UQ?oc=5"
    },
    "source_title": "Polymarket predicts Michigan governors race",
-   "also": [],
+   "also": [
+    {
+     "name": "GamingToday",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG1zQjdQQ3dfTXpEVFBDbEhnWE0wdnJuY1NZeDZCX0k3eVhkeVRGZzBBRE5HUTVBMnZ1Nkl4MkdYUEdaWXlxVnpBZy1ZVmhWd3RZQ2JqVW04SkNPUEFlR0Z4a3NjNi02M09QM1dUOERMTzUyNjNPc3NqYWdILVNXcHJNYnpXLXRiYmRZX2sweS15Q2lRYzFwT1pJOXM?oc=5"
+    }
+   ],
    "published": "2026-07-13T12:54:26+00:00",
-   "first_seen": "2026-07-14T09:14:21.295930+00:00"
+   "first_seen": "2026-07-14T09:14:21.295930+00:00",
+   "updated": "2026-10-30T07:00:44.025742+00:00"
   },
   {
    "id": "ba133688b49b",
