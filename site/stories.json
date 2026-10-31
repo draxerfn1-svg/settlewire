@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T12:13:44.602560+00:00",
+ "generated": "2026-10-31T17:39:24.681821+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -511,11 +511,15 @@
     {
      "name": "KCBD",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CekR5dUx0Sk81VFBsRjBXMDFCaEJuR2tnamdIQkM2OWg4dGJQWUNuXzNKRll6OFo0ckkxa3F6STVhZGl0a3l6Z2QtckdIRHVadzhNb3JqRW81SERzT1VfTXV0VmZPd2hDOUFHbkRvOThRTzU5?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkgzQnBmWlpDUTNFSW04d1J6QTR0WmNSRndpUVQ5SEJLRHBrS294UFBLUlRua1BLVmM1MEl2amNaaWNSZ0RKMkFqOUxRalJwelhyRlJvZWg3LWRxUkdKazhRcHVJSFpVY2YtSUJ4YzNyNW5FVFJwejNNdmZSWU11dVZPbnZXZmtVVlpaeTV6S0FZWVlJTUczZEVlSQ?oc=5"
     }
    ],
    "published": "2026-07-14T13:46:05+00:00",
    "first_seen": "2026-07-15T11:44:16.723906+00:00",
-   "updated": "2026-10-29T00:48:34.863702+00:00"
+   "updated": "2026-10-31T17:39:24.681821+00:00"
   },
   {
    "id": "005a8d5e0c0a",
@@ -1099,11 +1103,15 @@
     {
      "name": "RotoWire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FrVGUzYkFzTlNJaUlmNXJzMkdkcU1DZ3FUTm9aSU9acEp1WmFGOS1lOWRZTjljNmxhNW1OblE0N1IzemYzNlByT3FoMnVIVUt5N3F2cDZVZ1VKUEJxc2ltRkNFTmd1NDJXN1ljY0ZIX28yYVRfa1l4RHpTQW5hVHVMTTVyUVRYNkMxTGR0OHctaV9SQ184eEpJU3pSdmhXVDBHZw?oc=5"
+    },
+    {
+     "name": "RotoWire",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFhOWHVTRFJWdkVtS1o1Yl9uR1QxMDFZSlA4U3FGei1ncUYxNEdMWkg5WXFQMFJsaGd4WS0wei1nY2tnT3hOdXhzR0JFcUpvYmRVOTl6cW9jZU9BN2ozSjRZWmljUlluU2NRTThpTWd4bFFMbTh5aktoYlZhYklLLVpoSk9sdkZvdHpyMWdLS3EtSW1vUEZlYllOR051Zw?oc=5"
     }
    ],
    "published": "2026-07-14T11:00:00+00:00",
    "first_seen": "2026-07-14T22:08:39.383910+00:00",
-   "updated": "2026-10-28T15:56:13.289655+00:00"
+   "updated": "2026-10-31T17:39:24.681821+00:00"
   },
   {
    "id": "dac5147e840e",
@@ -4340,11 +4348,15 @@
     {
      "name": "News Radio 1200 WOAI",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzZRLThDaWYyZFU5b3dwNEluZzZIQTMwZW1uWFlfUFQwV2RmUWwyYzhOSGVUVUl1c2FSUmc0VUpobkhxTTUxNVBJYVd3dXVuRFFxRUx4NXZvaEd3NzYyN0tmOTR5SUNIeklDZ3ZLdHZWOGdWWVR4bFRvU1M3SHE4cEFWYWhJSmh3MGNGMlY3TzdMQ25FZzkwZzNzN0d2dk5EcXFVT09hSDQ4aXo3bkt0Z2E0RVJrVUJYbklBdHNsWUJjQzNiT2x1aUMtcVZRQm1qazR6NlduYWdIajRPMXFEN2tiMkFtc1N4?oc=5"
+    },
+    {
+     "name": "CBS 17",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFp2a05WWUNOdHdLVVN4ZU4tRUlFZnZBRkZQcmZzWFY3ZUoxYlhBdEVXY0tsRHZGakhNbFBiSVd3TzRIRG1lcUphcXhPWjRITHRBZjZWd2I5OTJyeURBWi1WVTN3YVNNc09Da0tnNVhUUTE2SXkyWGtVVzN4TTZNb0tCUlM3WXcwMGZUV1loaGc2RFBzalNlR3hNcHdzVlpodC1GNm9QRW40SGFpZHQyRndR0gG3AUFVX3lxTE5sNjhmQ0dIT3RoT2JZZkVjLVU4akRJdEMyaDZnN1B5X29rMml4VjdXRklDWHpJMDIwU25QYm04cUJibVpEeEM5LTJ4cExFNmZvUW1OY1RBTkp5ZTI1dGpXVWE3UlgzOVJ3T25kbmJXVE9vVS0yQ0w5YW1ETzBZUUFGOTNfUU9pbzlDcko0WW5WOS02QUdUNDQxVm9KcndXd25GZzhYWGx6Z2RnWkJtUWR2a292TldHaw?oc=5"
     }
    ],
    "published": "2026-07-09T12:15:49+00:00",
    "first_seen": "2026-07-09T22:41:03.433559+00:00",
-   "updated": "2026-10-19T15:31:08.777802+00:00"
+   "updated": "2026-10-31T17:39:24.681821+00:00"
   },
   {
    "id": "fc2afdf04096",
@@ -7231,11 +7243,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGZhSVVXQWhvbWpfLWZPRmpqeHZlVkFHbXA3OUtCRktSeUlfSEVxZmpJTms3eC11RTF4QmwxNUtMWjFTSFhtc0pSYU9pQXQyOXJXSktKOFFvSlI0c2UyMU1MSkNndFd5cTdBb2xIQ2c3aVF3SExPbDVTRElUZ3ktZDJJdjl4RDRSMzMySjZrRktiNzB3dlpBcy03ZFNYb2NXTjk0R3dR?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0ZkOFYxZThtNFRTb2Y5WTFSSUxCb0liOGR6ZnZQaVA3X19kUTZhN24zNU13VkJLOE1QSFZzaExjMFVXS1o2cEdsWkVpNWJhODUwZGlIZlhUb1MwX1dWd29kS0VOdGZ3VFF2UXNkVW0xVThjZTB3Nl9GZGFlS3dLeXRTZ1FneHg0eGtqTk9kanAzazNJXzhkTGhxOU5VOG1ibzVEbTRR?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-10-30T19:13:54.226307+00:00"
+   "updated": "2026-10-31T17:39:24.681821+00:00"
   },
   {
    "id": "3b83809e121a",
