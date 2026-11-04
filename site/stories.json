@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T20:55:24.973056+00:00",
+ "generated": "2026-11-04T01:15:05.094349+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -5070,11 +5070,15 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDhVRVBYRUprUWg4UWlMeVlib2h2VEZ6WmMyQWtDUjdwZ2V5REF4al9LRWlrdHlrdFZ1NHVtWElqUUpQV2hEQ3IxLUw2bXV6dEdKWGJLX25tbzBGek1KTG1vNlh4blh0RmFyRG53bkFyWGFPMFM5SDZGcEZPS052cWlXNldReERWSHRlWDF6Y3g?oc=5"
+    },
+    {
+     "name": "Newser",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlsaE8xLXNSLVdFUDFOdUFzblZ2cXE0NmZ0YUhNQ3NPM3FhaVdJU3VqUkRYOHFablBDVmIzdUZOamtMRTA3ZjBuelBGMzZLS2RxVi1aZTlFRWxqdG44ek4wc2dzSnQwaW9KYXJkM0JRaFhkMTBMdFZLdnNlcDBRUUZfOFZRdlhxcmVTRnJ3ZFhpN1VuRGRhag?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-10-28T01:12:55.402970+00:00"
+   "updated": "2026-11-04T01:15:05.094349+00:00"
   },
   {
    "id": "938912f97a98",
@@ -5790,11 +5794,15 @@
     {
      "name": "KXAN Austin",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUs4c1FfLWlCTWVVQnpTdGdkdTFZX1k3WkcxY09Zd2czbUVjQ0xqRkszekdsb3JvUzNTd3JnTjBsTGItV1NYVVZROERYMjc4ckN3b0RtWVB5dDVJbktzZ3JpYWNNaF91NjBEUkV4MEdFYWxTNmdOd1pjQk1HRlJBQ2x5UU1uVE43ZUUxQ3p4YXdHdHhKZkRicmpqZzZxUGJIOVMtd9IBqgFBVV95cUxQWnJUbTl6SW1PYUk5N1dsUkdVT0IwSHFucnNDOTlBWjdkYmZVM0M5X0FEM2pNa2FLbjA4bHV3VnlsRm5BNTZfZDdhdXdOWWlkUVhyUEJIT19BZ3pUbnJndWZlTHEzR2xOMjN1TURJRF9kdi13aFg4QjVENjZUaVVVczg1a2lYU0xCUElzTkdZYzhaNHlHWWdvZFBfbG1NSE5HbGtJMTJxcXl5UQ?oc=5"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLTQzZzhTai1ZdzF2OHZZTURuZ19xV3Blb0JwazBYSDhJR2JvaV9ENjVGRGg1cTIzUjRKcGtheFVBTUhfNFBkaWh5d3BIZDc5RTdQSTVzdWhNTWdGVVUtUkZPa2JhU0tUbDhHV2Uxa1YyRVk2azdmRWlINUNaeThab3RYM2NDWlpNTzhCZ2Zuc3BBcHZzNmxIYmlfOXJoUEdMMlE2LWpFWDJLck9nYS1DalpZU3RKVEgxM3hWNWwyWUZ2Y2c?oc=5"
     }
    ],
    "published": "2026-07-07T17:53:52+00:00",
    "first_seen": "2026-07-08T17:48:48.993577+00:00",
-   "updated": "2026-10-26T06:02:14.738421+00:00"
+   "updated": "2026-11-04T01:15:05.094349+00:00"
   },
   {
    "id": "6b51daf83d2e",
