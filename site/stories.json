@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T17:07:02.725749+00:00",
+ "generated": "2026-11-04T22:35:27.359989+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2353,11 +2353,15 @@
     {
      "name": "Honolulu Star-Advertiser",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2tnajZwVk4tZ0p5SHNWUXU0UTdYVGZiWG0zOUFNOEZQeGVMLTZuV1pjMW5faEtZQUVKcmk2UWpGOXdYclpCa2NzTV9ZbVp3azN2d3lxUURtYU95OEJydFgyWnRrRWpoaHBNWHVVMzBHbUtJeDBYaTctWl93SGladkdtRVcwODB5eDlzaFZscTc0a0NGZkhEOUpzSjY4Z3l0NWNhRWhmRmJhOXZOQktWSUFtUnZnSmc?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTl9aNGJlcHNhTk51M251dEVBbXZrc3JaWjM2R21iVU5wS2cyMW11WHJYNEFyMC16dWl5YlZlUkduWlBkYThPbzh6RHFSaEVwejJZMzl1NXVIOWdpN0FiY2RUNkRBYlpab1FUM0R0Y2ZPSXZDcG1aQnJLN0dNanZncDVDZVdjMEd6MkRYUnhR0gGTAUFVX3lxTFA3NF81cmYzNFdRWWlRSWV4aTljZ2V1TjRrNmRaUkNwdHp4bmNjU1lQWGI4UmNpa0F0VXJYdWQxMFY2VFg4UktzVW1STXVSWUw2ZndlbU5TbUs3eG12MFJKRjBxamwtRVBxYlFmalBZb0R6OUNhZzh1SmU3cEtlT1hsT2Z4TXRNQ05UUE0yY3RDNzJLYw?oc=5"
     }
    ],
    "published": "2026-07-10T16:00:00+00:00",
    "first_seen": "2026-07-13T00:06:40.060249+00:00",
-   "updated": "2026-11-04T09:00:22.859933+00:00"
+   "updated": "2026-11-04T22:35:27.359989+00:00"
   },
   {
    "id": "9710a6dff173",
@@ -3405,11 +3409,15 @@
     {
      "name": "AL.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjlRaDFFbkxla1FKcmRtRFd6aWcwSUcxS2dKOVI3Tlc1NEtpMUlZWXVFcWIybC1LS2p5RVNPbVN0MWRwTnpVY3c1YVJlZVVGb3NyVDRlVURBaHlJaTVTUXB0OFRTSFB3TlRZc1J5WVQ3OWllZU9jZG12VDRxZF9YODYwdGNrcHNEVExyR3JKTGJDQTdMRi14bmhDZGNsNUF0NncxYzZLblpNVE4wWnJLbjZKbkFsSjlTTGlTMFFodWp2M1E?oc=5"
+    },
+    {
+     "name": "Crossing Broad",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQk5jZEpXTE0zdDhzTkVYNVNENnhJTVNOSXlocUp4NVBRaTlfbzl4N2NzNmlRT2pHdG9HclNCQ2d0ZXFyNy1DaUxWRE1fX01IVjNaVDIzTGFORTVrbEtqcG5XbVhDT2ZYa1hNa2tWSjJOUXNjbUloYnlsWEI0S0ViM0FsYlE1V0J4SUFtUnNMUWZnUzFmU0RUdUQzNkRYc01qa0RKQWtfSEp6TUtEcmdEcUQ1TnVzRlVLSmhtMEx0SEw?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-10-29T00:48:34.863702+00:00"
+   "updated": "2026-11-04T22:35:27.359989+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4078,11 +4086,15 @@
     {
      "name": "MacRumors",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3JvbDc4eDlfZHdBZnF0LWJNQWhHb1RXX3dOcUsxZnpiVlpGWXFreHdfUnRUUXk1cVh4a0NtNEdzU2NLaWlpVl9hMVl6LWFPZUpaUkItZGp2eGpmeXBVa3Z3UGZfSzM2X1UwM0dfUk5MREI0eXRmb29nSHIzV29MbmxXM1JCd1BxcmJxdmFR?oc=5"
+    },
+    {
+     "name": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcG5YbUpfTV9fUjZJNWJ4OUFhZ1g1YnYxMzd5X2JoeEJ3Y3hYR0dOYUh0b21hSTBGR1l3WmczdE9ZSmVwTGVCVlotSnJ5TVE1Y1ctMVVRN05FY3BFQURMb055Q3RZRXJrRlBqbFctUDd0eGdsQUk3N2lla2ZIbEE0bTdvSzlUb2ZDSllSRWhCR3hrUERGY01KdnE1dWZWVTA5Q2JXTg?oc=5"
     }
    ],
    "published": "2026-07-09T19:11:04+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-11-04T17:07:02.725749+00:00"
+   "updated": "2026-11-04T22:35:27.359989+00:00"
   },
   {
    "id": "1679c91ffec3",
