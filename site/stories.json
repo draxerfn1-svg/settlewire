@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T12:10:46.455431+00:00",
+ "generated": "2026-11-05T20:36:58.239182+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1740,11 +1740,15 @@
     {
      "name": "DeFi Rate",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92UVd0LVZ2WFBGOE5nQW01aHBkRmJaWU1ibVE4bUtNUUIwcWlaLXR6MDRWUHh6QTN6Q0JZMTdjN2pXYkhkT3NVMEVSblMwQlF2Zzg3VGJlWG51Y1NRM2hLdjB4MmdZZFpOU1dtX2hjSmlEcFE?oc=5"
+    },
+    {
+     "name": "The Defiant",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMF8zU3JSZjFieFVpMlBQVEdmZDh4NGtwSXhoNjN6dzUxRkE0Z3RQT01FV3FpdHdiS0ktcm1QdjQ2d2lSZUM2TkJac1FoQ1ZNRFNOU2N4dTJhUHl0Uk5vMzJNQXYzZEstSHUxQ0N2N2ROVUh0bjRLQXpGa3VHTk1OeUhHb2tzRFJsZ2VwaDFOUVNuODd5MTM0MV9VdDVybV9id29j?oc=5"
     }
    ],
    "published": "2026-07-13T11:36:00+00:00",
    "first_seen": "2026-07-14T00:04:55.217403+00:00",
-   "updated": "2026-10-06T21:35:18.926309+00:00"
+   "updated": "2026-11-05T20:36:58.239182+00:00"
   },
   {
    "id": "5f30cfbc9c57",
@@ -4037,11 +4041,23 @@
     {
      "name": "Psychology Today",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTdSZzVNTlRYY3ViTm96djYwV2VGLXFXZ2dPRHg3VGNiejFjckZkYVJBSFNfTnZ1RmRCV2N3a3dJNHNLQlVOZnItd19sQTNHcGNudnB2SFZFUjZ3WnVlWmNScHNGLXJrd0pLZGRfZC10eUhwSXZOaG9NLUVnWVdTRE1xX3RvWnR2dzYzZi1qQVU1NkRhLUdlZGxabUY5b2FFT2FoclpMamtkOFJfeEp2UjJROERzM1FQZUZUSA?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWt3YldQZ01SWDRJVWpFNEMzYUJvWDl3LWlTbUlQVlh4YWh6bGw1QXotcTdTcEZNaE1mR2UwRE1ucWphcWRaeW5acFdzNVZWZkFsMUgtSXJwYTROUGtXbWN2bElJMHZOMVN6dkc4MEhvT3M1Nkxqc2VGVHhTTjduTmp2ZFc0eGxjWFFieVc5dFlBQ1J2enNVVlJoN2lIR0xOVDVyaHN3?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWVZTkdGcmN4VnVNb1h3WWRWY1ZOU2Z3RThNNjhsYlJEZGFnWGFMaHdJNnpmMEZzNVFBTTd3enkxTGV5QVhZZHVXNWx5VDRWeGNRMHNDdkRfVXZtQ2xidlF1S3owZ0NrSkRhR0VQd2stVmtEN1ByejFNUUhnbW9YRVlVcHdqbGRSX3pxN1lBV1hwdlNURC1waGdkbw?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-11-03T20:55:24.973056+00:00"
+   "updated": "2026-11-05T20:36:58.239182+00:00"
   },
   {
    "id": "5f8facee2c9f",
@@ -7351,11 +7367,15 @@
     {
      "name": "Chiefs Wire",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3pWcEZiSDIwTXFMQTBhVVFtT05hZHBld0pRTkhscXNWUUl6V2ZGYjZxSXk5ekRpTXFnaVB3cDFYek5KYzNKWUtiS254X1F0RUJNNHN5SXZpYWdZNmc3VmNMOFNJdFk0SnBneElyMjdUcVFHRVJvdVhmWHNJT2xpWncwZWpNTUFOS1F3bDFfU1JwRXNNaTl1M2txZEZPZlB1aVVweGtn?oc=5"
+    },
+    {
+     "name": "Chiefs Wire",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHJrZFlvWFpjbFNGeVczUnhXRHBTUnNNZk40SXpScHNYZWk0QllCbDV4SVRxWVl3QjI1eUxNd3FFalhBeER0Smd2cUpiR0JjN2Z2YWptNFR0Y09wNWVraHozVWxrU19ibHA1WW9hNEEtcFZaeW1VYmV0akRQM2hrV0pPUFYxRU5xdWZhWEpkaXpFMlZaRFEtMnByYTFLTEQwU0k2cEFn?oc=5"
     }
    ],
    "published": "2026-07-06T19:52:33+00:00",
    "first_seen": "2026-07-07T20:56:01.664846+00:00",
-   "updated": "2026-11-04T17:07:02.725749+00:00"
+   "updated": "2026-11-05T20:36:58.239182+00:00"
   },
   {
    "id": "3b83809e121a",
