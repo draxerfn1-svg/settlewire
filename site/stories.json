@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:42:46.319010+00:00",
+ "generated": "2026-11-07T09:56:04.592872+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3421,11 +3421,19 @@
     {
      "name": "WTOP News",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWJzUGZ5R0psLV9ER0N4OXRLLUc3dU9Vb0NFNXV3eEhEM29WbktyenplUXZPRkNZYzIxRXFCeDRqdnduZF9MOFJ0SWtwaHFURGFzNF9ZcjBra2pJYnVYb0M1VmRMRFdsd3JwWnVidDhyU1RmUjd1SUYtM255Mjhkem1qcnZaRlBQNUQ0dzhsRFAyeUU?oc=5"
+    },
+    {
+     "name": "amNewYork",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41ckFqYWxMeHUyNmMyV1dqaUlFN1g4b0ZPVzJnaEVYWDE5T0p2MVFwRlp4WmtDYms5SThYYnZBZnYtYTdGM0M4djhELUU5TTBlaGZyQ2stUlVwdEtMcEtscUhjQXJXSDhqRnNuemN3?oc=5"
+    },
+    {
+     "name": "Crossing Broad",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHZzZUhNUUZLa3pVeEVZaG9pa0JoSlV5RDg3UmQ0Wmc5SHZ3bGZvc0p2cDRucmZ6SS1OM3Q5aDRuRlpranRHUTI2V0tjOUJ2Qk93M1JOSHlSZ0c1OU04UkR4Rm92enY2dXJyR00wNk1hc1BqSzlYOGNueE9pdDhnQ2VLY0FTQkJXZ2pmVE9n?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-11-06T23:00:58.447457+00:00"
+   "updated": "2026-11-07T09:56:04.592872+00:00"
   },
   {
    "id": "0741dc215b0c",
