@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T22:18:26.592369+00:00",
+ "generated": "2026-11-11T02:43:30.102212+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1318,11 +1318,15 @@
     {
      "name": "Financial Times",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdoOFhKQVlWOVl6U2F1YnRRRWNEN0xVNlo1SmtORFVPZzFOemZwdHA1UGJXc05FUGlHS3psWDR5ZEZIbVdLUDBwRHRuTWhJaUNiT0NUVmVrZDBiUmU3dkFBZ0NXY25JdXcybTRfVHlDcWJkaXhyaGkwd0ZFRlh0SUluNFg?oc=5"
+    },
+    {
+     "name": "Markets Media",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DbDdFSEQ1ajlSS1VHejcyeTNpVjExaDBYQ2FkblhHSDJsV0lMb3IzY05hempVNDFVbWNlNHkyeDFoRHhabU9ONjVlckN2bzR5YzRNa3AtQUFydHl6YTZ1UUhNcUxIZC1RZUE3bF9n?oc=5"
     }
    ],
    "published": "2026-07-14T07:12:59+00:00",
    "first_seen": "2026-07-14T20:20:04.295469+00:00",
-   "updated": "2026-07-14T22:08:39.383910+00:00"
+   "updated": "2026-11-11T02:43:30.102212+00:00"
   },
   {
    "id": "391d948176c9",
