@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:59:12.007907+00:00",
+ "generated": "2026-11-14T21:22:52.408891+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3469,11 +3469,15 @@
     {
      "name": "amNewYork",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tNFBtTlNYcFFJd042VFhTNHJqVmNrY2hMTjJmQ2NaUXJRRUFjYmc1eTZNdG12dnVWYWg5TnJyUUc3cGxvZ3ZkcmMxUGZDaldpRmhlVV9MYnJ3LXlFVEx0aG1zVDR3SWRodmtXTGJGUQ?oc=5"
+    },
+    {
+     "name": "Mile High Sports",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNklqejhoSkU0Ymc4RHIwTnRrd0VsVlFBdGpocVFDSUZPOXM0RERrak1aVmhBQllnVjBSczMzVUtqY2FmSndNbG1CWjdJZS1ZMlhUenBBY0huSFRCbERwam5nMUlwazRscVhYaW5FdVJ2TmUyT1hTM3Npc2xqWENoVVhCc1RCX0RkRXB1dlpjNDdRSmlEZHNDVTRBb1p4YzdSNWlxWmpB?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-11-14T16:59:12.007907+00:00"
+   "updated": "2026-11-14T21:22:52.408891+00:00"
   },
   {
    "id": "0741dc215b0c",
