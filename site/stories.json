@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T09:29:25.451563+00:00",
+ "generated": "2026-11-16T20:19:34.377523+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1515,11 +1515,15 @@
     {
      "name": "LinkedIn",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFg3LUFrQWpkSWNRNkpxRG5zeU9FVWE1eU5yNGtqWkRuOFJsRVQ2QV9UcVBfeDBhRGs3Y0RhY0tQVHQ1S2hLVXdpQ1k3aklRQkQwUTRuR0xuZGN4NVpvOVFfUWV6bk9jNGh6dW9GLUMxNGx0dlFta2laTlFSSTk4a0tFUk52TnR1aWRpdg?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmJiNkJnX2JSMzhoSnRnZDgtUFcwUlhuMlhDXzVCcm1jZUJSclo5SzRXc3JHNzZkMmRwVG93Vkh4NmlPRFUwWTZvY0ZxdUJDTWpwanVyYnp6V2t1azdkdDlNeVM1YmpzVTNwZE51RzBmZFg0REtRdDMydEJwU2kxVTVWc3RUaWs?oc=5"
     }
    ],
    "published": "2026-07-13T15:26:50+00:00",
    "first_seen": "2026-07-14T18:13:49.751455+00:00",
-   "updated": "2026-09-14T19:16:33.147254+00:00"
+   "updated": "2026-11-16T20:19:34.377523+00:00"
   },
   {
    "id": "66b303c60e98",
@@ -5206,11 +5210,15 @@
     {
      "name": "Huddle Up | Joe Pompliano",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLR1RxcUVZQmhxTHQwUFhDbDZtY21DSU5Ybzh1M0JkSjlnVW5weTg4anVybXlFMU1JbVl1RXRSdFRXZmJWWm5waFhsOGZGN2djUDY1QXpMQUNxeU12YVlkcWxCbHZEakJhSkIwaW9DZzJvRzV1RVE?oc=5"
+    },
+    {
+     "name": "New Jersey Hills Media Group",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSTg2VW9RcGNLZlQ1Skl1dkQtSTZlNWUwTF9SRVZpLTVubTlueWx6a1loczJSQWstOFliaGZwMnVLTUg4Y2NKOU1LMW9fejZqUlRXMWhRS2hnZ3ZRNUlQTUFQM1VFNGxHODBIYW0xVTVEWm9tUzJHSURqbERnTmdueDhUQVRXOEdTUENVSVRFV001SWtvMDlXT1U0NXhOYS1hZnBHS0hmb0p1OVlrcmFOSTl2RWhuaDBrbEpUZTBUYmhKNk10OHNMUzlaVkZxTEJReUloWThjVWRHU0l6Wnpidjd2YzNYZG9sUnc?oc=5"
     }
    ],
    "published": "2026-07-08T12:00:00+00:00",
    "first_seen": "2026-07-09T04:08:19.031106+00:00",
-   "updated": "2026-11-04T17:07:02.725749+00:00"
+   "updated": "2026-11-16T20:19:34.377523+00:00"
   },
   {
    "id": "938912f97a98",
@@ -5547,9 +5555,15 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbldxeHBvUjRRbDFVTzFLb01PbmNIWXpTcWRTOEFadzNlRmFJcmRabVYxZ3hzOEtxTi1ybHhYVWE2MjBuX2NBLVc4bVNBd0tiNDFaZmZQUzFQVW1McmI1OFhrNWgwcm90OVBJUXNRYjdJbGtuZ3p5RWpvQUZla2pVRWFxTjlhYmF5UC1zSnV6LWxCSEM5UXEtQnI3c2wwOHBJdEE?oc=5"
    },
    "source_title": "Ripple Lawsuit-Linked Judge Torres Hands Kalshi a Big Loss in NY Prediction Markets Case",
-   "also": [],
+   "also": [
+    {
+     "name": "Barron's",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXzZYZDNBaFBLVFpSNm5TZ3ZQbTc0ZmV1N1JoV0E3UjNEZFNkLWJDNllPdkY4VTBxb2tCQjZPalZQbmo3Q3BBano2RWs0MFlsYXdGQTlraGtaNk1LczY3RUxiNDZqU0VHa0ZyQTZPMWdLMjFTY2xTTWdHLTdaS1JTbDZndktKSE9Fd2NmU0c5a242WHJO?oc=5"
+    }
+   ],
    "published": "2026-07-08T06:14:00+00:00",
-   "first_seen": "2026-07-08T23:20:15.983884+00:00"
+   "first_seen": "2026-07-08T23:20:15.983884+00:00",
+   "updated": "2026-11-16T20:19:34.377523+00:00"
   },
   {
    "id": "7ce04e4b78f7",
@@ -6292,11 +6306,15 @@
     {
      "name": "CDC Gaming",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUx0ekpzYWdCRnEyQ0FNVzNOY2sxUk1kTVlHcGliOVhQeHJBRjZWaFExM2pzdzdzVjZYYWJ5VC1WRmU4R25RcGd4bUV1ekJOQXg5amJfNmYxR1hDVjJzdWY2RHRud3lJR2JnOWkyN0RzaVI4MGFydExESHpkZWJnNERBN1VOcDVKc0tyRzJuZllzRHkzenRSNQ?oc=5"
+    },
+    {
+     "name": "Gambling News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOenA0WnktOEZqY2JYSFcwV01VZURhZUUzb3JCSnBrcWQ3aVhZeTZSaGoxWjRtc3ZMUm04b1lDUGs3bk5UM3pVZ3U0bVFxQ3BzYkVjd1NKZWxfc2phUlQ3YndIT3ZLY0dPbzRzdDdGS05HY0U4TkdwZ1FfTzk1SmRleUxaUDVvcjF6N0NIWEEwZGpZN1ZDOFNJRUp0aEdGMmQtRnlNTlJIWnBfV1lD?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-11-12T01:28:17.277200+00:00"
+   "updated": "2026-11-16T20:19:34.377523+00:00"
   },
   {
    "id": "ed12e790933a",
