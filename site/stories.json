@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T12:52:25.390569+00:00",
+ "generated": "2026-11-19T21:24:31.539395+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -2422,11 +2422,15 @@
     {
      "name": "\u6df1\u6f6eTechFlow",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNGlmb01GUWNBZC1wVGlnSnRZdDV3VkZlUExxSF9zcDdWT1lrQUVDV1ZWaHM3WVpTd0dlUllzbU5FZXRSamhob25TOXVKNjBsb1pOTk80U1diTjd2?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3FvY1IwcG8zZTBaazh6ZlZsdjUya3JSNlVTRG11NnN5NlBzT1BLR0E1MUl2ZlR4eU5ILTdCS0RENHBDRV80MUFfWE9JNEQ0aU01dVBZNDQ2SkNIZzNBeXM2bUVOYUl0bU82OUNzS1BSeUQ1dlg2SzRWU2FsU3Z1NElCU2J3M3d1a0dFV0FtM3dIXzJsOUhpQ0d3ZFVySGt3LWczdXA4UWhCUVRSZkE?oc=5"
     }
    ],
    "published": "2026-07-10T15:54:48+00:00",
    "first_seen": "2026-07-11T12:01:00.193544+00:00",
-   "updated": "2026-08-17T13:01:58.918735+00:00"
+   "updated": "2026-11-19T21:24:31.539395+00:00"
   },
   {
    "id": "76c1a9f2e354",
@@ -3509,11 +3513,19 @@
     {
      "name": "Sports Illustrated",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTVlMUZkMm1kcnpNajNId1FYNTAzcEsxQ2dsRHlkTTNCczdHU2h4OVB5WWYtZ19SekJmczJZWWEtWUJZOENQZmhmSHkyUllFUDRDXzJjODBYUFFiYzg0WVRBODQyM29nV0ZxWnl2cm9QTGNkOEtkdjd2THR4amF0MWMyX3drOVNhX2R4N3BoU284TFZXMl9zTklIN0F1RWdQRlpmc1dtRzUxRlZFR29oRnBTWlBDVnlJX1B5WXNrRjZldkU?oc=5"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbUpaa05aRmEzbkx0YkdydnhQSUtCVTRRZERRSXh6R0xMNk5uQWNFb2dTcS1nOGNtajR0emhaWnVUejE0Tk1NR1g5UzJaN1lSZDg1N2dWdm5PbTJKN1BfcnVqdFVoTTJ1bmM5ZEZ2aU1kc0pSTk5LRXA1LWRFR0JYUTk0c0NrSzh4Vnk5YU9ydHM1TURucXhqajZGZU9yci1ZWHdsYndtVE9jelJ6aHRiZmNkSHIzMFJNTDBfYlRNTmZWZnJQbWxuYWl3d0ZJd2xDaDAyVEROd01zQQ?oc=5"
+    },
+    {
+     "name": "Crossing Broad",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQellYbERrX1dNOVc0dGRhQzhqV3N1MVdHanRDelF1SEt3OHFseDZ6dmQ5QTVyMWNYMUR6V3R6ZWpJMEh2TFppUWlCWl9adHVtaEhLRGxpT25BSXJ2OEhIa1M4VFlHYU94bFJQZkRUeEc5R0k5UlRvcHVaVGRheHhBX0RobGZ4WTY1MlBWUEpzSHczM3RjM0laMXlDVUFWU3p2TjE1alNJcnlqakFEdkZKYUQyRWhpek9jVU9YbA?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-11-19T03:14:20.170247+00:00"
+   "updated": "2026-11-19T21:24:31.539395+00:00"
   },
   {
    "id": "0741dc215b0c",
