@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T11:23:26.863813+00:00",
+ "generated": "2026-11-20T20:00:13.595758+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3521,11 +3521,15 @@
     {
      "name": "Crossing Broad",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQellYbERrX1dNOVc0dGRhQzhqV3N1MVdHanRDelF1SEt3OHFseDZ6dmQ5QTVyMWNYMUR6V3R6ZWpJMEh2TFppUWlCWl9adHVtaEhLRGxpT25BSXJ2OEhIa1M4VFlHYU94bFJQZkRUeEc5R0k5UlRvcHVaVGRheHhBX0RobGZ4WTY1MlBWUEpzSHczM3RjM0laMXlDVUFWU3p2TjE1alNJcnlqakFEdkZKYUQyRWhpek9jVU9YbA?oc=5"
+    },
+    {
+     "name": "Russell Street Report",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFJzYjR5TnFSc2ZyUlhZckhoQkdDd0tMSWtDcy1lVWlrU3BKUE9BU21qcXN4ZTNaZGtYRmJ0S0h5cUN5T044Mk5IcTBLR042Q1FGY1VjUnZxX044Um1lQ1oxT0RIcjZEZEpRbU10Rmg3aGg5UDFaUDUySWJibDAyeEJQR2VNZUd2QWY1WHVzRHRoTWd3TzVZUXNhY0xrSEZtaEFWQ3VTc3IyWW1OeTdBMEQyRy1lQ0x0TDU3SjI1SGZQRlE?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-11-19T21:24:31.539395+00:00"
+   "updated": "2026-11-20T20:00:13.595758+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -4903,11 +4907,15 @@
     {
      "name": "LiveNOW from FOX",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtdVpKbUoxME9SdkdiSE0xanl5cnUzbjhoRVVlX1NpWHNmNjhzUlBEbWxSWGpUYW1tc0JfcnFuT0pZaTR5b2FYMTRSNkZidGN3WGlQOGZKbWE4UEIxa2VSVk9EVdIBaEFVX3lxTE51RzBfOFBQcDJlTldpdFpyQlZWdUs4bVBmbFMtRkNrckJFTTI1Y01VeE9PcWtYcVVpaHAzVFl1My10VjFFQkZ4eTRpUTRTNExiREtvUGdYdnBfem9LeU93bjBhOW1aSURV?oc=5"
+    },
+    {
+     "name": "Cointelegraph",
+     "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "published": "2026-07-08T18:12:00+00:00",
    "first_seen": "2026-07-09T16:08:11.687335+00:00",
-   "updated": "2026-10-30T23:38:59.536252+00:00"
+   "updated": "2026-11-20T20:00:13.595758+00:00"
   },
   {
    "id": "5a84abf98c76",
