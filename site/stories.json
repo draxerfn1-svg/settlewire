@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T17:30:52.593250+00:00",
+ "generated": "2026-11-25T02:18:15.555234+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -1625,11 +1625,15 @@
     {
      "name": "Gaming America",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2ZVOGx2bTVMM2thZ1BqMXVWbnJ1amZXbTlhUHI3VlJ6RnBacERqc1Bhd2hveUZfZnFGcHgyalRjYVJ2TXgtNUxuSjBweDg3X1Q0WnFHZ0QzdUN2MnVxVThpVzZMUFVWT19TQWdtaHU3R2tLUEI5XzB5aERmYjladHhFeW16dkdSX0FYcm1UOVFxcE0ta3c5TDItWFFkUzFJbXZ1ZDFNWkVVRzRLN080TzU0NW1CSjBWWXloVUo0ZXFBOGZkS1E?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlJiOW8wTlQtSnZFaUdDc3VoM0trbXVleENGelNDOElNZDNoWnV0SV8xSTVaeGNWNk1yNHhVRmtYbUR0TDZNbEdnV0preDdyeThYX0dzV1FZNTZhdkVyb0x0Q0ZOb1djNWtwZldyTlc4OFJsUXhWVU1YQl9WM2RsMtIBhgFBVV95cUxPWnh2aDRBQmhGcmdCZU1FNkJBN21zYXJXRzJrb0FQRkFIS3RDSXFUb0tPaGpBdXJ1Q2FRTlRXZUhGakNqQWg1cGpVNmZQa0lJZlB0d0UwVHpiLVdLeEJ5M1JZVllYUU9icG5uZDFmV1lUVXpyd3N3RWdyNy1LU3ExcUdWcS1Ddw?oc=5"
     }
    ],
    "published": "2026-07-13T12:51:27+00:00",
    "first_seen": "2026-07-14T06:21:05.307414+00:00",
-   "updated": "2026-08-04T19:50:50.795872+00:00"
+   "updated": "2026-11-25T02:18:15.555234+00:00"
   },
   {
    "id": "c52d38128602",
@@ -2426,11 +2430,15 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3FvY1IwcG8zZTBaazh6ZlZsdjUya3JSNlVTRG11NnN5NlBzT1BLR0E1MUl2ZlR4eU5ILTdCS0RENHBDRV80MUFfWE9JNEQ0aU01dVBZNDQ2SkNIZzNBeXM2bUVOYUl0bU82OUNzS1BSeUQ1dlg2SzRWU2FsU3Z1NElCU2J3M3d1a0dFV0FtM3dIXzJsOUhpQ0d3ZFVySGt3LWczdXA4UWhCUVRSZkE?oc=5"
+    },
+    {
+     "name": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTdhcnBmbVhITnhzV2c5NkE3STBSUUJZYTcyZDNJTHNGRENldEhSNnRUcGpic09oeVBDSm11Y1NsMmlnU19IOV9qT3VMalhQblhqWmJTR2ZtQVAyZk9oQnFfcVNUZU1yQ1A5SXdjb3gyTXpKR3Bfbkt1QnB2UWQ1OExNYWtFSHl5YkRpZ3o0ZVQ1dXFFRTBVWXdOdG5MUkpIMHc?oc=5"
     }
    ],
    "published": "2026-07-10T15:54:48+00:00",
    "first_seen": "2026-07-11T12:01:00.193544+00:00",
-   "updated": "2026-11-19T21:24:31.539395+00:00"
+   "updated": "2026-11-25T02:18:15.555234+00:00"
   },
   {
    "id": "76c1a9f2e354",
@@ -4201,11 +4209,15 @@
     {
      "name": "WSJ",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjliTUFiNTdjN29MeHA1bDBGelYtUEpIVVFWSl93czFQTlBocXBfVk5tcUFFSWR5OUpNSENtWWlid0V4Y2RaZEd2cFNrbkQwQTdTWnVXdS10VUk5RTJERmhrOTNISzNBTThXclVBOVpBMEkwd1ZZNFhDY1ltWkxZRVBRenJHR3dld1Z30gGUAUFVX3lxTFBVc2prekR0MHRxVlRwQkVINXV1dnZOV0hzZ2p0YzhKbS11eURZM19SeGlRZC1oX29XWk1VZWpuV21ZOThhcWRCUE9LSmNYeFExRWEtNzJKWEg3MnJ1UDVIai1YbE5HSTNpaW84NHdmT1l2a2h0enF6cjdVVkczNnNaX2dKSHRnUEROVUFIbG9LalVObk0?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanNvSnc2X2xoT2VqLWxmam55TGtrWHBGWGl5Z01pZEhJb3dpekNZaEtmS1F0VmhyZXBXbmwyLUp2M291YXJ1eG1uOWdiQ3pmYzVtcEN2QXM0dDRBVFZIZkRvb00xYzVpWDJkSWozSUxaOTVCbjR6bHVJZ2ZzLVAwdkNuNDFOLTVCZFNzZlhqR1VmVXpNd19kbA?oc=5"
     }
    ],
    "published": "2026-07-09T19:57:00+00:00",
    "first_seen": "2026-07-10T17:56:54.895553+00:00",
-   "updated": "2026-11-24T17:30:52.593250+00:00"
+   "updated": "2026-11-25T02:18:15.555234+00:00"
   },
   {
    "id": "5f8facee2c9f",
