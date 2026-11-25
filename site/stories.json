@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T02:18:15.555234+00:00",
+ "generated": "2026-11-25T12:39:25.604084+00:00",
  "stories": [
   {
    "id": "ca1d8c616fa4",
@@ -3549,11 +3549,15 @@
     {
      "name": "WTOP News",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0djRjJkM3ZQOVFHUHpBbV9YV002b1FzY3ZRT1ViVms5Z3EzblFvOVh4WndMV3pRdHZkWnFtVHAxZkxsRExQVVlwZnA1elBwbnJBRXFJM0tNdTV5YzIzdThTTnBWQURwbnotQzVuY0E2Y3o3UF95RTlZZTNEbzRQR3M4RHZROEJ6YTB2MzUyQ3BESlN2NXVKMWxnakJoUzhVVmtuQ3F3?oc=5"
+    },
+    {
+     "name": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2ZFR1JaVFp2cnRBcVNuR0NlMjF0a0doSDRlcmh1ODdOdlVRVHdzV2JRUWtLbWNoZk1LTHE0Yl83Z0FFajFIQ2lkZ0EwSU05eGdsQU4yRlY5QnVudTQ1cERwZEctZ2pXS05JTjdiaFV0WEdHLXRQdDBGQlZvSzRBR3pGYzluakRyTXZ6N1NCU0JReFVDVlFvclZIdUYweWlhLTBOeFR1UVBHdlFqSVpfVVczUW9DX0JZeFFiMFNFMDBWWDgtSGtEU3I5Y0hWN1BuaFA1TG5xMHlfSl9fUzNn?oc=5"
     }
    ],
    "published": "2026-07-10T12:00:00+00:00",
    "first_seen": "2026-07-10T21:15:53.877058+00:00",
-   "updated": "2026-11-23T00:45:54.985751+00:00"
+   "updated": "2026-11-25T12:39:25.604084+00:00"
   },
   {
    "id": "0741dc215b0c",
@@ -5760,11 +5764,15 @@
     {
      "name": "Front Office Sports",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0F6Z1JsM1RLMUR0VlhsNzZSbVprcVF0Zk92Vjg2dmRMZkJYTTBsTUVzWVBfQXdydThkZjIzV3NuLWtFb1VkSHdYT092cXIxMURBejNWdXFFUjZNTXpEX0lhLUlsMlNRdGJXbkFyWUpUME5mX3hTVHdFNmUzb1hNZTF1VzNaVUl0M3hRdVBqbU5IY2NTR0o4V2h4OF9taFhuTy15NkRGai1mOFdqU0ZOY1ln?oc=5"
+    },
+    {
+     "name": "Focus Gaming News",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DTUowWXkwQUIxQWhRdnNUQlNrUmdmUTI5eFV5MFJ1ek9QV21LRVdwYUdxdG54b0RyTW5tMWZ1WE80R1V4eVhCRHpQOFBuUmVMY3ZPSldFUjRNQzFWZ0NoNmVTOHZsdw?oc=5"
     }
    ],
    "published": "2026-07-08T02:48:49+00:00",
    "first_seen": "2026-07-08T21:20:26.856135+00:00",
-   "updated": "2026-11-23T21:14:00.247856+00:00"
+   "updated": "2026-11-25T12:39:25.604084+00:00"
   },
   {
    "id": "7272f4c3dd2f",
@@ -6426,11 +6434,15 @@
     {
      "name": "Gambling News",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOenA0WnktOEZqY2JYSFcwV01VZURhZUUzb3JCSnBrcWQ3aVhZeTZSaGoxWjRtc3ZMUm04b1lDUGs3bk5UM3pVZ3U0bVFxQ3BzYkVjd1NKZWxfc2phUlQ3YndIT3ZLY0dPbzRzdDdGS05HY0U4TkdwZ1FfTzk1SmRleUxaUDVvcjF6N0NIWEEwZGpZN1ZDOFNJRUp0aEdGMmQtRnlNTlJIWnBfV1lD?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXhjNVBtdk9fOFZkQVVQOVp6cUV0SkhnUFktekVoNi1RN3ZVcnEzNGVObEFKWnI1ZWtFWUJQWkNSdktwRGsyUGdoMFJjdUw0dEN2dW4yckRFemJVZzcyZ0xiUlBtRFVWT0J6Mm9qT3ZkeE9Wbjc2R0pyaXRINVBQUHpJeWpyWHBkR0xkbmV5ck50UldwdG0tSENXcTNXVjZaMTFGdFRHamlvU01JLWtxX1JzUGVvZFdYNUxnaHdSRQ?oc=5"
     }
    ],
    "published": "2026-07-07T13:30:59+00:00",
    "first_seen": "2026-07-11T03:35:02.416625+00:00",
-   "updated": "2026-11-16T20:19:34.377523+00:00"
+   "updated": "2026-11-25T12:39:25.604084+00:00"
   },
   {
    "id": "ed12e790933a",
